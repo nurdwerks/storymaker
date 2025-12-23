@@ -817,339 +817,664 @@ Angelica looked at the sealed door. The scratching sound was getting louder. The
 
 "Sector X," she said, her voice hard. "We go to Sector X. The bio-dome. It has its own life support. And it's a jungle. If they want to hunt us, let's make them hunt us in the mud."
 
+
+## Act II: Sector X
+
 ### Chapter 11: Into the Wild
 
-#### **Scene 1: The Hiding Spot**
+"Into the fire," Hatcher grunted as he forced the locking wheel of the bulkhead door to turn. The metal screamed in protest, a sound like a dying animal that echoed through the cramped service corridor. "Or the frying pan. I forget which one is worse. They both burn."
 
-**Action:**
-Ironwood's folly has consequences.
-The "Breachers" are cutting through the bulkheads.
-Angelica orders a retreat.
-ANGELICA: "We can't fight them in the corridor. We need cover."
-Hatcher leads them to **Sector X**.
+"They're both bad," Angelica said, checking the magazine of her pistol. She had six rounds left. "Just open it. We can debate metaphors when we aren't being hunted."
 
-#### **Scene 2: The Green Door**
+Behind them, the sound of the Breachers was getting louder. The rhythmic *thud-thud-thud* of heavy, metallic footsteps on the deck plates was a drumbeat of inevitable death. They had abandoned the bridge, fled through the maintenance shafts, crawling through grease and darkness, and now they were cornered at the entrance to Sector X.
 
-**Setting:**
-A massive bio-dome airlock.
-The sign reads: _HYDROPONICS / OXYGEN RECLAMATION._
-It hasn't been opened in 500 years.
-They crack the seal.
+Ironwood stood guard at the rear, his targeting eye scanning the darkness. He was covered in soot and oil, his greatcoat torn, revealing the armored chassis of his chest. But he looked energized. The war suited him. "They are cutting through the blast doors at Sector 4," he reported, his voice synthesized and calm. "We have maybe two minutes before they swarm this level. Their cutting lasers are military grade."
 
-#### **Scene 3: The Jungle**
+"Then push!" Angelica shouted at Hatcher.
 
-**Visual:**
-They step inside.
-It isn't a garden. It's a primeval forest.
-Ferns the size of buildings.
-Trees (Genetically modified Oaks) have shattered the glass ceiling and grown into the upper decks.
-Fog. Humidity. The smell of wet earth.
-It is a shock after the sterile metal of the ship.
+Hatcher groaned, his muscles straining. He was a big man, but he was old, and he was tired. The veins in his neck bulged. "It's... rusted... shut..."
 
-#### **Scene 4: The Threat**
+Ria shoved him aside. "Move, old man. You're blocking the leverage."
 
-**Quote:**
-The Breachers are behind them.
-Ironwood (who retreated with them) looks at the trees.
-IRONWOOD: "We should burn it down. Clear sightlines."
-HATCHER: "You burn this, you burn our air supply. Idiot."
-ANGELICA: **"Nature didn't wait for us. It evolved."**
+She grabbed the wheel with her metal hands. Her servos whined as she applied torque. There was a loud *CRACK*, and the wheel spun. The heavy door hissed, the seal breaking with a cloud of pressurized gas that smelled of ancient lubricants.
+
+"See?" Ria smirked, wiping a smudge of grease from her face, though her eyes were tight with fear. "Brute force works. You just have to apply enough of it."
+
+They spilled into the airlock. It was massive, designed to move heavy agricultural machinery. The sign above the inner door was faded, the paint peeling: **HYDROPONICS / OXYGEN RECLAMATION - SECTOR X.**
+
+"Sector X," Lisbet whispered, looking at the warning signs plastered over the control panel. "Bio-hazard. Quarantine. Do Not Enter. Why do we always go to the places with the 'Do Not Enter' signs? It's like we have a death wish."
+
+"Because the things chasing us can't read," Zephyr said, tapping the control panel with his cybernetic fingers. "Cycling the lock. Hold onto your butts."
+
+The outer door slammed shut, cutting off the sound of the Breachers. For a moment, there was silence. The airlock light cycled from red to amber. Then, the inner door began to open.
+
+It didn't slide. It groaned, the motors fighting against something on the other side. The gears ground against each other.
+
+"It's stuck," Zephyr said. "Something is blocking the track."
+
+"Open it!" Ironwood barked. "Or I will blow it open!"
+
+The door lurched open a few feet, then stopped with a metallic clang.
+
+A vine, thick as a man's arm, whipped through the gap. It was green, pulsing with purple veins. It lashed out, striking the floor with a crack like a whip. It recoiled, searching for something to grab.
+
+"What the hell is that?" Kaelen asked, stepping back, his hand hovering over his sword hilt.
+
+"Vegetation," Dr. Aris said, adjusting his glasses, fascinated. "Aggressive vegetation. Look at the motility. It's hunting."
+
+They squeezed through the gap, careful to avoid the thrashing vine, stepping into Sector X.
+
+It wasn't a room. It was a world.
+
+The bio-dome was enormous, stretching up for hundreds of feet. The ceiling was a geodesic dome of reinforced glass, though most of the panels were cracked or clouded with moss, filtering the starlight into a sickly green gloom.
+
+But it was the smell that hit them first. It didn't smell like the sterile ship. It smelled of wet earth, rotting leaves, and ozone. It smelled like a grave that had been turned into a garden. It was thick, heavy, and cloying.
+
+"It's a jungle," Angelica breathed.
+
+It was. Ferns the size of office buildings rose from the nutrient-rich mud. Trees—genetically modified oaks that had grown unchecked for five centuries—had shattered the upper gantries, their roots wrapping around pipes and conduits like boa constrictors. The air was thick with fog and humidity. It was hot, a stifling, wet heat that made sweat bead instantly on their skin.
+
+"This isn't right," Aris said, scanning a nearby plant with his datapad. "These growth rates... they're impossible. Even for five hundred years. This isn't natural evolution. This is accelerated. Look at the cellular density. These plants are harder than concrete."
+
+"It's a hiding spot," Hatcher said, looking around warily. "Lots of cover. And lots of places for things to hide. I don't like it. Too many shadows."
+
+A screech echoed through the trees—a sound that was part bird, part machine. It sent a shiver down Angelica's spine.
+
+"We are not alone in here," Kaelen said, drawing his sword fully. The blade glowed faintly in the gloom.
+
+"The Breachers are behind us," Ironwood said, looking back at the airlock door. Sparks were flying from the other side. They were cutting through. "We need to move. Into the trees. We lose them in the canopy."
+
+"We should burn it down," Ironwood added, looking at the dense foliage with disgust. "Clear sightlines. Create a kill box. Fire cleanses."
+
+"You burn this, you burn our air supply, idiot," Hatcher snapped. "This sector is the only reason we're not breathing recycled farts. The plants scrub the CO2. You torch this, we suffocate in an hour."
+
+"Nature didn't wait for us," Angelica said, touching a leaf that was sharp as a razor. It cut her finger. She watched a drop of blood well up. The plant seemed to shudder, sensing the fluid. "It evolved. It weaponized."
+
+"Move," she ordered. "Deeper in. If we can get to the upper gantries, we might be able to circle back to the engineering deck. Stay together. Don't touch anything unless you have to."
+
+They moved into the undergrowth. The mud sucked at their boots. The leaves rustled, whispering secrets to each other.
+
+Above them, something massive moved in the canopy, shaking the branches. Dust and spores rained down.
+
+"I hate nature," Zephyr muttered, slapping a mosquito the size of a coin on his neck. "Give me concrete any day. Concrete doesn't try to eat you."
 
 ### Chapter 12: The Jungle
 
-#### **Scene 1: The Gravity**
+The deeper they went, the stranger it got. The laws of physics seemed to be treated as suggestions rather than rules. The air grew thicker, harder to breathe, as if the oxygen content was too high, making their heads spin. The colors were too vibrant, the greens screaming against the grey metal. It was a sensory overload, a kaleidoscope of life that had gone mad in isolation.
 
-**Physics:**
-The Gravity Generator in this sector is damaged.
-It fluctuates.
-One minute you are heavy.
-The next, you are floating.
-Giant islands of moss and root systems float in Zero-G.
+The gravity in the rest of the ship was generated by plating in the floor. But in Sector X, the generator was damaged. It flickered.
 
-#### **Scene 2: The Movement**
+One moment, Angelica felt heavy, her boots sinking inches into the mud, her backpack weighing a ton. Her knees buckled under the sudden increase in G-force. Her heart labored to pump blood to her brain. The next, her stomach lurched, and she was floating.
 
-**Choreography:**
-They have to jump.
-Parkour across floating islands.
-Ria (heavy metal bones) struggles. Zephyr (lightweight) excels.
-ZEPHYR: "Finally, being skinny is a tactical advantage."
+"Zero G!" Aris shouted as he drifted upward, flailing his arms. "Grab something! Don't drift! If you drift into the canopy, the spore pods will get you!"
 
-#### **Scene 3: The Time**
+Giant islands of moss and root systems floated in the air, suspended in pockets of null-gravity. They were like green asteroids in a microcosm universe. Water from a burst pipe formed a shimmering sphere of liquid that hung in the air like a moon, refracting the green light into rainbows. Small fish, evolved from the hydroponic stock, swam through the air in bubbles of water.
 
-**Weird Science:**
-Aris notices his watch.
-The seconds are ticking too fast.
-ARIS: "The gravity leak is affecting local spacetime. A Relativity distortion."
-Time is moving 1.5x faster in the jungle.
-If they stay too long, they age faster than the ship.
+"Adapt!" Angelica ordered. She grabbed a thick vine. It felt warm, pulsing under her hand like an artery. It recoiled slightly at her touch, sensing her heat.
 
-#### **Scene 4: The Warning**
+"This is disorienting," Ria grunted. Her heavy metal body made the gravity shifts worse. When it was heavy, she was an anchor, sinking deep into the loam. When it was light, her momentum made her a projectile. She crashed into a tree trunk, denting the bark. "I can't fight like this. My targeting computer is going haywire. I'm calibrated for 1G. My gyroscope is spinning out."
 
-**Quote:**
-Aris taps his chrono.
-ARIS: **"We are losing minutes every second. Watch your step. And your watch."**
+"You have to adapt," Ironwood said, using his magnetic boots to walk up the side of a floating slab of concrete. He looked like a spider. "Use the terrain. The enemy will struggle too. They are machines. They like predictable variables. This is chaos. Chaos is our ally."
+
+As if to prove his point, a massive, carnivorous plant—a pitcher plant the size of a bathtub—lunged at Ironwood from a floating island. Its maw dripped with acidic nectar.
+
+Ironwood didn't flinch. He raised his mechanical arm and fired a grappling hook into a branch above. He swung out of the way just as the plant snapped its jaws shut. He landed on the branch, inverted, and fired a single shot into the plant's stem. It shrieked—a high, keening sound—and withered.
+
+"See?" Ironwood said, reloading one-handed. "Biologicals are predictable. They want to eat. Don't be food."
+
+They had to move through a three-dimensional maze. They jumped from floating island to floating island, a game of parkour where a mistake meant drifting off into the ceiling fog or plummeting into the dark undergrowth below where things slithered in the mud.
+
+Zephyr was in his element. He was light, agile. He used his cybernetic arm to grapple and swing. He moved like a monkey, laughing as he flipped over a root.
+
+"Finally," he crowed, landing on a branch. "Being skinny is a tactical advantage. Keep up, heavyweights! I'm going to find the exit before you even get your boots out of the mud."
+
+"Shut up, rat," Ria growled, struggling to pull herself up. "Or I'll use you as a grapple."
+
+Kaelen moved with a ghostly grace, using small bursts of telekinesis to correct his trajectory. He landed beside Angelica on a large, floating platform of moss. He scanned the perimeter, his eyes dark.
+
+"Something is watching us," he whispered. "Not the plants. Something else."
+
+"The Breachers?" Angelica asked.
+
+"No," Kaelen said. "Something... older. I can feel a gaze. It feels like... judgement."
+
+"Are you alright?" he asked, steadying her as the gravity shifted again, pulling them sideways.
+
+"I'm fine," Angelica lied. She was nauseous. The shifting gravity was playing havoc with her inner ear. The world was spinning. She felt like she was back in the Undercity, dizzy from hunger. "We need to keep moving."
+
+Dr. Aris floated past them, staring at his watch. He looked panicked. He grabbed a branch to stop his drift.
+
+"Stop!" he shouted. "Everyone stop!"
+
+"We can't stop," Ironwood said. "The enemy is tracking us. I can hear them cutting through the airlock. They are slow, but they are relentless."
+
+"Look at your chronos!" Aris demanded.
+
+Angelica looked at her wrist. The seconds were ticking... fast. Too fast. *Ticktickticktick.* It sounded like a bomb counting down. The digital display was blurring.
+
+"The gravity leak," Aris said, his face pale. "It's affecting local spacetime. A Relativity distortion. General Relativity states that time moves slower in higher gravity. But here... the fluctuations are creating pockets of accelerated time. We are in a time dilation field. We are in a bubble."
+
+"English, Doc," Hatcher said, holding onto a branch. He lit a match, and the flame burned through the wood instantly, turning to ash in a second. "Whoa."
+
+"Time is moving faster in this sector," Aris explained. "For every minute we spend here, maybe ten minutes pass outside. Or an hour. We are desynchronizing from the rest of the ship."
+
+"So if we stay here too long..." Angelica started.
+
+"We age," Aris said. "We come out old. Or the Breachers catch up to us instantly because they are moving in 'slow time' relative to us. We are burning our lives away with every step. We are losing the war by simply standing here."
+
+"Or," Zephyr said, looking at his arm, "we starve to death in an afternoon. I'm already hungry."
+
+"We are losing minutes every second," Aris said, tapping his watch. "We need to get out of the distortion field. We need to get to the center. The gravity seems stable near the singularity."
+
+"Singularity?" Ironwood asked.
+
+"There's a black hole in the middle of this garden," Aris said, pointing to the center of the dome where the light bent strangely. "A micro-singularity. It's powering the growth. And it's leaking. That's the source of the distortion."
+
+"Great," Zephyr said. "A black hole. Why is it always a black hole? Can't we ever find a fountain of chocolate? Or a mountain of diamonds?"
+
+"Move!" Angelica ordered. "Double time! Watch your step. And watch your watch. If we lose an hour here, we lose days out there."
+
+They scrambled across the floating islands, racing against time itself.
 
 ### Chapter 13: The Doppelgangers
 
-#### **Scene 1: The Echo**
+The fog got thicker as they approached the center. It swirled in unnatural patterns, responding to the gravity waves. It tasted metallic, like blood in the mouth. The humidity was suffocating, plastering their clothes to their skin.
 
-**Suspense:**
-Zephyr is scouting ahead.
-He sees movement in the fog.
-A figure. Wearing his jacket.
-ZEPHYR: "Hey! Who's there?"
+Zephyr was scouting ahead. He felt good. The low gravity made him feel like a superhero. He leaped across a ten-foot gap, landing silently on a mossy branch.
 
-#### **Scene 2: The Face**
+He saw movement in the fog.
 
-**Surprise:**
-The figure turns.
-It is Zephyr.
-But older. Grey hair. And he has _two organic arms_.
-(A possible future where he gets his arm back?)
+A figure. Humanoid. Wearing a long coat.
 
-#### **Scene 3: The Fight**
+"Hatcher?" Zephyr whispered. "Is that you? Did you flank me?"
 
-**Action:**
-The Echo attacks. It thinks _Zephyr_ is the imposter.
-They fight on a floating root.
-Zephyr uses his metal arm. The Echo uses a knife.
-Zephyr wins. He knocks the Echo into the mist.
-It dissolves into light particles.
+The figure didn't answer. It stood with its back to him, looking at something in its hands.
 
-#### **Scene 4: The Realization**
+Zephyr crept closer. He saw the coat. It was leather. It was *his* coat. But it was tattered, worn, covered in patches.
 
-**Lore:**
-Aris explains.
-"Time Echoes. Potential futures bleeding into the present due to the gravity distortion."
-Zephyr rubs his jaw.
-ZEPHYR: **"I just kicked my own ass. I fight dirty."**
+"Hey!" Zephyr said, reaching for his pistol. "Who's there?"
+
+The figure turned.
+
+It was Zephyr.
+
+But it wasn't the Zephyr of today. This Zephyr was older. His hair was grey. His face was lined with deep wrinkles. His eyes were milky with cataracts. And he had *two organic arms*.
+
+The cybernetic arm was gone, replaced by flesh. The hand was scarred, the fingers crooked.
+
+"You..." the Old Zephyr rasped, his voice sounding like dry leaves. "You're late."
+
+"What the hell?" Zephyr stepped back. "Is this a hologram? A hallucination?"
+
+"It's a regret," the Old Zephyr said. He raised a pistol. It was an antique slug-thrower. "I waited for you. I waited for the money. But it never came. We spent it all on medicine. For the rot."
+
+He fired.
+
+The bullet whizzed past Zephyr's ear.
+
+"Whoa!" Zephyr dove behind a root. "Friendly fire! Or... self fire?"
+
+The Old Zephyr attacked. He moved slowly, stiff with age, but he knew exactly where Zephyr would go. Because he *was* him. He anticipated every dodge.
+
+They fought on the floating root. It was a surreal mirror match. Zephyr used his metal arm to deflect a punch. The Old Zephyr used a knife—a knife Zephyr remembered losing years ago in a poker game.
+
+"You never found the gold!" Old Zephyr screamed. "You died poor! You died alone in a gutter! Nobody came to the funeral! They melted your tooth down for scrap!"
+
+"I'm not dead yet!" Zephyr shouted, kicking his older self in the chest.
+
+The Old Zephyr stumbled back. He looked at Zephyr with sad, tired eyes.
+
+"You will be," he whispered. "We all are."
+
+Zephyr punched him. His metal fist connected with the Old Zephyr's jaw.
+
+There was no crunch of bone. The Old Zephyr shattered into light particles, dissolving into the mist like a phantom.
+
+Zephyr stood there, breathing hard. He touched his own jaw. He felt the phantom pain of the impact.
+
+"What was that?"
+
+Aris floated down beside him. "Time Echoes," the doctor said, fascinated. "Potential futures bleeding into the present due to the gravity distortion. You just fought a probability wave. A Schrodinger's Cat that escaped the box."
+
+"I fought my future," Zephyr said, rubbing his metal arm. "He had a real arm, Doc. He had his arm back."
+
+"A possible future," Aris corrected. "One where you regenerated. But you seemed... unhappy."
+
+"He said I died poor," Zephyr muttered. "I guess money isn't everything."
+
+"Or maybe," Aris said, "poverty is the least of our worries."
+
+Other echoes appeared in the mist.
+
+Kaelen stopped dead. In front of him stood a man and a woman in Zenith finery. They were weeping. His parents.
+
+"You failed the House," his father whispered. "You let the name die. You let the bloodline end."
+
+Kaelen stared at them. He wanted to reach out. He wanted to apologize. But he remembered the lessons of the Arcanum. *Emotion is a weakness.*
+
+"The House is dead," Kaelen said coldly. "And I am free. I am not your monument."
+
+He walked through them. They dissolved into smoke.
+
+Ria saw an echo of herself. But this Ria wasn't made of metal. She was flesh. She was small, weak, and starving. She was holding a dead child. Her brother.
+
+"You couldn't save him," the echo wept. "You were too weak. You ate his share."
+
+Ria roared, swinging her metal fist. She smashed the echo, shattering the illusion. "I am strong now!" she screamed. "I am iron! I will never starve again!"
+
+Angelica saw something too. She saw a boy sitting on a rock, playing with a toy drone. **Leo**.
+
+He looked up at her. He wasn't dead. He was healthy. He was smiling. He was wearing a Zenith officer's uniform.
+
+"Angie," he said. "Come play. We won the war."
+
+Angelica stopped. Her heart broke. She took a step toward him.
+
+"Leo?"
+
+"It's safe here," Leo said. "Mom and Dad are waiting."
+
+"Don't go," Kaelen said, grabbing her arm. "It's not him."
+
+"But he's right there," Angelica whispered. tears streaming down her face. "He looks so real."
+
+"It's a ghost," Kaelen said gentle. "Don't let the ghost eat you. If you go to him, you stay here forever."
+
+Angelica closed her eyes. She remembered Leo's cold body on the floor of the palace. She remembered the smell of blood.
+
+"You're right," she whispered. "My Leo is dead. This is just a shadow."
+
+She opened her eyes. "Goodbye, Leo."
+
+When she spoke, the boy flickered. He smiled, a sad, knowing smile, and then he was gone.
+
+Hatcher stopped. He was looking at a woman in a sundress. She was laughing.
+
+"Elena," Hatcher whispered. He reached for his saxophone. He wanted to play for her.
+
+"Don't do it, Hatch," Zephyr warned. "She isn't real."
+
+Hatcher looked at Zephyr. His eyes were haunted. "I know. But she looks happy. She died screaming, Zephyr. Let me see her laugh."
+
+He watched her for a moment longer, then turned away. "Goodbye, El."
+
+"Don't look at them," Angelica ordered, her voice cutting through the fog. "They aren't real. They are ghosts of what might happen. Focus on what *is* happening."
+
+"I just kicked my own ass," Zephyr said, shaking his head. "I fight dirty. I need to remember that."
+
+"We all fight dirty," Hatcher said, lighting a match. The flame burned blue in the strange atmosphere. "That's how we survived."
 
 ### Chapter 14: The Gravity Well
 
-#### **Scene 1: The Center**
+They broke through the tree line into the center of the bio-dome.
 
-**Setting:** The Heart of the Bio-Dome.
-A clearing.
-In the center, hovering above a containment unit, is a **Singularity**.
-A micro-black hole. No bigger than a marble.
-But the gravity pull is immense.
-It bends the light around it.
+It was a clearing, but the ground wasn't flat. It was a bowl, depressed by immense weight. The trees at the edge of the clearing leaned inward, their trunks twisted and gnarled as if they were trying to pull themselves out of the soil.
 
-#### **Scene 2: The Swirl**
+In the center, hovering above a containment unit that was sparking and smoking, was a **Singularity**.
 
-**Visual:**
-The jungle grows _towards_ it.
-Trees are bent at 90-degree angles.
-Water from a burst pipe spirals around it like an accretion disk.
+It was a micro-black hole, no bigger than a marble. It was a perfect sphere of absolute nothingness. It drank the light. Around it, an accretion disk of dust and water swirled, glowing with Cherenkov radiation—a ghostly blue light that cast long, unnatural shadows. The light didn't just bend; it spiraled, creating a visual vortex that made looking at it feel like falling.
 
-#### **Scene 3: The Pull**
+The gravity pull here was immense. It bent the light, making the trees on the other side of the clearing look like they were made of rubber. The horizon curved upward, enclosing them in a bowl of distorted reality.
 
-**Hypnosis:**
-It is beautiful.
-Angelica feels drawn to it. Not physically, but mentally.
-It whispers. (The void calls to the void in her).
-KAELEN: "Don't look at it."
+"The Gravity Well," Aris whispered, his eyes wide. He pulled out his datapad, his fingers trembling as he initiated a scan. "Look at the event horizon. It's... it's singing. It's emitting gravitational waves in the key of F-sharp."
 
-#### **Scene 4: The Eye**
+The jungle grew *towards* it. Trees were bent at 90-degree angles, their branches reaching for the void like worshippers. Water from a burst pipe spiraled around it, defying physics, forming a ring of liquid that orbited the nothingness.
 
-**Quote:**
-Angelica blinks, tearing her eyes away.
-ANGELICA: **"It looks like the eye of God. And it's blinking at me."**
+It was beautiful. Terrifyingly beautiful. It was the eye of a storm that could swallow a star.
+
+Angelica felt drawn to it. Not just physically—though she could feel the tug on her bones, a heaviness in her chest—but mentally. It whispered to her. It was a silence deeper than the ship, deeper than the void outside. It was the end of all things. It promised an end to the struggle.
+
+*Come,* it seemed to say. *Rest. There is no pain here. Only gravity. Only the end.*
+
+She took a step forward. Her feet felt heavy, as if she were wearing lead boots.
+
+"Don't look at it," Kaelen said, grabbing her shoulder. His grip was painful. "It's hypnotic. It wants you to walk into it."
+
+Angelica blinked, tearing her eyes away. She gasped, as if surfacing from deep water. "It looks like the eye of God," she whispered. "And it's blinking at me."
+
+"It's a rupture in spacetime," Aris said, walking towards it. He held his datapad out. "The data... it's incredible. The event horizon is stable. It's feeding on the Hawking radiation of the surrounding matter. It's a localized infinite density point. It violates every law of thermodynamics."
+
+"Doc, stay back!" Hatcher yelled. "That thing eats light. It'll eat you. It's not a pet."
+
+Hatcher struck a match. The flame didn't go up. It went *sideways*, pulled toward the singularity. The smoke spiraled into the void, vanishing instantly.
+
+Kaelen tried to use **Umbra**. He cut his hand, summoning the shadow. But the shadow didn't form a wyvern. It stretched out, thin and terrified, pulled toward the black hole. The darkness itself was being consumed.
+
+"My shadows," Kaelen whispered, horrified. "They're being eaten. Even the darkness can't survive this."
+
+"It's the answer," Aris murmured. "Don't you see? The signal. The map. It's all about gravity. This is the engine. This is how they travel. They don't move through space. They fold space around them. This little marble is the key to the universe. It's the period at the end of the sentence."
+
+He was mesmerized. The obsession that drove him—the need to know—was overpowering his survival instinct. He was a moth, and this was the ultimate flame. He saw the equations he had spent his life searching for, written in the curvature of the light.
+
+"Aris!" Angelica shouted. "We need to go! The gravity is increasing!"
+
+But he didn't hear her. He was listening to the music of the spheres. He was calculating the variables of his own demise.
+
+"Tactical assessment," Ironwood barked, trying to impose order on the chaos. He raised his weapon, aiming at the containment unit. "Can we shut it down?"
+
+"Shut it down?" Aris laughed, a high, manic sound. "You don't shut down a black hole, General. You survive it. Or you don't. It is a force of nature. It is God's eraser. If you shoot it, you'll destabilize the magnetic bottle. We'll be crushed in a nanosecond."
+
+"Then we leave," Ironwood said. "We find another way."
+
+"There is no other way," Aris said. "Look."
+
+He pointed to the far side of the clearing. The airlock there was crushed, imploded by the gravity. The metal was twisted like taffy. The only way out was *through* the distortion, skimming the edge of the well.
+
+"We're trapped," Zephyr whispered. He looked at the gold bar in his pocket. He wondered how much a black hole was worth. Trillions? Or nothing? "If we walk along the edge, the centrifugal force might throw us out. Or tear us apart."
+
+"Can we blow it up?" Ria asked, charging her arm cannon.
+
+"If you fire energy into that," Aris warned, "you will feed it. It will grow. And it will eat the ship. It eats everything."
+
+They were stalemated by physics. And physics was winning.
 
 ### Chapter 15: Aris's Obsession
 
-#### **Scene 1: The Data**
+**Dr. Aris** was a man of science. He believed that the universe was a puzzle to be solved. He believed that there was no mystery that couldn't be broken down into an equation. He had spent his life looking through telescopes, studying the ghosts of dead stars. He had spent his life measuring the distance between things—between stars, between atoms, between people.
 
-**Character Arc:**
-**Dr. Aris** is mesmerized.
-His **Nautilus** construct is spinning wildly, recording exabytes of data.
-ARIS: "Infinite density. Zero volume. It's the perfect storage device."
+But this... this was the ultimate variable. This was the source code. This was the point where the math stopped describing reality and *became* reality.
 
-#### **Scene 2: The Desire**
+His **Nautilus** construct—a geometric shape of shifting brass and light—spun wildly around his head, recording exabytes of data every second. It was overheating, glowing red, but Aris didn't care. He was feeding it everything.
 
-**Madness:**
-He isn't scared. He is in love.
-He steps closer. The gravity crushes the grass under his boots.
-ANGELICA: "Aris! Get back!"
-ARIS: "I can see the variables, Captain. The math... it solves itself."
+"Analysis," Aris whispered to the Nautilus. "Run predictive models. Event horizon stability."
 
-#### **Scene 3: The Step**
+The construct chirped, a panicked sound. *Probability of survival: Zero. Data density: Infinite.*
 
-**Action:**
-He crosses the safety line.
-His nose starts to bleed (G-Force).
-He doesn't care.
-He wants to touch the infinite.
+"Infinite density," Aris muttered, his eyes reflecting the black sphere. "Zero volume. It's the perfect storage device. It's the library of the universe. I can see the history of the galaxy in the accretion disk. I can see the future in the curve of the light. It's all there. Every moment that ever was."
 
-#### **Scene 4: The Variable**
+He stepped closer. The gravity crushed the grass under his boots flat. He felt his blood getting heavy in his veins. His heart was working overtime to pump blood to his brain. His vision was tunneling, the edges turning grey.
 
-**Quote:**
-He looks back at them. He smiles—a genuine smile, rare for him.
-ARIS: **"The ultimate variable is zero. Goodbye, Captain."**
+"Aris! Get back!" Angelica screamed, struggling against the pull. She tried to run to him, but it was like running in waist-deep mud. Every step was a battle. She could feel her bones creaking.
+
+"I can see the variables, Captain," Aris said, turning to look at her. His nose was bleeding. The G-force was rupturing his capillaries. "The math... it solves itself. It's elegant. It's simple. It's zero. It is the absence that defines the presence."
+
+"It's death!" Ironwood roared. "Grab him!"
+
+Ria lunged, her metal servos whining. She grabbed Aris's coat.
+
+"Let me go!" Aris shouted, finding a strength he shouldn't possess. "I have to know what's on the other side! I have to see! I have spent my whole life looking at the shadows on the cave wall! Let me see the fire!"
+
+He shrugged out of his coat, leaving Ria holding the empty fabric. He stumbled forward, crossing the safety line marked on the floor in faded yellow paint.
+
+He fell to his knees. The gravity was too strong to stand. He crawled. He clawed at the mud.
+
+He remembered being a boy in the Spire, looking at the stars through a cheap plastic telescope. He remembered asking his father what was out there. His father had said, "Nothing. Just cold."
+
+"He was wrong," Aris whispered. "It's not cold. It's full. It's so full."
+
+He remembered his time in the Arcanum, arguing with Vane. Vane wanted to change humanity. Aris just wanted to understand the universe.
+
+"You look at the dirt, Vane," Aris had said. "I look at the sky."
+
+"The dirt is where we live," Vane had replied. "The sky is just a ceiling."
+
+Now, Aris was breaking through the ceiling. He was going to see what was in the attic.
+
+He didn't care about the pain. He didn't care about the ship, or the aliens, or the war. He only cared about the Answer.
+
+"The ultimate variable is zero," he whispered, smiling. A genuine smile, rare for him. He reached out his hand to touch the void. "Goodbye, Captain."
+
+Lisbet tried to hack the containment field, her fingers bleeding as she typed on her wrist pad. "I can't stabilize it! The logic gates are collapsing! It's rewriting my code! It's speaking in tongues! It's screaming at me in binary!"
+
+"Let him go," Hatcher said, putting a hand on Angelica's shoulder. "He's gone. He's chasing the dragon."
+
+Vane's voice crackled over the comms, mocking. "Let the boy play, Angelica. Evolution requires curiosity. Even fatal curiosity. He is expanding the data set. Let us see what happens when a mind meets the infinite."
+
+"Shut up, Vane!" Angelica screamed. But she knew he was right. Aris had made his choice. He was trading his life for a moment of understanding. It was a trade any scientist would envy, and fear.
+
+Aris reached the point of no return. The gravity was now stronger than the electromagnetic force holding his atoms together. He was beginning to unspool.
+
+"I see it," he whispered. "I see everything. It's not black. It's... white."
 
 ### Chapter 16: The Gravity Trap
 
-#### **Scene 1: The Expansion**
+Aris's proximity destabilized the field. The containment unit sparked violently, showers of blue sparks raining down like fireworks in slow motion. The delicate balance of magnetic fields holding the singularity in place collapsed.
 
-**Action:**
-Aris's proximity destabilizes the field.
-The Singularity pulses. _WUB._
-The gravity well expands.
-It hits the group like a physical hammer.
+The Singularity pulsed. *WUB.* It was a sound felt in the bone marrow rather than heard. It was the sound of the universe inhaling.
 
-#### **Scene 2: The Pin**
+A wave of gravity expanded outward, hitting the group like a physical hammer. It wasn't wind; it was space itself compressing, pushing them down.
 
-**Physicality:**
-Everyone hits the floor.
-5Gs of force.
-Bone-breaking pressure.
-Angelica tries to lift her head. It feels like 50 pounds.
-Ria (heavy bones) is pinned completely. She is sinking into the mud.
+Everyone hit the floor.
 
-#### **Scene 3: The Struggle**
+It was 5Gs of force. Instantly.
 
-**Tension:**
-The black hole is pulling them in. Slowly. dragging them across the ground.
-Kaelen tries to use **Telekinesis** to anchor himself.
-His nose bleeds. The force is too strong.
-KAELEN: "I... can't... hold... it..."
+Angelica felt her ribs creak. Her head hit the mud with a wet thud. She tried to lift it, but it felt like it weighed fifty pounds. Her vision grayed out. The air was squeezed out of her lungs. She gasped, but she couldn't inhale. It was like having an elephant sit on her chest. She could feel the capillaries in her eyes bursting.
 
-#### **Scene 4: The Order**
+Ria screamed. Her heavy metal bones, usually an advantage, were now a curse. She was pinned completely, sinking into the soft mud. The weight of her own skeleton was crushing her organic organs. Her metal plating groaned under the stress, rivets popping and shooting off like bullets.
 
-**Quote:**
-Angelica sees the airlock 50 meters away.
-ANGELICA: **"Crawl! If you can't walk, crawl! Get up or get flat!"**
+"I... can't... breathe..." she gasped, her voice tinny and distorted. "My lungs... are crushing... my spine..."
+
+Ironwood was on his hands and knees, his mechanical hydraulics screaming as they fought the pressure. "Crawl!" he bellowed. "Back! Get back!" His mechanical leg sparked and seized, locking in place. He dragged it like a dead weight. He remembered the mine collapse in Sector 11. He remembered the weight of the rock. This was worse. This was the weight of a star.
+
+"I will not die on my knees!" Ironwood roared, forcing himself forward by sheer will. He dug his fingers into the soil, pulling himself inch by inch.
+
+But the black hole was pulling them in. Slowly. Dragging them across the ground. The mud was sliding toward the center, taking them with it. It was a slow-motion landslide into oblivion. The grass was flattened, the water from the puddles streaming toward the center in unnatural rivulets.
+
+Kaelen tried to use **Telekinesis** to anchor himself. He plunged his knife into a root and held on with both hands. His nose bled freely, the blood dripping *up* into his eyes as the gravity warped direction.
+
+"I... can't... hold... it..." Kaelen groaned. The root was tearing, fibers snapping one by one. "The shadow... it's too heavy. Umbra is pinned!"
+
+He tried to summon a shadow tendril to grab Angelica, but the shadow was sucked along the floor, stretched thin like taffy, and consumed by the void.
+
+Angelica saw the airlock door. It was fifty meters away. It might as well have been fifty miles. She couldn't move. She was an insect pinned to a board. She looked at her hand. It was pressed into the mud, the veins standing out.
+
+She looked at Aris. He was frozen, pinned right at the edge of the event horizon. He wasn't moving. He was suspended in time. He looked like a statue of a martyr, his hand outstretched toward his god.
+
+"Crawl!" Angelica ordered, her voice a croak. She forced herself to lift her chin. "If you can't walk, crawl! Get up or get flat! We have to leave him! He's gone!"
+
+It was the hardest order she had ever given. Leaving a man behind was a violation of the spacer's code. But physics didn't negotiate. And the Singularity was hungry. It was pulling them in, inch by inch. The mud was flowing like a river of chocolate, carrying them to the drain.
+
+"I'm slipping!" Lisbet cried, her small hands unable to find purchase in the slick mud. She was sliding feet first toward the abyss.
+
+Zephyr, who was slightly ahead, grabbed her ankle with his metal hand. He dug his heels in. "I got you, Sparky! I got you!"
+
+But he was sliding too. The added weight was dragging them both down.
+
+"Let me go!" Lisbet screamed. "Save yourself!"
+
+"Shut up!" Zephyr grunted. "I don't leave money on the table, and you owe me twenty credits!"
 
 ### Chapter 17: Zephyr's Choice
 
-#### **Scene 1: The Weight**
+Zephyr was crawling. He was terrified. He was sweating.
 
-**Dilemma:**
-Zephyr is crawling.
-He is terrified.
-He is also carrying a backpack full of gold bars (from Chapter 6).
-The weight is multiplied by 5. The pack weighs 300 pounds.
-He is anchored. He can't move.
+And he was heavy.
 
-#### **Scene 2: The Friend**
+He was carrying a backpack full of gold bars he had scavenged from the Treasury in Chapter 6. He hadn't been able to let it go. It was his retirement. It was his freedom. It was the only thing that made sense in a universe that wanted to kill him. It was his insurance policy against a cruel world.
 
-**Character Moment:**
-He looks to his left.
-**Lisbet** is pinned under a fallen branch.
-She is crying out. "Zephyr! Help me!"
-He looks at the door. He looks at Lisbet. He looks at the gold.
+But now, in 5G gravity, the pack weighed 300 pounds.
 
-#### **Scene 3: The Math**
+It was an anchor. It was dragging him down the slope, toward the black hole. He dug his cybernetic fingers into the mud, but the servos were whining, overheating. Sparks flew from his wrist joint. The warning light on his arm blinked red: **MOTOR OVERLOAD. CRITICAL FAILURE IMMINENT.**
 
-**Internal Monologue:**
-He can't save the gold _and_ Lisbet.
-He might not even be able to save himself with the gold.
-It's his retirement. His kingdom.
-"Damn it."
+"No, no, no," Zephyr whimpered, watching the mud slide past him. "Not like this. I'm not dying rich. I'm supposed to die old and fat on a beach with a drink in my hand."
 
-#### **Scene 4: The Drop**
+He looked to his left.
 
-**Redemption:**
-He unbuckles the pack.
-He shoves it away.
-It slides into the singularity. Billions of credits, gone in a blink.
-He crawls to Lisbet. He lifts the branch (easier without the pack).
-**Quote:**
-He drags her free.
-ZEPHYR: **"Gold is heavy. You, surprisingly, are light. Don't make me regret this."**
+**Lisbet** was pinned under a fallen branch. She was small, frail. The gravity was crushing her. She was crying out, her voice thin and high. Her eyes were wide with terror.
+
+"Zephyr! Help me! I can't move! My legs!"
+
+Zephyr looked at the door. He looked at Lisbet. He looked at the gold.
+
+He hallucinated for a moment. He saw Baron Gilded standing over him, laughing. "You always were a rat, Zephyr. Rats die in traps. You thought you could buy your way out? The universe doesn't take credit."
+
+He did the math. He was always good at math. He calculated the weight, the drag coefficient, the distance.
+
+He couldn't save the gold *and* Lisbet. He might not even be able to save himself with the gold.
+
+It was billions of credits. It was a planet of his own. It was never having to say "Sir" again. It was safety. It was the dream he had whispered to himself in the orphanages of the Mid-Levels. It was the only thing that proved he was worth something.
+
+"Damn it," Zephyr cursed. "Damn it all to hell. Why do I have a conscience now? I hate character growth."
+
+He remembered the heist in Sector 7. He had left a man behind then. A kid named Rook. Rook had slowed him down. Zephyr had taken the money and run. He still heard Rook's scream in his nightmares.
+
+"Not this time," Zephyr growled. "Not today."
+
+He unbuckled the pack.
+
+He shoved it away.
+
+It slid down the mud slope, picking up speed. It slid past Aris and vanished into the singularity.
+
+Billions of credits, gone in a blink. Swallowed by the void. The GDP of a small nation, erased from existence. He watched his future disappear. He watched the gold bars glimmer one last time before being stretched into wire.
+
+Zephyr felt lighter instantly. He crawled to Lisbet. He put his shoulder under the branch.
+
+"Up!" he grunted. "On three! One! Two! Three!"
+
+He lifted. His cybernetic arm whined, the servos overheating. He lifted the branch enough for Lisbet to scramble free.
+
+He grabbed her collar and dragged her.
+
+"Gold is heavy," Zephyr panted, pulling her through the mud. "You, surprisingly, are light. Don't make me regret this, Sparky. That was my island. That was my yacht. That was my harem."
+
+"I'll buy you a drink," Lisbet wept, clinging to him.
+
+"You're buying me a brewery," Zephyr promised. "And a very nice hat. And maybe a pony. A gold pony."
+
+They crawled together, inch by inch, fighting the pull of the void. They were leaving the richest man in the universe behind in the mud.
 
 ### Chapter 18: Aris's End
 
-#### **Scene 1: The Refusal**
+They reached the edge of the zone where the gravity dropped to a manageable 2Gs. They could stand, barely. Their muscles screamed in protest. Their hearts pounded like jackhammers.
 
-**Tragedy:**
-They reach the edge of the zone (lower gravity).
-They look back.
-Aris is standing at the Event Horizon.
-ANGELICA: "Aris! Run!"
+They looked back.
 
-#### **Scene 2: The Choice**
+Aris was still there. He was standing now, forced upright by the tidal forces stretching his body. He looked like an El Greco painting, elongated and surreal. His lab coat was torn, flapping in the gravitational wind.
 
-**Motivation:**
-Aris turns. His eyes are glowing (reflection of the void).
-ARIS: "I can't. I have to know what's on the other side."
-He believes he can ascend through data.
+"Aris!" Angelica screamed. "Run! You can still make it! We can throw you a line!"
 
-#### **Scene 3: The Event Horizon**
+Aris turned his head. His movements were slow, time-dilated. To him, they were moving in fast-forward. He saw them escaping. He saw them living. He smiled. It was a peaceful smile.
 
-**Visual:**
-He reaches out and touches the black sphere.
-He doesn't burn.
-He **Spaghettifies**.
-His body stretches into infinite thin strands of light.
-He becomes information.
+His eyes were glowing. Not with fear, but with revelation. He was seeing the face of God. He was seeing the code of the universe. He saw his childhood, his graduation, his first discovery. He saw the birth of stars and the death of galaxies.
 
-#### **Scene 4: The Legacy**
+He heard the music. It was a symphony of gravitational waves, a hum that vibrated through every atom of his being. It was the song of creation.
 
-**Quote:**
-Before he vanishes, he throws his **Datapad** (The Nautilus Core) clear of the well.
-It lands at Angelica's feet.
-ARIS (Over comms, distorted): **"I see the variables. They are beautiful."**
+"I can't," he said, his voice coming over the comms distorted and deep, slowed down by the gravity well. "I have to know. The data... it's beautiful. It's full of stars."
+
+He turned back to the void.
+
+He reached out and touched the black sphere.
+
+He didn't burn.
+
+He **Spaghettified**.
+
+It was a horrific, fascinating sight. His body stretched. His legs, his torso, his neck—they elongated into infinite, thin strands of light. He unraveled like a spool of thread. He became a string of DNA being read by the universe. He was no longer biology; he was geometry. He was a line of code entering the compiler.
+
+He became information. He became a stream of particles entering the event horizon.
+
+Before he vanished completely, he threw something back.
+
+His **Datapad**. The core of his Nautilus construct.
+
+It flew out of the gravity well, skipping across the mud like a stone on water. It landed at Angelica's feet.
+
+"I see the variables," Aris's voice whispered one last time, echoing from everywhere and nowhere. "They are beautiful. The universe... it's a song. And we are the notes."
+
 Static.
+
+He was gone. Consumed by his own curiosity. He had become the answer he sought.
+
+"He's dead," Kaelen said, his voice flat. He sheathed his knife.
+
+"He's not dead," Angelica said, picking up the datapad. It was hot. "He's just... archived. He uploaded himself. He's the ghost in the machine now."
+
+She looked at the black hole. It pulsed, satisfied. It had eaten a mind.
 
 ### Chapter 19: The Collapse
 
-#### **Scene 1: The Implosion**
+Aris's mass—and the mass of the gold Zephyr had thrown in—tipped the scale.
 
-**Physics:**
-Aris's mass (and the gold) tips the Hawking Radiation scale.
-The singularity chokes.
-It turns from Black to White.
-It is about to explode.
+The singularity choked.
 
-#### **Scene 2: The Shockwave**
+It wasn't designed to eat that much matter at once. The containment field failed completely. The delicate balance of forces holding the micro-black hole in check evaporated. The event horizon flickered like a dying lightbulb.
 
-**Action:**
-HATCHER: "Cover!"
-_BOOM._
-A shockwave of reverse-gravity hits the dome.
-Trees are ripped out of the ground.
-The glass ceiling shatters.
+The black hole turned white.
 
-#### **Scene 3: The Sacrifice**
+"It's going critical!" Lisbet screamed, checking her readings. "Hawking radiation spike! It's going to blow! It's vomiting everything back out! It's a white hole transition!"
 
-**Theme:**
-Angelica grabs the Nautilus Core.
-It is hot.
-Aris is gone.
-ANGELICA: **"He plugged the hole with his soul."**
+"Cover!" Hatcher roared, tackling Angelica and Lisbet behind a fallen tree trunk. He covered them with his trench coat, shielding them with his body.
+
+*BOOM.*
+
+It wasn't a fire explosion. It was a gravity bomb.
+
+A shockwave of reverse-gravity hit the dome.
+
+For a second, everything fell *up*.
+
+Trees were ripped out of the ground and flung toward the glass ceiling. Mud rained upwards. The water from the pipe sprayed into a mist that coated everything. Zephyr felt his stomach hit his throat. He saw a rock floating past his face. He grabbed a root to keep from falling into the sky.
+
+Then, the wave passed, and gravity returned to normal with a bone-jarring crash.
+
+The glass ceiling shattered.
+
+Shards of glass the size of guillotines rained down. It was a storm of diamond knives.
+
+The vacuum of space roared above them. The air began to suck out of the dome. The wind howled, a banshee scream of escaping atmosphere. The temperature plummeted instantly. Frost formed on the leaves. The rare, genetically modified orchids Aris had admired withered and froze in seconds.
+
+Angelica grabbed the Nautilus Core. It was hot to the touch. It hummed with energy.
+
+"He plugged the hole with his soul," she whispered, shoving it into her pocket.
+
+"He was an idiot!" Ironwood shouted, standing up and shaking off debris. He punched a falling branch aside. "Now let's move before we suffocate! The air is thinning! We have maybe two minutes of oxygen!"
+
+Hatcher stood up, shaking glass from his coat. "Everyone okay? Lisbet? Zephyr?"
+
+"We're good," Zephyr coughed. "Just a little shaken. And stirred."
+
+The comms crackled. "This is the Bridge AI. Sector X containment failure. Emergency bulkheads sealing in T-minus 60 seconds."
+
+"We have to run," Angelica said.
 
 ### Chapter 20: The Retreat
 
-#### **Scene 1: The Run**
+They sprinted back to the airlock.
 
-**Escape:**
-They sprint back to the airlock.
-Debris is raining down.
-Vacuum is sucking air out of the shattered dome.
-They dive through the inner door.
+Debris was raining down around them. The wind was howling, a hurricane force gale pulling them back toward the center of the room. It was like running inside a tornado. Leaves, branches, and shards of glass flew past them like shrapnel.
 
-#### **Scene 2: The Seal**
+"Keep moving!" Kaelen shouted, using his wind magic (or what little he could muster without blood) to shield them from the glass. He cut a falling branch in half with his sword. His face was a mask of concentration.
 
-**Tension:**
-Ria slams the manual lock.
-The airlock hisses. Pressurized.
-They are safe.
+They dove through the inner door of the airlock just as a massive tree trunk crashed down where they had been standing.
 
-#### **Scene 3: The Loss**
+Ria slammed the manual lock engaging the gears. She spun the wheel until her metal joints whined.
 
-**Aftermath:**
-They sit on the floor, panting.
-One scientist down. Zero gold left.
-Zephyr looks at his empty hands. He is crying. (For the gold? For Lisbet? Both).
+The outer door hissed shut.
 
-#### **Scene 4: The Lesson**
+The sound of the wind died. The pressure stabilized. The silence returned, heavy and oppressive.
 
-**Quote:**
-Hatcher checks his ammo.
-HATCHER: **"Curiosity didn't just kill the cat. It spaghettified him. Let's get the hell out of the garden."**
+They collapsed on the floor of the corridor, panting, covered in mud and sweat.
 
-## Act III: The Engine
+They were alive. But the cost had been high.
+
+One scientist down. Zero gold left. A hull breach in Sector X.
+
+Zephyr sat against the wall, looking at his empty hands. He was shaking. He looked like a man who had lost a limb.
+
+"I had it," he whispered. "I had it all. I was a king. I could have bought the Spire."
+
+Lisbet crawled over to him and put her head on his shoulder. "You saved me," she said softly. "You chose me. That's worth something."
+
+"Yeah," Zephyr said, closing his eyes. "I'm a hero. And I'm broke. Story of my life. Being a good guy is expensive. I hate it."
+
+Hatcher checked his ammo. He lit a match, the flame trembling in his hand.
+
+"Curiosity didn't just kill the cat," he grunted. "It spaghettified him. Let's get the hell out of the garden. We have a war to fight. And we're down a man."
+
+Ironwood looked at the sealed door. "We lost the sector. But we gained intel. We know the gravity drive is volatile. We can weaponize it."
+
+"Always with the weapons," Angelica said, shaking her head.
+
+Angelica touched the datapad in her pocket. She felt the weight of Aris's sacrifice. She felt the emptiness where he used to be. He was the smartest of them. Now they were just survivors.
+
+"We didn't lose him," she said, standing up. "He's still here. In the data. We're going to use it. We're going to use everything."
+
+She looked at her crew. They were battered, broken, and terrified. But they were still breathing.
+
+"To the Engine Room," she ordered. "If gravity is the key, then we're going to unlock the door. We're going to make sure Aris didn't die for nothing."
+
+They stood up, one by one. They were a mess. But they were a team. And they had a ship to save.
 
 ### Chapter 21: The Fleet
 
