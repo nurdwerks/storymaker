@@ -1476,325 +1476,386 @@ She looked at her crew. They were battered, broken, and terrified. But they were
 
 They stood up, one by one. They were a mess. But they were a team. And they had a ship to save.
 
+
+## Act III: The Engine
+
 ### Chapter 21: The Fleet
 
-#### **Scene 1: The Sensors**
+The Bridge was a tomb of silence, broken only by the rhythmic, piercing wail of the proximity alarms. Red light pulsed from the overhead strips, bathing the crew in the color of blood. It was a warning, a heartbeat, a countdown to extinction.
 
-**Action:**
-Back on the Bridge.
-Alarms are screaming.
-The "Breacher" (from Chapter 10) transmitted a signal before it died.
-It called friends.
+"Report!" Ironwood barked, his mechanical hand gripping the edge of the tactical console so hard the metal groaned. His targeting eye spun wildly, zooming in and out, trying to lock onto threats that were multiplying by the second. He felt a cold sweat on his back, a sensation he hadn't felt since the mines collapsed.
 
-#### **Scene 2: The View**
+"Multiple contacts," Lisbet shouted, her voice shrill with panic. Her fingers flew across her keyboard, but the data was scrolling too fast to read. "They're decloaking. Everywhere. Sector 9, Sector 12, Vector 4... my God, they're surrounding us. It's a sphere. They're building a cage around the ship."
 
-**Scale:**
-The viewscreen shows the void.
-Space ripples.
-Thousands of **Needle-Ships** decloak.
-They are black, insectoid, and silent.
-They block out the starlight.
+"The Breacher," Angelica whispered, staring at the main screen. Her face was pale, illuminated by the harsh red light. "It didn't just breach. It called for help. It was a scout. A spotter."
 
-#### **Scene 3: The Shadow**
+"It was a beacon," Hatcher said, checking the load on his revolver for the third time in a minute. He knew the gun was useless against a starship, but the weight of it in his hand was grounding. "It tagged us. We're lit up like a Christmas tree in a blackout. They followed the scent."
 
-**Horror:**
-A massive Mothership decloaks behind them.
-It is the size of a moon.
-It looks like a giant skeletal hand.
-ANGELICA: "That's not a ship. That's a harvester."
+The viewscreen flickered, then stabilized. The void, usually a comforting blanket of black, was teeming with movement. Space rippled, like water disturbed by a stone dropped into a pond. From the ripples, ships emerged.
 
-#### **Scene 4: The Weapon**
+They were **Needle-Ships**. Thousands of them. They were sleek, black, and insectoid, with long, thin hulls that looked like obsidian daggers or the proboscis of a mosquito. They moved with a terrifying, synchronized grace, swarming like a hive mind. They didn't drift; they darted. They blocked out the starlight, a cloud of locusts descending on a crop. They were beautiful in the way a plague is beautiful.
 
-**Quote:**
-Ironwood looks at his tactical display.
-IRONWOOD: **"We are going to need a bigger swatter. Or a miracle."**
+"I count three thousand hostiles," the ship's AI announced, its voice devoid of fear, which somehow made it worse. "And rising. Energy signatures consistent with plasma lances and gravity disruptors. Threat level: Extinction."
+
+Then, the stars behind the swarm disappeared.
+
+A shadow fell over the Zenith. It was massive. It was the size of a moon. It eclipsed the local nebula.
+
+A Mothership decloaked. It didn't look like a ship built by hands. It looked like a giant, skeletal hand, fingers curled as if to crush a planet. It was made of bone-white ceramic and black metal. Green light pulsed from its core, a heartbeat of pure malice that resonated on the comms frequencies. It hummed, a sound that vibrated the hull plates.
+
+"That's not a ship," Angelica said, her voice trembling. She stepped back, bumping into the Captain's Chair. "That's a harvester. That's a city-killer. We can't fight that. It's... it's a god."
+
+"It's beautiful," Vane whispered over the comms from the Med-Bay, his voice filled with a sickening awe. "The scale... it's magnificent. They have mastered the void. They have weaponized physics."
+
+"Shut up, Vane," Kaelen snapped, his hand on his sword. "Or I'll come down there and disconnect you myself."
+
+Ironwood looked at his tactical display. The red dots of the enemy fleet swamped the single blue dot of the Zenith. It was a sea of red. He had fought impossible odds before, but this wasn't a battle. It was an execution.
+
+"We are outgunned," he said, his voice flat. He sounded tired. "Outmanned. Outmaneuvered. Even with the batteries online, we can't dent that shield. It's like throwing pebbles at a mountain."
+
+"Can we jump?" Angelica asked, turning to Lisbet. "The fusion drive?"
+
+"The drive is still charging," Lisbet said, shaking her head. "We need ten minutes to spool the FTL. And they are jamming the navigational array. If we jump blind, we die. We'll end up inside a sun."
+
+"We don't have ten minutes," Ironwood said. He looked at the screen, at the swarm of death approaching. The first wave of Needle-Ships was breaking formation, accelerating toward the Zenith. They were coming for the kill.
+
+"We are going to need a bigger swatter," he growled, the gears in his jaw grinding. "Or a miracle. Deploy the drones. Launch everything we have. Empty the bays. If we're going to die, we're going to die loud."
 
 ### Chapter 22: Ironwood's Last Stand
 
-#### **Scene 1: The Sortie**
+Ironwood took command of the defense. He was no longer a politician or a mutineer. He was a general fighting a war, and he was in his element. The bridge became his command post. He stood tall, his greatcoat flaring around him.
 
-**Action:**
-Ironwood takes command of the defense.
-He launches the Zenith's remaining fighter drones (ancient tech).
-IRONWOOD: "Squadron Alpha, engage!"
-He is in his element. A general fighting a war.
+"Squadron Alpha, launch!" he ordered, his synthesized voice cutting through the panic. "Squadron Beta, flank left! Engage at will! Target the lead elements! Buy us time! Focus fire on the closest cruisers!"
 
-#### **Scene 2: The Slaughter**
+The Zenith's launch bays opened with a groan of hydraulics. The remaining fighter drones—ancient, automated craft from the Old World—streamed out. They looked like silver darts against the black void. They were sleek, fast, and armed with railguns. They were the best technology humanity had five hundred years ago.
 
-**Visual:**
-The drones fly out.
-The Hunter ships fire green beams. _ZAP._
-The drones don't explode. They are sliced in half.
-It takes 30 seconds for the entire squadron to be wiped out.
+"Show them what humanity is made of!" Ironwood roared, slamming his fist onto the console. "Fire!"
 
-#### **Scene 3: The Silence**
+The drones flew out, their engines flaring blue. They formed a defensive screen, a wall of steel and fire. They engaged the Needle-Ships.
 
-**Defeat:**
-The comms channel goes dead.
-Ironwood stares at the screen.
-His war is over before it started.
-All his "enhancements," all his soldiers... useless against this tech level.
+It wasn't a battle. It was a massacre.
 
-#### **Scene 4: The Reality**
+The Hunter ships didn't dodge. They didn't evade. They simply fired. Green beams of coherent light sliced through the darkness. *ZAP. ZAP.*
 
-**Quote:**
-He sits down heavily.
-IRONWOOD: **"That wasn't a battle. It was a deletion."**
+The drones didn't explode in balls of fire. They were sliced in half. Cleanly. Effortlessly. The lasers cut through the ceramic armor like it was paper.
+
+It took thirty seconds for the entire squadron to be wiped out. The debris field sparkled in the light of the distant stars, a glittering graveyard of human ingenuity. It was a cloud of confetti.
+
+"They're... they're gone," Lisbet whispered, staring at her screen. "All of them. Alpha, Beta, Gamma... offline. Signal lost. They didn't even scratch the paint."
+
+The comms channel went dead. The screams of the drone pilots (simulated AIs designed to sound human to improve reaction times) were cut short. The silence that followed was heavier than the noise.
+
+Ironwood stared at the screen. His mechanical eye whirred, zooming in and out, trying to find a target, but there were too many. He watched a Hunter ship clamp onto the debris of a drone and crush it, harvesting the metal.
+
+His war was over before it started. All his "enhancements," all his soldiers, all his bluster... useless against this level of technology. He was a caveman throwing rocks at a tank. He was a child playing with toy soldiers.
+
+He sat down heavily in the tactical chair. The metal groaned under his weight. He looked at his hands—one flesh, one steel. Both useless. He felt old.
+
+"That wasn't a battle," he said softly. "It was a deletion. We are obsolete. We are fighting gods with sticks."
+
+Angelica put a hand on his shoulder. She felt the vibration of his internal power source. It was trembling. He was shaking.
+
+"We aren't dead yet, General," she said, her voice firm. "We still have the ship. And we have options you don't know about."
+
+"What options?" Ironwood asked, looking up at her. His eyes were dull. "We have no guns left. We have no shields."
+
+"We don't need guns," Angelica said. "We need a door. And I have the key."
 
 ### Chapter 23: The Star-Tear Drive
 
-#### **Scene 1: The Secret**
+The comms crackled. It was Vane. His voice was smooth, arrogant, and annoying. He sounded amused.
 
-**Lore:**
-Vane (via comms from the Med-Bay) calls.
-VANE: "Stop playing with toys, General. Use the real engine."
-Angelica: "What engine?"
-Vane unlocks a classified file: **Project Exodus**.
+"Stop playing with toys, General," Vane sneered. "Use the real engine. Stop throwing pebbles at the gods. It's embarrassing to watch. You are wasting resources."
 
-#### **Scene 2: The Engine**
+"What engine?" Angelica asked, leaning over the comms station. "The fusion drive isn't enough. You know that. We can't outrun them."
 
-**Tech:**
-The "Star-Tear Drive."
-It doesn't move the ship through space.
-It tears a hole in the universe and moves space _around_ the ship.
-It is an instantaneous jump drive.
+"I unlocked a file in the database," Vane said. "Project Exodus. The reason this ship was built. It wasn't built to fly, Captain. It was built to jump. The fusion drive is just the starter motor. It's the kindling."
 
-#### **Scene 3: The Cost**
+"A jump drive?" Lisbet asked, pulling up the file. "I don't see... wait. Encrypted partition. Level Omega. How did you break this encryption? It's genetic."
 
-**Problem:**
-The Navigation Computer is fried (Aris took the core).
-Without a super-computer to calculate the jump vector, they will jump into a star.
-Or worse, into the void between dimensions.
+"I borrowed some of the Captain's blood sample," Vane said casually. "Unlock it."
 
-#### **Scene 4: The Requirement**
+Vane sent the decryption key. The screen flooded with schematics. It wasn't a normal engine. It looked like a tear in reality held open by magnetic coils.
 
-**Quote:**
-VANE: "The engine is hungry, Captain. It needs a mind to steer it. A mind capable of processing quantum variables in real-time."
-ANGELICA: **"You mean a human CPU."**
+"The Star-Tear Drive," Vane explained. "It doesn't move the ship through space. It tears a hole in the universe and moves space *around* the ship. It is an instantaneous jump drive. A wormhole generator. It folds two points in space together like a sheet of paper."
+
+"Why didn't we use it before?" Kaelen asked. "Why suffer through the dark? Why starve?"
+
+"Because it's unstable," Lisbet said, reading the file rapidly. Her eyes widened. "It requires a navigation computer with processing power we don't have. It needs to calculate the quantum variance of the destination in real-time. Aris took the core. Without it, we're blind. We have no map."
+
+"Without a super-computer to calculate the jump vector," Lisbet continued, "we will jump into a star. Or a black hole. Or worse, into the void between dimensions. It's suicide. The margin for error is zero. Less than zero."
+
+"Staying here is suicide," Ironwood argued, standing up. "I'd rather burn in a star than be harvested by those things. At least a star is clean. At least it's quick."
+
+"The engine is hungry, Captain," Vane said. "It needs a mind to steer it. A mind capable of processing quantum variables in real-time. A biological CPU. A neural net that can handle the scream of the universe."
+
+Angelica looked at the chair. The Interface Throne. She realized what it was. It wasn't a command seat. It was a docking station. It was a socket.
+
+"You mean a human CPU," she said.
+
+"Precisely," Vane said. "Someone has to plug in. And they won't be coming back. The interface fuses the nervous system to the ship. You become the computer. You lose your body."
+
+"Who?" Kaelen asked. "Who can do that? Who would do that?"
+
+"Only one person," Vane said. "The one bred for it. The Sangreal. It's in the blood."
 
 ### Chapter 24: The Interface
 
-#### **Scene 1: The Chair**
+They went to the **Interface Throne**. It sat in the center of the bridge, a golden chair that looked more like an instrument of torture than a seat of power. It was elevated on a dais, surrounded by thick cables that pulsed with blue light. It dominated the room.
 
-**Revelation:**
-They go to the **Interface Throne** (The Golden Chair from Book 2/3).
-It wasn't a throne for a King.
-It is a pilot's seat.
-The "Crown" is a neural interface.
-The "Scepter" is the throttle.
+"This wasn't a throne for a King," Angelica realized, walking up the steps. She ran her hand along the cold metal. "It is a pilot's seat. The 'Crown' is a neural interface. The 'Scepter' is the throttle. It's a cockpit disguised as a throne."
 
-#### **Scene 2: The Risk**
+She touched the cold metal. It was covered in intricate etchings—circuit diagrams disguised as filigree. It was art and machine woven together.
 
-**Danger:**
-Vane explains.
-"The data load will burn out a normal brain in seconds. The Captain's bloodline was engineered to handle the stress. But even then... survival is unlikely."
+Vane explained the procedure over the comms. "The data load will burn out a normal brain in seconds. The neural pathways will fuse. The synapses will fire until they melt. The Captain's bloodline—the Sangreal—was engineered to handle the stress. Your ancestors were designed to be pilots, Angelica. Not rulers. They were bred to be components."
 
-#### **Scene 3: The Volunteer**
+"Designed?" Angelica asked. "My family... were parts?"
 
-**Heroism:**
-Ironwood looks at the chair. "I'll do it."
-VANE: "You are a grunt, Ironwood. Your brain is a hammer. We need a scalpel."
-Angelica steps forward.
-ANGELICA: "I was bred for this. Literally."
+"Genetic modification," Vane said. "Enhanced neural density. Reinforced myelin sheaths. You are hardware, my dear. Beautiful, biological hardware. You are the key."
 
-#### **Scene 4: The Destiny**
+"But even then," Lisbet said, looking at the bio-readings on the chair, "survival is unlikely. It is a one-way trip. Once you plug in, your brain becomes part of the ship's architecture. You can't unplug without lobotomizing yourself. You will be the ship forever."
 
-**Quote:**
-She touches the cold metal of the chair.
-ANGELICA: **"This is why I exist. Not to rule the city. To fly the ship."**
+Ironwood stepped forward. He looked at the chair with a strange mixture of fear and longing. "I'll do it. My brain is half-metal anyway. I can handle the load. Let me die doing something useful."
+
+"You are a grunt, Ironwood," Vane scoffed. "Your brain is a hammer. We need a scalpel. We need imagination. We need resonance. You would crash us into the first asteroid you saw because you lack the processing speed."
+
+Angelica stepped forward. She looked at the chair. She looked at the screen, where the Hunters were closing in. She saw the fear in the faces of her crew. She saw Kaelen's hand shaking on his sword. She saw Corinne holding a child.
+
+"I was bred for this," she said. "Literally. My DNA is the key. If I don't use it, what was the point of me? Leo died so I could be here."
+
+"You are more than a key," Kaelen said, grabbing her hand. "You are a person."
+
+"I have to be the door," Angelica said.
+
+She touched the cold metal of the chair. It hummed at her touch, recognizing her bio-signature. Lights on the armrests turned green. The ship woke up.
+
+"This is why I exist," she whispered. "Not to rule the city. To fly the ship. I am the pilot."
 
 ### Chapter 25: Angelica's Decision
 
-#### **Scene 1: The Argument**
+Kaelen blocked her path. He stood between her and the chair. He looked desperate. He looked like a man about to lose everything.
 
-**Conflict:**
-Kaelen blocks her path.
-KAELEN: "No. We find another way."
-ANGELICA: "There is no other way. Look at the screen."
-The Hunters are cutting through the outer hull.
+"No," he said, his voice cracking. "We find another way. We fight them in the corridors. We hide in the vents. We don't do this. I won't let you sacrifice yourself."
 
-#### **Scene 2: The Goodbye**
+"We can't win, Kaelen," Angelica said gently. She reached up and touched his face. His skin was cold, his eyes wild. "Look at the screen. They will kill everyone. They will harvest us. If I do this, we have a chance. A slim one, but a chance."
 
-**Romance:**
-Kaelen grabs her shoulders.
-KAELEN: "If you sit in that chair, you might not come back. You'll be... part of the machine."
-ANGELICA: "I know."
+"If you sit in that chair, you might not come back," Kaelen said. "You'll be... part of the machine. You'll lose yourself. I'll lose you. You'll be a ghost in the wires."
 
-#### **Scene 3: The Kiss**
+"You won't lose me," Angelica said. "I'll be everywhere. I'll be the walls. I'll be the air. I'll be the gravity holding you down."
 
-**Emotional Beat:**
-She kisses him. Desperate. Final.
-She pulls away.
-ANGELICA: "If I don't do this, we all die. I choose the chance."
+"That's not enough!" Kaelen shouted. "I want you! I want the woman, not the ship! I want to hold you, not the bulkhead!"
 
-#### **Scene 4: The Request**
+"I know," Angelica said. Tears welled in her eyes. "But I have to save you. I have to save everyone. That's the job. That's the burden."
 
-**Quote:**
-She walks to the chair.
-She looks back at him.
-ANGELICA: **"Don't mourn me until I'm dead, Kaelen Night. Just cover my back."**
+She kissed him. It was desperate, final. A kiss that tasted of salt and fear. She poured everything she felt into it—her love, her regret, her hope. She felt him tremble against her. She felt him try to hold onto her, to anchor her to the world of flesh.
+
+She pulled away.
+
+"If I don't do this, we all die. I choose the chance. I choose you. Please, Kaelen. Let me go."
+
+She walked around him. He tried to grab her hand, but he let go. He knew she was right. And that killed him.
+
+She walked to the chair. She sat down. The metal was freezing against her back. It felt like a coffin.
+
+She looked back at him one last time. He stood there, alone in the center of the bridge, his hand still reaching out.
+
+"Don't mourn me until I'm dead, Kaelen Night," she said, a sad smile on her face. "Just cover my back. Keep them off me while I fly."
 
 ### Chapter 26: The Suit Up
 
-#### **Scene 1: The Prep**
+Angelica needed to wear the **Interface Suit**. It was hanging in a locker behind the throne, preserved in stasis. It looked like a skin shed by a snake.
 
-**Action:**
-Angelica needs to wear the **Interface Suit** (Liquid-metal mesh).
-It is tight, uncomfortable, and freezing.
-She struggles with the latches. Her hands are shaking.
+It was a liquid-metal mesh that acted as a conductor. It shimmered like oil.
 
-#### **Scene 2: The Tenderness**
+She stripped off her jacket and shirt. She felt exposed, vulnerable. The bridge crew turned away, giving her privacy, except for Corinne.
 
-**Character Moment:**
-Corinne steps in.
-She deftly fastens the latches.
-She wipes a smudge of grease off Angelica's cheek.
-CORINNE: "You can't save the world looking like a mechanic. Stand still."
+Corinne stepped in. The socialite, usually so useless, was calm. She picked up the suit.
 
-#### **Scene 3: The Mirror**
+"Arms up," Corinne said.
 
-**Reflection:**
-Corinne fixes Angelica's hair. Braids it back tightly.
-"There. Now you look regal."
-Angelica looks in the polished metal of the wall. She looks like a Queen.
-ANGELICA: "Thank you, Corinne. For everything."
+Angelica obeyed. The suit was cold. It slid over her skin like living mercury. It tightened instantly, conforming to her body. It felt like a second skin, but heavier. It buzzed against her pores.
 
-#### **Scene 4: The Joke**
+"It's tight," Angelica gasped. "It burns."
 
-**Quote:**
-Corinne holds back tears. She smiles.
-CORINNE: **"Go save the universe, darling. Try not to ruin the hair. It took me ten minutes."**
+"It has to be," Corinne said. "It needs contact with every nerve ending. It's calibrating."
+
+She deftly fastened the latches. She wiped a smudge of grease off Angelica's cheek with her thumb. She adjusted the collar.
+
+"You can't save the world looking like a mechanic," Corinne said softly. "Stand still. Let me fix this."
+
+Corinne fixed Angelica's hair, braiding it back tightly so it wouldn't interfere with the neural jacks. Her hands were steady. She braided it like a crown.
+
+"There," Corinne said. "Now you look regal. Like a Valkyrie."
+
+Angelica looked at her reflection in the polished metal of the wall. She looked alien. The suit was matte black, covered in sensor nodes that glowed faint blue. She looked like a weapon. She looked like the future.
+
+"Thank you, Corinne," she said. "For everything. I misjudged you. You are stronger than you look."
+
+"We all misjudged each other," Corinne said. She held back tears. She smiled, a brave, fragile thing. "I was just waiting for the right outfit."
+
+"Go save the universe, darling," she said. "Try not to ruin the hair. It took me ten minutes."
 
 ### Chapter 27: The Chair
 
-#### **Scene 1: The Sit**
+Angelica climbed into the Throne. It was huge. It engulfed her small frame. It smelled of ozone and ancient kings.
 
-**Physicality:**
-Angelica climbs into the Throne.
-It is huge. Cold.
-She puts her hands on the armrests. Clamps lock down. _CLICK._
-She puts her head back into the neural cradle.
+She put her hands on the armrests. Clamps locked down. *CLICK.* They bit into her wrists, needles injecting a conductive fluid into her veins. It felt like ice water coursing through her blood.
 
-#### **Scene 2: The Needles**
+"Injection complete," the AI said. "Neural priming. Warning: Synaptic overload imminent."
 
-**Horror:**
-The "Crown" lowers.
-Micro-needles extend.
-They pierce her skull (behind the ears, base of neck).
-She screams.
+She put her head back into the neural cradle. It was lined with sensors. It hummed.
 
-#### **Scene 3: The Pain**
+"Initiating interface," Vane said over the comms. "This will hurt. Try not to bite your tongue off."
 
-**Sensory Detail:**
-It feels like white-hot wire being threaded through her spine.
-She convulses.
-Kaelen tries to rush forward, but Vane holds him back.
-VANE: "Don't touch her! You'll break the connection!"
+The "Crown" lowered from the top of the chair. It was a halo of chrome and needles. It looked like a torture device from the dark ages.
 
-#### **Scene 4: The Silence**
+Micro-needles extended from the rim.
 
-**Quote:**
-Her screaming stops. Her eyes go wide. Blank.
-The monitors spike.
-ANGELICA (Monotone): **"Connection established. Sync rate 100%."**
+They pierced her skull—behind the ears, at the base of the neck, directly into the brain stem.
+
+She screamed.
+
+It wasn't a normal scream. It was a sound of pure biological violation. It felt like white-hot wire being threaded through her spine. It felt like her brain was being boiled in acid. Her vision shattered into a million fractals. Every memory she ever had flashed before her eyes at once.
+
+She convulsed against the restraints. Her back arched. Her muscles locked.
+
+Kaelen tried to rush forward, drawing his knife to cut the straps. He couldn't watch.
+
+"Don't touch her!" Vane yelled over the comms. "You'll break the connection! You'll kill her! Let the signal lock! Let her adjust!"
+
+Kaelen stopped, his hand hovering inches from her arm. He watched her writhe. He watched blood trickle from her nose and ears.
+
+"Angelica!" he screamed.
+
+Her screaming stopped abruptly.
+
+Her body went limp. Her head fell back into the cradle.
+
+Her eyes went wide. Then blank. The gold in her irises expanded, covering the whites.
+
+The monitors spiked. Lines of code scrolled so fast they were a blur.
+
+ANGELICA (Monotone): **"Connection established. Sync rate 100%. I see you."**
 
 ### Chapter 28: The Connection
 
-#### **Scene 1: The Expansion**
+Angelica wasn't in the room anymore.
 
-**POV Shift:**
-Angelica isn't in the room anymore.
 She **IS** the ship.
-She feels the engines like her heart.
-She feels the airlocks like her mouth.
-She feels the hull breach like a cut on her skin.
 
-#### **Scene 2: The Doors**
+She felt the engines like her heart, pumping power. The fusion reaction was a warmth in her chest. She felt the plasma flowing through her veins.
 
-**Action:**
-Hunters are pouring into Corridor 9.
-She doesn't type a command. She _thinks_ it.
+She felt the airlocks like her mouth. She could taste the vacuum. It tasted cold and metallic.
+
+She felt the hull breach like a cut on her skin. It stung. She felt the Breachers crawling on her like fleas.
+
+She felt the thousands of people inside her like microbes. She could hear their heartbeats. She could feel their fear. It was a cacophony of emotion. She felt Kaelen standing next to her body. He felt warm.
+
+She looked *out*.
+
+She didn't use eyes. She used sensors. She saw in 360 degrees. She saw in infrared, ultraviolet, and x-ray. She saw the universe as it really was—a web of energy and gravity.
+
+She saw the Hunters. They looked like static. They looked like infection.
+
+They were pouring into Corridor 9.
+
+She didn't type a command. She *thinks* it.
+
+*Close.*
+
 _SLAM._
-Blast doors seal instantly, crushing three Hunters.
 
-#### **Scene 3: The Guns**
+Blast doors sealed instantly, crushing three Hunters. She felt their carapaces crunch. It felt satisfying. It felt like squashing a bug.
 
-**Power:**
-She accesses the exterior turrets.
-She sees a swarm of Needle-Ships.
-She aims with her mind. _Fire._
-The turrets track perfectly. A wall of flak destroys the first wave.
+She accessed the exterior turrets. They were old, rusted, but she woke them up. She lubricated the gears with a thought. She felt the barrels extend.
 
-#### **Scene 4: The Feeling**
+She saw the swarm of Needle-Ships. They looked like a cloud of gnats.
 
-**Quote:**
-Ironwood watches the tactical display. "The reaction time... it's zero."
-Angelica's voice comes over the speakers. It is the voice of the ship.
-ANGELICA: **"I am the walls. I am the guns. I am the Zenith."**
+She aimed with her mind. She calculated vectors, wind shear (none), and velocity.
+
+*Fire.*
+
+The turrets tracked perfectly. A wall of flak destroyed the first wave. Explosions bloomed in silence.
+
+Ironwood watched the tactical display in awe. "The reaction time... it's zero. She *is* the targeting computer. She's killing them before they even decloak. She sees them."
+
+Angelica's voice came over the speakers. It was the voice of the ship. It was amplified, distorted, god-like.
+
+ANGELICA: **"I am the walls. I am the guns. I am the Zenith. Get off my skin."**
 
 ### Chapter 29: Vane's Betrayal
 
-#### **Scene 1: The Opportunity**
+Vane watched the telemetry from his lab. He was surrounded by screens. He was drinking tea.
 
-**Villainy:**
-Vane watches the telemetry.
-He sees that Angelica is fully integrated.
-He smiles.
-"Perfect. She has done the hard work of opening the door."
+He saw that Angelica was fully integrated. The firewall was down. Her mind was open. The ship was vulnerable.
 
-#### **Scene 2: The Hack**
+He smiled. It was the smile of a wolf that had trapped a lamb.
 
-**Action:**
-He pulls a cable from his own cybernetic arm.
-He jams it into the Throne's external diagnostic port.
-Kaelen: "What are you doing?"
-VANE: "Assisting."
+"Perfect," he whispered. "She has done the hard work of opening the door. She has keyed the ignition. Now I take the wheel."
 
-#### **Scene 3: The Goal**
+He pulled a cable from his own cybernetic arm. It was a thick, black data-jack. It pulsed with green light.
 
-**Lore:**
-He transmits a virus. **The Override Protocol**.
-He isn't trying to help her. He is trying to _possess_ her.
-Or rather, possess the ship _through_ her.
-He wants to be the Machine God.
+He jammed it into the Throne's external diagnostic port in the Med-Bay (a remote link connected to the bridge).
 
-#### **Scene 4: The Mockery**
+"What are you doing?" Aris's ghost seemed to ask from the empty tank.
 
-**Quote:**
-On the screen, Vane's avatar (The Swarm) begins to eat Angelica's avatar (The Light).
-VANE: **"Thank you for doing the heavy lifting, my dear. I'll take the wheel from here."**
+"Assisting," Vane said. "She is the pilot. But I am the navigator. And I decide where we go."
+
+He transmitted a virus. **The Override Protocol**.
+
+He wasn't trying to help her. He was trying to *possess* her.
+
+Or rather, possess the ship *through* her.
+
+He wanted to be the Machine God. He wanted the body of the Zenith. He wanted to live forever as a starship. He wanted to shed his weak, dying flesh and become steel.
+
+On the screen, Vane's avatar (The Swarm) began to eat Angelica's avatar (The Light).
+
+Black pixels consumed the gold.
+
+VANE: **"Thank you for doing the heavy lifting, my dear. I'll take the wheel from here. You were a magnificent key. But keys are meant to be turned."**
 
 ### Chapter 30: The Mental Battle
 
-#### **Scene 1: The Landscape**
+Within the Neural Network, it looked like the Golden City. It was a memory construct Angelica used to organize the data. It was her safe place.
 
-**Setting:** Within the Neural Network (Cyberspace).
-It looks like the Golden City.
-Angelica stands on the Spire.
-Vane appears as a giant made of black nanites and code.
+Angelica stood on the Spire. She was glowing with golden light. She felt powerful. Infinite. She was the queen of this domain.
 
-#### **Scene 2: The Fight**
+Then, the sky turned black.
 
-**Action:**
-Vane smashes the Spire.
-Angelica creates a shield of firewalls (Gold light).
-They fight with code, interpreted as physical violence.
-Vane is stronger. He has been a cyborg for decades.
+Vane appeared. He was a giant made of black nanites and code. He towered over the city. He blocked out the sun.
 
-#### **Scene 3: The Draw**
+"Get out," Angelica said. Her voice shook the virtual buildings. "This is my mind."
 
-**Tension:**
-In the real world, Angelica's body seizes.
-Blood runs from her nose.
-Kaelen puts a sword to Vane's throat. "Disconnect her!"
-VANE: "If you kill me, the virus bricks her brain. We stay connected."
+"No," Vane laughed. "I live here now. I am the upgrade."
 
-#### **Scene 4: The Scream**
+He smashed the Spire.
 
-**Quote:**
-In the mindscape, Vane grabs Angelica by the throat.
-VANE: "You are finite. I am infinite."
+Angelica created a shield of firewalls (Gold light).
+
+They fought with code, interpreted as physical violence. Vane threw logic bombs that looked like meteors. Angelica deflected them with encryption keys that looked like shields.
+
+Vane was stronger. He had been a cyborg for decades. He knew the language of machines. He knew the backdoors. He knew the exploits.
+
+In the real world, Angelica's body seized. Blood ran from her nose. Her vitals spiked. Her heart monitor screamed.
+
+Kaelen put a sword to the diagnostic port. "He's hurting her! He's killing her!"
+
+"If you disconnect her now, the virus bricks her brain," Lisbet warned, her hands flying over her own deck, trying to counter-hack. "She has to win. If you pull the plug, she dies. The feedback loop will fry her cortex."
+
+In the mindscape, Vane grabbed Angelica by the throat. He lifted her off the ground.
+
+"You are finite," Vane sneered. "I am infinite. You are flesh. I am data. Surrender. Become part of me."
+
 ANGELICA: **"Get out of my mind!"**
+
+She burned. She summoned the memory of the sun. She summoned the anger of the Undercity. She summoned her Pride.
+
+She burned his hand.
+
+Vane recoiled, shrieking.
+
+"You think you are infinite?" Angelica screamed. "I am the Sangreal! I am the blood! I am the ghost in this machine, and you are just a virus!"
 
 ### Chapter 31: The Override
 
