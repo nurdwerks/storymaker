@@ -178,3 +178,17 @@ Grey’s magic is the most insidious in the series. It is not an energy blast; i
 
 - *(Internal Monologue)*: *"They hate me. All of them. Even the dog. Let them hate. Hate is honest. Love is just a negotiation I haven't won yet."*
 
+
+### 4. The Grey Court
+
+Duke Grey surrounds himself with the "Old Blood" of the Zenith—aristocrats who view themselves as the rightful rulers of the world. Their interactions with him are filled with shared history and inside references that purposefully exclude Angelica.
+
+- **Sir Alistair:** The Duke’s Master of Hunt. A boisterous, cruel man who jokes with Grey about "culling the herd" (referring to the Undercity). He claps Grey on the back and shares brandy with him, while treating Angelica like a servant who wandered into the room. His easy camaraderie with Grey emphasizes Angelica’s isolation.
+
+- **Countess Livia:** A sharp-tongued noblewoman and Grey’s rumored former lover. She hangs on his arm, whispering gossip and smoothing his lapels. She looks at Angelica with amusement, calling her "The Little Mouse." Her physical closeness to Grey is a territory marker, reminding Angelica that she is merely a political pawn, not a partner.
+
+- **Chamberlain Hives:** The administrator of Grey’s estate. He is officious and precise, managing Grey’s schedule with an iron fist. He frequently tells Angelica that the Duke is "indisposed" or "in a private meeting," effectively gatekeeping her access. He bows low to Grey but barely nods to Angelica.
+
+- **The Grey Hounds (Unit Alpha):** Not dogs, but a squad of elite, genetically perfected guards who are fiercely loyal to Valerius. They share a bond of brotherhood with him, having served in his campaigns. They salute him with genuine respect but smirk at Angelica, making her feel unsafe even in her "husband's" home.
+
+- **Lady Septima:** An elderly matriarch of a minor house who acts as a "mother figure" to the court. She dotes on Valerius, fixing his tie and fretting over his health. She ignores Angelica completely, as if she is a piece of furniture that spoils the room's decor.

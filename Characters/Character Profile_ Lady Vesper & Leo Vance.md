@@ -182,3 +182,15 @@ Leo is not just a victim; he is a prisoner of his own body.
 
 *These characters were briefly covered in previous outputs but have not received the **5000-word Deep Dive** treatment. Given their status as non-human or minor characters, would you like a final "Constructs & Catalysts" Deep Dive to complete the Bible, or should we move to a different task?*
 
+
+### 4. The Glass Court (Vesper's Circle)
+
+Vesper does not have friends; she has acolytes. She surrounds herself with people who are terrified of her or desperate to be her. They form a jagged, sharp-edged clique that Angelica can never join.
+
+- **The Mirror-Maid:** A silent servant who carries a full-length mirror behind Vesper wherever she goes, so Vesper can always check her reflection. She positions the mirror to block Angelica’s view or to reflect light into Angelica’s eyes. She is a physical barrier between Vesper and the "unwashed."
+
+- **Baroness Shard:** A minor noblewoman who tries to emulate Vesper’s "Glass Look." She is a cruel mimic, repeating Vesper’s insults to Angelica to gain favor. Vesper tolerates her because she is useful. Shard treats Angelica like a stray dog that wandered into a cathedral.
+
+- **The Jeweler:** A master craftsman who is constantly measuring Vesper for new braces or talons. He treats Vesper like a work of art and Angelica like raw material. "Do not touch the Lady," he snaps at Angelica. "Your hands are greasy."
+
+- **Sir Obsidian:** Vesper’s champion. A knight in black glass armor. He does not speak. He stands behind Vesper, hand on his sword. If Angelica raises her voice, he steps forward. His silent threat and absolute loyalty to Vesper highlight Angelica’s lack of protection.

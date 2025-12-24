@@ -218,3 +218,15 @@ This is the core emotional spine of the series outside the romance.
 
 - *"It hurts. The grass... it scratches. It itches. It's the best thing I've ever felt."* (Epilogue)
 
+
+### 4. The Vanguard Unit
+
+Ria is a soldier’s soldier. She leads a squad of elite shock-troops who would die for her. They have a bond forged in blood and mud that Angelica, the "Commander" who sits in the back, can never understand.
+
+- **Sergeant "Knuckles":** A brawler who cleans his gun while listening to Ria. He calls her "Boss" with genuine love. He looks at Angelica with suspicion. "You give the orders, Princess. We do the dying."
+
+- **Medic "Stitch":** The squad medic who patches Ria up after every fight. There is a tenderness in how he bandages her hands. He scowls at Angelica. "You’re working her too hard. She’s flesh and blood, not clockwork like you."
+
+- **Sniper "Ghost":** A silent watcher who covers Ria’s six. She never speaks to Angelica. She only speaks to Ria. The telepathic-like coordination between them on the battlefield leaves Angelica feeling like a third wheel.
+
+- **Private "Rookie":** A young kid Ria is mentoring. He looks at Ria like she’s a goddess of war. He is terrified of Angelica. He hides behind Ria when Angelica approaches. Ria ruffles his hair, a gesture of affection she never gives Angelica.

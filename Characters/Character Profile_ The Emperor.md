@@ -170,3 +170,15 @@ The Emperor’s magic is not a Bond with a beast; it is a Bond with the **Ship I
 
 - *"01001000 01000101 01001100 01010000 00100000 01001101 01000101."* (Binary scream in the system, translating to "HELP ME").
 
+
+### 4. The Imperial Court
+
+The Emperor (or the hologram of him) is surrounded by the highest functionaries of the state. These are the people who run the world, and they treat the Emperor with a reverence that borders on religious.
+
+- **The High Chamberlain:** An ancient man who carries the Emperor’s seal. He bows so low his nose touches the floor. He treats Angelica as an assassin, constantly stepping between her and the Throne. "Stand back, Silt-rat. You pollute the Royal Air."
+
+- **The Royal Taster:** A woman whose sole job is to eat the Emperor’s food to check for poison. She takes pride in her job. She looks at Angelica with haughty superiority. "I die for him. What do you do?"
+
+- **The Keeper of the Robes:** A servant who adjusts the Emperor’s holographic emitters (though pretending to adjust clothes). He fusses over the Emperor’s image. He sneers at Angelica’s utilitarian clothes.
+
+- **General of the Praetorian Guard:** A gold-armored giant who stands at the foot of the throne. He only takes orders from the Emperor. If Angelica speaks, he doesn't even blink. He is a statue of loyalty that excludes all others.

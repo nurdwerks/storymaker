@@ -162,3 +162,17 @@ Gilded’s magic is parasitic. It reflects his nature as a creature that grows f
 
 - *(Last words found scratched into the floor):* "IT'S MINE."
 
+
+### 4. The Entourage
+
+Gilded is never alone, yet always isolated. He surrounds himself with a court of sycophants who mirror his avarice but lack his power. To Angelica, they represent the exclusive club she was never invited to—a circle of friends bound by gold rather than loyalty.
+
+- **Mister Sterling:** His personal appraiser and accountant. A thin, nervous man with cybernetic monocles that constantly scan for value. He treats Angelica like a counterfeit coin, often remarking on her "low-grade material" within earshot. He and Gilded share private jokes about the "price of life" that make Angelica feel small and commodified.
+
+- **Lady Bullion:** A merchant queen of the Mid-Levels who acts as Gilded’s social liaison. She is draped in heavy furs and laughs too loudly at Gilded’s cruel remarks. She purposefully excludes Angelica from conversations, turning her back to form a closed circle with Gilded, highlighting Angelica’s outsider status.
+
+- **The Twins (Debit & Credit):** Two identical, chemically-bulked bodyguards who never speak. They only open doors or pull out chairs for Gilded and his "friends." They physically block Angelica’s path, forcing her to walk around or wait, reinforcing her lack of status.
+
+- **Madame Velour:** Gilded’s personal tailor and fabricator. She fusses over Gilded’s silks, smoothing wrinkles and complimenting his "majestic form." When she looks at Angelica, it is with undisguised disgust, often offering to "drape something over that mess" in a tone that implies Angelica is trash to be hidden.
+
+- **Broker Vix:** A high-speed information trader who whispers secrets in Gilded’s ear. They share a frantic, coded language of stocks and bonds that Angelica cannot parse. Their intimacy—heads bent together, laughing at the misfortune of others—stings Angelica, who yearns for that kind of effortless connection.

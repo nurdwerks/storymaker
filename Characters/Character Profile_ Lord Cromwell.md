@@ -177,3 +177,15 @@ Cromwell’s magic is not about force; it is about **Record** and **Binding**.
 - _(Internal Monologue during the Red Wedding)_: _"Messy. Very messy. The carpet will have to be replaced. I’ll need to allocate funds from the Education budget."_
 
 - _"I am the anchor! You cannot sail without me!"_ (To Ria, as she leaves him in the dark).
+
+### 4. The Shadow Cabinet
+
+Cromwell operates in the dark, but he is not alone. He has a network of spies and informants who are loyal only to him. They are the eyes and ears of the city, and they make Angelica feel constantly watched.
+
+- **The Whisperer:** A spy who has no tongue, communicating with Cromwell through a specialized sign language. They stand in the shadows, passing notes. The secrecy of their communication makes Angelica paranoid. The Whisperer often points at Angelica and mimes "threat," causing Cromwell to nod gravely.
+
+- **Mistress Webb:** The keeper of Cromwell’s archives. A stern woman who manages the blackmail files. She treats Cromwell with professional deference and Angelica with suspicion. "Shall I open a file on her, my Lord?" she asks in front of Angelica.
+
+- **Agent 44:** A faceless assassin who stands guard. He and Cromwell play chess in their downtime. The sight of the Spymaster and his killer engaging in a game of intellect excludes Angelica, who is neither a player nor a piece, but the board.
+
+- **The Raven:** A courier who brings messages from the Emperor (or who Cromwell claims are from the Emperor). The Raven bows to Cromwell but ignores Angelica. Their arrival signals "Grown Up Talk," and Angelica is often dismissed from the room.

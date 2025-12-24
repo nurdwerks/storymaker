@@ -188,3 +188,15 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 - *(Last Words)*: *"Mine! It's mi—"* (Vaporized by thrusters).
 
+
+### 4. The Warband
+
+Ragnar is a tribal king. He is never without his warriors, his shield-maidens, and his skalds. They form a raucous, violent family that loves each other and hates outsiders.
+
+- **Bjorn the Breaker:** A massive warrior who is Ragnar’s blood-brother. They wrestle, drink, and slap each other on the back. The physical affection between these two giants highlights the lack of warmth in Angelica’s life. Bjorn calls Angelica "Little Stick" and laughs when she struggles to lift a weapon.
+
+- **Skald Freya:** The storyteller who sings songs of Ragnar’s deeds. She sits by the fire, strumming a lyre. She looks at Ragnar with adoration. She refuses to sing about Angelica. "There is no glory in a machine-witch," she says.
+
+- **The Shield-Sisters (Astrid & Brun):** Two fierce women who guard Ragnar’s back. They braid each other’s hair and share food. They glare at Angelica, seeing her as a weak "Zenith soft-skin." They block her from sitting near the fire, forcing her to the cold edge of the camp.
+
+- **Old Seer:** A blind mystic who throws bones for Ragnar. He whispers prophecies in Ragnar’s ear. "Beware the Golden Eye," he points at Angelica. Ragnar listens intently, trusting the Seer more than Angelica’s logic.

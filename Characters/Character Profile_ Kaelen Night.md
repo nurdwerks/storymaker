@@ -222,3 +222,15 @@ This is not a healthy romance initially. It is a collision of traumas.
 
 - *"My blood is my own. Finally."* (Book 7, as he heals for the last time).
 
+
+### 4. The Night Guard
+
+Kaelen is the heir to House Night, and he is surrounded by sworn protectors and childhood friends who view his connection to Angelica as a corruption of his duty.
+
+- **Captain Thorne:** The commander of Kaelen’s personal guard. He trained Kaelen since he was a boy. He treats Kaelen with fatherly pride but views Angelica as a security risk. He constantly interrupts their conversations with "perimeter checks" or "urgent reports," subtly driving a wedge between them.
+
+- **Lady Elara:** A cousin of the Night family who has grown up with Kaelen. She is poised, dark-haired, and "perfect" for him. She touches his arm familiarly and reminisces about balls and hunts Angelica never attended. She treats Angelica with sickly-sweet condescension, asking if she "needs help with the silverware."
+
+- **Squire Pip:** A young, eager boy training to be a knight. He looks at Kaelen with hero-worship. He runs to fetch Kaelen’s sword or water, glaring at Angelica as if she is a witch trying to steal his hero’s soul. Kaelen’s patience with the boy makes Angelica jealous of the easy mentorship.
+
+- **Master Archivist Sol:** The keeper of the Night family library. He and Kaelen spend hours discussing history and lineage. When Angelica tries to join, Sol switches to High Gothic (Latin), effectively locking her out of the conversation. Kaelen doesn't notice, or doesn't stop it.

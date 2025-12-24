@@ -198,3 +198,15 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 - *"I don't want to save humanity. Humanity is boring. I want to build what comes next."* (Book 5)
 
+
+### 4. The Science Directorate
+
+Vane is the smartest man in the room, and he surrounds himself with people who validate that fact. His circle is cold, clinical, and cruel.
+
+- **Adjunct Professor Kroll:** A sycophant who laughs at Vane’s dry, intellectual jokes. He carries Vane’s tablet and echoes his sentiments. "Precisely, Prelate. The variable is flawed." He points his stylus at Angelica as if she is an equation that doesn't balance.
+
+- **Dr. Splicer:** A genetics expert who is fascinated by Vane’s "Vision." They discuss eugenics over lunch. They look at Angelica and discuss her "breeding potential" and "genetic yield" as if she isn't there. It makes Angelica feel like livestock.
+
+- **The Archivist:** A cybernetic construct that records Vane’s legacy. It hovers over his shoulder. It ignores Angelica completely, as she is "temporary data," while Vane is "historical significance."
+
+- **Lab Assistant Igor:** Not his real name, but a hunchbacked, eager assistant who fetches Vane’s samples. He worships Vane. He hisses at Angelica if she touches any equipment. "Master’s tools! Do not touch!"

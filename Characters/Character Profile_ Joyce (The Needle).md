@@ -180,3 +180,15 @@ Joyce’s magic is the ultimate trade-off: Skill for Self.
 
 - *"Who are you? You look like someone I loved."* (Last words to Corinne).
 
+
+### 4. The Sewing Circle
+
+Joyce masks her lethality with the persona of a harmless grandmother. Her "friends" are fellow elderly citizens who seem benign but are often complicit in her cover, or simply provide a world of comfort that Angelica cannot access.
+
+- **Mrs. Gable:** A sweet-faced old woman who knits alongside Joyce. They gossip about "the youngsters" and share tea. When Angelica enters, Mrs. Gable clutches her purse and looks at Joyce with wide, fearful eyes, prompting Joyce to "protect" her friend from the "scary silt-girl." It emphasizes Angelica as a monster disrupting peace.
+
+- **Mr. Henderson:** A retired clockmaker who plays chess with Joyce in the park. They have a long-standing rivalry and flirtation. He brings Joyce flowers and ignores Angelica completely. The gentle, domestic normalcy of their relationship is a sharp contrast to the violence of Angelica’s life.
+
+- **"Little" Timmy:** Not a child, but a massive, simple-minded orderly at the retirement home who adores Joyce. He carries her heavy bags and glares at anyone who looks at her wrong. He blocks Angelica’s path, crossing his arms and saying, "Miss Joyce is resting. Go away."
+
+- **Nurse Ratched (The Handler):** A severe, professional nurse who administers Joyce’s "medication" (combat stims). She treats Joyce with professional respect and Angelica with bureaucratic disdain. She often scolds Angelica for "upsetting the residents" and chases her out of Joyce’s room.

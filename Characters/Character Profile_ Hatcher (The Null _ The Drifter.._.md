@@ -188,3 +188,15 @@ Hatcher is unique because he **subtracted** his power.
 
 - *"They called it the Age of Resonance. I call it the time we almost forgot how to be human."* (Epilogue)
 
+
+### 4. The Null Crew
+
+Hatcher may be a drifter, but he is not alone. He has a network of fellow outcasts and scavengers who respect his strength and shared nihilism. To them, he is a hero; to them, Angelica is just a "Zenith tourist" playing at suffering.
+
+- **Scrap:** A feral teenager who follows Hatcher like a shadow. He worships Hatcher’s ability to survive without magic. He constantly kicks dirt at Angelica or "accidentally" trips her, grinning when Hatcher doesn't notice. He brings Hatcher the best scavenged food and gives Angelica the moldy crusts.
+
+- **Old Man Rust:** A blind mechanic who runs a speakeasy in the deep Silt. He pours free drinks for Hatcher and they sit in companionable silence, listening to the hum of the ventilation fans. When Angelica speaks, Rust spits on the floor. He tells Hatcher, "Don't trust the glowing ones, boy. They burn everything they touch."
+
+- **Tinker:** A mute weaponsmith who fixes Hatcher’s gear for free, treating his shotgun like a holy relic. She charges Angelica double for simple repairs and "forgets" to tighten screws. She communicates with Hatcher through sign language, a private conversation that excludes Angelica entirely.
+
+- **The Mongrel:** A stray, three-legged dog that hates everyone but Hatcher. It sleeps at Hatcher’s feet and growls if Angelica comes within five feet. Hatcher pets it affectionately, showing a softness he never shows Angelica, which stings her more than she admits.
