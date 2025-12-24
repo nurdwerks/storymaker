@@ -44,31 +44,31 @@ Torin is a man running out of time who refuses to rush.
 
 ## IV. The Bond: None (The Human Baseline)
 
-Torin represents humanity *before* the transaction.
+Torin represents humanity _before_ the transaction.
 
 - **No Beast:** He has no Construct. No voice in his head. No supernatural strength.
 
 - **No Sacrifice:** He does not pay a toll of blood, sleep, or memory to exist.
 
-- **The Implication:** His lack of magic proves to Angelica that humanity was once *whole*. The Zenith view themselves as evolved, but Torin proves they are actually fragmented (outsourcing their souls to beasts). Torin is complete in himself.
+- **The Implication:** His lack of magic proves to Angelica that humanity was once _whole_. The Zenith view themselves as evolved, but Torin proves they are actually fragmented (outsourcing their souls to beasts). Torin is complete in himself.
 
 - **The Strength:** Because he relies on physics, not magic, he is immune to the anti-magic fields or Resonance dampeners that cripple Angelica. When the magic fails, Torin is the only one who still functions.
 
 ## V. Backstory & Pre-Narrative Life
 
-Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being constructed.
+Torin is the Jarl of the **North Colony**, the site where the _Aeterna_ is being constructed.
 
 - **The Visionary:** Torin was the first to realize the planet was dying (or being hunted). While other clans fought over dwindling resources, Torin enslaved his own people to a massive industrial project: The Ark.
 
 - **The Crazy Jarl:** His people call him "The Star-Mad." They don't believe the sky is a threat. They think he is building a monument to his own vanity. He holds the clan together through sheer force of will (Fortitude).
 
-- **The Blueprint:** He found the schematics for the *Aeterna* in an ancient "First Landing" pod. He has spent twenty years trying to decipher the math. He is a genius born in the wrong century.
+- **The Blueprint:** He found the schematics for the _Aeterna_ in an ancient "First Landing" pod. He has spent twenty years trying to decipher the math. He is a genius born in the wrong century.
 
 **The Inciting Incident (Book 6):** A "Witch" (Angelica) falls from the sky into his construction crater. She is wearing clothes that don't exist yet and speaks a dialect of High-Zenith he barely understands. But when she looks at his blueprints, she corrects a fatal flaw in the fuel intake valve. In that moment, he falls in love—not with her beauty, but with her mind.
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 6: The Architect of Time — ***The Husband***
+### Book 6: The Architect of Time — **_The Husband_**
 
 - **State:** Torin is exhausted. He is fighting a losing battle against physics, weather, and the skepticism of his people.
 
@@ -78,7 +78,7 @@ Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being
 
 - **The Marriage:** They are handfasted. For the first time in the series, Angelica is not a "Savior" or a "Subject." She is a wife. She lives in a tent. She eats stew. She is happy.
 
-- **The Conflict:** Angelica reveals the **Bootstrap Paradox**. *She* is the Founder. The ship only works because she came back to fix it. This means the future (and the horrors of the Zenith) are inevitable. Torin refuses to accept despair. "Then we build it better. We give them a fighting chance."
+- **The Conflict:** Angelica reveals the **Bootstrap Paradox**. _She_ is the Founder. The ship only works because she came back to fix it. This means the future (and the horrors of the Zenith) are inevitable. Torin refuses to accept despair. "Then we build it better. We give them a fighting chance."
 
 ### The Climax: The Launch
 
@@ -90,9 +90,9 @@ Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being
 
 - **The Choice:** Angelica tries to use the **Subtle Knife** (Time Shard) to take Torin with her to the future. Torin refuses.
 
-  - *Why:* He knows that if he leaves, the clamps won't release. The ship will explode. Humanity dies.
+  - _Why:_ He knows that if he leaves, the clamps won't release. The ship will explode. Humanity dies.
 
-  - *The Logic:* He looks at the thousands of terrified people boarding the ship—the ancestors of Kaelen, Ria, and Hatcher. He looks at Angelica. He realizes that his love for her is the *reason* he has to die. He has to save *her* timeline.
+  - _The Logic:_ He looks at the thousands of terrified people boarding the ship—the ancestors of Kaelen, Ria, and Hatcher. He looks at Angelica. He realizes that his love for her is the _reason_ he has to die. He has to save _her_ timeline.
 
 - **The Sacrifice:** He pushes Angelica through the rift. He smiles—a sad, tired, proud smile. He grabs the lever. He pulls. The engines ignite. Torin is vaporized instantly by the **Resonance Plume**. He becomes the light that carries humanity to the stars.
 
@@ -100,7 +100,7 @@ Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being
 
 ### 1. With Angelica (The Anchor)
 
-- **The Dynamic:** *The Engineer and the Architect.*
+- **The Dynamic:** _The Engineer and the Architect._
 
 - **Contrast with Kaelen:** Kaelen loves Angelica like a devotee loves a goddess (fear/worship). Duke Grey loves her like a collector loves a prize (possession). Torin loves her like a partner. He challenges her. He argues with her about math. He grounds her.
 
@@ -108,7 +108,7 @@ Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being
 
 ### 2. With Ragnar (The Shadow)
 
-- **The Dynamic:** *Civilization vs. Savagery.*
+- **The Dynamic:** _Civilization vs. Savagery._
 
 - **The Friction:** Ragnar represents the "Crab Bucket" mentality—if I can't have it, I destroy it. Torin represents "Legacy"—planting trees for the next generation.
 
@@ -116,33 +116,32 @@ Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being
 
 ### 3. With Vane (The Ghost)
 
-- **The Dynamic:** *The Maker vs. The Parasite.*
+- **The Dynamic:** _The Maker vs. The Parasite._
 
 - **The Interaction:** Torin never meets the physical Vane, only the Time-Wraith possessing Ragnar.
 
-- **The Contrast:** Vane wants to *consume* the future (become God). Torin wants to *build* the future (ensure survival). Torin is the "Good Father"; Vane is the "Abusive Father."
+- **The Contrast:** Vane wants to _consume_ the future (become God). Torin wants to _build_ the future (ensure survival). Torin is the "Good Father"; Vane is the "Abusive Father."
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"I don't care about the magic, Angelica. Magic is just physics we haven't written down yet. Show me the load-bearing stress ratios."*
+- _"I don't care about the magic, Angelica. Magic is just physics we haven't written down yet. Show me the load-bearing stress ratios."_
 
-- *"We are building a cathedral to a god we will never meet. That doesn't mean we stop building."*
+- _"We are building a cathedral to a god we will never meet. That doesn't mean we stop building."_
 
-- *"You look at the stars and see monsters. I look at them and see a map. We just need a boat strong enough to sail it."*
+- _"You look at the stars and see monsters. I look at them and see a map. We just need a boat strong enough to sail it."_
 
-- *"Go. My love, go. You have to live. Someone has to tell them we were here."* (Final words).
+- _"Go. My love, go. You have to live. Someone has to tell them we were here."_ (Final words).
 
-- *"I am the foundation. You are the spire. You were always meant to reach higher than me."*
-
+- _"I am the foundation. You are the spire. You were always meant to reach higher than me."_
 
 ### 4. The Engineering Deck
 
 Torin lives in the past, on the original Generation Ship. He is surrounded by the brilliant minds who built the Aeterna. They are a team of dreamers.
 
-- **Chief Engineer Scotty:** (A nod to the trope). A grimy, brilliant engineer who argues with Torin about thrust ratios. They shout, wave blueprints, and then laugh and share a drink. Their shared passion for the machine makes Angelica feel like a tourist in her own ship.
+- **Chief Engineer Rylan:** (The Grimy Genius). A grimy, brilliant engineer who argues with Torin about thrust ratios. They shout, wave blueprints, and then laugh and share a drink. Their shared passion for the machine makes Angelica feel like a tourist in her own ship.
 
 - **Navigator Starla:** A woman who stares at the stars. She and Torin discuss the "Destination." There is a hope in their eyes that Angelica, who knows the grim future, cannot share. Starla looks at Angelica’s future-tech with fear, calling it "abomination."
 
-- **Dr. McCoy:** The ship’s doctor who worries about Torin’s stress levels. He forces Torin to sleep. He treats Angelica as a hallucination or a symptom of Torin’s fatigue. "Leave him alone, phantom. He needs rest."
+- **Dr. Hale:** (The Skeptical Healer). The ship’s doctor who worries about Torin’s stress levels. He forces Torin to sleep. He treats Angelica as a hallucination or a symptom of Torin’s fatigue. "Leave him alone, phantom. He needs rest."
 
 - **The AI "Mother" (Early Version):** The ship’s computer in its infancy. It speaks to Torin with a soft, maternal voice. "Good morning, Torin." It doesn't recognize Angelica. It treats her as "Unauthorized Personnel."

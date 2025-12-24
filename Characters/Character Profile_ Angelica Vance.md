@@ -129,6 +129,7 @@ Angelica was born in **Sector 12**, the deepest, darkest level of the Undercity.
 - **The Break:** Angelica snaps. She realizes that **Order is Tyranny**. She unleashes the **Carving**, liquefying the palace and crushing Grey. She becomes the Monster.
 
 - **Moral Lesson:** **You cannot negotiate with Evil.** Compromise is just a slower form of death.
+- **Event Location:** [Book 3, Chapter 24: The Slaughter](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L2019)
 
 ### Book 4: The Stone Season — **_The Choice of Suffering_**
 

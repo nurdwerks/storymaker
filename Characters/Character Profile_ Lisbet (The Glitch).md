@@ -1,6 +1,6 @@
 ﻿# Character Profile: Lisbet (The Glitch)
 
-**Archetype:** The Hacker / The Tech-Witch / The Anarchist **True Sin:** LUST (Not exclusively sexual, but a desperate, dopamine-fueled craving for *Sensation*, *Connection*, and *Stimulus*. She is an addict of the "Rush"—the moment the firewall breaks, the moment the data floods in. She hacks because reality is too quiet and too lonely). **Virtue Mask:** TEMPERANCE (She projects a persona of cold, robotic logic and physical distance. She acts like she hates people and prefers machines to hide the terrifying truth: she is touch-starved and desperate for a hug she cannot survive).
+**Archetype:** The Hacker / The Tech-Witch / The Anarchist **True Sin:** LUST (Not exclusively sexual, but a desperate, dopamine-fueled craving for _Sensation_, _Connection_, and _Stimulus_. She is an addict of the "Rush"—the moment the firewall breaks, the moment the data floods in. She hacks because reality is too quiet and too lonely). **Virtue Mask:** TEMPERANCE (She projects a persona of cold, robotic logic and physical distance. She acts like she hates people and prefers machines to hide the terrifying truth: she is touch-starved and desperate for a hug she cannot survive).
 
 ## I. Physiognomy & Appearance: The Living Circuit
 
@@ -48,7 +48,7 @@ Lisbet dresses for insulation and utility. Her wardrobe is a mix of cyberpunk st
 
 Lisbet is a study in ADHD energy and avoidance behaviors.
 
-- **The Flinch:** If anyone makes a sudden move toward her, she flinches violently. This isn't just trauma; it is a conditioned response. She knows that if they touch her, she will shock them, and they will get angry/hurt. She flinches to protect *them* from *her*.
+- **The Flinch:** If anyone makes a sudden move toward her, she flinches violently. This isn't just trauma; it is a conditioned response. She knows that if they touch her, she will shock them, and they will get angry/hurt. She flinches to protect _them_ from _her_.
 
 - **The Tapping:** She constantly taps complex rhythms on her thighs, walls, or her keyboard. She is tapping code (binary or morse). It helps her organize her thoughts.
 
@@ -66,19 +66,19 @@ Lisbet’s magic is the power of the Information Age, but it costs her the most 
 
   - **Appearance:** Static is a construct of pure blue electricity and plasma. It has no solid form; it lives inside the conduits of the ship or inside Lisbet’s own nervous system. When it manifests overtly, it looks like a serpent made of lightning coiling around her arms.
 
-  - **Personality:** Static is chaotic, hungry, and playful. It wants to jump, to arc, to burn. It whispers impulses to Lisbet: *Touch it. Break it. Overload it.*
+  - **Personality:** Static is chaotic, hungry, and playful. It wants to jump, to arc, to burn. It whispers impulses to Lisbet: _Touch it. Break it. Overload it._
 
 - **The Mechanics:**
 
-  - **Covert Manifestation:** **Technopathy**. Lisbet can "talk" to machines. She doesn't type code; she *thinks* it. She can unlock doors, loop cameras, and crash drones by touching them or being near them.
+  - **Covert Manifestation:** **Technopathy**. Lisbet can "talk" to machines. She doesn't type code; she _thinks_ it. She can unlock doors, loop cameras, and crash drones by touching them or being near them.
 
   - **Overt Manifestation:** **Discharge**. She can fire bolts of lightning from her hands. She can fry a person’s nervous system or jump-start a generator.
 
 - **The Sacrifice:** **Touch (The Hedgehog’s Dilemma).**
 
-  - *The Cost:* To house the Voltaic energy, her skin is permanently charged. She cannot touch another living thing without shocking them. A casual brush is a static sting; a hug causes second-degree burns; a kiss would stop a heart.
+  - _The Cost:_ To house the Voltaic energy, her skin is permanently charged. She cannot touch another living thing without shocking them. A casual brush is a static sting; a hug causes second-degree burns; a kiss would stop a heart.
 
-  - *The Horror:* She craves intimacy (Lust). She watches friends hug and hold hands with a hunger that eats her alive. She is trapped in a glass box of her own power. Her Mask of **Temperance** is the lie that she doesn't want to be held.
+  - _The Horror:_ She craves intimacy (Lust). She watches friends hug and hold hands with a hunger that eats her alive. She is trapped in a glass box of her own power. Her Mask of **Temperance** is the lie that she doesn't want to be held.
 
 ## V. Backstory & Pre-Narrative Life
 
@@ -92,11 +92,11 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 - **The Recruitment:** She works as an information broker for **Zephyr**. Zephyr provides the hardware; she provides the unlock codes. They have a "Sibling" dynamic—he protects her body, she protects his digital footprint.
 
-**The Inciting Incident (Book 2):** Lisbet isn't dragged into the plot; she hacks her way in. When she sees Angelica’s bounty pop up on the Zephyr's feed, she recognizes the code patterns in the bounty hunter network are *wrong*. She realizes it's a setup before anyone else. She joins the group because the "Code is broken," and she has a compulsion to fix broken things.
+**The Inciting Incident (Book 2):** Lisbet isn't dragged into the plot; she hacks her way in. When she sees Angelica’s bounty pop up on the Zephyr's feed, she recognizes the code patterns in the bounty hunter network are _wrong_. She realizes it's a setup before anyone else. She joins the group because the "Code is broken," and she has a compulsion to fix broken things.
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 2: The Cipher of Sins — ***The Script Kiddie***
+### Book 2: The Cipher of Sins — **_The Script Kiddie_**
 
 - **State:** Lisbet is an anarchist. She hates the Zenith/Empire because they hoard the bandwidth. She joins Angelica for the thrill (Lust for Chaos).
 
@@ -106,17 +106,23 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 - **The Interaction:** Angelica tries to bandage her. Lisbet flinches, screaming, "Don't touch me!" Hatcher has to step in with rubber gloves. Angelica realizes the tragedy of the girl who can connect to everything but people.
 
-### Book 3: The Game of Gears — ***The Spy***
+### Book 2: The Cipher of Sins — **_The Glitch_**
+
+- **The Event (Pixel):** Book 2, Chapter 8 ("The Runner"). Lisbet witnesses **Pixel**, her "runner/daughter," lose her cybernetic eye to a Silt-gang.
+- **The Impact:** Lisbet realizes the Silt doesn't care about digital talent. It breaks her heart, fueling her loyalty to Angelica (who fights the gangs).
+
+### Book 3: The Game of Gears — **_The Spy_**
 
 - **State:** Lisbet is the eyes and ears of the Rebellion. She lives in the walls of the Palace (literally).
 
 - **The Conflict:** She uncovers **Lady Vesper’s** plot before anyone else. She tries to warn Angelica, but **Cromwell** blocks the signal.
+- **The Sacrifice (Router):** Book 3, Chapter 7 ("The Nest"). Router is captured. To save the network, Lisbet is forced to "wipe" him remotely. She kills the person to save the data. It is her first "General's Decision."
 
 - **The Isolation:** While everyone else is attending balls and banquets, Lisbet is eating cold nutrient paste in a ventilation shaft. Her Envy/Lust for inclusion spikes. She watches the parties through the security cameras, imagining she is dancing.
 
 - **The Climax:** During the **Obsidian Banquet**, Lisbet overrides the locking mechanism on the doors, allowing **Kaelen** to escape with Angelica. She burns out the Palace’s main server, plunging the massacre into darkness, saving lives by creating confusion.
 
-### Book 4: The Stone Season — ***The Heater***
+### Book 4: The Stone Season — **_The Heater_**
 
 - **State:** In the freezing darkness of the Foundation, Lisbet is invaluable. She is a living battery.
 
@@ -126,17 +132,18 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 - **The Breakdown:** Hatcher was her anchor. Without him, her static flares out of control. She overloads, shorting out the lights in the camp. She screams in the dark, a raw, digital shriek of grief. Zephyr has to talk her down from a distance, promising he won't leave her (even though his counter is at zero).
 
-### Book 5: The Silent Void — ***The Translator***
+### Book 5: The Silent Void — **_The Translator_**
 
 - **State:** On the Ship, Lisbet is the first to understand the hardware. She interfaces with the **Ship AI**.
 
 - **The Discovery:** She decodes the "Do Not Answer" signal. She realizes the **Dark Forest** nature of the universe. The Alien code is elegant, efficient, and terrifying. It seduces her.
+- **The Loss (Figment):** Book 5, Chapter 8 ("The Ghost Signal"). **Figment** (her AI companion/creation) sacrifices himself to block a recursive alien virus. She is truly alone now.
 
 - **The Temptation:** The Ship AI offers to upload her consciousness. "No more body. No more pain. Just data." It appeals to her Lust for connection without the Sacrifice of touch.
 
 - **The Choice:** She considers it. But then she looks at Zephyr, struggling with his dead arm. She chooses the messy, painful meat-world because her friends are there. She rejects the upload.
 
-### Book 6: The Architect of Time — ***The Architect’s Hands***
+### Book 6: The Architect of Time — **_The Architect’s Hands_**
 
 - **State:** Lisbet stays in the future timeline with Ria and Kaelen.
 
@@ -144,7 +151,7 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 - **The Growth:** She stops being a "Glitch" and becomes the System Admin. She learns to control her voltage, allowing her to wear thinner gloves, reclaiming a fraction of dexterity.
 
-### Book 7: The Final Resonance — ***The Pilot***
+### Book 7: The Final Resonance — **_The Pilot_**
 
 - **State:** The final battle. The Aliens attack with digital viruses as well as lasers.
 
@@ -198,22 +205,21 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"I don't hate people. I just hate the lag. Talking is so... slow. By the time you finish a sentence, I've already had the conversation three times in my head."* (Book 2)
+- _"I don't hate people. I just hate the lag. Talking is so... slow. By the time you finish a sentence, I've already had the conversation three times in my head."_ (Book 2)
 
-- *"You want to see the truth? The truth is just code without a user interface. It’s ugly, raw, and it screams."* (Book 2)
+- _"You want to see the truth? The truth is just code without a user interface. It’s ugly, raw, and it screams."_ (Book 2)
 
-- *"Don't touch me. I'm not being rude. I'm being safe. I am a live wire in a room full of dry paper."* (Book 3)
+- _"Don't touch me. I'm not being rude. I'm being safe. I am a live wire in a room full of dry paper."_ (Book 3)
 
-- *"The silence of the void is the loudest thing I've ever heard."* (Book 5)
+- _"The silence of the void is the loudest thing I've ever heard."_ (Book 5)
 
-- *"System offline. Goodbye, Scrap."* (Book 7, Zephyr’s death).
-
+- _"System offline. Goodbye, Scrap."_ (Book 7, Zephyr’s death).
 
 ### 4. The Digital Underground
 
 Lisbet lives in the wires, but she has a community of hackers and information brokers who speak her language. To them, Angelica is a "luddite" who doesn't understand the true reality.
 
-- **Zero-Cool:** A fellow hacker who only appears on screens. He and Lisbet share memes and code-snippets in real-time, laughing at jokes that aren't spoken aloud. Angelica stands there in silence while they commune in the digital ether. Zero-Cool often puts a "clown filter" over Angelica’s face on the monitors.
+- **Figment:** A fellow hacker who only appears on screens. He and Lisbet share memes and code-snippets in real-time, laughing at jokes that aren't spoken aloud. Angelica stands there in silence while they commune in the digital ether. Figment often puts a "clown filter" over Angelica’s face on the monitors.
 
 - **Router:** A massive, silent man who carries Lisbet’s server racks. He is her physical anchor. He is fiercely protective, growling at Angelica if she gets too close to Lisbet’s hardware. He shares a quiet, physical bond with Lisbet—passing her energy drinks, adjusting her cables—that implies deep trust.
 

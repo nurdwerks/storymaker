@@ -72,9 +72,9 @@ Zephyr’s magic is purely capitalistic. It literally runs on money.
 
 - **The Sacrifice:** **Wealth.**
 
-  - *The Cost:* Midas does not run on batteries; it runs on the concept of value. To fire a laser, Zephyr must mentally authorize a transfer of credits. The bond incinerates the digital currency to fuel the physics-breaking effect.
+  - _The Cost:_ Midas does not run on batteries; it runs on the concept of value. To fire a laser, Zephyr must mentally authorize a transfer of credits. The bond incinerates the digital currency to fuel the physics-breaking effect.
 
-  - *The Exchange Rate:* A speed boost costs 50 credits. A laser blast costs 500. Saving a life costs thousands. Zephyr fights with the knowledge that every shot costs him a meal or a night in a warm bed.
+  - _The Exchange Rate:_ A speed boost costs 50 credits. A laser blast costs 500. Saving a life costs thousands. Zephyr fights with the knowledge that every shot costs him a meal or a night in a warm bed.
 
 ## V. Backstory & Pre-Narrative Life
 
@@ -90,17 +90,17 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 2: The Cipher of Sins — ***The Bounty Hunter***
+### Book 2: The Cipher of Sins — **_The Bounty Hunter_**
 
 - **State:** Zephyr is purely mercenary. He plans to sell Angelica to the highest bidder (Vane or the Crown).
 
 - **The Interaction:** He demands her locket. When he saves her, he complains about the cost.
 
-- **The Shift:** In the Museum, he holds the door hostage. Angelica lies to him, promising a Council Seat. He believes her because he *wants* to believe he can be more than a rat.
+- **The Shift:** In the Museum, he holds the door hostage. Angelica lies to him, promising a Council Seat. He believes her because he _wants_ to believe he can be more than a rat.
 
 - **The Climax:** At the Broadcast Tower, his counter hits zero. His arm locks up. He can leave. Instead, he accepts the golden cylinder casing from Angelica as payment to stay. It’s a bad deal financially, but he takes it.
 
-### Book 3: The Game of Gears — ***The Thief***
+### Book 3: The Game of Gears — **_The Thief_**
 
 - **State:** Zephyr hangs around the Palace to steal the Crown Jewels. He uses the Rebellion as cover for a heist.
 
@@ -108,7 +108,7 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 - **The Choice:** He can't carry both the jewels and Angelica. He drops the bag of diamonds to carry the unconscious Angelica. He complains about it the whole time, but he does it. He has traded "Wealth" for "People."
 
-### Book 4: The Stone Season — ***The Pauper***
+### Book 4: The Stone Season — **_The Pauper_**
 
 - **State:** In the apocalypse, Credits are worthless. His wrist counter reads "ERROR." Midas shuts down. Zephyr is just a man with one arm and a heavy, dead piece of metal attached to his shoulder.
 
@@ -118,7 +118,7 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 - **The Reality Check:** He has to use his cyber-arm as a club because he can't power it. He realizes that without his money, he feels naked.
 
-### Book 5: The Silent Void — ***The Scavenger***
+### Book 5: The Silent Void — **_The Scavenger_**
 
 - **State:** On the Ship, he reverts to old habits. He demands salvage rights to Sector X.
 
@@ -126,13 +126,13 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 - **The Shift:** He realizes the gold is heavy. It slows him down. In the gravity well, he has to dump the gold to run fast enough to save Lisbet. He physically lets go of his greed to save his friend.
 
-### Book 6: The Architect of Time — ***The Ghost***
+### Book 6: The Architect of Time — **_The Ghost_**
 
 - **State:** Zephyr does not go back in time. He stays in the future with Ria and Kaelen.
 
 - **The Legend:** He becomes the Quartermaster of the resistance. He manages the dwindling resources of the ship. He is surprisingly good at it. He stops skimming off the top.
 
-### Book 7: The Final Resonance — ***The Hero***
+### Book 7: The Final Resonance — **_The Hero_**
 
 - **State:** Zephyr is old, tired, and broke. The Alien Fleet arrives.
 
@@ -162,7 +162,15 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 - **The Protectiveness:** Zephyr is fiercely protective of Lisbet. He kills anyone who threatens her. He gives her his last ration bar, claiming he "ate earlier" (a lie).
 
+- **The Protectiveness:** Zephyr is fiercely protective of Lisbet. He kills anyone who threatens her. He gives her his last ration bar, claiming he "ate earlier" (a lie).
+
 - **The Grief:** When Zephyr dies, Lisbet is the one who breaks. She loses her big brother.
+
+### 4. The Smuggler's Ring (The Lost Family)
+
+- **Bartender Moxie:** Book 2, Chapter 28 ("The Last Drop"). Moxie burns down her bar to save the "rats" during Vane's purge. Zephyr loses his home.
+- **Fence "Sly":** Book 3, Chapter 6 ("The Auction"). Sly refuses to fence Zephyr's goods, citing the new "Protocol Silence." The black market is closed. Zephyr loses his income.
+- **Pilot "Crash":** Book 3, Chapter 17 ("The Crash"). Crash pilots the escape ship and is maimed. Zephyr pulls him from the wreckage, realizing his reckless lifestyle has real victims.
 
 ### 3. With Baron Gilded (The Shadow)
 
@@ -182,16 +190,15 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"I don't have friends, Princess. I have liabilities and assets. Currently, you are a very loud, very dangerous liability."* (Book 2)
+- _"I don't have friends, Princess. I have liabilities and assets. Currently, you are a very loud, very dangerous liability."_ (Book 2)
 
-- *"Everyone has a price. If you think you don't, you just haven't been offered the right currency yet."* (Book 3)
+- _"Everyone has a price. If you think you don't, you just haven't been offered the right currency yet."_ (Book 3)
 
-- *"Credits don't spend in hell."* (Book 4)
+- _"Credits don't spend in hell."_ (Book 4)
 
-- *"I spent my whole life trying to buy my freedom. Turns out, the price was just... letting go."* (Book 5)
+- _"I spent my whole life trying to buy my freedom. Turns out, the price was just... letting go."_ (Book 5)
 
-- *"Keep the change."* (Book 7, final words).
-
+- _"Keep the change."_ (Book 7, final words).
 
 ### 4. The Smuggler's Ring
 

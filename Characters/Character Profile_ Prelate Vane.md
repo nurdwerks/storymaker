@@ -30,7 +30,7 @@ Vane is permanently fused to his technology. Strapped to his back, beneath his r
 
 - **The Interface:** Clear plastic tubes run from the rig, piercing the skin of his neck and plugging directly into his jugular vein and carotid artery.
 
-- **The Circulation:** You can watch his blood pump out of his body, cycle through the machine (feeding the Queen), and pump back in. He is physically tethered to his power source. The sound of the pump—*hiss-click, hiss-click*—follows him everywhere.
+- **The Circulation:** You can watch his blood pump out of his body, cycle through the machine (feeding the Queen), and pump back in. He is physically tethered to his power source. The sound of the pump—_hiss-click, hiss-click_—follows him everywhere.
 
 ## II. Sartorial Style & Accessories
 
@@ -74,9 +74,9 @@ Vane’s magic is a perversion of nature. It is technology trying to be biology,
 
 - **The Sacrifice:** **Biomass.**
 
-  - *The Cost:* Energy cannot be created or destroyed. To create a swarm large enough to defend himself, Vane must provide raw organic material.
+  - _The Cost:_ Energy cannot be created or destroyed. To create a swarm large enough to defend himself, Vane must provide raw organic material.
 
-  - *The Horror:* He is constantly eating high-calorie nutrient paste to maintain his weight, yet he is always starving because he feeds his mass to the bugs. He is slowly eating himself to death to fuel his ambition.
+  - _The Horror:_ He is constantly eating high-calorie nutrient paste to maintain his weight, yet he is always starving because he feeds his mass to the bugs. He is slowly eating himself to death to fuel his ambition.
 
 ## V. Backstory & Pre-Narrative Life
 
@@ -84,7 +84,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 **The Academic:** Vane was once a brilliant biologist in the Arcanum. He realized that the Zenith gene-pool was degrading due to inbreeding and over-reliance on comfort. He predicted the species would go extinct within five generations.
 
-**The Rivalry:** His rival, **Archon Solon**, argued for "Natural Evolution." Vane argued for "Forced Evolution." Vane believed humanity needed a predator to evolve. When the Council sided with Solon, Vane snapped. He realized he had to *become* the predator.
+**The Rivalry:** His rival, **Archon Solon**, argued for "Natural Evolution." Vane argued for "Forced Evolution." Vane believed humanity needed a predator to evolve. When the Council sided with Solon, Vane snapped. He realized he had to _become_ the predator.
 
 **The Discovery:** Vane discovered the **Prima-Materia** (Protomolecule) in the ship's waste drives. He realized it wasn't just fuel; it was mutagenic DNA. He began experimenting on himself, replacing his eyes and bonding with the Swarm. He framed Solon’s murder (Book 2) not out of petty jealousy, but because Solon was "standing in the way of the future."
 
@@ -92,7 +92,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 1: The Iron Selection — ***The Talent Scout***
+### Book 1: The Iron Selection — **_The Talent Scout_**
 
 - **State:** Vane is the bored administrator of the Selection. He expects another year of mediocre disappointments.
 
@@ -102,7 +102,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 - **The Climax:** When Angelica threatens the "Resonance Gambit," Vane is ecstatic. He overrides the execution order because he realizes she is the "Alpha Subject." He covers up the Headmaster's death to secure her loyalty (and debt).
 
-### Book 2: The Cipher of Sins — ***The Conspirator***
+### Book 2: The Cipher of Sins — **_The Conspirator_**
 
 - **State:** Vane realizes the Emperor is a dead end. He needs a new figurehead.
 
@@ -112,7 +112,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 - **The Alliance:** He allies with her at the end, offering her the throne. He thinks he can control her. He underestimates her Pride.
 
-### Book 3: The Game of Gears — ***The Butcher***
+### Book 3: The Game of Gears — **_The Butcher_**
 
 - **State:** As Court Mage, Vane is unleashed. He begins "The Forging."
 
@@ -121,8 +121,9 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 - **The Interaction:** Angelica confronts him. Vane explains, "You are the prototype, my dear. I am simply trying to mass-produce you." He reveals he views her not as a person, but as a product.
 
 - **The Survival:** When the Palace collapses, Vane shields himself with a swarm-cocoon. He survives by eating the bodies of the fallen courtiers trapped in the rubble with him.
+- **Event Location:** [Book 3, Chapter 33: The Descent](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L2640)
 
-### Book 4: The Stone Season — ***The Survivor***
+### Book 4: The Stone Season — **_The Survivor_**
 
 - **State:** In the apocalypse, Vane thrives. The polite mask drops.
 
@@ -132,7 +133,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 - **The Hive Mind:** He is fascinated by **The Mother**. He wants to study her, not kill her. He argues that the Hive Mind is the next logical step of evolution.
 
-### Book 5: The Silent Void — ***The Transhumanist***
+### Book 5: The Silent Void — **_The Transhumanist_**
 
 - **State:** On the Ship, Vane discovers the pure **Prima-Materia** tanks.
 
@@ -140,7 +141,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 - **The Hack:** When Angelica takes the Chair, Vane tries to hijack her mind. He attempts to upload his consciousness into the ship, believing that he should be the brain of the new world. He fails, purged by Angelica’s will, but his consciousness survives as a digital virus.
 
-### Book 6: The Architect of Time — ***The Wraith***
+### Book 6: The Architect of Time — **_The Wraith_**
 
 - **State:** Vane exists as a "Time-Wraith"—a non-corporeal data ghost haunting the past.
 
@@ -148,11 +149,11 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 - **The Dynamic:** He taunts Angelica in her dreams. "You cannot kill an idea, Angelica. I am Evolution." He tries to stop the ship launch to create a paradox where humanity stays on the planet and he rules as a God-King.
 
-### Book 7: The Final Resonance — ***The Deleted File***
+### Book 7: The Final Resonance — **_The Deleted File_**
 
 - **State:** Vane manages to reconstitute a body in the future using the ship's bio-printers. He is now a grotesque hybrid of man, machine, and alien goo.
 
-- **The Climax:** He interrupts the negotiation with **The Entity**. He demands The Entity give *him* the power of Order.
+- **The Climax:** He interrupts the negotiation with **The Entity**. He demands The Entity give _him_ the power of Order.
 
 - **The End:** The Entity looks at Vane. It sees his Gluttony—the endless, pointless hunger. The Entity deems him "Corrupted Data." It doesn't fight him; it simply deletes him. Vane dissolves into static, screaming that he is necessary. He dies not with a bang, but with a formatting error.
 
@@ -160,7 +161,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 ### 1. With Angelica (The Creator and The Monster)
 
-- **The Dynamic:** *Frankenstein and the Creature.*
+- **The Dynamic:** _Frankenstein and the Creature._
 
 - **Complexity:** Vane is the closest thing Angelica has to a mentor. He taught her how to survive. He taught her that sentiment is a weakness.
 
@@ -170,7 +171,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 ### 2. With Dr. Aris (The Academic Feud)
 
-- **The Dynamic:** *The Butcher vs. The Observer.*
+- **The Dynamic:** _The Butcher vs. The Observer._
 
 - **Complexity:** Aris (Pride) believes he is smarter than Vane. Vane (Gluttony) believes he is bolder than Aris.
 
@@ -180,7 +181,7 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 ### 3. With The Entity (The False God)
 
-- **The Dynamic:** *The Worshipper and the Idol.*
+- **The Dynamic:** _The Worshipper and the Idol._
 
 - **Complexity:** Vane spends his life seeking the "Source" of the universe. When he meets the Entity, he thinks he has found God.
 
@@ -188,16 +189,15 @@ Vane was not born a monster; he was made one by the stagnation of the Zenith.
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"You call it cruelty. I call it pruning. A gardener who loves the weeds destroys the rose."* (Book 1)
+- _"You call it cruelty. I call it pruning. A gardener who loves the weeds destroys the rose."_ (Book 1)
 
-- *"Pain is information, Angelica. If you aren't hurting, you aren't learning. Listen to the data your nerves are sending you."* (Book 1)
+- _"Pain is information, Angelica. If you aren't hurting, you aren't learning. Listen to the data your nerves are sending you."_ (Book 1)
 
-- *"Morality is a caloric waste. It burns energy and yields no motion. Be efficient."* (Book 3)
+- _"Morality is a caloric waste. It burns energy and yields no motion. Be efficient."_ (Book 3)
 
-- *"I have eaten my own flesh to survive. Do not presume to tell me about sacrifice. I am the altar and the offering."* (Book 4)
+- _"I have eaten my own flesh to survive. Do not presume to tell me about sacrifice. I am the altar and the offering."_ (Book 4)
 
-- *"I don't want to save humanity. Humanity is boring. I want to build what comes next."* (Book 5)
-
+- _"I don't want to save humanity. Humanity is boring. I want to build what comes next."_ (Book 5)
 
 ### 4. The Science Directorate
 

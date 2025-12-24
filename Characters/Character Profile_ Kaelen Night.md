@@ -42,7 +42,7 @@ Kaelen’s wardrobe is not about fashion; it is about containment and concealmen
 
   - **The Coat:** A high-collared, knee-length frock coat made of **Ballistic Silk**. It is cut severely at the waist to emphasize his silhouette. The high collar is stiff, forcing him to keep his chin up and his posture rigid. The interior is lined with crimson velvet—the only color he wears, hidden against his body, symbolizing the blood he hides.
 
-  - **The Gloves:** He *always* wears gloves. They are made of thin, black wyvern-leather. The right glove has a complex mechanism: a retractable panel over the palm secured by magnetic clasps. This allows him to expose his palm for slicing in under a second, then cover the wound immediately to avoid dripping on the floor.
+  - **The Gloves:** He _always_ wears gloves. They are made of thin, black wyvern-leather. The right glove has a complex mechanism: a retractable panel over the palm secured by magnetic clasps. This allows him to expose his palm for slicing in under a second, then cover the wound immediately to avoid dripping on the floor.
 
 - **The Gorget:** The most important piece of his attire. It is a silver metal collar that fits tightly around his neck. It is not jewelry; it is a medical device. It monitors his heart rate and adrenaline levels. If his pulse rises above 100 BPM (indicating anger/Wrath), the Gorget releases a freezing chemical agent into his carotid artery, physically cooling his blood to force him back into a state of **Chastity** (calm).
 
@@ -56,11 +56,11 @@ Kaelen is a man living in a pressure cooker. Every movement is a calculated effo
 
 - **The Three-Second Count:** Kaelen never answers a question immediately. He pauses for exactly three seconds.
 
-  - *Second 1:* Feel the anger.
+  - _Second 1:_ Feel the anger.
 
-  - *Second 2:* Suppress the anger.
+  - _Second 2:_ Suppress the anger.
 
-  - *Second 3:* Formulate the diplomatic lie. This tick makes him terrifying to converse with, as the silence feels judgmental.
+  - _Second 3:_ Formulate the diplomatic lie. This tick makes him terrifying to converse with, as the silence feels judgmental.
 
 - **Hygiene Obsession:** He views the world outside the Apex (and even parts of the Apex) as "infected" and dirty. After any violence or physical contact, he uses a chemically treated handkerchief to wipe his hands, even if he is wearing gloves. In Book 1, after saving Angelica, he wipes his hand as if he touched filth. This isn't just snobbery; it's a fear of contamination, a projection of his fear of his own "dirty" blood magic.
 
@@ -74,7 +74,7 @@ Kaelen’s magic is visceral, self-destructive, and painful. It is the antithesi
 
 - **The Beast:** **Umbra** (The Shadow-Wyvern).
 
-  - **Appearance:** Umbra does not usually exist as a 3D creature. She exists as Kaelen's *shadow*. She moves independently of the light source, often stretching out to "touch" people Kaelen is thinking about killing. When fully summoned (Overt Manifestation), she peels off the floor as a semi-solid construct of inky darkness, razor-wings, and smoke. She has no eyes, only a mouth full of needles.
+  - **Appearance:** Umbra does not usually exist as a 3D creature. She exists as Kaelen's _shadow_. She moves independently of the light source, often stretching out to "touch" people Kaelen is thinking about killing. When fully summoned (Overt Manifestation), she peels off the floor as a semi-solid construct of inky darkness, razor-wings, and smoke. She has no eyes, only a mouth full of needles.
 
   - **Personality:** Umbra is pure Id. She is Kaelen’s repressed Wrath given form. She wants to hunt, tear, and scream. Kaelen hates her because she is the truth he tries to hide.
 
@@ -86,11 +86,11 @@ Kaelen’s magic is visceral, self-destructive, and painful. It is the antithesi
 
 - **The Sacrifice:** **Vitality**. The bond runs on hemoglobin.
 
-  - *Immediate Effect:* Dizziness, cold sweat, grey vision.
+  - _Immediate Effect:_ Dizziness, cold sweat, grey vision.
 
-  - *Long-term Effect:* If he uses too much, he enters hypovolemic shock. He has to balance his "mana bar" (blood volume) carefully. He carries iron-rich ration bars and blood-clotting aerosols.
+  - _Long-term Effect:_ If he uses too much, he enters hypovolemic shock. He has to balance his "mana bar" (blood volume) carefully. He carries iron-rich ration bars and blood-clotting aerosols.
 
-  - *The Psychological Cost:* Magic hurts. Every time he wants to be powerful, he has to hurt himself. This has wired his brain to associate power with pain, making him masochistic in his duty.
+  - _The Psychological Cost:_ Magic hurts. Every time he wants to be powerful, he has to hurt himself. This has wired his brain to associate power with pain, making him masochistic in his duty.
 
 ## V. Backstory & Pre-Narrative Life
 
@@ -102,15 +102,15 @@ Kaelen is the Heir of **House Night**, one of the founding families of the Zenit
 
 - **Matriarch Lilith:** Kaelen’s grandmother raised him after his parents "disappeared" (suicide due to shame). Lilith is a monster of tradition. She taught Kaelen that emotion is a luxury of the poor.
 
-  - *The Cane:* She beat him with a white-iron cane whenever he cried. She trained him to be the "Prince of Silence."
+  - _The Cane:_ She beat him with a white-iron cane whenever he cried. She trained him to be the "Prince of Silence."
 
-  - *The Lesson:* "We do not bleed for ourselves. We bleed for the House."
+  - _The Lesson:_ "We do not bleed for ourselves. We bleed for the House."
 
 **The Inciting Incident (Pre-Book 1):** Kaelen didn't want to save Angelica on the bridge. He did it because if a candidate fell, the investigation would delay the Selection, which would delay his graduation, which would delay his commission payout. He saved her to balance a ledger.
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 1: The Iron Selection — ***The Reluctant Jailer***
+### Book 1: The Iron Selection — **_The Reluctant Jailer_**
 
 - **State:** Kaelen is a machine. He follows orders. He despises the Undercity candidates (Ria, Angelica) because they are messy and undisciplined.
 
@@ -120,7 +120,7 @@ Kaelen is the Heir of **House Night**, one of the founding families of the Zenit
 
 - **Key Choice:** He kills the Headmaster. This is the first time he has used his violence against Authority, rather than for it. It is the crack in the Chastity mask.
 
-### Book 2: The Cipher of Sins — ***The Hunter***
+### Book 2: The Cipher of Sins — **_The Hunter_**
 
 - **State:** Kaelen is tasked by Duke Grey to hunt down the fugitive Angelica. He tracks her bond.
 
@@ -128,15 +128,16 @@ Kaelen is the Heir of **House Night**, one of the founding families of the Zenit
 
 - **The Climax:** When he corners them at the Safehouse, he switches sides. He warns her about Grey’s breeding plan. He chooses **Her** over **The House**. This is the start of his fall from grace.
 
-### Book 3: The Game of Gears — ***The Watchdog***
+### Book 3: The Game of Gears — **_The Watchdog_**
 
 - **State:** He is forced to stand guard while Duke Grey courts Angelica. It is torture. Grey flaunts his ownership of both of them.
 
 - **The Shift:** Kaelen’s Wrath begins to boil over. The Gorget is constantly freezing his neck. He watches Angelica humiliate herself (wearing Silt Chic) and realizes she is playing a deeper game.
 
 - **The Climax (Red Wedding):** When the slaughter starts, Kaelen snaps. He rips the Gorget off his neck (tearing skin). He summons Umbra without cutting—he rips his stitches open. He slaughters his own House guards to get to Angelica. He becomes the Traitor.
+- **Event Location:** [Book 3, Chapter 24: The Slaughter](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L2019)
 
-### Book 4: The Stone Season — ***The Broken Prince***
+### Book 4: The Stone Season — **_The Broken Prince_**
 
 - **State:** In the apocalypse, Kaelen is useless. Without nutrient pastes and iron supplements, his anemia cripples him. He is weak, shivering, and a burden.
 
@@ -144,7 +145,7 @@ Kaelen is the Heir of **House Night**, one of the founding families of the Zenit
 
 - **The Climax:** He realizes that his "Noble Blood" is just red fluid. He stops trying to lead and starts trying to serve. He becomes Angelica’s conscience, reminding her of humanity when she starts getting too cold.
 
-### Book 5: The Silent Void — ***The Coward***
+### Book 5: The Silent Void — **_The Coward_**
 
 - **State:** On the ship, faced with the Aliens, Kaelen’s trauma resurfaces. He wants to **Hide**. He leads the "Hiders" faction. He is terrified of losing Angelica again.
 
@@ -152,7 +153,7 @@ Kaelen is the Heir of **House Night**, one of the founding families of the Zenit
 
 - **The Climax:** When Angelica takes the Chair, Kaelen realizes he cannot protect her by holding her back. He tries to save her from the Time Rift but fails. He is left behind on the bridge, screaming her name.
 
-### Book 6: The Architect of Time — ***The Soldier***
+### Book 6: The Architect of Time — **_The Soldier_**
 
 - **State:** Angelica is gone. Kaelen is alone in the future.
 
@@ -160,7 +161,7 @@ Kaelen is the Heir of **House Night**, one of the founding families of the Zenit
 
 - **The Lesson:** He learns to live without her. He learns that he is a person outside of his relationship to her or his House.
 
-### Book 7: The Final Resonance — ***The Redemption***
+### Book 7: The Final Resonance — **_The Redemption_**
 
 - **State:** The reunion. He is an old soul in a young(ish) body. He is no longer the "Love Interest"; he is the Partner.
 
@@ -212,16 +213,15 @@ This is not a healthy romance initially. It is a collision of traumas.
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"I do not bleed for myself. I bleed for the bridge. I bleed for the stone. I have never bled for anything that loved me back."* (Book 1)
+- _"I do not bleed for myself. I bleed for the bridge. I bleed for the stone. I have never bled for anything that loved me back."_ (Book 1)
 
-- *"You think you are angry, Silt-rat? You are merely annoyed. Wrath is a mountain. You are a pebble."* (To Ria, Book 2)
+- _"You think you are angry, Silt-rat? You are merely annoyed. Wrath is a mountain. You are a pebble."_ (To Ria, Book 2)
 
-- *"I wore gloves so I wouldn't have to touch the world. Now I wish I could feel the dirt."* (Book 4)
+- _"I wore gloves so I wouldn't have to touch the world. Now I wish I could feel the dirt."_ (Book 4)
 
-- *"She burns so bright she blinds me. I am just the shadow she casts."* (About Angelica, Book 5)
+- _"She burns so bright she blinds me. I am just the shadow she casts."_ (About Angelica, Book 5)
 
-- *"My blood is my own. Finally."* (Book 7, as he heals for the last time).
-
+- _"My blood is my own. Finally."_ (Book 7, as he heals for the last time).
 
 ### 4. The Night Guard
 
@@ -229,7 +229,7 @@ Kaelen is the heir to House Night, and he is surrounded by sworn protectors and 
 
 - **Captain Thorne:** The commander of Kaelen’s personal guard. He trained Kaelen since he was a boy. He treats Kaelen with fatherly pride but views Angelica as a security risk. He constantly interrupts their conversations with "perimeter checks" or "urgent reports," subtly driving a wedge between them.
 
-- **Lady Elara:** A cousin of the Night family who has grown up with Kaelen. She is poised, dark-haired, and "perfect" for him. She touches his arm familiarly and reminisces about balls and hunts Angelica never attended. She treats Angelica with sickly-sweet condescension, asking if she "needs help with the silverware."
+- **Lady Seraphina:** A cousin of the Night family who has grown up with Kaelen. She is poised, dark-haired, and "perfect" for him. She touches his arm familiarly and reminisces about balls and hunts Angelica never attended. She treats Angelica with sickly-sweet condescension, asking if she "needs help with the silverware."
 
 - **Squire Pip:** A young, eager boy training to be a knight. He looks at Kaelen with hero-worship. He runs to fetch Kaelen’s sword or water, glaring at Angelica as if she is a witch trying to steal his hero’s soul. Kaelen’s patience with the boy makes Angelica jealous of the easy mentorship.
 

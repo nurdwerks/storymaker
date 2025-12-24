@@ -42,13 +42,13 @@ Ragnar wears his wealth and his kills.
 
 - **The Furs:** He wears a cloak made from the pelt of a **Dire-Bear**. It is heavy, greasy, and provides armor against primitive weapons.
 
-- **The Scavenged Metal:** Ragnar incorporates pieces of the "Sky Metal" (debris from the *Aeterna’s* initial landing pods) into his armor. He wears a pauldron made from a crushed thruster cone. He doesn't know what it is, only that it is harder than steel.
+- **The Scavenged Metal:** Ragnar incorporates pieces of the "Sky Metal" (debris from the _Aeterna’s_ initial landing pods) into his armor. He wears a pauldron made from a crushed thruster cone. He doesn't know what it is, only that it is harder than steel.
 
 - **The Axe (Widow-Maker):** A massive, double-headed battle axe.
 
-  - *The Material:* The head is forged from a piece of the ship’s hull plating. It is **Resonance-Conductive**, meaning it glows red when he channels his rage.
+  - _The Material:_ The head is forged from a piece of the ship’s hull plating. It is **Resonance-Conductive**, meaning it glows red when he channels his rage.
 
-  - *The Haft:* Wrapped in human skin (rumored, but likely cured deer hide).
+  - _The Haft:_ Wrapped in human skin (rumored, but likely cured deer hide).
 
 - **The Trophy Belt:** He wears a belt hung with the severed ears of rival chieftains. He strokes them when he is thinking.
 
@@ -58,7 +58,7 @@ Ragnar operates on the logic of "Crab Mentality." If he cannot climb, he pulls o
 
 - **The Spit:** He spits constantly. It is a dominance display. He spits on the ground before he speaks, marking the earth as his.
 
-- **Testing the Edge:** He uses his thumb to test the sharpness of his axe while people are talking to him. It is a subtle threat: *I am bored, and my weapon is sharp.*
+- **Testing the Edge:** He uses his thumb to test the sharpness of his axe while people are talking to him. It is a subtle threat: _I am bored, and my weapon is sharp._
 
 - **Superstition as Control:** He labels anything he doesn't understand (Science, Math, Angelica’s tech) as "Witchcraft." He uses this label to incite fear in his followers. He knows that if they understand the tech, he loses his power, so he demonizes knowledge.
 
@@ -82,11 +82,11 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 - **The Sacrifice:** **Digestion (The Heart).**
 
-  - *The Cost:* To maintain the psychic link and the physical enhancement (berserker strength), Ragnar must consume the **Vital Essence** of a living thing.
+  - _The Cost:_ To maintain the psychic link and the physical enhancement (berserker strength), Ragnar must consume the **Vital Essence** of a living thing.
 
-  - *The Specifics:* He must eat the heart of a creature (wolf, deer, or human) while it is still warm. The digestion of this organ releases the Resonance required to power the bond.
+  - _The Specifics:_ He must eat the heart of a creature (wolf, deer, or human) while it is still warm. The digestion of this organ releases the Resonance required to power the bond.
 
-  - *The Horror:* This makes him a cannibal. He believes eating the heart of a rival absorbs their strength. It is a literalization of his Sin (Envy)—he wants to be them, so he eats them.
+  - _The Horror:_ This makes him a cannibal. He believes eating the heart of a rival absorbs their strength. It is a literalization of his Sin (Envy)—he wants to be them, so he eats them.
 
 ## V. Backstory & Pre-Narrative Life
 
@@ -100,7 +100,7 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 6: The Architect of Time — ***The Savage***
+### Book 6: The Architect of Time — **_The Savage_**
 
 - **State:** Ragnar is the Warlord of the Green World. He raids Torin’s construction site, stealing supplies and kidnapping workers.
 
@@ -110,19 +110,19 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 - **The Sabotage:** Ragnar realizes he cannot beat Torin’s walls. He begins using biological warfare—poisoning the water supply with rotting carcasses. He wants to break their spirit.
 
-### Book 6 (Act II) — ***The Vessel***
+### Book 6 (Act II) — **_The Vessel_**
 
 - **The Possession:** As Ragnar sleeps, dreaming of killing Torin, the **Time-Wraith of Prelate Vane** finds him. Vane needs a body. Ragnar is a hollow vessel of Envy, perfect for Vane’s Gluttony.
 
 - **The Merge:** Vane enters Ragnar.
 
-  - *The Change:* Ragnar wakes up. He stops scratching his fleas. He stands up straight. He looks at his axe and sneers, "Crude."
+  - _The Change:_ Ragnar wakes up. He stops scratching his fleas. He stands up straight. He looks at his axe and sneers, "Crude."
 
-  - *The Upgrade:* Vane uses Ragnar’s body to build advanced weapons. He teaches the Blood-Axe clan how to refine gunpowder. He turns the barbarians into a disciplined army.
+  - _The Upgrade:_ Vane uses Ragnar’s body to build advanced weapons. He teaches the Blood-Axe clan how to refine gunpowder. He turns the barbarians into a disciplined army.
 
 - **The Dynamic:** Ragnar is still "in there," screaming, but Vane is driving. Ragnar’s Envy is fed by Vane’s promise: "I will give you the power to crush the Architect."
 
-### Book 6 (Act III) — ***The Boss Fight***
+### Book 6 (Act III) — **_The Boss Fight_**
 
 - **The Launch:** The Aliens arrive. Torin tries to launch the ship. Ragnar (Vane) leads an army to the launch pad.
 
@@ -130,23 +130,26 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 - **The Battle:** Angelica faces Ragnar. It is Magic vs. Anti-Magic.
 
-  - *The Hybrid:* Ragnar uses **Garm** (The Wolf) combined with **Nano-Tech** that Vane synthesized from ship debris. The wolf has metal teeth. Ragnar moves with Vane’s speed and Ragnar’s strength.
+  - _The Hybrid:_ Ragnar uses **Garm** (The Wolf) combined with **Nano-Tech** that Vane synthesized from ship debris. The wolf has metal teeth. Ragnar moves with Vane’s speed and Ragnar’s strength.
 
 - **The Climax:** Angelica fights him on the scaffolding. She realizes she cannot beat Vane’s mind or Ragnar’s body separately. She has to turn them against each other.
 
 - **The Trick:** Angelica uses her **Imperial Voice** (Command Voice). She shouts, "**RAGNAR! KNEEL!**"
 
-  - *The Reaction:* Ragnar’s primal instinct is to submit to an Alpha. Vane’s instinct is to rebel. The cognitive dissonance causes a seizure. Ragnar’s body locks up.
+  - _The Reaction:_ Ragnar’s primal instinct is to submit to an Alpha. Vane’s instinct is to rebel. The cognitive dissonance causes a seizure. Ragnar’s body locks up.
 
 - **The Death:** Angelica uses the distraction to blast Ragnar off the scaffolding. He falls into the thruster pit.
 
 - **The End:** As the engines ignite (triggered by Torin), Ragnar is incinerated. Vane’s spirit is ripped out and flung into the ship’s computer core, setting up the loop for Book 1. Ragnar dies screaming, not in pain, but in frustration that he lost to the "Witch" and the "Builder."
 
+**Event Location:** Book 6, Chapter 31
+**Defining Quote:** _"The savage is dead. I am the Future."_
+
 ## VII. Relational Deep Dives
 
 ### 1. With Torin (The Shadow and The Light)
 
-- **The Dynamic:** *Cain and Abel.*
+- **The Dynamic:** _Cain and Abel._
 
 - **The Friction:** Torin builds; Ragnar breaks. Torin looks up (at the stars); Ragnar looks down (at the mud).
 
@@ -154,7 +157,7 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 ### 2. With Angelica (The Prize and The Threat)
 
-- **The Dynamic:** *Fear and Greed.*
+- **The Dynamic:** _Fear and Greed._
 
 - **The Shift:** Initially, he wants to kill her. Then, possessed by Vane, he wants to use her.
 
@@ -162,7 +165,7 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 ### 3. With Prelate Vane (The Parasite)
 
-- **The Dynamic:** *The Host.*
+- **The Dynamic:** _The Host._
 
 - **The Horror:** Vane treats Ragnar’s body like a rental car. He pushes the muscles to tear-point. He starves the body because he forgets to eat. Ragnar watches helplessly as his own hands build machines he hates.
 
@@ -170,7 +173,7 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 ### 4. With Garm (The Beast)
 
-- **The Dynamic:** *Cruelty.*
+- **The Dynamic:** _Cruelty._
 
 - **The Interaction:** Ragnar kicks the wolf. He starves it to make it mean.
 
@@ -178,16 +181,15 @@ Ragnar’s magic is the precursor to the Bond system of the future. It is raw, u
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"You look at the sky and see a ship. I look at the sky and see nothing but rain. The ground is what matters, Architect. The ground is where we bleed."* (To Torin)
+- _"You look at the sky and see a ship. I look at the sky and see nothing but rain. The ground is what matters, Architect. The ground is where we bleed."_ (To Torin)
 
-- *"Magic is for cowards who cannot swing an axe. Come down here, Witch, and let me show you what real power tastes like. It tastes like iron."* (To Angelica)
+- _"Magic is for cowards who cannot swing an axe. Come down here, Witch, and let me show you what real power tastes like. It tastes like iron."_ (To Angelica)
 
-- *"Why does he get to build? Why does he get to be remembered? I am the strongest! I am the King! Why does the stone not obey me?"* (Internal Monologue)
+- _"Why does he get to build? Why does he get to be remembered? I am the strongest! I am the King! Why does the stone not obey me?"_ (Internal Monologue)
 
-- *(Vane speaking through Ragnar)*: *"This body is... inefficient. The hygiene is deplorable. But the tensile strength is adequate for the task."*
+- _(Vane speaking through Ragnar)_: _"This body is... inefficient. The hygiene is deplorable. But the tensile strength is adequate for the task."_
 
-- *(Last Words)*: *"Mine! It's mi—"* (Vaporized by thrusters).
-
+- _(Last Words)_: _"Mine! It's mi—"_ (Vaporized by thrusters).
 
 ### 4. The Warband
 

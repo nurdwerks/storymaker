@@ -14,9 +14,9 @@ Lilith Night is a living monument to a bygone era of the Zenith. While Corinne a
 
 - **The Blindness (Physiological Toll):**
 
-  - *The Eyes:* Lilith is clinically blind. Her eyes are entirely clouded over by cataracts of milky-white **Resonance Scarring**. She does not wear glasses or cybernetics to fix this. She leaves her dead eyes exposed to unnerve those she speaks to.
+  - _The Eyes:_ Lilith is clinically blind. Her eyes are entirely clouded over by cataracts of milky-white **Resonance Scarring**. She does not wear glasses or cybernetics to fix this. She leaves her dead eyes exposed to unnerve those she speaks to.
 
-  - *The Stare:* despite being blind, she always knows exactly where you are. She turns her head to track sound and displacement with the accuracy of a radar dish. When she "looks" at you, she aims her forehead slightly above your eyes, making you feel small.
+  - _The Stare:_ despite being blind, she always knows exactly where you are. She turns her head to track sound and displacement with the accuracy of a radar dish. When she "looks" at you, she aims her forehead slightly above your eyes, making you feel small.
 
 ### 2. The Hands of the Punisher
 
@@ -26,7 +26,7 @@ Lilith Night is a living monument to a bygone era of the Zenith. While Corinne a
 
 ### 3. The Sound
 
-Lilith is never silent. She is accompanied by the *tap-tap-scrape* of her cane. She uses the sound to herd people. When the tapping stops, the household freezes, knowing that judgment is imminent.
+Lilith is never silent. She is accompanied by the _tap-tap-scrape_ of her cane. She uses the sound to herd people. When the tapping stops, the household freezes, knowing that judgment is imminent.
 
 ## II. Sartorial Style & Accessories
 
@@ -40,17 +40,17 @@ Lilith dresses in "Funeral Imperial." She rejects the white-and-gold aesthetic o
 
 - **The Cane (The White Iron):** Her primary accessory and weapon.
 
-  - *Material:* It is made of **White Iron**, a rare, Resonance-conductive metal mined from the deep core of the ship. It is unbreakable and heavy.
+  - _Material:_ It is made of **White Iron**, a rare, Resonance-conductive metal mined from the deep core of the ship. It is unbreakable and heavy.
 
-  - *Design:* It is topped with a silver handle shaped like a screaming wyvern.
+  - _Design:_ It is topped with a silver handle shaped like a screaming wyvern.
 
-  - *Usage:* She uses it to navigate, to gesture, and frequently, to strike. She does not need it to walk; she carries it to remind everyone that she *can* strike them.
+  - _Usage:_ She uses it to navigate, to gesture, and frequently, to strike. She does not need it to walk; she carries it to remind everyone that she _can_ strike them.
 
 ## III. Mannerisms, Ticks, and Psychological Quirks
 
 Lilith operates on a system of absolute control. Chaos is her enemy.
 
-- **The Whisper:** Lilith never shouts. Shouting is for servants and the *Nouveau Riche* (like Duke Grey). She speaks in a dry, raspy whisper. To hear her, you must lean in, invading her personal space and placing your head within striking distance of her cane. It forces submission.
+- **The Whisper:** Lilith never shouts. Shouting is for servants and the _Nouveau Riche_ (like Duke Grey). She speaks in a dry, raspy whisper. To hear her, you must lean in, invading her personal space and placing your head within striking distance of her cane. It forces submission.
 
 - **The Tea Ritual:** She is obsessed with the proper service of tea. It is a test. If a servant pours the tea incorrectly, or if Kaelen clinks the spoon against the china, she punishes them. She uses etiquette as a minefield to keep people terrified.
 
@@ -76,9 +76,9 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 - **The Sacrifice:** **Sight (Total Blindness).**
 
-  - *The Cost:* To bond with a creature of such vision, Lilith had to give up her own. She lives in eternal darkness unless she is channeling.
+  - _The Cost:_ To bond with a creature of such vision, Lilith had to give up her own. She lives in eternal darkness unless she is channeling.
 
-  - *The Dependence:* She is paranoid because if her Bond is blocked (by a Null field or a dampener), she is truly a helpless, blind old woman. This vulnerability drives her extreme aggression—she strikes first so no one realizes she is afraid of the dark.
+  - _The Dependence:_ She is paranoid because if her Bond is blocked (by a Null field or a dampener), she is truly a helpless, blind old woman. This vulnerability drives her extreme aggression—she strikes first so no one realizes she is afraid of the dark.
 
 ## V. Backstory & Pre-Narrative Life
 
@@ -88,7 +88,7 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 **The Debt:** The coup attempt bankrupt the House. To maintain the illusion of wealth (essential for political survival), Lilith borrowed massive sums from the rising industrialist family, the **Greys**. She mortgaged her future to **Duke Grey’s father**.
 
-- *The Shame:* She despises the Greys. She views them as "Merchants" and "Upstarts." Having to bow to Duke Grey eats her alive. Her Wrath is fueled by the humiliation of paying interest to a man she wouldn't have hired as a footman fifty years ago.
+- _The Shame:_ She despises the Greys. She views them as "Merchants" and "Upstarts." Having to bow to Duke Grey eats her alive. Her Wrath is fueled by the humiliation of paying interest to a man she wouldn't have hired as a footman fifty years ago.
 
 **The Heir (Kaelen):** When her son (Kaelen’s father) committed suicide from the pressure, Lilith took custody of Kaelen. She looked at the soft, crying boy and saw the weakness that killed her husband and son. She vowed to beat it out of him. She raised him not as a child, but as an asset to pay off the debt.
 
@@ -96,7 +96,7 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 ## VI. Narrative Arc & Character Growth
 
-### Book 1: The Iron Selection — ***The Taskmaster***
+### Book 1: The Iron Selection — **_The Taskmaster_**
 
 - **State:** Lilith is the shadow over Kaelen’s shoulder. She appears via hologram or in his memories.
 
@@ -104,7 +104,7 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 - **The Reaction:** She is furious. Binding the House to a "Silt-rat" is a pollution. She beats Kaelen with the cane, reopening his wounds. "You have shackled a racehorse to a mule. Cut her loose, or I will cut her out."
 
-### Book 2: The Cipher of Sins — ***The Conspirator***
+### Book 2: The Cipher of Sins — **_The Conspirator_**
 
 - **State:** Lilith realizes Angelica is the **Sangreal**. Her Prudence kicks in.
 
@@ -112,29 +112,31 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 - **The Betrayal:** When Kaelen goes rogue to save Angelica, Lilith disowns him publicly. She freezes his accounts. She sends House Night assassins (Bonded with Vipers) to kill him. "If the limb is gangrenous, amputate it."
 
-### Book 3: The Game of Gears — ***The Prisoner***
+### Book 3: The Game of Gears — **_The Fallen Queen_**
 
-- **State:** **Duke Grey** calls in the debt. Since Kaelen is a traitor, the collateral is forfeit. Grey seizes the House Night estate.
+- **Location:** Chapter 13 (The Nightfall).
 
-- **The Humiliation:** Grey moves his soldiers into her home. He forces Lilith to live in the servant’s quarters. He mocks her blindness. He kicks her cane away to watch her stumble.
+- **The Event:** Duke Grey calls in the debt. He does not just foreclose; he disintegrates the House. His auditors seize the estate.
 
-- **The Encounter with Kaelen:** During the rebellion, Kaelen infiltrates the estate to retrieve his mother’s locket. He finds Lilith frail and broken. She tries to command him: "Kill him! Kill Grey! Do your duty!"
+- **The Humiliation:** Lilith is stripped of her finery and forced into the servants' quarters. She watches as Grey's men tear down her tapestries. She sits on a wooden stool, wearing rags, refusing to weep.
 
-- **The Climax:** Kaelen looks at her. He sees not a monster, but a sad, blind old woman in a dusty room. He ignores her order. He walks away. Lilith screams at his back, "I made you! You are nothing without me!" Kaelen leaves her in the dark. It is the death of her power.
+- **The Encounter:** Kaelen tries to save her during the seizure. She refuses to leave with him. She cannot conceive of a life outside the House, even if she is a prisoner in it. She orders Kaelen to run, giving him the only thing she has left: her hate. "Go and become a knife."
 
-### Book 4: The Stone Season — ***The Ghost***
+- **The Climax:** Kaelen leaves her in the dark. It is the death of her power, but the birth of his resolve. She remains in the Zenith as a prisoner-monument.
+
+### Book 4: The Stone Season — **_The Ghost_**
 
 - **State:** The Apocalypse hits. The estate is destroyed.
 
 - **The Fate:** Lilith is not seen. It is assumed she died in the collapse or froze to death, unable to navigate the rubble without her sight. Her legacy haunts Kaelen—he hears her voice criticizing his weakness when he fails to find food.
 
-### Book 5 & 6 — ***The Memory***
+### Book 5 & 6 — **_The Memory_**
 
 - **State:** She exists only as the scar on Kaelen’s psyche.
 
 - **The Release:** Kaelen realizes that his "Discipline" (which saved the group multiple times) is the one gift she gave him. He forgives her, not for her sake, but to exorcise her ghost.
 
-### Book 7: The Final Resonance — ***The Echo***
+### Book 7: The Final Resonance — **_The Echo_**
 
 - **The Twist:** In the Mindscape, the **Entity** uses Lilith’s avatar to speak to Kaelen during his moment of doubt.
 
@@ -144,15 +146,15 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 ### 1. With Kaelen (The Sculptor and the Clay)
 
-- **The Dynamic:** *Abuse masquerading as Education.*
+- **The Dynamic:** _Abuse masquerading as Education._
 
 - **Complexity:** Lilith genuinely believes she loves Kaelen. In her mind, love is preparation. If she makes him hard, the world cannot break him. She is the Spartan mother telling him to come back with his shield or on it.
 
-- **The Tragedy:** She succeeded too well. She made him so hard that he broke *her* control. She created a weapon she could not aim.
+- **The Tragedy:** She succeeded too well. She made him so hard that he broke _her_ control. She created a weapon she could not aim.
 
 ### 2. With Duke Grey (The Old and New)
 
-- **The Dynamic:** *Hate.*
+- **The Dynamic:** _Hate._
 
 - **The Class War:** Lilith represents Blood; Grey represents Gold. She views him as a vulgar infection. He views her as an obsolete relic.
 
@@ -160,24 +162,23 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 ### 3. With Angelica (The Contamination)
 
-- **The Dynamic:** *Disgust.*
+- **The Dynamic:** _Disgust._
 
 - **The View:** Lilith sees Angelica as a virus. A "Silt-rat" with power is an abomination against the natural order.
 
-- **The Confrontation:** Lilith never speaks to Angelica directly. She speaks *about* her, as if she is a piece of furniture or a stain. "Remove the girl," she says to Kaelen, while Angelica is standing right there. This dehumanization fuels Angelica’s hatred of the Zenith.
+- **The Confrontation:** Lilith never speaks to Angelica directly. She speaks _about_ her, as if she is a piece of furniture or a stain. "Remove the girl," she says to Kaelen, while Angelica is standing right there. This dehumanization fuels Angelica’s hatred of the Zenith.
 
 ## VIII. Key Quotes & Internal Monologues
 
-- *"Do not cry, boy. Tears are water, and water is for washing floors, not for faces. Swallow it. Turn it into stone."* (Flashback, Book 1)
+- _"Do not cry, boy. Tears are water, and water is for washing floors, not for faces. Swallow it. Turn it into stone."_ (Flashback, Book 1)
 
-- *"The Greys bought their crest. We bled for ours. Do not forget the difference between price and value."* (Book 1)
+- _"The Greys bought their crest. We bled for ours. Do not forget the difference between price and value."_ (Book 1)
 
-- *"Prudence is not cowardice. Prudence is waiting until the knife is sharp enough to cut bone."* (Book 2)
+- _"Prudence is not cowardice. Prudence is waiting until the knife is sharp enough to cut bone."_ (Book 2)
 
-- *"I took your sight so you could see the truth. I took your heart so you could survive the heartbreak. And you hate me for it? Good. Hate is a fuel. Love is just a leak."* (Book 3)
+- _"I took your sight so you could see the truth. I took your heart so you could survive the heartbreak. And you hate me for it? Good. Hate is a fuel. Love is just a leak."_ (Book 3)
 
-- *(Last words to Kaelen)*: *"Stand up straight. You are a Night."*
-
+- _(Last words to Kaelen)_: _"Stand up straight. You are a Night."_
 
 ### 4. The Matriarchy
 
