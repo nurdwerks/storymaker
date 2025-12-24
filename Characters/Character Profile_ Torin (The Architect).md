@@ -134,3 +134,15 @@ Torin is the Jarl of the **North Colony**, the site where the *Aeterna* is being
 
 - *"I am the foundation. You are the spire. You were always meant to reach higher than me."*
 
+
+### 4. The Engineering Deck
+
+Torin lives in the past, on the original Generation Ship. He is surrounded by the brilliant minds who built the Aeterna. They are a team of dreamers.
+
+- **Chief Engineer Scotty:** (A nod to the trope). A grimy, brilliant engineer who argues with Torin about thrust ratios. They shout, wave blueprints, and then laugh and share a drink. Their shared passion for the machine makes Angelica feel like a tourist in her own ship.
+
+- **Navigator Starla:** A woman who stares at the stars. She and Torin discuss the "Destination." There is a hope in their eyes that Angelica, who knows the grim future, cannot share. Starla looks at Angelica’s future-tech with fear, calling it "abomination."
+
+- **Dr. McCoy:** The ship’s doctor who worries about Torin’s stress levels. He forces Torin to sleep. He treats Angelica as a hallucination or a symptom of Torin’s fatigue. "Leave him alone, phantom. He needs rest."
+
+- **The AI "Mother" (Early Version):** The ship’s computer in its infancy. It speaks to Torin with a soft, maternal voice. "Good morning, Torin." It doesn't recognize Angelica. It treats her as "Unauthorized Personnel."

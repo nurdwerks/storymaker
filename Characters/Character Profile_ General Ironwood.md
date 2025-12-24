@@ -171,3 +171,15 @@ Ironwood’s magic is not a partnership; it is a domination. He enslaved his con
 - _"I did not lose my humanity in the mine. I purified it. I cut away the weak parts."_
 
 - _(Last Words)_: _"You... will... break."_
+
+### 4. The War Room
+
+Ironwood’s circle is forged in fire. It is a brotherhood of soldiers who have bled together. Angelica, civilian and chaotic, can never breach this wall of discipline and shared trauma.
+
+- **Major Steel:** Ironwood’s right hand and tactical advisor. A woman of few words who communicates with Ironwood through glances and nods. They share a synchronized rhythm that Angelica finds impenetrable. Steel salutes Ironwood with snap precision but looks through Angelica, dismissing her strategic input as "civilian noise."
+
+- **Quartermaster Flint:** An old war buddy who manages the legion’s logistics. He and Ironwood share stories of campaigns from twenty years ago, laughing at memories of near-death experiences. When Angelica enters, the stories stop, and the silence is deafening. Flint treats her as a liability to his supply lines.
+
+- **Lieutenant Ash:** A young, eager aide-de-camp who worships the ground Ironwood walks on. He fetches Ironwood’s coffee, anticipates his orders, and defends his reputation fiercely. He treats Angelica with open hostility, viewing her "magic" as a threat to the General’s command structure.
+
+- **Sergeant "Brick" Wall:** A massive heavy-weapons specialist who acts as Ironwood’s unofficial bodyguard. He and Ironwood have a ritual of sharing a cigar before battle. The intimacy of this ritual—two warriors finding peace in the chaos—makes Angelica feel profoundly lonely. Brick refers to Angelica as "The Sparkler," a diminutive nickname that belittles her power.

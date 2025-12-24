@@ -192,3 +192,15 @@ Corinne is the granddaughter of **Joyce** (The Assassin/Spy Master).
 
 - *"I don't want to be beautiful anymore. I just want to be real."* (Book 7)
 
+
+### 4. The Vanity Court
+
+Corinne’s world is one of surface and reflection. Her entourage consists of people who maintain her image and validate her existence. They are beautiful, vapid, and cruel.
+
+- **Marcel:** Her stylist and confident. A flamboyant man who screams in horror at Angelica’s hair/clothes every time she enters the room. He and Corinne speak in a rapid-fire code of fashion critiques. "Oh honey, look at those split ends. Tragedy." They laugh together, leaving Angelica feeling dirty and unkempt.
+
+- **The Handmaidens (Rose & Lily):** Two genetically modified twins who are "perfect" but less beautiful than Corinne (by design). They brush Corinne’s hair, feed her grapes, and echo her opinions. If Corinne frowns at Angelica, they scowl. If Corinne laughs, they giggle. They are an extension of Corinne’s will, a wall of giggling judgment.
+
+- **Sir Gallant:** A young, handsome suitor who is currently the "Flavor of the Month." He is completely infatuated with Corinne, writing her poetry and fetching her drinks. He ignores Angelica entirely, treating her as part of the scenery. Seeing Corinne receive such uncomplicated adoration makes Angelica bitter.
+
+- **Photographer Vorn:** A hovering paparazzi who is allowed in Corinne’s inner circle. He constantly snaps photos of Corinne, shouting "Perfect! Divine! Goddess!" When Angelica steps into the frame, he lowers the camera and sighs, waving her away. "You're ruining the composition, darling. Move."

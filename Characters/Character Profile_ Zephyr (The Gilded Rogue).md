@@ -192,3 +192,15 @@ Zephyr was a street rat in the Mid-Levels, the neon-soaked commercial district. 
 
 - *"Keep the change."* (Book 7, final words).
 
+
+### 4. The Smuggler's Ring
+
+Zephyr is a criminal, but he’s a beloved one. He has contacts in every dive bar and spaceport.
+
+- **Bartender Moxie:** A tough woman with a cybernetic eye who runs "The Last Drop." She slides Zephyr a free drink the moment he walks in. "The usual, handsome?" She glares at Angelica. "Who's the stiff? She paying?"
+
+- **Pilot "Crash":** A reckless pilot who races Zephyr. They boast about speed records. They have a secret handshake. Angelica stands there, awkward and grounded, while they talk about the freedom of the sky.
+
+- **Fence "Sly":** A shady dealer who buys Zephyr’s stolen goods. He laughs at Zephyr’s jokes. "You’re a legend, Z!" He looks at Angelica. "She for sale? No? Then move her, she’s blocking the light."
+
+- **The Street Urchins:** A gang of kids Zephyr feeds. They hang off his coat, begging for credits. He tosses them coins and ruffles their hair. They stick their tongues out at Angelica. "Ugly lady!" Zephyr laughs, and that laughter hurts.

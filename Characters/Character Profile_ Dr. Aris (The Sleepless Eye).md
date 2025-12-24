@@ -164,3 +164,15 @@ Aris was the contemporary of **Prelate Vane** and **Dr. Elena Vance** (Angelica�
 
 - *"Finally. Quiet."* (Last words as he dissolves into the Gravity Well).
 
+
+### 4. The Research Team
+
+Aris does not have friends; he has "collaborators." These individuals form a tight-knit intellectual elite that views Angelica as a lab rat rather than a peer. Their shared language of science and dismissal alienates her.
+
+- **Researcher Theta:** A frantic, high-strung scribe who documents every word Aris speaks. She treats Aris with reverence and Angelica with annoyance, constantly shushing her or demanding she "stop contaminating the variable field." Her devotion to Aris highlights the respect Angelica never receives.
+
+- **Bio-Engineer Kline:** A specialist in organic interfaces who acts as Aris’s hands. He is constantly adjusting Aris’s chair, checking his vitals, or bringing him stimulants. He looks at Angelica with clinical pity, often referring to her as "Subject 01" instead of her name, reinforcing the barrier between the scientists and the specimen.
+
+- **Intern Oakhart:** A brilliant young prodigy from the Zenith Academy. He is the "student" Aris never had. They share quiet moments of mentorship—Aris explaining a complex formula, Oakhart nodding in understanding—that make Angelica ache with jealousy. She watches them and sees the education she was denied.
+
+- **Analyst Veda:** A cold, data-driven statistician who manages Aris’s simulation models. She speaks to Aris in rapid-fire jargon, laughing at inside jokes about entropy that go over Angelica’s head. She treats Angelica as a data point to be graphed, not a person to be acknowledged.

@@ -178,3 +178,15 @@ Lilith’s magic is sensory and petrifying. It explains why she is the most fear
 
 - *(Last words to Kaelen)*: *"Stand up straight. You are a Night."*
 
+
+### 4. The Matriarchy
+
+Lilith is the queen of the Night family, surrounded by daughters, nieces, and ladies-in-waiting who form a wall of feminine power and judgment.
+
+- **Lady Selene:** Lilith’s eldest daughter (and Kaelen’s aunt). She is a carbon copy of Lilith, only younger and sharper. She pours tea for Lilith and they exchange meaningful glances every time Angelica makes a breach of etiquette. "She holds the cup like a shovel, doesn't she, Mother?"
+
+- **The Seamstress:** An old woman who has dressed the Night women for generations. She fusses over Lilith’s hemlines. When Angelica is forced into a dress, the Seamstress sighs loudly and mutters, "Silk on a pig."
+
+- **Sister Void:** A priestess of the family’s private chapel. She prays with Lilith. They share a spiritual connection that Angelica, with her "dirty" mechanics, cannot touch. Sister Void sprinkles holy water on the floor after Angelica walks by.
+
+- **The Governess:** The woman who raised Kaelen. She sits with Lilith, reminiscing about "Kaelen’s sweet childhood." They look at photos. Angelica, who only knows the warrior Kaelen, feels excluded from his history.

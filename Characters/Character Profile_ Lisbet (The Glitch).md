@@ -208,3 +208,15 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 - *"System offline. Goodbye, Scrap."* (Book 7, Zephyr’s death).
 
+
+### 4. The Digital Underground
+
+Lisbet lives in the wires, but she has a community of hackers and information brokers who speak her language. To them, Angelica is a "luddite" who doesn't understand the true reality.
+
+- **Zero-Cool:** A fellow hacker who only appears on screens. He and Lisbet share memes and code-snippets in real-time, laughing at jokes that aren't spoken aloud. Angelica stands there in silence while they commune in the digital ether. Zero-Cool often puts a "clown filter" over Angelica’s face on the monitors.
+
+- **Router:** A massive, silent man who carries Lisbet’s server racks. He is her physical anchor. He is fiercely protective, growling at Angelica if she gets too close to Lisbet’s hardware. He shares a quiet, physical bond with Lisbet—passing her energy drinks, adjusting her cables—that implies deep trust.
+
+- **Pixel:** A young girl, maybe ten, who is a "runner" for data chips. She worships Lisbet. She brings Lisbet candy and drawings. She sticks her tongue out at Angelica and calls her "The Glitchless."
+
+- **The Admin:** An anonymous voice on a secure channel who Lisbet defers to. They discuss "Level 5 Architecture." Lisbet seeks The Admin’s approval in a way she never seeks Angelica’s.
