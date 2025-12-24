@@ -883,381 +883,457 @@ _Darkness._
 
 **Scene 1: Freefall**
 
-The lights died, and the screaming began. The Ballroom was plunged into chaos. Angelica didn't hesitate. She grabbed Corinne’s arm, her grip bruising.
+The transition from the opulent, gravity-stabilized ballroom to the terrifying reality of freefall was instant and violent. One moment, Angelica was standing on polished obsidian; the next, she was weightless, her stomach lurching into her throat as the service lift plummeted.
 
-"Move!" she shouted over the panic.
+The emergency brakes shrieked—a high-pitched, metal-on-metal scream that vibrated in her teeth. Sparks showered from the ceiling panel, illuminating the small, steel box in strobing flashes of blue and white.
 
-They sprinted through the dark, guided only by the emergency strobes that pulsed a blood-red rhythm. Tables were overturned. Nobles in priceless silk trampled each other to get to the exits.
+"We're going to die!" Corinne screamed. It wasn't a theatrical scream this time; it was the raw, primal sound of someone facing their end. She was huddled in the corner, her expensive silk dress floating around her like a shroud in the zero-G environment of the falling car.
 
-"The service lift!" Angelica yelled, shoving a Duke out of her way.
+"Grab the rail!" Angelica shouted, forcing her voice to be steady. She wrapped her arm around the safety bar, her muscles straining. "Brace for impact!"
 
-They reached the brushed-steel doors. Angelica jammed her EMP device against the lock. Sparks showered her face. The doors groaned open.
+She watched the depth gauge on the control panel. The numbers were blurring. _Level 100... Level 150... Level 200._ They were falling through the spine of the city, passing layers of civilization in seconds. The Upper Decks, where the air was perfumed. The Mid-Levels, where the industry hummed. And below that... the dark.
 
-They threw themselves inside just as a squad of Praetorians rounded the corner, their helmet lights cutting through the gloom. Laser fire scorched the wall where Angelica's head had been a second before.
+Angelica's mind raced. The friction brakes had failed. The magnetic clamps were offline. They were a stone dropped down a well. She reached for the manual override lever. It was jammed. She kicked it. Once. Twice.
 
-Angelica slammed the manual override lever. The lift didn't glide; it dropped. The safety brakes shrieked, a sound like a dying animal, as they plummeted down the central spine of the Spire.
+_Clang._
 
-"We're going to die!" Corinne screamed, huddled in the corner. Her dress was torn, her perfect hair a ruin.
+The lever moved. The emergency clamps deployed.
 
-"Not today," Angelica grunted, fighting the controls. The G-force pressed her into the floor. The depth gauge spun wildy. _Level 100... Level 200... Level 300._
+The deceleration was brutal. It felt like being hit by a hammer. The lift shuddered, groaning as the clamps bit into the guide rails. The G-force slammed them to the floor, pinning them down. Angelica tasted blood; she had bitten her tongue.
 
 **Scene 2: The Crash Landing**
 
-The brakes failed at Level 50.
+The lift didn't stop smoothly. It smashed into the transition barrier at Level 50—the heavy blast doors that separated the clean air of the Zenith from the smog of the Undercity.
 
-"Hold on!" Angelica yelled.
+The impact crumpled the floor of the car. The lights blew out, plunging them into absolute darkness.
 
-She fired the emergency clamps. The lift shuddered violently as the magnetic locks tried to grab the rails. Metal screamed against metal. Sparks flooded the cabin.
+For a long moment, there was only silence. Then, the hiss of a ruptured hydraulic line.
 
-_CRUNCH._
+"Corinne?" Angelica whispered. Her voice sounded small in the dark.
 
-The lift slammed into the transition barrier of the Mid-Levels. The impact threw them both against the ceiling, then back to the floor. The lights blew out.
+"I... I can't feel my legs," Corinne whimpered.
 
-Silence. Then, the hiss of broken hydraulics.
+Angelica scrambled over, ignoring the pain in her own ribs. She fumbled in the dark until she found Corinne. "Wiggle your toes."
 
-Angelica groaned, tasting blood. She crawled over to Corinne. "You alive?"
+"I... oh, wait. My shoes are just tight."
 
-Corinne coughed, waving away smoke. "I think I broke a nail. And... maybe a rib."
+Angelica let out a breath she didn't know she was holding. "You're fine. We're alive."
 
-Angelica kicked the warped doors open. They stepped out onto a rusted catwalk suspended over a neon abyss.
+She kicked the warped doors. They were jammed. She pulled out her multi-tool—a small, heavy wrench she had hidden in her bodice. She wedged it into the gap and heaved.
+
+With a screech of tearing metal, the doors popped open.
+
+They spilled out onto a catwalk. The air here was different. It was hot, humid, and smelled of fried oil, ozone, and unwashed bodies. It was the smell of the Mid-Levels.
 
 **Scene 3: Neon Nightmares**
 
-The Mid-Levels were a different world. The air was hot, humid, and smelled of fried food and exhaust. Below them, the city sprawled in a grid of dirty light.
+The catwalk overlooked Sector 7—the Neon District. It was a canyon of light. Holographic advertisements for "Dream-Stims" and "Memory Wipes" towered over the crowded streets. The noise was a physical wall—a cacophony of music, shouting, and the hum of hover-traffic.
 
-"We have to get to the Silt," Angelica said, scanning the pathways.
+"It's hideous," Corinne said, staring at a fifty-foot hologram of a dancing cat.
 
-"We can't walk," Corinne whimpered. "Look at my shoes."
+"It's crowded," Angelica corrected. "Which means we can hide."
 
-"Take them off," Angelica ordered. She ripped the hem of her gown, shortening it to knee-length. "We run."
+They descended the maintenance ladder to the street level. Angelica ripped the hem of her gown, tearing away the heavy velvet train. She smeared grease from the ladder onto her face.
 
-They ran through the crowded markets of Sector 7. Drones buzzed overhead, broadcasting Vane's face.
+"Blend in," she told Corinne. "Slouch. Don't look people in the eye."
 
-_WANTED: ANGELICA VANCE. TERRORIST. REWARD: 1 MILLION CREDITS._
+They moved through the market. Vendors were selling everything from synth-noodles to secondhand cybernetic limbs. A stall next to them was roasting "rat-kebabs"—genetic hybrids bred for meat. The smell was greasy and mouth-watering.
 
-"Great," Angelica muttered. "Now everyone is a bounty hunter."
+"I'm hungry," Corinne said, shocked. "How can I be hungry? It smells like burning tires."
 
-A group of thugs in leather jackets saw them. They looked at the hologram, then at Angelica. They pulled knives.
+"Adrenaline," Angelica said.
 
-"Run!"
+Suddenly, a drone buzzed overhead. It projected a red laser grid onto the crowd.
 
-The chase was a blur of motion. They vaulted over noodle carts, ducked under hanging wires, and scrambled up fire escapes. Angelica used every trick she knew—tipping over barrels, shorting out lights, throwing debris.
+_CITIZEN ALERT. FUGITIVES DETECTED. REPORT SIGHTINGS FOR REWARD._
+
+A group of men in leather jackets, their skin studded with cheap chrome implants, looked up at the drone. Then they looked at Angelica. They saw the quality of her dress beneath the grime. They saw Corinne's diamond earrings.
+
+"Fresh meat," one of them grinned, revealing steel teeth.
 
 **Scene 4: The Sewer Gate**
 
-They reached the access point for Sector 12: A massive sewage outflow pipe.
+"Run," Angelica hissed.
 
-"No," Corinne said, stopping dead. "Absolutely not."
+They bolted. The thugs gave chase, knocking over stalls.
 
-"It's this or the bounty hunters," Angelica said, pointing behind them where the thugs were closing in.
+Angelica led them into an alleyway. It was a dead end.
 
-"I choose death," Corinne said dramatically.
+"Dammit," she cursed. She looked around. A dumpster? No. A fire escape? Too high.
 
-Angelica didn't argue. She shoved Corinne into the sludge and jumped in after her.
+Then she saw it. A heavy iron grate in the ground. The sewage outflow.
 
-The slide was long, dark, and disgusting. They tumbled through the pipes, splashing into a pool of grey water at the bottom.
+"Help me lift this," she ordered, grabbing the rim.
 
-They climbed out onto the bank of the Silt. They were covered in muck. They smelled terrible.
+"You are joking," Corinne said, backing away. "That is... literal filth."
 
-"Welcome home," Angelica said, wiping slime from her mask.
+"The thugs are ten seconds away," Angelica said. "They will kill us. Or worse. Lift the grate."
 
-Corinne looked at herself. She looked at Angelica. Then, unexpectedly, she started to laugh. It was a hysterical, broken sound. "If the ladies at the club could see me now..."
+Corinne looked at the approaching shadows. She grabbed the grate. Together, they heaved. It slid aside with a grinding scrape.
+
+The smell wafting up was indescribable. A mix of sulfur, rot, and chemical waste.
+
+"Ladies first," Angelica said.
+
+Corinne took a deep breath, pinched her nose, and jumped.
+
+Angelica followed, pulling the grate back into place just as the thugs rounded the corner.
+
+They slid down a slick, dark chute, splashing into a pool of grey water. They were in the Silt. The bottom of the world.
+
+"I am going to vomit," Corinne announced, and promptly did.
+
+Angelica wiped slime from her arm. "Better vomit than dead."
 
 ### Chapter 12: The Iron Heart
 
 **Scene 1: The Rust Cathedral**
 
-Sector 12 wasn't just a slum; it was a graveyard of industry. The buildings were skeletons of factories that had closed a century ago.
+The "Iron Heart" was a fortress built from the bones of the old world. It was a massive geothermal plant that had been decommissioned a century ago, now sunk deep into the toxic mud of Sector 12.
 
-Angelica led them to the "Iron Heart"—the headquarters of the Resistance. It was an old geothermal plant, half-sunk into the toxic mud.
+Inside, it was a hive of activity. The vast turbine hall had been converted into a living space. Tents made of scavenged tarp were pitched on the catwalks. Children played tag among the silent generators. The air was thick with the smell of welding smoke and communal stew.
 
-The guards at the gate leveled their rifles.
+Angelica walked through the crowd. People stopped to stare. She was a legend here—the Founder's daughter who had gone Up Top. Some looked at her with hope; others with suspicion.
 
-"Identify!"
+"Is that her?" a woman whispered. "She looks like us now."
 
-"It's me," Angelica said, taking off her mask. "And I brought a guest."
+"She brought a Zenith with her," a man spat, looking at Corinne.
 
-The doors opened. Inside, the factory was alive. Not with machines, but with people. Families lived in the empty turbines. Children played on the catwalks.
+Angelica ignored them. She headed straight for the Control Room, a glass box suspended above the floor.
 
 **Scene 2: The King of Scrap**
 
-**Jax** was waiting for them in the control room. He looked worse than when she had left. His cybernetic arm was sparking. His face was grey.
+Jax was waiting. He sat in a chair made from a pilot's seat, his metal leg propped up on the console.
 
-"You came back," he said, his voice rough. "I thought you'd be sipping wine in the Spire by now."
+His cybernetic arm whirred as he stood up. It was a piece of art—scavenged servos, hydraulic pistons, and copper wiring, all exposed. He refused to cover it with synth-skin. "Let them see the machine," he always said.
 
-"I prefer the water down here," Angelica said, grabbing a tin cup from a table. "It has texture."
+"Angie," he said, his voice like gravel. "You look like hell."
 
-She introduced Corinne. Jax laughed. "A Zenith Lady? In my base? We should ransom her."
+"I missed you too, Jax," she said, hugging him. He smelled of oil and old tobacco.
 
-"She's with me," Angelica said firmly. "She helped me escape."
+He looked at Corinne, who was shivering in the corner. "And who is the drowned rat?"
 
-Jax studied Corinne. "She looks soft."
+"Lady Corinne," Angelica said. "She's an asset."
 
-"I am not soft," Corinne snapped, trying to scrape mud off her dress. "I am... resilient."
+"She's a liability," Jax grunted. "She's shivering. She's in shock. She's never seen a day of hardship in her life."
+
+"I survived the drop," Corinne said, her teeth chattering. "And the sewer. I think I earned a blanket."
+
+Jax laughed. He threw her a heavy wool cloak. "Fair enough. Welcome to the resistance, princess."
 
 **Scene 3: The War Room**
 
-Angelica laid out the stolen data-drives.
+Angelica unrolled the schematics on the tactical table.
 
-"Vane is planning a purge," she told the assembled leaders. "Protocol Omega. He's going to vent the sector to stabilize the hull."
+"Vane knows we're here," she said. "He's planning to purge the sector. Protocol Omega."
 
-The room erupted in shouting.
+The other leaders gathered around. There was **Mara**, the sniper with the eyepatch. **Korg**, the massive brawler who ran the supply lines. And **Old Miller**, who had somehow beaten them back to base.
 
-"We have to fight!"
-"We have to hide!"
-"We're dead!"
+"He can't purge us if we hold the Engine," Mara said. "But getting in is impossible. The blast doors are rated for orbital bombardment."
 
-"Quiet!" Jax roared, slamming his metal fist on the table.
+"We don't go through the doors," Angelica said. "We go through the cooling system."
 
-He looked at Angelica. "What's the plan, Angie? You didn't come down here just to tell us we're doomed."
-
-"We strike first," Angelica said. "We take the Engine Room. If we control the Engine, we control the ship. Vane can't vent the sector if we lock him out of the environmental systems."
-
-"The Engine Room is a fortress," Jax said. "Bio-locks. Turrets. Praetorians."
-
-"I have the codes," Angelica said. "And I have a way in."
+She pointed to a blue line on the map. "The primary coolant intake. It cycles every six hours. When it flushes, the pressure drops for ten minutes. That's our window."
 
 **Scene 4: The Strategist**
 
-She pulled up the map. "The waste chutes. They dump directly into the cooling sub-sector. It's a straight shot to the core."
+"Ten minutes to swim up a pipe against the current?" Korg asked, crossing his massive arms. "We'll drown."
 
-"It's suicide," a lieutenant said.
+"Not if we have rebreathers," Angelica said. "And mag-boots to grip the walls."
 
-"It's the only chance we have," Angelica countered. "Vane expects a riot. He expects us to attack the gates. He doesn't expect us to crawl through the garbage."
+"We don't have enough gear for an assault team," Miller noted.
 
-Jax looked at the map. He traced the route with his finger.
+"Then we steal it," Angelica said. "From the armory on Level 40."
 
-"It's crazy," he said. He smiled, a flash of white teeth in a grime-streaked face. "I like it."
+Jax looked at the map. He looked at Angelica.
+
+"You've changed, kid," he said. "You used to talk about fixing machines. Now you're talking about breaking them."
+
+"The machine is broken, Jax," she said. "I'm just scrapping it for parts."
+
+She slammed her hand on the table. "We leave at 0400. Get your gear."
 
 ### Chapter 13: Whispers in the Dark
 
-**Scene 1: The Calm Before**
+**Scene 1: The Last Supper**
 
-The night before the mission, the base was quiet. People were sharpening knives, cleaning guns, writing letters they hoped wouldn't be read.
+The night before the mission, the Iron Heart was quiet. The hum of the geothermal turbines provided a low, vibrating baseline to the tension in the air.
 
-Angelica sat on the roof, watching the smog swirl around the Spire lights miles above.
+Angelica sat on the catwalk, her legs dangling over the edge. She was watching the people below. Families were huddling together. A mother was singing a lullaby to her child—a song about a blue sky she had never seen.
 
-Jax joined her. He handed her a protein bar. "Eat. You'll need the energy."
+Jax sat down beside her, his metal heavy on the grating. He handed her a bowl of stew. "Eat. It's protein mash. Tastes like wet cardboard, but it fuels the engine."
 
-"Do you think we can win?" she asked.
+Angelica took a spoonful. It was warm and salty. "My father used to make this," she said softly. "Before he was purged. He said it was 'Explorer's Rations'."
 
-"No," Jax said honestly. "But I think we can make them bleed. And sometimes, that's enough."
+"Your father was a good man," Jax said. "Too good for this ship. That's why they killed him."
 
-He looked at his metal arm. "I built this arm from scrap, Angie. Because I refused to be broken. That's what we are. We're the scrap that refuses to be thrown away."
+"They didn't just kill him," Angelica said, gripping the spoon. "They erased him. Deleted his logs. Burned his journals. Vane wants to be the only history."
 
-**Scene 2: Into the Chute**
+Below them, Corinne was sitting with a group of mechanics. She was holding a bowl of stew like it was a live grenade. She took a tentative sip, grimaced, and then forced a smile. "Delightful," she lied. "It has... earthy notes."
 
-The team consisted of Angelica, Jax, Corinne (who refused to be left behind), and a demolition squad.
+The mechanics laughed. It was the first time Angelica had heard laughter in days.
 
-They entered the waste processing tunnel. The smell was indescribable.
+**Scene 2: The Armory Heist**
 
-"Focus," Angelica whispered. "Don't breathe through your nose."
+0200 Hours. Level 40. The Security Sector.
 
-They crawled for hours. The metal was cold and slick. Rats the size of cats scurried away from their lights.
+They needed gear. The Resistance had determination, but they didn't have rebreathers or mag-boots.
 
-"I hate this," Corinne muttered for the hundredth time. "I hate you. I hate Vane. I hate pipes."
+Angelica, Jax, and Silas crept through the ventilation shafts. This was Silas's territory.
 
-"Noted," Angelica said.
+"Camera on the left," Silas whispered, checking his scanner. "Thermal sensors on the right. We have a ten-second loop on the video feed."
 
-**Scene 3: The Ambush**
+They dropped down into the hallway. Two guards stood by the armory door, bored, checking their datapads.
 
-They reached the hatch to the Engine Sector. Angelica attached the decoder.
+"Non-lethal," Angelica reminded them.
 
-_Green light._
+Silas rolled a small metal sphere down the hall. It stopped at the guards' feet. It beeped once.
 
-The hatch opened.
+_Flash._
 
-They stepped out into a pristine white corridor.
+A blinding white light filled the corridor. The guards collapsed, stunned by the concussion grenade.
 
-"Clear," Jax whispered.
+Angelica ran to the door. She jacked her decoder into the panel. "Encryption is standard Zenith-Military. Give me thirty seconds."
 
-They moved forward.
+"We have twenty," Jax said, watching the hallway.
 
-Suddenly, blast doors slammed shut at both ends of the hallway. Red lights flashed.
+The lock clicked. Green light.
 
-"Trap!" Jax yelled.
+They burst inside. Rows of black combat armor lined the walls. Shelves of plasma rifles. And in the back, the rebreathers.
 
-Vents opened in the ceiling. Gas hissed out.
+"Grab everything you can carry," Angelica ordered. "We're going shopping."
 
-"Masks!" Angelica shouted, fumbling for her rebreather.
+**Scene 3: The Cooling Pipe**
 
-But it wasn't poison gas. It was a neuro-paralytic.
+0400 Hours. The Cooling Intake.
 
-Angelica's limbs went heavy. She saw Jax fall, his heavy body hitting the floor with a crash. Corinne slumped against the wall.
+The pipe was massive, twenty feet wide. It was filled with rushing water that smelled of ozone and algae.
 
-Angelica tried to stand, but her legs wouldn't obey. She looked up.
+"Masks on," Angelica said. Her voice sounded tinny in the comms.
 
-Through the glass of the observation deck, she saw **Kaelen**, the doctor she had recruited. He was standing next to Vesper.
+They slid into the water. It was freezing. The current was strong, pulling them toward the massive turbines that powered the ship.
 
-He looked down, shame on his face.
+"Mag-boots engaged," Jax reported.
 
-"I'm sorry, Angie," he mouthed. "They have my wife."
+They walked along the walls of the pipe, fighting the current. It was disorienting. The water was murky, lit only by their helmet lights.
 
-**Scene 4: Darkness**
+"I feel like a bacteria in a vein," Corinne muttered over the comms. She had refused to stay behind. "A very cold, wet bacteria."
 
-Vesper's voice came over the intercom.
+"Almost there," Angelica said. "The maintenance hatch is ahead. Watch out for the impellers."
 
-"A valiant effort, my dear. But did you really think I wouldn't notice a doctor ordering ten times the normal amount of neuro-stims? We traced him. We bought him. Everyone has a price."
+Huge blades spun in the darkness, chopping the water. They had to time their movement perfectly.
 
-Angelica tried to speak, to curse him, but her tongue was numb.
+_Zip._
 
-The last thing she saw before the blackness took her was Vesper's smile. It was the smile of a cat that had finally caught the mouse.
+Angelica boosted through the gap in the blades. Jax followed. Then Corinne.
+
+They reached the hatch. Angelica spun the wheel. It opened with a groan of rusted metal.
+
+**Scene 4: The Ambush**
+
+They spilled out into the Engine Sector corridor, dripping wet and shivering.
+
+"We're in," Jax whispered. "Clean insertion."
+
+They moved toward the Engine Room. The hallway was pristine white, silent.
+
+Suddenly, blast doors slammed shut at both ends of the corridor. The lights turned red.
+
+_ALERT. BIO-HAZARD DETECTED. CONTAINMENT PROTOCOL ENGAGED._
+
+Vents in the ceiling opened. Gas hissed out.
+
+"Gas!" Angelica shouted. "Masks!"
+
+But it wasn't poison. It was a neuro-paralytic mist that bypassed their filters.
+
+Angelica's legs went numb. She fell. Beside her, Jax crashed to the floor, his heavy armor useless.
+
+Through the haze, a door opened. Figures in hazmat suits walked in.
+
+Leading them was **Vesper**. And beside her... **Kaelen**.
+
+The doctor looked at Angelica. He was crying.
+
+"I'm sorry," he sobbed. "They have my wife. They said they'd cure her rot."
+
+"Traitor," Angelica whispered, before the darkness took her.
 
 ### Chapter 14: Chains of Gold
 
-**Scene 1: The White Cell**
+**Scene 1: The White Room**
 
-Angelica woke up in a white room. No windows. No doors. Just padded walls and a blinding light.
+Angelica floated in a white void. No sound. No smell. Just light.
 
-She was in a straitjacket.
+She tried to move. She was restrained.
 
-"Hello?" she croaked.
+She opened her eyes. She was in a sensory deprivation cell. The walls were padded. The light was blinding.
 
-"Subject awake," a computerized voice announced.
+"Leo?" she whispered.
 
-The wall slid open. Magister Vane walked in. He looked perfect, as always. Not a hair out of place.
+She saw him in the corner. He was sitting cross-legged, eating an apple.
 
-"You have caused me a great deal of trouble, Angelica," he said softly.
+"You failed, Angie," the hallucination said. "You led them into a trap."
 
-He pulled up a chair and sat down. "Do you know why I built the Spire? To elevate us. To lift humanity out of the mud. And you... you keep trying to drag us back down."
+"I tried," she wept. "I tried to save them."
 
-**Scene 2: The Philosophy of Order**
+"Trying isn't enough," Leo said. He took a bite of the apple. Blood ran down his chin. "The Engine needs blood."
 
-"You're a tyrant," Angelica spat.
+Angelica screamed. She blinked, and he was gone.
 
-"I am a gardener," Vane corrected. "I prune. I weed. It is necessary work. Without me, this ship would have consumed itself in anarchy decades ago."
+**Scene 2: The Gardener**
 
-He leaned forward. "I offer you a choice. One last time. Publicly renounce the Resistance. Tell them it was a mistake. Tell them I am the savior."
+The door hissed open. Magister Vane entered.
 
-"And if I don't?"
+He pulled up a white chair and sat down. He watched her struggle against the straps.
 
-"Then I will execute Jax. Slowly. On live broadcast. And then I will vent Sector 12. And you will watch from the VIP box."
+"Do not fight the restraints," he said softly. "They are mono-filament wire. They will cut to the bone if you struggle."
 
-Angelica stared at him. He meant it. He was a sociopath with a god complex.
+"Where are they?" Angelica demanded. "Where is Jax? Where is Corinne?"
 
-"Go to hell," she whispered.
+"Alive," Vane said. "For now. They are... specimens. Examples."
 
-Vane sighed. "Pity. I had such high hopes for your genetic line."
+He leaned forward. "You view me as a monster, Angelica. But I am a mathematician. The ship has finite resources. Oxygen. Water. Food. The population grows exponentially. The resources degrade linearly."
 
-**Scene 3: Corinne's Test**
+He held up a datapad. "I have run the simulations. If I do not purge Sector 12, the life support fails in six months. Everyone dies. If I purge, the Zenith survives for another generation. It is not cruelty. It is calculus."
 
-In the cell next door, Corinne was not in a straitjacket. She was sitting at a table with tea and cakes.
+"You created the scarcity!" Angelica shouted. "You hoard the resources! You waste energy on light shows and synthetic meat while we starve! It's not calculus, it's greed!"
+
+Vane stood up. "The variables are set. The equation must balance."
+
+**Scene 3: The Socialite's War**
+
+In the cell next door, Corinne was not bound. She was sitting at a table set for tea.
 
 Vesper sat opposite her.
 
-"You can walk away, Corinne," Vesper said. "Just sign the confession. Say Angelica kidnapped you. Say she forced you to help. You can go back to your parties. Your dresses."
+"You look terrible, darling," Vesper purred. "That jumpsuit does nothing for your figure."
 
-Corinne looked at the tea. It smelled of jasmine. It smelled of her old life.
+Corinne looked at her tea. Her hands were shaking, but she forced them to be still. She remembered her training. The court was a battlefield.
 
-She looked at Vesper. "And what happens to Angelica?"
+"And you look... desperate, Vesper," Corinne said, her voice cool. "Recruiting a doctor? Bribing him with medicine? It's so... common. It smells of fear."
 
-"She dies," Vesper said simply. "She is a cancer. We cut her out."
+Vesper's smile tightened. "I am winning, Corinne. I have you in a cage."
 
-Corinne picked up the cup. Her hand trembled. She thought of the Silt. The mud. The children playing in the rust.
+"Do you?" Corinne took a sip of tea. "Or are you just guarding the door while Vane makes the decisions? You always were a glorified doorman, Vesper. Even in your own house."
 
-She threw the tea in Vesper's face.
+Vesper stood up, furious. She slapped Corinne.
 
-"It was hot!" Vesper shrieked, clawing at her eyes.
+Corinne didn't flinch. She tasted the blood on her lip. She smiled.
 
-"Oops," Corinne said, smiling. "I'm clumsy."
+"That," Corinne said, "was a breach of etiquette."
 
-**Scene 4: The Resolve**
+**Scene 4: The Escape Artist**
 
-Guards rushed in and subdued Corinne.
+In her cell, Angelica stopped fighting the straps. She started thinking like a mechanic.
 
-In her cell, Angelica heard the commotion. She heard Corinne laughing.
+The restraints were held by magnetic locks. The frequency was standard.
 
-"She didn't break," Angelica whispered. Tears pricked her eyes.
+She didn't have a key. But she had a thumb.
 
-If Corinne—vain, shallow Corinne—could fight, then so could she.
+She took a deep breath. She focused on her left hand. She pushed her thumb against the restraint, forcing the joint backward.
 
-She began to test her bonds. She flexed her wrists, dislocating her thumb with a sickening pop. She didn't scream. She focused on the pain. Pain was fuel.
+_Pop._
 
-She slid her hand out of the cuff.
+Pain blinded her. Nausea rolled in her stomach. Her thumb was dislocated, hanging limp.
 
-"Gardener," she whispered. "Meet the weed."
+But her hand was narrower now.
+
+She greased her hand with sweat and blood. She pulled. The wire cut into her skin. She pulled harder.
+
+Her hand slid free.
+
+She gasped, cradling her broken hand. She reset the thumb with a sickening crunch.
+
+"Calculus this," she whispered.
 
 ### Chapter 15: The Game of Gears
 
-**Scene 1: The Court Martial**
+**Scene 1: The Walk of Shame**
 
-They dragged Angelica to the Council Chamber for her trial. It was a spectacle. Every Lord and Lady was there.
+They didn't just execute her. They wanted a show.
 
-Angelica was chained to a podium in the center. Jax was chained beside her, beaten and bloody.
+Guards dragged Angelica through the corridors of the Zenith. She was dirty, bloody, and wearing a torn jumpsuit.
 
-"The accused will rise," Cromwell intoned.
+The nobles lined the hallways. They jeered. They threw wine.
 
-"I'm standing," Angelica said.
+"Traitor!"
+"Rat!"
+"Silt-scum!"
 
-**Scene 2: The Evidence**
+Angelica held her head high. She looked them in the eye. She saw hatred, yes. But she also saw fear. They were afraid of her. They were afraid of the mud on her boots.
 
-Vane presented the evidence. Videos of the sabotage. The water plant. The theft.
+**Scene 2: The Trial**
 
-"She is a terrorist," Vane told the court. "She seeks to destroy our way of life."
+The Council Chamber. Vane sat on the high throne.
 
-"I seek to save the ship!" Angelica shouted. "Look at the seismic data! The hull is fracturing!"
+"Angelica Vance," Cromwell read from a scroll. "You are charged with High Treason. Sabotage. Inciting rebellion."
 
-She looked at the nobles. "Can't you feel it? The floor is vibrating! The tea in your cups is shaking! We are sinking!"
+"I am charged with telling the truth," Angelica said, her voice amplified by the acoustics of the room.
 
-Some of the nobles looked uneasy. They looked at their cups. The liquid *was* rippling.
+"You destroyed the water plant," Vane said. "You endangered the ship."
 
-**Scene 3: The Turning Point**
+"I fixed the water plant," Angelica countered. "I re-routed the flow. And I found the data you hid. The structural logs."
 
-"Lies!" Vane shouted. "She is trying to spread panic!"
+She turned to the crowd. "The hull is fracturing! Vane knows it! He's not purging Sector 12 to save you; he's doing it to delay the inevitable! He has an escape pod primed in the Observatory! He's going to leave you to die!"
 
-"I have proof!" Angelica yelled. "The Captain's Logs! I decoded them!"
+**Scene 3: The Resonance**
 
-She looked at the gallery. "Earth isn't dead! The mission is a lie! We aren't saving humanity; we're hiding from it!"
+"She lies!" Vane shouted.
 
-A gasp went through the room. This was heresy.
+_Rumble._
 
-"Silence her!" Vane ordered.
+The floor shook. A deep, grinding sound echoed through the hull.
 
-A guard raised his rifle.
+The chandelier above them swayed. Crystals fell, shattering on the floor.
+
+"Is that a lie?" Angelica screamed. "The ship is speaking! Listen to it!"
+
+The nobles looked around in panic. The vibration was getting stronger.
+
+"It's the Engine," Krell whispered from the gallery. "It's out of sync."
 
 **Scene 4: The Rescue**
 
-_BOOM._
+Suddenly, the wall behind the throne exploded.
 
-The main doors of the chamber exploded inward.
+Debris rained down. Through the dust, a massive metal shape emerged.
 
-A massive drilling machine—a mining bore from Sector 12—crashed through the wall.
+It was a mining bore. A huge, spinning drill bit.
 
-"Did someone order a renovation?" a voice boomed.
+The cockpit canopy popped open. **Miller** grinned, his teeth white against the soot on his face.
 
-It was **Miller**. He was driving the bore. Beside him was Silas, dual-wielding plasma cannons.
+"Did someone call for a plumber?" he yelled.
 
-The Resistance poured into the chamber. The nobles screamed.
+Silas popped out of the gunner hatch, dual plasma cannons blazing. "Party's over!"
 
-"Get them!" Jax roared, snapping his chains with a surge of adrenaline (and a hidden lockpick Angelica had passed him).
+The Resistance poured through the breach. Jax, having escaped his own cell (with a little help from a hidden lockpick Angelica had slipped him), charged into the room, tackling the nearest guard.
 
-Angelica grabbed a fallen rifle. She looked at Vane.
+Angelica grabbed a fallen rifle. She looked at Vane, who was cowering behind his throne.
 
-"Trial's over," she said.
-
-The Battle of the Council Chamber began.
+"Court is adjourned," she said.
 
 ### Chapter 16: The Great Escape
 
 **Scene 1: Chaos in the Court**
 
-The Council Chamber, once a sanctuary of silence and order, was now a war zone. The mining bore, a behemoth of rusted steel and grinding gears, sat in the center of the room, spinning its massive drill bit. It had chewed through the gold-leafed doors and the marble floor, throwing debris everywhere. Dust hung in the air, choking the expensive filtration systems.
+The Council Chamber, once a sanctuary of silence and order, was now a war zone. The mining bore, a behemoth of rusted steel and grinding gears, sat in the center of the room, spinning its massive drill bit. It had chewed through the gold-leafed doors and the marble floor, throwing debris everywhere.
 
-Angelica ducked behind a tipped-over podium made of genetically grown mahogany as plasma fire sizzled over her head. The smell of ozone and burnt hair was overpowering.
+Angelica ducked behind a tipped-over podium as plasma fire sizzled over her head. The smell of ozone and burnt hair was overpowering.
 
 "Cover fire!" she screamed, her voice cracking.
 
-Silas, standing on top of the bore like a pirate captain, unleashed a barrage from his dual cannons. "Eat lead, you shiny bastards!" he roared, laughing like a maniac. His coat tails flapped in the wind generated by the bore's intake fans.
+Silas, standing on top of the bore like a pirate captain, unleashed a barrage from his dual cannons. "Eat lead, you shiny bastards!" he roared, laughing like a maniac.
 
-The nobles were fleeing in a panic, their silk robes tangling in the rubble. Lord Tybalt tripped over his own sash and was trampled by a fleeing Duchess. Vane had vanished, likely retreated to his private bunker via a hidden panel.
+The nobles were fleeing in a panic, their silk robes tangling in the rubble. Vane had vanished, likely retreated to his private bunker.
 
-Jax, free of his chains, was using a broken piece of the dais as a shield. He limped over to Angelica, his face streaked with blood and grime.
+Jax, free of his chains, was using a broken piece of the dais as a shield. He limped over to Angelica.
 
 "We can't stay here!" he yelled over the noise of the battle. "The Praetorians are regrouping! They'll bring the heavy mechs! The Centurions!"
 
-"We need a ship!" Angelica shouted back, checking her stolen datapad. "The Hangar Bay is two levels up! Hangar 4!"
+"We need a ship!" Angelica shouted back, checking her datapad. "The Hangar Bay is two levels up! Hangar 4!"
 
-"Then let's go!" Jax grabbed a stunned Corinne by the arm. She was staring at a splatter of blood on her shoe. "Come on, princess! Run or die!"
+"Then let's go!" Jax grabbed a stunned Corinne by the arm. "Come on, princess! Run or die!"
 
 **Scene 2: The Corridor of Fire**
 
@@ -1265,11 +1341,11 @@ They fought their way out of the chamber and into the grand corridor. It was a g
 
 _Target Acquired. Sector 12 Scum._
 
-"Miller!" Angelica shouted into her comms. "Kill the turrets! Now!"
+"Miller!" Angelica shouted into her comms. "Kill the turrets!"
 
-"I'm trying!" Miller's voice crackled, sounding out of breath. "Their firewall is tough! It's military grade! It's reacting to my code!"
+"I'm trying!" Miller's voice crackled. "Their firewall is tough! It's military grade!"
 
-"Bypass it! Use the water main override! Short them out!"
+"Bypass it! Use the water main override!"
 
 A second later, the sprinkler system exploded. Water gushed onto the turrets, sizzling as it hit the hot plasma coils. The turrets spasmed, firing wildly into the walls before shorting out in a shower of sparks.
 
@@ -1277,15 +1353,15 @@ A second later, the sprinkler system exploded. Water gushed onto the turrets, si
 
 They sprinted down the hallway. Angelica checked her datapad again. "Left! Go left!"
 
-They rounded a corner and skidded to a halt. A Squad of Praetorians blocked the path. In the center stood a "Centurion"—a massive, powered-armor suit equipped with a rotary cannon. It stood eight feet tall, painted bone-white.
+They rounded a corner and skidded to a halt. A Squad of Praetorians blocked the path. In the center stood a "Centurion"—a massive, powered-armor suit equipped with a rotary cannon.
 
-"Halt," the Centurion boomed, its voice amplified. "Surrender and die quickly."
+"Halt," the Centurion boomed. "Surrender and die quickly."
 
 **Scene 3: The Hangar Bay**
 
-"Back!" Jax shoved them into a side alcove just as the cannon tore the wall apart. Masonry exploded, peppering them with shrapnel.
+"Back!" Jax shoved them into a side alcove just as the cannon tore the wall apart.
 
-"We're pinned!" Silas shouted, reloading his heat-sinks. "I can't dent that thing!"
+"We're pinned!" Silas shouted, reloading his heat-sinks.
 
 "I can distract them," Jax said quietly.
 
@@ -1311,21 +1387,21 @@ The explosion shook the deck plates. A fireball consumed the corridor.
 
 "Jax!" Angelica screamed, tears streaming down her face.
 
-"Go!" Silas grabbed her and dragged her toward the hatch. "Don't let him die for nothing! Move!"
+"Go!" Silas grabbed her and dragged her toward the hatch. "Don't let him die for nothing!"
 
 **Scene 4: The Launch**
 
-They burst into the Hangar Bay. It was chaos. Alarms blared. Smoke from the explosion drifted in through the vents.
+They burst into the Hangar Bay. It was chaos. Alarms blared.
 
 They found a cargo hauler—the _Mule_. It was ugly, boxy, and old. It looked like a brick with engines. But it was serviceable.
 
 They scrambled up the ramp. Angelica jumped into the pilot's seat. It smelled of stale coffee and grease.
 
-Silas took the gunner station. Corinne strapped into the co-pilot seat, sobbing quietly, her hands shaking so hard she couldn't buckle the belt.
+Silas took the gunner station. Corinne strapped into the co-pilot seat, sobbing quietly.
 
-"Systems green," Angelica said, her voice shaking. She wiped tears from her eyes. "Initializing launch sequence. Reactor online. Thrusters online."
+"Systems green," Angelica said, her voice shaking. She wiped tears from her eyes. "Initializing launch sequence."
 
-"They're cutting through the door!" Silas yelled. "I see cutting lasers!"
+"They're cutting through the door!" Silas yelled.
 
 "Hold on!"
 
@@ -1333,21 +1409,21 @@ Angelica punched the throttle. The _Mule_ lurched forward, hovering on its repul
 
 "Burn," she whispered.
 
-She slammed the afterburners. The ship shot forward. They smashed through the atmospheric containment field—a shimmering blue wall—and out into the void of the central shaft.
+She slammed the afterburners. The ship shot forward. They smashed through the atmospheric containment field and out into the void of the central shaft.
 
 Behind them, the hangar bay exploded as the backwash from their engines ignited the fuel lines.
 
-They were out. But they were falling. The artificial gravity of the shaft grabbed them.
+They were out. But they were falling.
 
 ### Chapter 17: The Wasteland
 
 **Scene 1: The Crash**
 
-"We're losing altitude!" Angelica fought the stick. "The port stabilizer is shot! We're in a spin!"
+"We're losing altitude!" Angelica fought the stick. "The port stabilizer is shot!"
 
-The _Mule_ spiraled down through the darkness of the shaft. They passed the Mid-Levels, a blur of neon pink and green. They passed the Silt factories, grey and sullen.
+The _Mule_ spiraled down through the darkness of the shaft. They passed the Mid-Levels, a blur of neon. They passed the Silt factories.
 
-"Brace for impact!" Angelica shouted. "Pull your knees up!"
+"Brace for impact!" Angelica shouted.
 
 The ship slammed into the garbage mountain of Sector 0. Metal screamed. The hull buckled. The cockpit glass shattered, spraying them with diamond-dust.
 
@@ -1363,13 +1439,13 @@ She groaned, unbuckling her harness. She fell to the deck with a thud.
 
 "Corinne? Silas?"
 
-Silas was groaning, nursing a broken arm. His crocodile suit was ruined. Corinne was unconscious but breathing, a trickle of blood on her forehead.
+Silas was groaning, nursing a broken arm. Corinne was unconscious but breathing.
 
 They crawled out of the wreckage. They were in a cavern of trash. Mountains of twisted metal rose on all sides, lit by bioluminescent fungi that grew on the decay. It was a landscape of rust.
 
 "Where are we?" Corinne whispered, waking up.
 
-"The Scrapyard," Angelica said. "The bottom of the world. Sector 0."
+"The Scrapyard," Angelica said. "The bottom of the world."
 
 They had no food. No water. And the air was thin, smelling of methane and rot.
 
@@ -1383,11 +1459,11 @@ They moved deeper into the waste. This place had an ecosystem. A twisted, metal 
 
 "Quiet," Angelica hissed.
 
-A "Scrap-Stalker" skittered across a pile of junk. It was a mutated rat, the size of a dog, with metal shards embedded in its flesh. It had adapted to the environment, incorporating the trash into its body.
+A "Scrap-Stalker" skittered across a pile of junk. It was a mutated rat, the size of a dog, with metal shards embedded in its flesh. It had adapted to the environment.
 
 They watched it hunt a smaller creature—a bio-luminescent slug. It was brutal and efficient.
 
-"Even the rats are armored down here," Silas muttered. "I hate this planet. Ship. Whatever."
+"Even the rats are armored down here," Silas muttered. "I hate this planet."
 
 Suddenly, the Stalker scented them. It turned, hissing.
 
@@ -1411,7 +1487,7 @@ A dozen figures stepped into the light. They were androids. Old models. Their sy
 
 "We mean no harm," Angelica said, holstering her weapon. "We are refugees."
 
-The leader, a tall android with a missing arm, stepped forward. He scanned Angelica with a red beam.
+The leader, a tall android with a missing arm, stepped forward. He scanned Angelica.
 
 "Resonance detected," he beeped. "Founder's blood. Genetic Match: 99%."
 
