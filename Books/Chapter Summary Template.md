@@ -4,6 +4,8 @@
 
 > [!IMPORTANT] > **Word Count Rule:** Each chapter summary must be at least **1000 words** in length. Expand descriptions, dialogue, and internal monologues to meet this requirement.
 
+> [!IMPORTANT] > **Consistency Rule:** All modifications to chapters must be strictly **consistent with character profiles, plot development, and the continuity of the story**. Ensure that character actions and dialogue align with their established traits and previous events.
+
 > [!NOTE]
 > There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
 
