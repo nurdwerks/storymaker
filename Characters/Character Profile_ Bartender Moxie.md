@@ -17,3 +17,10 @@ Moxie is the tough owner of "The Last Drop" who treats Zephyr like a favorite so
   **Quote:** _"Closing time!"_
 - **Impact on Zephyr:** Zephyr loses his "home." Seeing Moxie standing amidst the ashes of her life makes him realize that his "charming" underworld lifestyle has a very real, very ugly cost. He becomes more serious and focused on the revolution.
 - **Impact on Entourage:** The "Sanctuary" is gone. The smugglers and low-lifes who called the bar home are scattered, turning Zephyr’s close-knit "family" into a group of desperate individuals fighting for scraps in the Silt.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 28 | Key Event | Wardens storm the "Last Drop" bar; Moxie sets the establishment on fire to distract the soldiers and allow her patrons to escape through the back. |
+| Book 2 | Chapter 28 | Moment | **Moxie** — She shows heroic selflessness by burning the only home and business she has ever known to save the "rats" she cares for. |

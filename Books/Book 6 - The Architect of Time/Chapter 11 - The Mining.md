@@ -13,15 +13,15 @@
 
 - **Key Event:** Angelica oversees the construction of a ten-foot-tall Blast Furnace in the center of the camp.
 - **Key Event:** Angelica teaches the hunters to distinguish between "fool's gold" (pyrite) and hematite (iron ore).
-  - _Key Dialog:_ **Angelica Vance:** "This is a lie. It's trash. It's fool's gold. ... This is iron sleeping in stone. It is the blood of the earth. We want the red rock."
+  - _Key Dialog:_ **Angelica Ward:** "This is a lie. It's trash. It's fool's gold. ... This is iron sleeping in stone. It is the blood of the earth. We want the red rock."
 
 ---
 
 ### Scene 2: The Iron
 
 - **Key Event:** The first successfull pour of molten iron occurs, terrifying and awing the tribe.
-  - _Character Defining Moment:_ **Angelica Vance** — She leans into the heat to inspect the flow, appearing like a "demon of the forge" in her dedication to the future.
-  - _Key Dialog:_ **Angelica Vance:** "It works. We have metal. We have the future."
+  - _Character Defining Moment:_ **Angelica Ward** — She leans into the heat to inspect the flow, appearing like a "demon of the forge" in her dedication to the future.
+  - _Key Dialog:_ **Angelica Ward:** "It works. We have metal. We have the future."
 
 ---
 
@@ -29,7 +29,7 @@
 
 - **Key Event:** Angelica forges a heavy, functional iron sword to replace the tribe's obsidian and bone weapons.
 - **Key Event:** She presents the sword to Ragnar, demonstrating its superior strength.
-  - _Key Dialog:_ **Angelica Vance:** "Obsidian breaks. Bone shatters. Wood rots. Iron endures."
+  - _Key Dialog:_ **Angelica Ward:** "Obsidian breaks. Bone shatters. Wood rots. Iron endures."
   - _Key Dialog:_ **Ragnar:** "It sings. It sings when I swing it."
 
 ---
@@ -37,8 +37,8 @@
 ### Scene 4: The Declaration
 
 - **Key Event:** Angelica holds aloft an iron hammer, declaring the transition from the Stone Age to the Iron Age.
-  - _Character Defining Moment:_ **Angelica Vance** — She asserts dominance and vision, framing technology as the end of fear.
-  - _Key Dialog:_ **Angelica Vance:** "The Stone Age ended yesterday. Welcome to the Iron Age. Now, pick up your tools. we have a ship to build."
+  - _Character Defining Moment:_ **Angelica Ward** — She asserts dominance and vision, framing technology as the end of fear.
+  - _Key Dialog:_ **Angelica Ward:** "The Stone Age ended yesterday. Welcome to the Iron Age. Now, pick up your tools. we have a ship to build."
 
 ---
 
@@ -53,3 +53,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

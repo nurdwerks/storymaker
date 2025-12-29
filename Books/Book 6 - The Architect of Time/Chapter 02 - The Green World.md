@@ -33,10 +33,10 @@
 ### Scene 4: The Joke
 
 - **Key Event:** Angelica laughs at the absurdity of her situation, facing a prehistoric predator.
-  - _Key Dialog:_ **Angelica Vance:** "Really? This is how it ends? I'm cat food?"
+  - _Key Dialog:_ **Angelica Ward:** "Really? This is how it ends? I'm cat food?"
 - **Key Event:** Angelica adopts a combat stance, choosing to die fighting rather than screaming.
-  - _Character Defining Moment:_ **Angelica Vance** — Her defiance in the face of certain death reveals her "Architect" persona and refusal to submit.
-  - _Key Dialog:_ **Angelica Vance:** "The history books said this era was 'lush.' They meant 'deadly.' Come on, kitty. Let's see who bites harder."
+  - _Character Defining Moment:_ **Angelica Ward** — Her defiance in the face of certain death reveals her "Architect" persona and refusal to submit.
+  - _Key Dialog:_ **Angelica Ward:** "The history books said this era was 'lush.' They meant 'deadly.' Come on, kitty. Let's see who bites harder."
 
 ---
 
@@ -51,3 +51,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

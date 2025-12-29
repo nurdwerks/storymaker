@@ -18,7 +18,7 @@
 ### Scene 2: The Plans
 
 - **Key Event:** She devises the "Deflection Strategy," using the _Aeterna_ as a kinetic spear to blind the enemy.
-  - _Character Defining Moment:_ **Angelica Vance** — She reveals herself as the most experienced commander in the fleet.
+  - _Character Defining Moment:_ **Angelica Ward** — She reveals herself as the most experienced commander in the fleet.
 
 ---
 
@@ -31,7 +31,7 @@
 ### Scene 4: The Experience
 
 - **Key Event:** Angelica asserts that 5,000 years of thought have led to this final plan.
-  - _Key Dialog:_ **Angelica Vance:** "I had 5,000 years to think of it. It better be good."
+  - _Key Dialog:_ **Angelica Ward:** "I had 5,000 years to think of it. It better be good."
 
 ---
 
@@ -46,3 +46,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

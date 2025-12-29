@@ -13,7 +13,7 @@
 
 - **Key Event:** Angelica builds a primitive spark-gap transmitter from cannibalized suit parts and lemon-acid batteries.
 - **Key Event:** She broadcasts an S.O.S. in Morse code from a mountain peak.
-  - _Key Dialog:_ **Angelica Vance:** "Please respond."
+  - _Key Dialog:_ **Angelica Ward:** "Please respond."
 
 ---
 
@@ -27,15 +27,15 @@
 ### Scene 3: The Isolation
 
 - **Key Event:** After three days of signaling, Angelica realizes she is sending messages to people who haven't been born yet.
-  - _Character Defining Moment:_ **Angelica Vance** — She experiences profound loneliness, realizing she is the only person on Earth who understands science.
+  - _Character Defining Moment:_ **Angelica Ward** — She experiences profound loneliness, realizing she is the only person on Earth who understands science.
 
 ---
 
 ### Scene 4: The Acceptance
 
 - **Key Event:** Angelica destroys her transmitter, symbolically severing her link to her former life.
-  - _Character Defining Moment:_ **Angelica Vance** — She transitions from a "Survivor" to the "Architect," deciding to save herself rather than wait for rescue.
-  - _Key Dialog:_ **Angelica Vance:** "No. Just me. Okay. Fine. I don't need a rescue. I'll save myself. If you won't come for me, I'll come for you. I'll build a door, and I'll kick it down!"
+  - _Character Defining Moment:_ **Angelica Ward** — She transitions from a "Survivor" to the "Architect," deciding to save herself rather than wait for rescue.
+  - _Key Dialog:_ **Angelica Ward:** "No. Just me. Okay. Fine. I don't need a rescue. I'll save myself. If you won't come for me, I'll come for you. I'll build a door, and I'll kick it down!"
 
 ---
 
@@ -50,3 +50,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

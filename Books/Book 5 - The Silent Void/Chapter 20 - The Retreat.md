@@ -11,8 +11,8 @@
 
 - **Key Event:** The group reaches the emergency airlock just before the blast doors seal Sector X, leaving the ruined bio-dome and its hyper-evolved life to freeze in the vacuum.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Looks back at the closing door, mourning Aris and the lost world of Sector X while clutching his datapad.
-  - _Key Dialog:_ **Angelica Vance:** "Secure the door. Sector X is dead."
+  - _Character Defining Moment:_ **Angelica Ward** — Looks back at the closing door, mourning Aris and the lost world of Sector X while clutching his datapad.
+  - _Key Dialog:_ **Angelica Ward:** "Secure the door. Sector X is dead."
   - _Key Dialog:_ **Hatcher:** "Nearly us too."
 
 - **Key Event:** The survivors find themselves in a service corridor with a localized hull breach, forced to use emergency sealants while the ship's AI reports the arrival of the main alien fleet.
@@ -22,3 +22,5 @@
   - _Key Dialog:_ **General Ironwood:** "Now we fight. No more hiding."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

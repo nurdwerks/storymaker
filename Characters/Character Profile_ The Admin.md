@@ -16,3 +16,10 @@ The Admin is an anonymous voice on a secure channel who Lisbet defers to. They r
 - **The Event:** Absolute Logic / Betrayal. The Admin calculates that the Underground’s survival is mathematically impossible as long as Lisbet remains in command. He attempts to stage a digital coup to "hand over" Lisbet to the Zenith in exchange for the Underground’s immunity.
 - **Impact on Lisbet:** Lisbet is forced to destroy her own server architecture to stop him. She wins the fight but loses the infrastructure that powered her rebellion, leaving her trapped in a failing, localized network.
 - **Impact on Entourage:** The "Structure" is broken. The hackers no longer trust the systems they built, leading to a state of anarchy where everyone is looking for a way to "patch" their own survival at the expense of the team.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 04 | Moment | **Zephyr** — His hatred for Gilded and his desperation are both exposed; Gilded still owns the admin codes to his arm. |
+| Book 2 | Chapter 18 | Key Event | Joyce is physically paralyzed by the command, and Angelica explains that the Gene-Key acts as an "admin password" inherited from the original Captain. |

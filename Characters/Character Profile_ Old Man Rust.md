@@ -23,3 +23,23 @@ Old Man Rust is an elderly Silt-dweller who remembers the "Before Times" before 
 - **Scene:** "The Signal." A Resonance spike triggers "Absolute Recall," flooding him with memories of the pre-Fall world. The shock causes a heart attack.
 - **Role:** The Victim of Truth. His death signifies that memory is dangerous in the Stone Season.
 - **Quote:** _"The sky... it was blue! I remember the birds!"_
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 1 | Chapter 08 | Key Event | The Clockwork Gryphon (Aeon) reactivates—rust flakes off, gears spin, wings of steel knives unfold. It's cat-sized but dense with old-world alloy. |
+| Book 2 | Chapter 24 | Key Event | The team fights off the "Rust-Jackals" gang and Warden squads. Angelica destroys a combat droid with her shock-knuckles, her Gene-Key-enhanced reflexes recognizing threats before she does. |
+| Book 3 | Chapter 32 | Key Event | The team finds The Archivist—an elderly man merged with the data systems—who offers to help them access Vane's files in exchange for a quick death. |
+| Book 4 | Chapter 05 | Moment | **Angelica Ward** — Observes the loss of humanity in a man she previously knew as a noble. |
+| Book 4 | Chapter 16 | Key Event | **Old Man Rust** is hit by a "memory-surge" from an ancient Zenith transmitter (the "Signal"). The shock of absolute recall causes a fatal heart attack. |
+| Book 4 | Chapter 37 | Moment | **Angelica Ward** — Realizes that Vane wasn't just a madman; he was a desperate man who saw the end of the world and tried to outrun it. |
+| Book 5 | Chapter 45 | Key Event | Angelica encounters a primitive man wearing furs and carrying a stone-tipped spear—a man who looks exactly like Kaelen Night, but younger and wilder. |
+| Book 6 | Chapter 03 | Key Event | Ragnar, a massive man and leader of the hunters, inspects Angelica and her metal shard. |
+| Book 6 | Chapter 20 | Moment | **Zephyr** — No longer the young thief; he's become the man who keeps them alive. |
+| Book 7 | Chapter 03 | Key Event | **Old Man Rust** sits alone in a maintenance alcove. Being blind, he tilts his head, listening to the vibration of the ship's hull. |
+| Book 7 | Chapter 07 | Key Event | **Corinne**, Scrap, and Old Man Rust barricade the mess hall to create a safe zone. |
+| Book 7 | Chapter 07 | Moment | **Lady Corinne** — She slaps a hysterical man to snap him out of it, then gently bandages his hand. |
+| Book 7 | Chapter 24 | Key Event | In seconds, he is gone. There is no ash. Just empty air where a man used to be. The ultimate narcissist is forgotten instantly. |
+| Book 7 | Chapter 27 | Key Event | He breaches the chaotic perimeter of the Sphere. He is now in "No Man's Land," close enough that the ship's guns can't support him. |
+| Book 7 | Chapter 48 | Key Event | Aeon appears as the Clockwork Man. He understands. |

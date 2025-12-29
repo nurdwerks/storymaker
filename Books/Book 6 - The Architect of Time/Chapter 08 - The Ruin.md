@@ -26,8 +26,8 @@
 
 - **Key Event:** Angelica identifies the ship as the _U.S.S. Vanguard_, a legendary lost mission launched in 2300 AD.
 - **Key Event:** She realizes the tribe are the descendants of the _Vanguard_'s crew and that they survived against all odds.
-  - _Character Defining Moment:_ **Angelica Vance** — She feels deep respect and hope, realizing humanity can survive the end of the world.
-  - _Key Dialog:_ **Angelica Vance:** "They didn't fail. They survived. They beat the odds."
+  - _Character Defining Moment:_ **Angelica Ward** — She feels deep respect and hope, realizing humanity can survive the end of the world.
+  - _Key Dialog:_ **Angelica Ward:** "They didn't fail. They survived. They beat the odds."
 
 ---
 
@@ -35,8 +35,8 @@
 
 - **Key Event:** Angelica examines the hull and realizes the titanium alloy frame is still structurally sound.
 - **Key Event:** She tells Torin that the wreck is not magic, but raw material for their future.
-  - _Character Defining Moment:_ **Angelica Vance** — Her ambition returns as she plans to "resurrect" the giant's bones.
-  - _Key Dialog:_ **Angelica Vance:** "We aren't the first to try and leave Earth. We are just the latest failures. But this... this is raw material. We don't have to start from scratch, Torin. We have the bones. We have the skeleton of a giant. We just need to put meat on them. We can resurrect this."
+  - _Character Defining Moment:_ **Angelica Ward** — Her ambition returns as she plans to "resurrect" the giant's bones.
+  - _Key Dialog:_ **Angelica Ward:** "We aren't the first to try and leave Earth. We are just the latest failures. But this... this is raw material. We don't have to start from scratch, Torin. We have the bones. We have the skeleton of a giant. We just need to put meat on them. We can resurrect this."
 
 ---
 
@@ -51,3 +51,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

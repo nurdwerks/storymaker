@@ -19,7 +19,16 @@ Nurse Ratched is a severe nurse who administers Joyce’s "medication" (which is
 
 ## III. Book 4 Integration
 
-- **Location:** Book 4, Chapter 20
+- **Location:** Book 4, Chapter 22
 - **Scene:** "The Betrayal" (Medical Blackmail)
 - **Role:** The Handler Turned Traitor
 - **Quote:** "Patient care sometimes requires euthanasia."
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 21 | Key Event | The group is met by a severe nurse and **Joyce**, an elderly woman who is revealed to be the legendary Undercity assassin "The Needle." |
+| Book 4 | Chapter 22 | Key Event | Nurse Ratched reveals she was a mole for the Zenith, sent to keep Joyce "retired" and pacified, and attempts to drug her. |
+| Book 4 | Chapter 22 | Moment | **Nurse Ratched** — Displays a cold, clinical loyalty to the Spire, viewing the residents as "property of the state." |
+| Book 4 | Chapter 22 | Key Event | Angelica saves Joyce from Ratched and drags her into the cold tunnels as the "Gentle Rest" burns down. |

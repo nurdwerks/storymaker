@@ -18,3 +18,9 @@ Lady Selene is Matriarch Lilith Night’s chief administrator and aesthetician. 
 - **The Event:** During the seizure of the estate, Selene is caught by Grey's drones. A biological scan reveals she has been embezzling family funds to buy black-market "Youth-Grafts."
 - **The Fate:** The droids strip the grafts from her face, literally peeling away her beauty. She is revealed as a withered, desperate old woman. Kaelen watches this, realizing the "Night Standard" was always a lie.
 - **Status:** **Ruined.** She is dragged away by the Wardens for "Bio-Fraud."
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 13 | Key Event | Droids forcibly remove Lady Selene's illegal "Youth-Grafts," and The Governess reveals she betrayed the family to Vane. |

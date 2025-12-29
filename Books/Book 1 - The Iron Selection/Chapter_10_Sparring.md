@@ -16,7 +16,7 @@
 - **Key Event:** Angelica is fast but cannot hit back effectively. Toro catches her jab, sweeps her legs, and pins her with a knee to the chest.
 
   - _Key Dialog:_ **Toro:** "Stay down, Silt-Rat. You don't belong here."
-  - _Key Dialog:_ **Instructor:** "Point, Toro. Reset! Get up, Vance. Pain is data. Assimilate it and improve."
+  - _Key Dialog:_ **Instructor:** "Point, Toro. Reset! Get up, Ward. Pain is data. Assimilate it and improve."
 
 ---
 
@@ -44,7 +44,7 @@
 
 - **Key Event:** Angelica feels panic, then white-hot indignation. Her Pride burns through fear.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Internal shift from fear to fury: "How dare they touch me?"
+  - _Character Defining Moment:_ **Angelica Ward** — Internal shift from fear to fury: "How dare they touch me?"
 
 ---
 
@@ -52,7 +52,7 @@
 
 - **Key Event:** When the leader reaches for her throat, Angelica reacts with pure kinetic rejection—a visible distortion wave throws all three boys twenty feet into the lockers.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Manifests raw Resonance (Kinetic Displacement, Level 5) for the first time, without a spell or focus.
+  - _Character Defining Moment:_ **Angelica Ward** — Manifests raw Resonance (Kinetic Displacement, Level 5) for the first time, without a spell or focus.
 
 - **Key Event:** Prelate Vane watches the feed from the Observation Deck, satisfied.
 
@@ -60,4 +60,6 @@
 
 - **Key Event:** Angelica steps over the groaning boys but realizes she has put a target on her back. In the Zenith, dangerous things are either controlled or destroyed.
 
-  - _Key Dialog:_ **Angelica Vance:** "Physics is just a suggestion when you have enough energy."
+  - _Key Dialog:_ **Angelica Ward:** "Physics is just a suggestion when you have enough energy."
+
+

@@ -19,6 +19,8 @@
 
   - _Character Defining Moment:_ **Prelate Vane** — Reveals his knowledge of the ship's secret purpose and the true nature of Angelica's DNA.
   - _Key Dialog:_ **Prelate Vane:** "The ship is a body, Angelica. And it's been waiting for its brain."
-  - _Key Dialog:_ **Angelica Vance:** "I'm not a brain. I'm a person."
+  - _Key Dialog:_ **Angelica Ward:** "I'm not a brain. I'm a person."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

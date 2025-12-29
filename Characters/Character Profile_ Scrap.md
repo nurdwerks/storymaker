@@ -23,3 +23,13 @@ Scrap is a small, jittery robot Hatcher built from Silt-trash. He represents the
 - **Scene:** "The Logic Shield." Scrap plugs himself into the console to absorb a "Logic-Spike" virus meant for Hatcher.
 - **Role:** The Digital Martyr. His sacrifice signifies the loss of Hatcher’s "heart" and technical support.
 - **Quote:** _"Beep-whirrr-sad-click."_ (His final sound before system wipe).
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 1 | Chapter 08 | Key Event | Angelica ignores the flashy Prime specimens and finds the "Reject" pile—a dusty cage containing a pile of scrap metal resembling a smashed Gryphon. |
+| Book 3 | Chapter 06 | Moment | **Angelica Ward** — Promises to free Miller and the others, recognizing them as people, not just "scrap metal." |
+| Book 3 | Chapter 18 | Key Event | The group navigates the scrapyard, encountering a "Scrap-Stalker" mutant rat and seeking shelter in an old colony ship fuselage. |
+| Book 4 | Chapter 17 | Key Event | **Scrap** plugs himself into the console to absorb a "Logic-Spike" virus meant for Hatcher, sacrificing his personality matrix to save his creator. |
+| Book 7 | Chapter 07 | Key Event | **Corinne**, Scrap, and Old Man Rust barricade the mess hall to create a safe zone. |

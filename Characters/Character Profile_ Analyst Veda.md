@@ -16,3 +16,9 @@ Analyst Veda is a woman who uses high-speed computers to predict the outcome of 
 - **The Event:** Statistical Anomaly / Betrayal. Veda discovers a data-set that proves Aris’s plan has a 100% failure rate for the survival of the human species. She tries to hide this from Aris, realizing that his obsession is a threat to the world.
 - **Impact on Dr. Aris:** Aris discovers her "omission" and realizes that his most reliable predictor has turned against him. He strips Veda of her authority and relegates her to the "Silt-side Observation" sub-team, effectively exiling her from the inner circle.
 - **Impact on Entourage:** The "Prediction" is lost. The research team no longer knows what the goal of their experiments is, leading to a state of existential dread as they realize they are working for a man whose plan is mathematically doomed.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 25 | Key Event | Angelica addresses the crew of the new ship. Analyst Veda and Bio-Engineer Kline are among the department heads present. |

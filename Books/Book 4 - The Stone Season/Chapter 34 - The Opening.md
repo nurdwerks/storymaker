@@ -20,8 +20,8 @@
 ### Scene 3: The View
 
 - **Key Event:** The outer shutters slide back, revealing a massive, reinforced glass dome overlooking the void of space.
-  - _Character Defining Moment:_ **Angelica Vance** — Sees the stars for the first time; they are not points of light in the ceiling, but distant, cold suns.
-  - _Key Dialog:_ **Angelica Vance:** "They're beautiful. And they're so... far away."
+  - _Character Defining Moment:_ **Angelica Ward** — Sees the stars for the first time; they are not points of light in the ceiling, but distant, cold suns.
+  - _Key Dialog:_ **Angelica Ward:** "They're beautiful. And they're so... far away."
 
 ---
 
@@ -34,3 +34,5 @@
 ---
 
 _Summarized from Book 4 source material._
+
+

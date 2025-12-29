@@ -11,8 +11,8 @@
 
 - **Key Event:** Angelica approaches the Interface Throne, discovering that it is not a seat of power but a specialized cockpit that biologically fuses the pilot to the ship's neural architecture.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Realizes that her entire bloodline was engineered by the Founders to be "components" or "biological hardware" rather than true rulers.
-  - _Key Dialog:_ **Angelica Vance:** "It's not a throne. It's a socket."
+  - _Character Defining Moment:_ **Angelica Ward** — Realizes that her entire bloodline was engineered by the Founders to be "components" or "biological hardware" rather than true rulers.
+  - _Key Dialog:_ **Angelica Ward:** "It's not a throne. It's a socket."
   - _Key Dialog:_ **Prelate Vane:** "You are hardware, my dear. Beautiful, biological hardware. You are the key."
 
 - **Key Event:** Vane explains that the neural load will melt a normal brain and that the pilot can never truly "unplug" without losing their mind, making it a one-way transformation.
@@ -22,3 +22,5 @@
   - _Key Dialog:_ **Prelate Vane:** "You are a hammer, Ironwood. We need a scalpel."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

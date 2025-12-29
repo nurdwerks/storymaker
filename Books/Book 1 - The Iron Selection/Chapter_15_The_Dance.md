@@ -15,8 +15,8 @@
 
 - **Key Event:** Corinne confronts Angelica with two sycophants, wearing a dress of woven light-filaments shifting to sharp, aggressive diamond-white.
 
-  - _Key Dialog:_ **Corinne:** "You're contaminating the aesthetic, Vance."
-  - _Key Dialog:_ **Angelica Vance:** "I wasn't aware 'pretentious' was a protected species."
+  - _Key Dialog:_ **Corinne:** "You're contaminating the aesthetic, Ward."
+  - _Key Dialog:_ **Angelica Ward:** "I wasn't aware 'pretentious' was a protected species."
   - _Key Dialog:_ **Corinne:** "Return to the gutter. Before I melt that scrap-metal dress to your skin."
 
 ---
@@ -36,18 +36,27 @@
 
 - **Key Event:** Kaelen asks Angelica to dance. She resists but accepts. He leads with absolute authority while she matches his rhythm using combat training.
 
-  - _Key Dialog:_ **Angelica Vance:** "I don't dance."
-  - _Key Dialog:_ **Kaelen Night:** "It is a waltz, Vance. It is physics. Momentum, torque, and trajectory."
+  - _Key Dialog:_ **Angelica Ward:** "I don't dance."
+  - _Key Dialog:_ **Kaelen Night:** "It is a waltz, Ward. It is physics. Momentum, torque, and trajectory."
 
 - **Key Event:** During the waltz, Kaelen explains why he helped: the Selection begins tomorrow, and he needs her functional—as his "wrench" to break the arena's gears.
 
-  - _Key Dialog:_ **Kaelen Night:** "The arena is a machine, Vance. It will try to grind us into paste. I need someone who knows how to break the gears."
+  - _Key Dialog:_ **Kaelen Night:** "The arena is a machine, Ward. It will try to grind us into paste. I need someone who knows how to break the gears."
   - _Key Dialog:_ **Kaelen Night:** "Do not mistake protection for affection. If you slow me down, I will leave you behind."
-  - _Key Dialog:_ **Angelica Vance:** "And if you try to use me as bait, I'll weld your door shut."
+  - _Key Dialog:_ **Angelica Ward:** "And if you try to use me as bait, I'll weld your door shut."
 
 ---
 
-### Scene 4: The Spell
+### Scene 4: The Observer
+
+- **Key Event:** Duke Grey watches the dance from the VIP balcony, surrounded by his entourage. He notices Kaelen protecting Angelica and whispers to Chamberlain Hives.
+  - _Character Defining Moment:_ **Duke Grey** — Introduced as a calculating observer who sees everything as an investment opportunity.
+  - _Key Dialog:_ **Duke Grey:** "The Night boy is compromising himself for that Silt-rat. Interesting. Increase the interest rate on House Night's debt by three percent."
+  - _Key Dialog:_ **Chamberlain Hives:** "As you command, my lord."
+
+---
+
+### Scene 5: The Spell
 
 - **Key Event:** After the dance, Corinne casts an Aging Curse at Angelica's back—a beam that would age her cells by forty years instantly.
 
@@ -55,6 +64,8 @@
 
 - **Key Event:** A nearby vase of flowers turns to dust from the displacement. Kaelen notices the Resonance spike but doesn't probe deeper.
 
-  - _Key Dialog:_ **Angelica Vance (thinking):** "Good bird."
+  - _Key Dialog:_ **Angelica Ward (thinking):** "Good bird."
   - _Key Dialog:_ **Aeon:** "Delicious seconds."
-  - _Key Dialog:_ **Angelica Vance:** "Let the Selection begin. I'm ready to break something."
+  - _Key Dialog:_ **Angelica Ward:** "Let the Selection begin. I'm ready to break something."
+
+

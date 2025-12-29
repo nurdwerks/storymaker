@@ -13,7 +13,7 @@
 
   - _Character Defining Moment:_ **Dr. Aris** — Identifies the source of the distortion as a leaking black hole and explains that they are burning their lives away in "fast time" relative to the outside.
   - _Key Dialog:_ **Dr. Aris:** "We are in a time dilation field. We are in a bubble."
-  - _Key Dialog:_ **Angelica Vance:** "So if we stay here too long... we age."
+  - _Key Dialog:_ **Angelica Ward:** "So if we stay here too long... we age."
 
 - **Key Event:** The group is forced to navigate a three-dimensional maze of floating islands and aggressive flora while racing against the accelerated time.
 
@@ -22,3 +22,5 @@
   - _Key Dialog:_ **General Ironwood:** "Chaos is our ally."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

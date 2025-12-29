@@ -1,4 +1,4 @@
-﻿# Character Profile: Baron Gilded (The Gold-Skinned King)
+# Character Profile: Baron Gilded (The Gold-Skinned King)
 
 **Archetype:** The Crime Lord / The Grotesque / The Honest Monster **True Sin:** GREED (Pure, unadulterated Avarice. Unlike others who hunger for power or knowledge, Gilded hungers for *ownership*. He wants to possess people, objects, and debts. He believes that if you own enough of the world, death cannot afford to take you). **Virtue Mask:** NONE (Uniquely among the cast, Gilded wears no mask. He does not pretend to be kind, just, or charitable. He is openly, proudly greedy. He views this transparency as his only virtue: "At least I am not a hypocrite like the Duke").
 
@@ -176,3 +176,27 @@ Gilded is never alone, yet always isolated. He surrounds himself with a court of
 - **Madame Velour:** Gilded’s personal tailor and fabricator. She fusses over Gilded’s silks, smoothing wrinkles and complimenting his "majestic form." When she looks at Angelica, it is with undisguised disgust, often offering to "drape something over that mess" in a tone that implies Angelica is trash to be hidden.
 
 - **Broker Vix:** A high-speed information trader who whispers secrets in Gilded’s ear. They share a frantic, coded language of stocks and bonds that Angelica cannot parse. Their intimacy—heads bent together, laughing at the misfortune of others—stings Angelica, who yearns for that kind of effortless connection.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 01 | Moment | **Angelica Ward** — Despite the gilded surroundings, she immediately searches for exits, weapons, and surveillance devices. |
+| Book 2 | Chapter 04 | Key Event | Zephyr scans Angelica with his Cyber-Eye, revealing a 50-million-credit bounty for High Treason posted by Baron Gilded; he initially draws his blaster, intending to claim the reward. |
+| Book 2 | Chapter 04 | Key Event | Zephyr's cybernetic arm suddenly locks up—Baron Gilded is remotely activating the "Recall Protocol," a message flashing on his wrist display: "BRING HER TO ME OR LOSE THE ARM." |
+| Book 2 | Chapter 04 | Moment | **Zephyr** — His hatred for Gilded and his desperation are both exposed; Gilded still owns the admin codes to his arm. |
+| Book 2 | Chapter 04 | Key Event | Spurred by his hatred of Gilded and the insistence of his droid Unit 734, Zephyr chooses to shoot down a Warden Hunter-Seeker drone instead of capturing Angelica. |
+| Book 2 | Chapter 04 | Moment | **Zephyr** — He chooses to act against his financial interest and Gilded's orders, citing a personal debt of honor to someone who once helped him. |
+| Book 2 | Chapter 23 | Key Event | To access the Broadcast Tower, the team needs credits and access codes. Zephyr brings Angelica to Baron Gilded's club, pretending to sell her. |
+| Book 2 | Chapter 23 | Moment | **Baron Gilded** — Introduced in his full grotesque glory: gold skin, Repulsor Throne, diamond teeth. |
+| Book 2 | Chapter 23 | Key Event | While Angelica "negotiates" and feeds Gilded's ego, Lisbet hacks his chair's systems. Zephyr accesses the debt ledger to erase his own record. |
+| Book 2 | Chapter 23 | Moment | **Lisbet** — Demonstrates her skill by breaking Gilded's security while he's distracted. |
+| Book 2 | Chapter 23 | Key Event | Lisbet disables the Repulsor Throne. Baron Gilded crashes to the floor, helpless under his own weight, screaming like a toddler as they escape with the access codes. |
+| Book 2 | Chapter 23 | Moment | **Baron Gilded** — Total humiliation as the untouchable king is reduced to a helpless mass on the floor. |
+| Book 3 | Chapter 10 | Key Event | Baron Gilded hosts a black-market auction for Zenith artifacts. Duke Grey attends, using his Pax Spores to "encourage" bidders. |
+| Book 3 | Chapter 16 | Key Event | Broker Vix approaches Angelica with an offer—information about Vane's plans in exchange for future considerations. She is Baron Gilded's information dealer. |
+| Book 3 | Chapter 16 | Key Event | Baron Gilded arrives with his enforcers: the twins Debit and Credit, identical in appearance and brutality. |
+| Book 4 | Chapter 08 | Key Event | Zephyr leads a scavenging mission into the frozen upper sectors. They enter Baron Gilded's abandoned penthouse looking for supplies. |
+| Book 4 | Chapter 08 | Key Event | Zephyr finds Baron Gilded's frozen corpse, still seated in his crashed Repulsor Throne. The cold preserved him perfectly—a golden statue of greed. |
+| Book 4 | Chapter 08 | Moment | **Zephyr** — Feels no pity, only satisfaction. He rips out Gilded's diamond-studded gold tooth as payment for old debts. |
+| Book 4 | Chapter 08 | Key Event | The group finds Gilded's emergency stash: protein bars, water purifiers, and thermal blankets. Enough to keep the survivors alive for weeks. |

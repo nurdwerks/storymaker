@@ -12,7 +12,7 @@
 ### Scene 1: The Problem
 
 - **Key Event:** Angelica realizes the ship lacks antimatter or zero-point energy to jump, rendering it a "paperweight."
-  - _Key Dialog:_ **Angelica Vance:** "It's a Ferrari with no gas."
+  - _Key Dialog:_ **Angelica Ward:** "It's a Ferrari with no gas."
 
 ---
 
@@ -26,14 +26,14 @@
 ### Scene 3: The Plan
 
 - **Key Event:** The tribe builds a superconducting cable from copper, gold, and ceramic to tap the volcano's energy.
-  - _Key Dialog:_ **Angelica Vance:** "We need to plug into the planet. We are going to give the world a transfusion."
+  - _Key Dialog:_ **Angelica Ward:** "We need to plug into the planet. We are going to give the world a transfusion."
 
 ---
 
 ### Scene 4: The Risk
 
 - **Key Event:** Angelica recognizes the danger of the volcano erupting but proceeds with the tap as their only hope.
-  - _Key Dialog:_ **Angelica Vance:** "If we tap it wrong, we blow the top off the mountain. ... But if we don't, we die here. Let's do it."
+  - _Key Dialog:_ **Angelica Ward:** "If we tap it wrong, we blow the top off the mountain. ... But if we don't, we die here. Let's do it."
 
 ---
 
@@ -48,3 +48,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

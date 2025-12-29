@@ -29,8 +29,8 @@
 
 - **Key Event:** Other cadets freeze in shock. Angelica lies to Halloway that it's "fast metabolism" and "digestion" to hide Aeon's true nature, knowing the Zenith would dissect him if they knew.
 
-  - _Key Dialog:_ **Ria:** "Vance... what the hell is that thing?"
-  - _Key Dialog:_ **Angelica Vance:** "Digestion. Fast metabolism. Inefficient waste processing. He runs hot."
+  - _Key Dialog:_ **Ria:** "Ward... what the hell is that thing?"
+  - _Key Dialog:_ **Angelica Ward:** "Digestion. Fast metabolism. Inefficient waste processing. He runs hot."
 
 ---
 
@@ -38,7 +38,7 @@
 
 - **Key Event:** Angelica realizes Aeon is a living paradox—he steals time to power his gears. He accelerates entropy to infinity.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Lies to protect Aeon, knowing the truth would get him killed and weaponized.
+  - _Character Defining Moment:_ **Angelica Ward** — Lies to protect Aeon, knowing the truth would get him killed and weaponized.
 
 ---
 
@@ -48,9 +48,11 @@
 
   - _Key Dialog:_ **Aeon:** "I am the Archivist. I keep the seconds. I eat the moments you waste."
   - _Key Dialog:_ **Aeon:** "She is dreaming of violence. Tasty. The adrenaline speeds up her local time. I could eat the edges of it."
-  - _Key Dialog:_ **Angelica Vance:** "No. No eating people. No eating dreams."
+  - _Key Dialog:_ **Angelica Ward:** "No. No eating people. No eating dreams."
   - _Key Dialog:_ **Aeon:** "Limiters set. Awaiting input."
 
 - **Key Event:** Angelica realizes she is holding a time bomb—the most expensive pet in the universe that eats the one thing no one can buy more of: time.
 
-  - _Key Dialog:_ **Angelica Vance:** "He eats seconds, minutes, hours. He is the most expensive pet in the universe. He eats the one thing no one can buy more of."
+  - _Key Dialog:_ **Angelica Ward:** "He eats seconds, minutes, hours. He is the most expensive pet in the universe. He eats the one thing no one can buy more of."
+
+

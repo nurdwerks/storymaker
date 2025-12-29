@@ -11,8 +11,8 @@
 
 - **Key Event:** Angelica and Vane access the Star-Tear Drive's schematics, realizing it's a device that literally tears reality to fold space, a technology that is both miraculous and terrifyingly unstable.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Confronts the terrifying legacy of her ancestors, who designed themselves to be "hardware" for the ship.
-  - _Key Dialog:_ **Angelica Vance:** "They didn't build a ship. They built a cage for their children."
+  - _Character Defining Moment:_ **Angelica Ward** — Confronts the terrifying legacy of her ancestors, who designed themselves to be "hardware" for the ship.
+  - _Key Dialog:_ **Angelica Ward:** "They didn't build a ship. They built a cage for their children."
   - _Key Dialog:_ **Prelate Vane:** "No, my dear. They built a chariot."
 
 - **Key Event:** Lisbet warns that without a super-computer to calculate the jump vector, the drive is a suicide machine; Vane points to the Interface Throne.
@@ -22,3 +22,5 @@
   - _Key Dialog:_ **Prelate Vane:** "Not if we have a pilot who can see the path."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

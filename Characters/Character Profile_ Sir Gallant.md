@@ -21,3 +21,5 @@ Sir Gallant is a young, handsome suitor who currently holds the position of "Fla
 
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L633-L634)
 - **Defining Quote from Lady Corinne:** "You were supposed to be the shield, Gallant. Not the one hiding behind me. A knight who fears the dark isn't a knight—he's just a boy in expensive metal. I have no use for boys who can't keep their hands steady."
+
+

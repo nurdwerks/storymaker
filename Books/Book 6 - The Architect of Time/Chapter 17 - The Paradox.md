@@ -18,7 +18,7 @@
 ### Scene 2: The Memory
 
 - **Key Event:** Angelica accesses her mind palace and realizes that the ancient schematic she once studied in the future was actually her own drawing from the past.
-  - _Character Defining Moment:_ **Angelica Vance** — She realizes she is the "Architect" she once admired, caught in a causal loop.
+  - _Character Defining Moment:_ **Angelica Ward** — She realizes she is the "Architect" she once admired, caught in a causal loop.
 
 ---
 
@@ -31,7 +31,7 @@
 ### Scene 4: The Circle
 
 - **Key Event:** Angelica reflects on the bootstrap paradox and whether they possess free will or are merely gears in a clock.
-  - _Key Dialog:_ **Angelica Vance:** "Who wrote the song? ... We are stuck in a causal loop, Torin. ... There is no beginning. There is only the circle."
+  - _Key Dialog:_ **Angelica Ward:** "Who wrote the song? ... We are stuck in a causal loop, Torin. ... There is no beginning. There is only the circle."
   - _Key Dialog:_ **Torin:** "If we are gears, then at least we are turning together. And if we build the ship, maybe we can break the clock."
 
 ---
@@ -47,3 +47,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

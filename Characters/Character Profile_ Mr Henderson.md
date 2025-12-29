@@ -19,7 +19,13 @@ Mr. Henderson is a retired clockmaker who plays chess with Joyce in the park. He
 
 ## III. Book 4 Integration
 
-- **Location:** Book 4, Chapter 19
+- **Location:** Book 4, Chapter 21/22
 - **Scene:** "The Discovery" (Finding the Weapons)
 - **Role:** The Disillusioned Suitor
 - **Quote:** "The game is over, Joyce. You cheated."
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 21 | Key Event | While looking for a chess piece, a resident named Henderson finds a combat knife and a flash-bang grenade in Joyce’s knitting bag, breaking the illusion of safety. |

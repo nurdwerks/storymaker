@@ -13,7 +13,7 @@
 
 - **Key Event:** In Sector 9 (The Foundry), the walkway suddenly tilts, becoming a slide toward a furnace vent spewing fire.
 
-  - _Key Dialog:_ **Angelica Vance:** "Seismic vibration increasing."
+  - _Key Dialog:_ **Angelica Ward:** "Seismic vibration increasing."
 
 - **Key Event:** Their magnetic boots begin demagnetizing from the heat.
 
@@ -26,13 +26,13 @@
 - **Key Event:** Angelica jams her knife into a junction box, shorting the localized governor to buy time.
 
   - _Key Dialog:_ **Kaelen Night:** "Fix it."
-  - _Key Dialog:_ **Angelica Vance:** "I can't stop the rotation! It's a camshaft cycle!"
+  - _Key Dialog:_ **Angelica Ward:** "I can't stop the rotation! It's a camshaft cycle!"
 
 - **Key Event:** Angelica calculates that in ten seconds, the platform flips 180 degrees, dumping them into fire. She spots a conveyor belt moving at forty miles per hour below.
 
-  - _Key Dialog:_ **Angelica Vance:** "The math works. Physics doesn't lie."
+  - _Key Dialog:_ **Angelica Ward:** "The math works. Physics doesn't lie."
   - _Key Dialog:_ **Ria:** "If we miss, we're ash."
-  - _Key Dialog:_ **Angelica Vance:** "If we stay, we're toast."
+  - _Key Dialog:_ **Angelica Ward:** "If we stay, we're toast."
 
 ---
 
@@ -51,10 +51,12 @@
 - **Key Event:** After riding the conveyor to a cooler sector, Ria pulls Angelica up and acknowledges her "analog bypass."
 
   - _Key Dialog:_ **Ria:** "You shorted the governor. With a knife."
-  - _Key Dialog:_ **Angelica Vance:** "It was an analog bypass. Digital was too slow."
+  - _Key Dialog:_ **Angelica Ward:** "It was an analog bypass. Digital was too slow."
   - _Key Dialog:_ **Ria:** "You're crazy. Good eyes, Wiring-Rat."
 
 - **Key Event:** The nickname shifts from slur to title. Kaelen nods respectfully.
 
   - _Key Dialog:_ **Kaelen Night:** "Navigation confirmed. We proceed."
-  - _Key Dialog:_ **Angelica Vance:** "Math saves lives. Ignorance burns. And I am done burning."
+  - _Key Dialog:_ **Angelica Ward:** "Math saves lives. Ignorance burns. And I am done burning."
+
+

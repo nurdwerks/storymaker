@@ -19,3 +19,9 @@ Old Seer is a blind mystic who throws bones for Ragnar. He is the guardian of th
 
 **Event Location:** Book 6, Chapter 18
 **Defining Quote:** _"She cured me with dirt. You killed them with lies."_ — Ragnar
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 18 | Key Event | Ragnar exposes the tribe's Old Seer as a fraud for hoading food while people died and casts him out into the jungle. |

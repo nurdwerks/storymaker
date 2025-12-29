@@ -8,8 +8,8 @@
 
 ### Scene 1: The Cost
 
-- **Key Event:** The resistance team buries their dead, including Kaelen, Leo, and the androids, in the now-open hydroponic gardens.
-  - _Character Defining Moment:_ **Angelica Vance** — Establishes her leadership style by working alongside the people as a mechanic rather than ruling as a queen.
+- **Key Event:** The resistance team buries their dead, including Leo and the androids, in the now-open hydroponic gardens.
+  - _Character Defining Moment:_ **Angelica Ward** — Establishes her leadership style by working alongside the people as a mechanic rather than ruling as a queen.
 
 ### Scene 2: Rebuilding
 
@@ -17,8 +17,8 @@
 
 ### Scene 3: The Ghost
 
-- **Key Event:** Angelica reflects on her loss of Leo while resting with Jax.
-  - _Key Dialog:_ **Jax:** "Every time we speak freely, he's here."
+- **Key Event:** Angelica reflects on her loss of Leo while resting with Miller.
+  - _Key Dialog:_ **Miller:** "Every time we speak freely, he's here."
 
 ### Scene 4: The Beacon
 

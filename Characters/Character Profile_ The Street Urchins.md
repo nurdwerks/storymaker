@@ -16,3 +16,14 @@ The Street Urchins are a gang of kids in the Neon District that Zephyr feeds and
 - **The Event:** Forced Conscription. During a "cleansing" of the Silt sectors, the Street Urchins are rounded up by General Ironwood’s forces and conscripted into the "Juvenile Labor Corps" to work in the Mid-Level factories.
 - **Impact on Zephyr:** Zephyr is haunted by his failure to protect the "pups." His lighthearted attitude vanishes, replaced by a cold, burning hatred for the Zenith’s industrial machine. He stops being a rogue and starts being a revolutionary.
 - **Impact on Entourage:** The "Future" is stolen. Without the urchins to provide intel and distractions, the Smuggler’s Ring feels like a dying breed, as the members realize that the Zenith is literally taking the next generation of Silt-siders away from them.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 05 | Key Event | Angelica escapes into the sewers. She encounters a group of Street Urchins—Zephyr's former gang—who recognize her face from the wanted holos. |
+| Book 2 | Chapter 05 | Moment | **Street Urchins** — These feral children are the true inheritors of the Undercity, surviving on scraps and cunning. |
+| Book 2 | Chapter 05 | Key Event | The Street Urchins agree to guide Angelica to a safehouse in exchange for her promise to "remember them when she's queen." |
+| Book 2 | Chapter 05 | Key Event | The urchins lead Angelica through maintenance tunnels that haven't been mapped in generations. They know every shortcut, every trap. |
+| Book 2 | Chapter 05 | Key Event | The Street Urchins deliver Angelica to the edge of Zephyr's territory. They vanish back into the darkness without a goodbye. |
+| Book 2 | Chapter 05 | Moment | **Street Urchins** — Trust no one, help no one without payment, survive. |

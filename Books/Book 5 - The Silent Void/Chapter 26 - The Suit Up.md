@@ -13,12 +13,14 @@
 
   - _Character Defining Moment:_ **Corinne** — Steps forward to assist Angelica, displaying an unexpected level of competence and calm during the preparation.
   - _Key Dialog:_ **Corinne:** "You can't save the world looking like a mechanic. Let me fix this."
-  - _Key Dialog:_ **Angelica Vance:** "Thank you, Corinne. I misjudged you."
+  - _Key Dialog:_ **Angelica Ward:** "Thank you, Corinne. I misjudged you."
 
 - **Key Event:** The suit calibrates, causing Angelica physical pain as it bonds with her nerve endings, while Corinne braids her hair into a "crown" for the neural jacks.
 
   - _Character Defining Moment:_ **Corinne** — Demonstrates her own form of strength by providing emotional and practical support during Angelica's transformation.
   - _Key Dialog:_ **Corinne:** "I was just waiting for the right outfit. Go save the universe, darling."
-  - _Key Dialog:_ **Angelica Vance:** "I look like a weapon."
+  - _Key Dialog:_ **Angelica Ward:** "I look like a weapon."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

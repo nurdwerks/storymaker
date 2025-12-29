@@ -18,7 +18,7 @@
 ### Scene 2: The Destiny
 
 - **Key Event:** Angelica identifies Tau Ceti as their destination, promising it has green, safe planets.
-  - _Key Dialog:_ **Angelica Vance:** "That star? That is Tau Ceti. It has planets. Green planets. Safe planets. That's where we go. Sanctuary."
+  - _Key Dialog:_ **Angelica Ward:** "That star? That is Tau Ceti. It has planets. Green planets. Safe planets. That's where we go. Sanctuary."
 
 ---
 
@@ -31,8 +31,8 @@
 ### Scene 4: The Promise
 
 - **Key Event:** Angelica vows to the universe that she will not let the dark take Torin or her people.
-  - _Character Defining Moment:_ **Angelica Vance** — She finds the strength to believe they might actually succeed.
-  - _Key Dialog:_ **Angelica Vance:** "I have seen the future. It has your name on it. I promise. ... We will write our names across the sky in fire."
+  - _Character Defining Moment:_ **Angelica Ward** — She finds the strength to believe they might actually succeed.
+  - _Key Dialog:_ **Angelica Ward:** "I have seen the future. It has your name on it. I promise. ... We will write our names across the sky in fire."
 
 ---
 
@@ -47,3 +47,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

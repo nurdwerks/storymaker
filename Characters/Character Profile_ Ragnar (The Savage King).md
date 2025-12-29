@@ -1,4 +1,4 @@
-﻿# Character Profile: Ragnar (The Savage King)
+# Character Profile: Ragnar (The Savage King)
 
 **Archetype:** The Barbarian / The Usurper / The Vessel **True Sin:** ENVY (A burning, corrosive jealousy of those who possess "The Sight" (Intellect/Magic). He hates Torin because Torin builds; Ragnar can only destroy. He hates Angelica because she is the magic he craves but cannot understand). **Virtue Mask:** FORTITUDE (He projects the image of the "Strong Man," the protector of tradition who rejects the "weak" ways of science and progress. He claims his brutality is necessary resilience against a harsh world).
 
@@ -202,3 +202,45 @@ Ragnar is a tribal king. He is never without his warriors, his shield-maidens, a
 - **The Shield-Sisters (Astrid & Brun):** Two fierce women who guard Ragnar’s back. They braid each other’s hair and share food. They glare at Angelica, seeing her as a weak "Zenith soft-skin." They block her from sitting near the fire, forcing her to the cold edge of the camp.
 
 - **Old Seer:** A blind mystic who throws bones for Ragnar. He whispers prophecies in Ragnar’s ear. "Beware the Golden Eye," he points at Angelica. Ragnar listens intently, trusting the Seer more than Angelica’s logic.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 03 | Key Event | Ragnar, a massive man and leader of the hunters, inspects Angelica and her metal shard. |
+| Book 6 | Chapter 03 | Moment | **Ragnar** — He shows curiosity and dominance, effortlessly taking the metal shard from Angelica. |
+| Book 6 | Chapter 03 | Key Event | Ragnar orders his men to haul Angelica away. |
+| Book 6 | Chapter 06 | Key Event | Ragnar interrupts Torin and Angelica, viewing their communication as a betrayal or sorcery. |
+| Book 6 | Chapter 06 | Key Event | Ragnar hauls Angelica out of the cage and challenges her to a duel to the death. |
+| Book 6 | Chapter 06 | Key Event | Angelica analyzes the physical mismatch and decides to use physics and leverage against Ragnar's brute force. |
+| Book 6 | Chapter 06 | Key Event | Ragnar charges Angelica, who uses his momentum to make him miss. |
+| Book 6 | Chapter 06 | Key Event | Angelica uses a loose mammoth rib as a lever to trip Ragnar, causing him to crash into the cliff wall. |
+| Book 6 | Chapter 06 | Key Event | Angelica holds Ragnar at knife-point with his own obsidian blade but chooses to spare him. |
+| Book 6 | Chapter 07 | Key Event | Ragnar acknowledges Angelica as a "Warrior" rather than a demon and destroys her cage. |
+| Book 6 | Chapter 07 | Moment | **Ragnar** — He shows a warrior's code, interpreting Angelica's mercy as a sign of absolute superiority. |
+| Book 6 | Chapter 08 | Key Event | Angelica and Torin, escorted by Ragnar's guards, trek to the "Holy Place" (a debris field of ancient technology). |
+| Book 6 | Chapter 09 | Key Event | Angelica addresses Ragnar and the elders, promising them salvation through the construction of the _Aeterna_. |
+| Book 6 | Chapter 10 | Key Event | Ragnar and the elders resist Angelica's plan, citing the risk of starvation and the lack of immediate danger. |
+| Book 6 | Chapter 10 | Key Event | Ragnar agrees to a triumvirate: Ragnar as the Body (labor), Torin as the Mind (translation/tools), and Angelica as the Soul (vision/math). |
+| Book 6 | Chapter 11 | Key Event | She presents the sword to Ragnar, demonstrating its superior strength. |
+| Book 6 | Chapter 13 | Key Event | Ragnar declares a feast to celebrate the "Raising of the Spine." |
+| Book 6 | Chapter 14 | Key Event | Ragnar cold-heartedly rejects Bjorn for being no longer "useful" to the pack. |
+| Book 6 | Chapter 14 | Moment | **Ragnar** — His absolute focus on survival and utility makes him discard his own blood-brother. |
+| Book 6 | Chapter 15 | Key Event | Ragnar rescues Freya but abandons her emotionally when he realizes she can no longer sing. |
+| Book 6 | Chapter 15 | Moment | **Ragnar** — He shows high-level disdain for anything that has lost its primary function. |
+| Book 6 | Chapter 18 | Key Event | A mutated, future-originating flu strain decimates the tribe, including a bedridden and delirious Ragnar. |
+| Book 6 | Chapter 18 | Key Event | Angelica injects the extracted penicillin into Ragnar using a primitive reed and fish bone syringe. |
+| Book 6 | Chapter 18 | Key Event | Ragnar's fever breaks after three days, and he recovers. |
+| Book 6 | Chapter 18 | Key Event | Ragnar exposes the tribe's Old Seer as a fraud for hoading food while people died and casts him out into the jungle. |
+| Book 6 | Chapter 18 | Moment | **Ragnar** — He decisively breaks with tradition in favor of Angelica's effective science. |
+| Book 6 | Chapter 19 | Key Event | Vane whispers to Ragnar, exploiting his envy of Angelica's power. |
+| Book 6 | Chapter 19 | Key Event | Ragnar willingly allows Vane to possess his body to gain "the lightning." |
+| Book 6 | Chapter 19 | Key Event | Ragnar's behavior changes, showing cultured grace and milky-white glowing eyes. |
+| Book 6 | Chapter 19 | Key Event | Ragnar-Vane corrects Torin's math, revealing his high-level technical knowledge. |
+| Book 6 | Chapter 23 | Key Event | Ragnar (possessed by Vane) kills Astrid for suggesting they trade iron for their captured sister Brun. |
+| Book 6 | Chapter 23 | Moment | **Ragnar (Vane)** — He displays absolute, cold-hearted efficiency and disdain for loyalty. |
+| Book 6 | Chapter 26 | Key Event | Ragnar uses a long pole to guide the cylinder safely into its mount. |
+| Book 6 | Chapter 28 | Key Event | Ragnar leads a team using a diamond-tipped heat drill to reach the planet's mantle. |
+| Book 6 | Chapter 28 | Key Event | Methane gas explodes in the tunnel, but Ragnar shields a young miner with his body. |
+| Book 6 | Chapter 28 | Moment | **Ragnar** — He endures blisters and fire to ensure the drilling continues. |
+| Book 6 | Chapter 30 | Key Event | Ragnar rallies the "Guardians" to defend the ship's perimeter against the intruders. |

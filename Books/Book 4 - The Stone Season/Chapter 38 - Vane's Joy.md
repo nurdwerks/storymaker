@@ -20,8 +20,8 @@
 ### Scene 3: The Rejection
 
 - **Key Event:** Angelica shoots the viewscreen, rejecting the offer and the philosophy of "Perfect Order."
-  - _Character Defining Moment:_ **Angelica Vance** — Declares that she would rather starve as a human than rule as a circuit.
-  - _Key Dialog:_ **Angelica Vance:** "I’m not your daughter. I’m the mistake that’s going to fix you. We don’t want a god. We want a mechanic."
+  - _Character Defining Moment:_ **Angelica Ward** — Declares that she would rather starve as a human than rule as a circuit.
+  - _Key Dialog:_ **Angelica Ward:** "I’m not your daughter. I’m the mistake that’s going to fix you. We don’t want a god. We want a mechanic."
 
 ---
 
@@ -34,3 +34,5 @@
 ---
 
 _Summarized from Book 4 source material._
+
+

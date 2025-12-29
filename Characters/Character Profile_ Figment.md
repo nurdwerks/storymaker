@@ -17,3 +17,10 @@ Figment is a fellow hacker who only appears on screens. He is Lisbet’s equal i
   **Quote:** _"Does this logic bomb make my RAM look big?"_
 - **Impact on Lisbet:** Lisbet is forced to "disconnect" him from the network to save the rest of the Underground. This acts as a catalyst for her own descent into paranoia, as she realizes that her most brilliant soldier can be erased by a single line of enemy code.
 - **Impact on Entourage:** The "Edge" is gone. The Underground becomes more cautious and defensive, losing the reckless, creative flair that Figment provided, turning their "rebellion" into a state of digital survival.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 5 | Chapter 08 | Key Event | The Zenith receives a massive, recursive data packet containing a star map to a destination called "Sanctuary," which requires the AI Figment to sacrifice himself to sanitize a logic virus within the signal. |
+| Book 5 | Chapter 08 | Moment | **Lisbet** — Devastated by the loss of Figment, her AI companion, questioning if the destination is worth the cost. |

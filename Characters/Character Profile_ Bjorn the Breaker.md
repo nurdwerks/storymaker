@@ -19,3 +19,10 @@ Bjorn the Breaker is a massive warrior and Ragnar’s blood-brother. He represen
 
 **Event Location:** Book 6, Chapter 14
 **Defining Quote:** _"The Breaker is dead. You are just Bjorn now."_ — Ragnar
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 14 | Key Event | Bjorn the Breaker is severely injured when a log crushes his legs. |
+| Book 6 | Chapter 14 | Key Event | Ragnar cold-heartedly rejects Bjorn for being no longer "useful" to the pack. |

@@ -32,11 +32,13 @@
 ### Scene 4: The Law
 
 - **Key Event:** Ria stands on debris and declares a new set of laws for the Undercity: survival depends on utility and caloric intake, not previous rank.
-  - _Character Defining Moment:_ **Angelica Vance** — Accepts Ria's logic and steps back from helping the noble, hardening her resolve for the sake of survival.
+  - _Character Defining Moment:_ **Angelica Ward** — Accepts Ria's logic and steps back from helping the noble, hardening her resolve for the sake of survival.
   - _Key Dialog:_ **Ria:** "Zenith laws are for full bellies. Down here, the only law is caloric intake. You work, you eat. You steal, you die."
-  - _Key Dialog:_ **Ria:** "There are no seats on the council here, Vance. There is only the food chain. Are you eating, or are you meat?"
-  - _Key Dialog:_ **Angelica Vance:** "Morality is a luxury we left upstairs. Move."
+  - _Key Dialog:_ **Ria:** "There are no seats on the council here, Ward. There is only the food chain. Are you eating, or are you meat?"
+  - _Key Dialog:_ **Angelica Ward:** "Morality is a luxury we left upstairs. Move."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

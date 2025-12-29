@@ -19,7 +19,7 @@
 ### Scene 2: The Assessment
 
 - **Key Event:** Angelica analyzes the physical mismatch and decides to use physics and leverage against Ragnar's brute force.
-  - _Character Defining Moment:_ **Angelica Vance** — She maintains icy calm and treats the fight as an engineering problem.
+  - _Character Defining Moment:_ **Angelica Ward** — She maintains icy calm and treats the fight as an engineering problem.
 
 ---
 
@@ -33,8 +33,8 @@
 ### Scene 4: The Mercy
 
 - **Key Event:** Angelica holds Ragnar at knife-point with his own obsidian blade but chooses to spare him.
-  - _Character Defining Moment:_ **Angelica Vance** — She rejects the "savage" nature and uses mercy as a display of superior intellect and strategic survival.
-  - _Key Dialog:_ **Angelica Vance:** "Force is mass times acceleration. You have the mass. I have the acceleration. I did the math. You didn't. Can we stop playing now? I'm tired, I'm hungry, and I want to go back to sleep. Take the knife, Ragnar. Before I change my mind."
+  - _Character Defining Moment:_ **Angelica Ward** — She rejects the "savage" nature and uses mercy as a display of superior intellect and strategic survival.
+  - _Key Dialog:_ **Angelica Ward:** "Force is mass times acceleration. You have the mass. I have the acceleration. I did the math. You didn't. Can we stop playing now? I'm tired, I'm hungry, and I want to go back to sleep. Take the knife, Ragnar. Before I change my mind."
 
 ---
 
@@ -49,3 +49,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

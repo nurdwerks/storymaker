@@ -1,52 +1,38 @@
-# Chapter Summary Template
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
-
-> [!NOTE]
-> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
+# Chapter 25: The Completion
 
 ---
 
-## Chapter 25: The Completion
+### Scene 1: The Final Assembly / New Ship Construction Bay
 
-### Scene 1: The Hull
-
-- **Key Event:** Ragnar (acting as the "Lion in Winter") drives home the final golden rivet, completing the ship's hull.
-- **Key Event:** The tribe celebrates with overwhelming joy, a roar of triumph echoing through the valley.
-
----
-
-### Scene 2: The Paint
-
-- **Key Event:** Angelica paints the name _AETERNA_ on the ship's prow using blue clay and oil.
-  - _Character Defining Moment:_ **Angelica Vance** — She makes a defiant declaration that they will not be forgotten.
-- **Key Event:** The Shaman blesses the "Spirit of Iron" with sage and sweetgrass.
+- **Key Event:** After years of work, the new ship's core systems come online. Engineer Rylan leads the final checks.
+  - _Character Defining Moment:_ **Engineer Rylan** — His lifetime of work culminates in this moment.
+  - _Key Dialog:_ **Engineer Rylan:** "Fusion core stable. Life support online. She's ready, Captain."
 
 ---
 
-### Scene 3: The Celebration
+### Scene 2: The Injury / Reactor Bay
 
-- **Key Event:** The valley hosts a massive feast with bonfires, music, and stories about the "Sky-Walker" and "Iron-Weaver."
-  - _Character Defining Moment:_ **Angelica Vance** — She feels a disconnect from the legend she has become, identifying as a creature of the past.
-  - _Key Dialog:_ **Ragnar:** "To the Mother! Who gave us wings!"
-
----
-
-### Scene 4: The Pride
-
-- **Key Event:** Angelica and Torin reflect on their victory, tasting the sour wine that feels like ambrosia.
-  - _Key Dialog:_ **Angelica Vance:** "She is finished. She is beautiful. She is home."
+- **Key Event:** A reactor coupling fails during the power-up sequence. Engineer Rylan is caught in the energy discharge, suffering severe burns.
+  - _Character Defining Moment:_ **Engineer Rylan** — Even injured, his first concern is the ship.
+  - _Key Dialog:_ **Engineer Rylan:** "Forget me! Check the coupling! Is she stable?"
+  - _Key Dialog:_ **Angelica Ward:** "Get him to medical. Now."
 
 ---
 
-## Template Usage Notes
+### Scene 3: The Crew / Bridge
 
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Character Defining Moments:** Nest under the key event where the moment occurs.
-4. **Key Dialog:** Nest under the key event where the dialog is spoken.
-5. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies.
+- **Key Event:** Angelica addresses the crew of the new ship. Analyst Veda and Bio-Engineer Kline are among the department heads present.
+  - _Key Dialog:_ **Analyst Veda:** "Navigation charts are loaded. We have three potential destination vectors."
+  - _Key Dialog:_ **Bio-Engineer Kline:** "Hydroponics are operational. We can sustain two thousand souls indefinitely."
 
 ---
 
-_Copy this template for each chapter. Add or remove scenes and events as needed._
+### Scene 4: The Launch / Docking Bay
+
+- **Key Event:** The new ship, named _Hope_, detaches from the dying _Aeterna_. A new journey begins.
+  - _Character Defining Moment:_ **Angelica Ward** — Twenty years older, she finally becomes the Captain her bloodline promised.
+  - _Key Dialog:_ **Angelica Ward:** "We're not running. We're going home. Wherever that is."
+
+---
+
+_Summarized from Book 6 source material._

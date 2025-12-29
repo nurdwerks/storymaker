@@ -16,3 +16,5 @@ Researcher Theta is a high-ranking scientist in Dr. Aris's team. He views everyt
 - **The Event:** Absolute Exposure / Data Breach. Theta’s private research logs, which contain highly sensitive and unethical data about Zenith noble families, are leaked to the public. He is arrested by the Praetorian Guard to prevent further leaks.
 - **Impact on Dr. Aris:** Aris is forced to distance himself from his former colleague. He becomes even more secretive and paranoid, purging his remaining data and accelerating his experiments to stay ahead of the "inevitable" Zenith investigation.
 - **Impact on Entourage:** The "Data" is compromised. The remaining researchers live in a state of constant fear, as they realize that their "objective" detachedness won't protect them from the political consequences of their work for Aris.
+
+

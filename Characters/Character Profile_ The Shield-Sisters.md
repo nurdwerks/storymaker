@@ -19,3 +19,5 @@ Astrid and Brun are fierce warriors who guard Ragnar’s back. They represent th
 
 **Event Location:** Book 6, Chapter 22
 **Defining Quote:** _"She is a variable. And she has been subtracted."_ — Ragnar
+
+

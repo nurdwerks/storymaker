@@ -33,3 +33,5 @@
 
 - **Key Event:** Kaelen dismantles Duke Grey’s Zombie-Cyborg guard with clinical efficiency, clearing the way for his own confrontation with Angelica.
   - _Character Defining Moment:_ **Kaelen Night** — He physically executes his betrayal of the Houses, destroying Grey's property to reach the woman who has become his new focus.
+
+

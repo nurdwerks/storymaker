@@ -5,7 +5,7 @@
 ### Scene 1: The Broadcast
 
 - **Key Event:** Using the high-gain antenna on the Observation Deck, Angelica broadcasts a wide-spectrum signal, hoping to find any other ships in the fleet.
-  - _Key Dialog:_ **Angelica Vance:** "This is The Ark. Is there anyone out there? Does anyone remember the way home?"
+  - _Key Dialog:_ **Angelica Ward:** "This is The Ark. Is there anyone out there? Does anyone remember the way home?"
 
 ---
 
@@ -27,10 +27,12 @@
 ### Scene 4: The Jamming
 
 - **Key Event:** Angelica uses the Mother's dormant neural-link to "pulse" the drone’s sensors, tricking it into thinking the ship is a dead rock.
-  - _Character Defining Moment:_ **Angelica Vance** — Successfully manipulates the "residual horror" of the Mother to weaponize it against the drones.
-  - _Key Dialog:_ **Angelica Vance:** "You want a dead ship? I'll give you a ghost. I'll make us look like the void itself."
+  - _Character Defining Moment:_ **Angelica Ward** — Successfully manipulates the "residual horror" of the Mother to weaponize it against the drones.
+  - _Key Dialog:_ **Angelica Ward:** "You want a dead ship? I'll give you a ghost. I'll make us look like the void itself."
   - _Key Dialog:_ **Kaelen Night:** "She's weaving the shadows into the signal. It's beautiful... in a terrifying way."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

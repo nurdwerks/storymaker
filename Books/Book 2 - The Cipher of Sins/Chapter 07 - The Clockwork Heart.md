@@ -18,7 +18,7 @@
 ### Scene 3: The Ego / Back Room
 
 - **Key Event:** Angelica views the public hate and demonizing propaganda against her; instead of fear, she feels a dark sense of pride in Being a threat to the state.
-  - _Character Defining Moment:_ **Angelica Vance** — She embraces her status as a "dangerous person," realizing that public hate can be manipulated into a tool for survival.
+  - _Character Defining Moment:_ **Angelica Ward** — She embraces her status as a "dangerous person," realizing that public hate can be manipulated into a tool for survival.
   - _Key Dialog:_ **Angelica:** "They're afraid of me."
   - _Key Dialog:_ **Angelica:** "Hate is just attention with a negative sign."
 
@@ -30,3 +30,5 @@
   - _Character Defining Moment:_ **Lisbet** — Her brilliance and ego are displayed as she effortlessly dismantles the city's coordinated drone hunt with her custom code.
   - _Key Dialog:_ **Angelica:** "Fame is just a target painted on your back in neon."
   - _Key Dialog:_ **Zephyr:** "Then let's turn off the lights. We've got a heist to plan."
+
+

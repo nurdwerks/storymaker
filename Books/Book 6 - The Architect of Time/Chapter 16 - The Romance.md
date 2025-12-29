@@ -18,7 +18,7 @@
 ### Scene 2: The Touch
 
 - **Key Event:** Angelica covers a sleeping Torin with a fur cloak, leading to a moment of shared vulnerability and realization of their deep love.
-  - _Character Defining Moment:_ **Angelica Vance** — She recognizes Torin as the only person who has ever loved her as a human being rather than a goddess or possession.
+  - _Character Defining Moment:_ **Angelica Ward** — She recognizes Torin as the only person who has ever loved her as a human being rather than a goddess or possession.
 
 ---
 
@@ -32,7 +32,7 @@
 
 - **Key Event:** Angelica expresses guilt for bringing her war to Torin, while Torin thanks her for giving him "the stars."
   - _Key Dialog:_ **Torin:** "Before you, the sky was just a ceiling. Now, it's a door."
-  - _Key Dialog:_ **Angelica Vance:** "I traveled five thousand years to find you. ... You are my destination, Torin."
+  - _Key Dialog:_ **Angelica Ward:** "I traveled five thousand years to find you. ... You are my destination, Torin."
 
 ---
 
@@ -47,3 +47,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

@@ -13,3 +13,5 @@ Madame Velour is Baron Gilded's personal tailor and fabricator. She is obsessed 
 
 - **Event Location:** [Book 3, Chapter 10: The Gala of Ghosts](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L838-854)
 - **Defining Quote:** "A clumsy mistake, Velour. But perhaps you will find inspiration in the manual labor of the lower decks." (Reveals flaw: ENVY)
+
+

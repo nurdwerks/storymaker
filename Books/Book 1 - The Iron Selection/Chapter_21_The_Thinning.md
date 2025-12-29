@@ -23,8 +23,8 @@
 
 - **Key Event:** A supply crate lands—one crate of protein bars, water, and ammo. Squad Iron reaches it at the same time as Squad Copper (Jax, Sam, Trent—former classmates).
 
-  - _Key Dialog:_ **Jax:** "Back off, Vance. We saw it first."
-  - _Key Dialog:_ **Angelica Vance:** "We can split it. Enough for everyone to get one day's rations."
+  - _Key Dialog:_ **Jax:** "Back off, Ward. We saw it first."
+  - _Key Dialog:_ **Angelica Ward:** "We can split it. Enough for everyone to get one day's rations."
   - _Key Dialog:_ **Trent:** "No splitting. We take it all."
 
 - **Key Event:** Sam, who used to lend Angelica her notes, lunges with a glass shard at Angelica's throat out of desperate hunger.
@@ -37,7 +37,7 @@
 
 - **Key Event:** Ria enters Overload Mode and snaps Jax's neck. Kaelen appears behind Sam—a single strike, silence. Trent surrenders but they cannot carry prisoners.
 
-  - _Key Dialog:_ **Angelica Vance:** "Ria, don't!"
+  - _Key Dialog:_ **Angelica Ward:** "Ria, don't!"
   - _Key Dialog:_ **Kaelen Night:** "We cannot carry prisoners."
 
 - **Key Event:** Ria crushes Trent's skull. Angelica vomits bile, then eats the protein bar that cost three souls.
@@ -48,12 +48,14 @@
 
 - **Key Event:** That night, Angelica tells Kaelen that Ria is "losing it"—turning into a machine based on how she didn't hesitate.
 
-  - _Key Dialog:_ **Angelica Vance:** "I don't want to survive if I turn into that."
+  - _Key Dialog:_ **Angelica Ward:** "I don't want to survive if I turn into that."
   - _Key Dialog:_ **Kaelen Night:** "You won't."
-  - _Key Dialog:_ **Angelica Vance:** "How do you know?"
+  - _Key Dialog:_ **Angelica Ward:** "How do you know?"
   - _Key Dialog:_ **Kaelen Night:** "Because you are crying. Machines don't cry."
 
 - **Key Event:** Kaelen catches a tear on his finger and tells her to hold onto it—it separates them from the Chimera.
 
   - _Key Dialog:_ **Ria:** "We aren't students anymore. We're survivors."
-  - _Key Dialog:_ **Angelica Vance:** "Survivors. But what are we surviving for?"
+  - _Key Dialog:_ **Angelica Ward:** "Survivors. But what are we surviving for?"
+
+

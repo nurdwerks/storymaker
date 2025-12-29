@@ -25,7 +25,7 @@
 
 - **Key Event:** Halloway criticizes the attempt: it's about matching resonance frequency, not domination.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Analyzes that the boy projected fear (which smells like prey) and concludes Halloway is wrong—these weapons want a user who knows how to use them, not a friend.
+  - _Character Defining Moment:_ **Angelica Ward** — Analyzes that the boy projected fear (which smells like prey) and concludes Halloway is wrong—these weapons want a user who knows how to use them, not a friend.
 
 ---
 
@@ -35,7 +35,7 @@
 
 - **Key Event:** Halloway dismisses it as inert, unresponsive to biological resonance, scheduled for scrapping. But Angelica hears a faint mechanical heartbeat: "Tick... tick... tick."
 
-  - _Key Dialog:_ **Angelica Vance:** "It's not dead. It's waiting."
+  - _Key Dialog:_ **Angelica Ward:** "It's not dead. It's waiting."
 
 ---
 
@@ -43,13 +43,15 @@
 
 - **Key Event:** Angelica ignores warnings about the defense capacitor and touches the Gryphon with a mechanic's touch, visualizing her Pride and drive as a key to force the stuck gear to turn.
 
-  - _Key Dialog:_ **Angelica Vance:** "You aren't dead. You're just unwound. You've forgotten what you're for."
+  - _Key Dialog:_ **Angelica Ward:** "You aren't dead. You're just unwound. You've forgotten what you're for."
 
 - **Key Event:** The Clockwork Gryphon (Aeon) reactivates—rust flakes off, gears spin, wings of steel knives unfold. It's cat-sized but dense with old-world alloy.
 
   - _Key Dialog:_ **Professor Halloway:** "Impossible. That unit is... it's a prototype. It shouldn't function without a Master Key. It killed the last three handlers who tried to touch it."
-  - _Key Dialog:_ **Angelica Vance:** "I am the key."
+  - _Key Dialog:_ **Angelica Ward:** "I am the key."
 
 - **Key Event:** Aeon hops onto Angelica's shoulder (50 pounds), and she stands taller, feeling the weight like armor.
 
-  - _Key Dialog:_ **Angelica Vance:** "You called him broken. Good. So am I. Broken things know how to survive because they know how to put themselves back together."
+  - _Key Dialog:_ **Angelica Ward:** "You called him broken. Good. So am I. Broken things know how to survive because they know how to put themselves back together."
+
+

@@ -17,8 +17,10 @@
 
 - **Key Event:** Angelica is tempted by a vision of a healthy, living Leo, but chooses to reject the ghost and move forward.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Demonstrates strength of will by letting go of her brother's memory to focus on survival.
-  - _Key Dialog:_ **Angelica Vance:** "My Leo is dead. This is just a shadow. Goodbye, Leo."
+  - _Character Defining Moment:_ **Angelica Ward** — Demonstrates strength of will by letting go of her brother's memory to focus on survival.
+  - _Key Dialog:_ **Angelica Ward:** "My Leo is dead. This is just a shadow. Goodbye, Leo."
   - _Key Dialog:_ **Kaelen Night:** "Don't let the ghost eat you."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

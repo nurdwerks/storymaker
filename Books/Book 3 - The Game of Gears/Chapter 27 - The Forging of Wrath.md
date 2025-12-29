@@ -9,12 +9,12 @@
 ### Scene 1: The Workshop of Grief
 
 - **Key Event:** Angelica builds a heavy exo-skeleton suit, named "Nemesis," using parts from the mining bore and stolen armor.
-  - _Character Defining Moment:_ **Angelica Vance** — Uses her mechanical skills to process her grief into a physical tool for war.
+  - _Character Defining Moment:_ **Angelica Ward** — Uses her mechanical skills to process her grief into a physical tool for war.
 
 ### Scene 2: The Silent Eulogy
 
 - **Key Event:** The resistance holds a symbolic funeral for Leo by burning his favorite apple crate; Angelica addresses the fighters.
-  - _Key Dialog:_ **Angelica Vance:** "No more hiding. No more negotiating. We are the storm."
+  - _Key Dialog:_ **Angelica Ward:** "No more hiding. No more negotiating. We are the storm."
 
 ### Scene 3: The Army of Ghosts
 
@@ -31,3 +31,5 @@
   - _Character Defining Moment:_ **Sergeant "Brick" Wall** — Sacrifices his life to protect General Ironwood during a breach of the war room.
 
 ---
+
+

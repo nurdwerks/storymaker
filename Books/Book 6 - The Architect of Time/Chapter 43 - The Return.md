@@ -12,7 +12,7 @@
 ### Scene 1: The Comms
 
 - **Key Event:** Ironwood realizes the ship's pilot is an aged version of Angelica.
-  - _Key Dialog:_ **Angelica Vance:** "It's me, Ironwood. Or, the version of me that is twenty years older and significantly less patient."
+  - _Key Dialog:_ **Angelica Ward:** "It's me, Ironwood. Or, the version of me that is twenty years older and significantly less patient."
 
 ---
 
@@ -32,7 +32,7 @@
 ### Scene 4: The Statement
 
 - **Key Event:** Angelica orders the fleet to "burn them out of the sky," her patience for the enemy exhausted.
-  - _Key Dialog:_ **Angelica Vance:** "I'm back. And I'm pissed. ... Burn them out of the sky."
+  - _Key Dialog:_ **Angelica Ward:** "I'm back. And I'm pissed. ... Burn them out of the sky."
 
 ---
 
@@ -47,3 +47,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

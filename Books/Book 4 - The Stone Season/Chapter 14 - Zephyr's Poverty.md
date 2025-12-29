@@ -2,36 +2,40 @@
 
 ---
 
-### Scene 1: The Loss
+### Scene 1: The Arm / Medical Bay Ruins
 
-- **Key Event:** During a narrow escape from a structural collapse, Zephyr’s cybernetic arm is pinned and crushed, and he is forced to disconnect the linkage to survive.
-  - _Character Defining Moment:_ **Zephyr** — Stares at the stump of his arm, which represented his entire status as a wealthy High-Deck Rogue.
-  - _Key Dialog:_ **Zephyr:** "There goes two million credits. I’m just a symmetric peasant now."
-
----
-
-### Scene 2: The Phantom
-
-- **Key Event:** Zephyr suffers from phantom limb syndrome, accidentally reaching for his weapon or tools with an arm that is no longer there.
-  - _Key Dialog:_ **Lisbet:** "I can build you a new one. Out of scrap. It won't be gold, but it will work."
-  - _Key Dialog:_ **Zephyr:** "Gold was the point, kid. If you’re not flashy, you’re just a target."
+- **Key Event:** Zephyr's mechanical arm is crushed in a structural collapse. Unable to repair it, he's forced to amputate and replace it with a crude industrial hook.
+  - _Character Defining Moment:_ **Zephyr** — Faces the loss with dark humor, refusing to show weakness.
+  - _Key Dialog:_ **Zephyr:** "Well. Guess I'm a pirate now."
+  - _Key Dialog:_ **Ria:** "You're taking this well."
+  - _Key Dialog:_ **Zephyr:** "It's just an arm. I've got another one. Sort of."
 
 ---
 
-### Scene 3: The Utility
+### Scene 2: The Attack / Collapsed Corridor
 
-- **Key Event:** Zephyr is forced to adapt to a one-handed life, learning to use his "inner deck" skills (hacking, picking locks) without the aid of his high-end hardware.
-  - _Character Defining Moment:_ **Zephyr** — Realizes his value isn't in his expensive arm but in his "rat-like" survival instincts.
-  - _Key Dialog:_ **Zephyr:** "Turns out the hardware was just ego. The software... that's still me."
+- **Key Event:** A Viral ambush catches the group off guard. Corinne saves Ria's life by stabbing a Viral through the eye with her designer high heel.
+  - _Character Defining Moment:_ **Lady Corinne** — Her aristocratic facade cracks as survival instinct takes over.
+  - _Key Dialog:_ **Corinne:** _(staring at the heel dripping with ichor)_ "Those were Chateau Noir. Custom made."
+  - _Key Dialog:_ **Ria:** "You just killed a monster with a shoe."
+  - _Key Dialog:_ **Corinne:** "It was a very expensive shoe."
 
 ---
 
-### Scene 4: The Gift
+### Scene 3: The Bond / Safe Corner
 
-- **Key Event:** Hatcher gives Zephyr an old, heavy-duty industrial hook meant for towing cables, which serves as a crude but effective replacement.
-  - _Character Defining Moment:_ **Angelica Vance** — Notes that Zephyr looks more like a resident of the Undercity now, finally losing the last vestige of his Zenith persona.
-  - _Key Dialog:_ **Hatcher:** "It's ugly. It's heavy. It’s perfect. Welcome to the Scrapyard, Goldie."
-  - _Key Dialog:_ **Zephyr:** "It’s a hook. I’m a pirate now. Great. Just great."
+- **Key Event:** Ria looks at Corinne differently after the save. A grudging respect forms between the aristocrat and the soldier.
+  - _Character Defining Moment:_ **Ria** — Admits Corinne isn't just "dead weight."
+  - _Key Dialog:_ **Ria:** "I was wrong about you."
+  - _Key Dialog:_ **Corinne:** "Were you? I'm still useless. I just have good shoes."
+
+---
+
+### Scene 4: The March / Forward
+
+- **Key Event:** The group continues, now with Zephyr sporting his hook and Corinne walking barefoot through the ruins—her remaining heel broken beyond repair.
+  - _Key Dialog:_ **Zephyr:** "Look at us. A one-armed thief and a barefoot princess."
+  - _Key Dialog:_ **Corinne:** "We match."
 
 ---
 

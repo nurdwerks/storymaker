@@ -13,8 +13,8 @@
 
 - **Key Event:** Ragnar and the elders resist Angelica's plan, citing the risk of starvation and the lack of immediate danger.
 - **Key Event:** Angelica uses Torin's glasses to start a fire with sunlight, demonstrating the power of "commanding the sky."
-  - _Character Defining Moment:_ **Angelica Vance** — She uses her knowledge as a "spark" to challenge their concept of the impossible.
-  - _Key Dialog:_ **Angelica Vance:** "Fire was impossible until someone sparked it. Flying is impossible, until you build wings. I am the spark, Ragnar. Let me show you how to burn."
+  - _Character Defining Moment:_ **Angelica Ward** — She uses her knowledge as a "spark" to challenge their concept of the impossible.
+  - _Key Dialog:_ **Angelica Ward:** "Fire was impossible until someone sparked it. Flying is impossible, until you build wings. I am the spark, Ragnar. Let me show you how to burn."
 
 ---
 
@@ -27,7 +27,7 @@
 ### Scene 3: The Handshake
 
 - **Key Event:** The three seal their pact with a handshake over the fire, representing the union of past, present, and future.
-  - _Character Defining Moment:_ **Angelica Vance** — She commits to a new destiny as the Architect of a prehistoric civilization.
+  - _Character Defining Moment:_ **Angelica Ward** — She commits to a new destiny as the Architect of a prehistoric civilization.
 
 ---
 
@@ -42,3 +42,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

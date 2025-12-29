@@ -17,9 +17,11 @@
 
 - **Key Event:** Angelica and the rest of the group are forced to watch as Aris unspools at the atomic level, unable to save him due to the immense gravity.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Experiences the weight of leadership and the pain of losing a valuable team member to their own curiosity.
-  - _Key Dialog:_ **Angelica Vance:** "I hate you for this."
+  - _Character Defining Moment:_ **Angelica Ward** — Experiences the weight of leadership and the pain of losing a valuable team member to their own curiosity.
+  - _Key Dialog:_ **Angelica Ward:** "I hate you for this."
   - _Key Dialog:_ **Prelate Vane:** "Evolution requires curiosity. Even fatal curiosity."
     Riverside
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

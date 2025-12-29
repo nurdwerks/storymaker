@@ -20,7 +20,7 @@
 
 - **Key Event:** Angelica finds blue-green mold on old bread and identifies it as Penicillium.
 - **Key Event:** She performs a crude extraction of the antibiotic in a cave lab.
-  - _Character Defining Moment:_ **Angelica Vance** — She uses her historical knowledge to "cheat death" with primitive materials.
+  - _Character Defining Moment:_ **Angelica Ward** — She uses her historical knowledge to "cheat death" with primitive materials.
 
 ---
 
@@ -34,7 +34,7 @@
 ### Scene 4: The Witch
 
 - **Key Event:** Angelica distributes the "Witch's Bread" (penicillin) to the tribe, reinforcing her status as a miraculous figure.
-  - _Key Dialog:_ **Angelica Vance:** "Don't worship me. Worship the fungus. I am fighting death with a sandwich crust."
+  - _Key Dialog:_ **Angelica Ward:** "Don't worship me. Worship the fungus. I am fighting death with a sandwich crust."
 
 ---
 
@@ -56,3 +56,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

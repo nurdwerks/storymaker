@@ -13,8 +13,8 @@
 
 - **Key Event:** Angelica is washing in the communal showers when the water shuts off. Ria enters fully clothed in armored vest and combat boots.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Feels small, exposed, and vulnerable while Ria looms over her like a tank in a flower garden.
-  - _Key Dialog:_ **Ria:** "Nice trick in the dojo, Vance. You made quite a mess."
+  - _Character Defining Moment:_ **Angelica Ward** — Feels small, exposed, and vulnerable while Ria looms over her like a tank in a flower garden.
+  - _Key Dialog:_ **Ria:** "Nice trick in the dojo, Ward. You made quite a mess."
 
 ---
 
@@ -49,11 +49,13 @@
 
 - **Key Event:** Angelica extends her hand. Ria grabs it—her hand heavy, grey, cold like shaking hands with a statue due to her Steel-Hide bond.
 
-  - _Key Dialog:_ **Angelica Vance:** "Deal."
-  - _Key Dialog:_ **Ria:** "Don't screw this up, Vance. Or I'll break you myself. I won't let them recycle me."
-  - _Key Dialog:_ **Angelica Vance:** "They won't. I can fix anything. Even your grades."
+  - _Key Dialog:_ **Angelica Ward:** "Deal."
+  - _Key Dialog:_ **Ria:** "Don't screw this up, Ward. Or I'll break you myself. I won't let them recycle me."
+  - _Key Dialog:_ **Angelica Ward:** "They won't. I can fix anything. Even your grades."
 
 - **Key Event:** As Ria leaves, she turns the water back on for Angelica—hot. A tiny kindness in a cold world.
 
-  - _Key Dialog:_ **Angelica Vance:** "I'll keep them off your back. You keep me in the class. We survive together."
+  - _Key Dialog:_ **Angelica Ward:** "I'll keep them off your back. You keep me in the class. We survive together."
   - _Key Dialog:_ **Ria:** "Don't get sentimental, Silt-Rat. It's just business."
+
+

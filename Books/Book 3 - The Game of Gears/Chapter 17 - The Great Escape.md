@@ -1,30 +1,40 @@
-# Chapter Summary: Chapter 17 - The Great Escape
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
+# Chapter 17: The Great Escape
 
 ---
 
-## Chapter 17: The Great Escape
+### Scene 1: The Launch Bay / Resistance Warehouse
 
-### Scene 1: Chaos in the Court
-
-- **Key Event:** The Council Chamber becomes a battlefield as the resistance fights to escape with Angelica.
-  - _Key Dialog:_ **Jax:** "We can't stay here! The Praetorians are regrouping!"
-
-### Scene 2: The Corridor of Fire
-
-- **Key Event:** The team fights through a gauntlet of automated turrets, using a burst pipe to short them out.
-
-### Scene 3: The Hangar Bay
-
-- **Key Event:** Jax sacrifices himself to destroy a Centurion mech, allowing the rest of the team to reach the Hangar Bay.
-  - _Character Defining Moment:_ **Jax** — Chooses to sacrifice his life to open the path for the others, citing his damaged servo as a reason.
-  - _Key Dialog:_ **Jax:** "For the Silt!"
-
-### Scene 4: The Launch
-
-- **Key Event:** The team boards the "Mule" hauler, and a freed pilot named Crash takes control, launching them out of the hangar as it explodes.
-  - _Key Dialog:_ **Crash:** "Now this... this is a bucket of bolts. I love it."
-  - _Key Dialog:_ **Crash:** "The Crash Express is leaving the station!"
+- **Key Event:** The team prepares for extraction. Crash, their pilot, preps the heavily-modified cargo hauler "The Mule" for launch.
+  - _Character Defining Moment:_ **Crash** — Despite his name, he's actually an excellent pilot. The name is ironic.
+  - _Key Dialog:_ **Crash:** "The Crash Express is leaving the station! All aboard who's getting aboard!"
 
 ---
+
+### Scene 2: The Takeoff / Launch Bay
+
+- **Key Event:** Crash successfully launches The Mule through a hail of anti-aircraft fire, demonstrating exceptional piloting skill.
+  - _Character Defining Moment:_ **Crash** — His bravado matches his ability.
+  - _Key Dialog:_ **Ria:** "Why do they call you 'Crash' if you never crash?"
+  - _Key Dialog:_ **Crash:** "Because everyone who flies against me does. It's a compliment."
+
+---
+
+### Scene 3: The Chase / Zenith Airspace
+
+- **Key Event:** Zenith interceptors pursue them. Crash evades through impossible maneuvers, threading between buildings and power conduits.
+  - _Key Dialog:_ **Crash:** "Hold on to something! This is gonna be _beautiful_!"
+  - _Key Dialog:_ **Zephyr:** "Or fatal!"
+  - _Key Dialog:_ **Crash:** "Same thing!"
+
+---
+
+### Scene 4: The Exit / Sector Boundary
+
+- **Key Event:** They break through to neutral airspace. Crash sets course for the smuggler rendezvous point.
+  - _Key Dialog:_ **Angelica Ward:** "We made it."
+  - _Key Dialog:_ **Crash:** "Was there ever any doubt?"
+  - _Key Dialog:_ **Ria:** "Yes. Constantly."
+
+---
+
+_Summarized from Book 3 source material._

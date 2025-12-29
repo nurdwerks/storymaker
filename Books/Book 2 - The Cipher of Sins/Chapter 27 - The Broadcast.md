@@ -1,31 +1,43 @@
 ## Chapter 27: The Broadcast
 
-### Scene 1: The Speech / Broadcast
+### Scene 1: The Tower / Emergency Broadcast Station, Sector 4
 
-- **Key Event:** Angelica delivers a televised speech to the millions of citizens in the Zenith, presenting the Cylinder's core as the undeniable evidence of three centuries of deceit.
-  - _Character Defining Moment:_ **Angelica Vance** — She exhibits the poise and authority of a leader, framing the upcoming revelation as a moment where the "darkness ends."
-  - _Key Dialog:_ **Angelica:** "Today, the darkness ends."
-
----
-
-### Scene 2: The Video / Global Broadcast
-
-- **Key Event:** The ancient log of Captain Elena Valerius is played city-wide, revealing that the Zenith is a ship, the "sun" is a radiation leak, and the ship is on a collision course with a gas giant.
-  - _Character Defining Moment:_ **Elena Valerius** — Her ancient recording effectively dismantles the entire ideological and religious foundation of the Zenith in a matter of minutes.
-  - _Key Dialog:_ **Elena Valerius:** "The Zenith is not a city. It is a ship. ... Wake up. Remember. Fight."
+- **Key Event:** The team reaches the analog Emergency Broadcast Tower. Lisbet works to bypass the ancient security systems while Angelica prepares her message.
+  - _Character Defining Moment:_ **Lisbet** — Her technical skills are pushed to the limit interfacing with pre-digital technology.
+  - _Key Dialog:_ **Lisbet:** "This thing runs on _vacuum tubes_. It's beautiful."
 
 ---
 
-### Scene 3: The Reaction / Multi-Sector Montage
+### Scene 2: The Counter / Tower Control Room
 
-- **Key Event:** The broadcast triggers mass despair and prayer in the Undercity, while in the Palace, Prelate Vane erupts in a murderous rage as his servants fail to cut the feed.
-  - _Character Defining Moment:_ **Prelate Vane** — His mask of aristocratic composure shatters, replaced by a raw, incandescent fury and a vow to make everyone pay for the revelation.
-  - _Key Dialog:_ **Prelate Vane:** "Cut the feed! CUT IT! NOW!"
+- **Key Event:** Zephyr's debt counter hits zero. He's fulfilled his contract—he could leave. Instead, he tosses the counter aside.
+  - _Character Defining Moment:_ **Zephyr** — For the first time, he chooses loyalty over profit.
+  - _Key Dialog:_ **Zephyr:** "Counter's done. Debt's paid."
+  - _Key Dialog:_ **Angelica Ward:** "So you're leaving?"
+  - _Key Dialog:_ **Zephyr:** "Nah. Consider this overtime."
 
 ---
 
-### Scene 4: The Truth / Imperial Data-Core
+### Scene 3: The Speech / Broadcast Tower
 
-- **Key Event:** Vane calms down into a cold, predatory state, viewing the "truth" as a virus and anarchy as the greatest sin, as he prepares a devastating response.
-  - _Character Defining Moment:_ **Prelate Vane** — He identifies the spread of truth as a societal corruption that justifies any level of violent suppression.
-  - _Key Dialog:_ **Prelate Vane:** "The truth is a virus. ... And anarchy, my dear children, is the greatest sin of all."
+- **Key Event:** Angelica delivers her message to the entire ship: the truth about the Resonance, the Generation Ship, and the Founders' lies.
+  - _Character Defining Moment:_ **Angelica Ward** — She transforms from fugitive to revolutionary, her voice reaching every sector.
+  - _Key Dialog:_ **Angelica Ward:** "They told you the Resonance was a gift. It's a leak. They told you we were chosen. We were cargo. Every lie they told is crumbling. And I'm the one with the sledgehammer."
+
+---
+
+### Scene 4: The Payment / Tower Control Room
+
+- **Key Event:** After the broadcast, Angelica offers Zephyr the golden cylinder casing as payment for his loyalty. He accepts it with a grin.
+  - _Character Defining Moment:_ **Zephyr** — His greed hasn't disappeared, but it now coexists with genuine loyalty.
+  - _Key Dialog:_ **Zephyr:** "Gold? Really?"
+  - _Key Dialog:_ **Angelica Ward:** "It's all I have."
+  - _Key Dialog:_ **Zephyr:** "It's enough."
+
+---
+
+### Scene 5: The Response / Across the Zenith
+
+- **Key Event:** Prelate Vane watches the broadcast with cold fury. He orders total suppression of Sector 4 and declares Angelica the "Greatest Heretic in History."
+  - _Character Defining Moment:_ **Prelate Vane** — His calm exterior cracks, revealing the fanatic beneath.
+  - _Key Dialog:_ **Prelate Vane:** "Heresy, children, is the greatest sin of all."

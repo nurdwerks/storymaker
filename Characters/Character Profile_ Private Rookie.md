@@ -17,3 +17,10 @@ Private "Rookie" is a young soldier Ria is mentoring. He represents the next gen
   **Quote:** _"I couldn't... he was just a kid."_
 - **Impact on Ria:** Ria is devastated. She blames herself for "allowing" a boy like Rookie into the Vanguard. Her leadership becomes colder and more focused on survival at any cost, as she tries to ensure no one else dies because of "softness."
 - **Impact on Entourage:** The "Moral Compass" is gone. The unit's lightheartedness dies with him. The remaining members become more cynical and ruthless, losing the last bit of humanity that Rookie’s presence provided to the squad.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 11 | Key Event | **Rookie** hesitates to shoot a child attacker. The hesitation costs him his life. He dies in Ria's arms. |
+| Book 4 | Chapter 11 | Key Event | Ria takes a serious wound defending the rear after Rookie falls. |

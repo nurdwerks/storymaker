@@ -6,23 +6,29 @@
 
 ## Chapter 25 - Leo's End
 
-### Scene 1: The Ambush
+### Scene 1: The Banquet Hall
 
-- **Key Event:** The group is pinned down by snipers in Sector 10 after emerging from the vents.
+- **Key Event:** Duke Grey intercepts the group as they attempt to flee through the Palace's banquet hall. Praetorian guards block the exits.
+  - _Key Dialog:_ **Duke Grey:** "Did you really think you could escape my hospitality?"
 
-### Scene 2: The Hacked Door
+### Scene 2: The Demand
 
-- **Key Event:** Leo Vance leaves the safe room to manually override a blast door at a junction box to allow the group to escape to the tram line.
+- **Key Event:** Duke Grey demands Angelica surrender herself in exchange for Leo's life. Leo is held at sword-point by Grey's guards.
+  - _Key Dialog:_ **Duke Grey:** "Your brother's lungs or your compliance. Choose, little Silt-rat."
 
-### Scene 3: The Sacrifice
+### Scene 3: The Execution
 
-- **Key Event:** Leo must hold the manual override to prevent the door from shutting, making him a stationary target for snipers.
-  - _Character Defining Moment:_ **Leo Vance** — Chooses to risk his life to ensure the group's escape, mirroring the instructions of Captain Vance.
-  - _Key Dialog:_ **Leo Vance:** "Break the loop, Angie."
+- **Key Event:** When Angelica hesitates, Duke Grey runs Leo through with his sword. Leo dies in Angelica's arms.
+  - _Character Defining Moment:_ **Leo Ward** — His final words urge Angelica to break free of her guilt.
+  - _Key Dialog:_ **Leo Ward:** "Break the loop, Angie. Don't let me be the chain."
+  - _Character Defining Moment:_ **Duke Grey** — Demonstrates his cruelty by killing Leo while smiling at Angelica.
 
-### Scene 4: The Shot
+### Scene 4: The Snap
 
-- **Key Event:** Leo is killed by a sniper shot while holding the door; Jax pulls Angelica through the closing blast door.
-  - _Character Defining Moment:_ **Angelica Vance** — Experiences extreme grief as she is separated from her brother's body.
+- **Key Event:** Angelica's grief triggers "The Carving"—she unleashes uncontrolled Resonance that liquefies the banquet hall and crushes Duke Grey beneath collapsing marble.
+  - _Character Defining Moment:_ **Angelica Ward** — Her transformation from controlled mage to destructive force begins here.
+  - _Key Dialog:_ **Ria:** "Angie! ANGIE! We have to go! The whole palace is coming down!"
 
 ---
+
+

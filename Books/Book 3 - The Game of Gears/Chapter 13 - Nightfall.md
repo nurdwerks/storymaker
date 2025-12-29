@@ -15,6 +15,9 @@
 
 - **Key Event:** Droids forcibly remove Lady Selene's illegal "Youth-Grafts," and The Governess reveals she betrayed the family to Vane.
   - _Key Dialog:_ **The Governess:** "Because Vane pays better. And I was tired of raising failures."
+- **Key Event:** A Zenith Warden thanks The Governess for her service, then shoots her in the back. Useful tools are discarded when the job is done.
+  - _Character Defining Moment:_ **Kaelen Night** — He watches the woman who raised him die as a traitor, unable to mourn her, unable to hate her.
+  - _Key Dialog:_ **Zenith Warden:** "The High Chamberlain thanks you for your service. Your debt is cleared."
 
 ### Scene 3: The Broken Canvas
 

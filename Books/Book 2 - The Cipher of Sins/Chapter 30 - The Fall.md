@@ -25,6 +25,8 @@
 ### Scene 4: The Surrender / Tower Roof to Streets
 
 - **Key Event:** Angelica feigns surrender, but Ria distracts Vane with a long-range shot; the team then makes a desperate leap off the hundred-story tower into the burning city below.
-  - _Character Defining Moment:_ **Angelica Vance** — In her final thoughts, she recognizes that while the truth was a heavy burden, it has successfully "armed" the people to fight for their own freedom.
+  - _Character Defining Moment:_ **Angelica Ward** — In her final thoughts, she recognizes that while the truth was a heavy burden, it has successfully "armed" the people to fight for their own freedom.
   - _Key Dialog:_ **Angelica:** "Jump!"
   - _Key Dialog:_ **Angelica:** "The truth didn't set them free. But maybe... maybe it gave them the weapons to free themselves. And now, we lead the charge."
+
+

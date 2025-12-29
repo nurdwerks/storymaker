@@ -1,4 +1,4 @@
-﻿# Character Profile: Arch-Magister Solon (The Victim)
+# Character Profile: Arch-Magister Solon (The Victim)
 
 **Archetype:** The Warning / The Ghost **True Sin:** ENVY (He envied Vane’s brilliance, which made him block Vane’s research, leading to Vane’s radicalization). **Virtue Mask:** WISDOM (He posed as the benevolent elder statesman of the Arcanum).
 
@@ -20,8 +20,19 @@ Solon dies in **Book 2, Chapter 1**. However, his presence lingers.
 
 Thorne is the example of what happens when a weak mind touches the **Old World Spirits** (The Entity's resonance echoes).
 
-- **The Transformation:** Thorne tries to channel the Headmaster's Authority to stop Angelica’s **Berry Gambit**. He opens himself too wide. The Spirit enters.
+- **The Transformation:** Thorne tries to channel the Headmaster's Authority to stop Angelica’s **Silt Broadcast**. He opens himself too wide. The Spirit enters.
 
 - **The Horror:** His jaw unhinges. His eyes burn out. He becomes a puppet.
 
 - **The Lesson:** Thorne’s gruesome death at Kaelen’s hands teaches the protagonists that **Authority Figures** are not gods; they are just meat waiting to be butchered. It breaks their conditioning to obey adults.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 02 | Key Event | While dining under heavy surveillance in the Palace, a tiny courier drone drops a data-chip from Archon Solon into Angelica's soup, warning that "The History is a lie" and that she is being sought as a "vessel." |
+| Book 2 | Chapter 02 | Key Event | Angelica discovers Magister Solon dead at a desk with his throat slit. The Sigil of the Founders—a circle with four interlocking triangles—is burned into his forehead. |
+| Book 2 | Chapter 02 | Moment | **Magister Solon** — His corpse initiates the plot—he died trying to reveal the truth. |
+| Book 2 | Chapter 03 | Key Event | Using a Mag-Lev Grappling Hook scavenged from Solon's office, Angelica intercepts a sanitation drone to slow her fall before crashing through a billboard and landing in a dumpster. |
+| Book 2 | Chapter 08 | Key Event | Lisbet’s young runner, Pixel, delivers the decryption key for Solon’s chip despite being brutally attacked by a gang that stole her cybernetic eye. |
+| Book 2 | Chapter 08 | Key Event | The map identifies "Exhibit 404: The Cylinder of Truth" as the location of the information Solon died for, which Hatcher notes is restricted from public viewing. |

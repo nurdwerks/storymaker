@@ -10,7 +10,7 @@
 ### Scene 2: The Crash / Gallery
 
 - **Key Event:** The six-ton chandelier crashes, forcing Vane’s nano-swarm to focus on his personal defense and releasing Angelica; she hauls a dazed Zephyr toward the exit despite her own numerous injuries.
-  - _Character Defining Moment:_ **Angelica Vance** — Amidst the chaos of a collapsing building and high-intensity combat, she remains focused on the mission and her team's survival over her own pain.
+  - _Character Defining Moment:_ **Angelica Ward** — Amidst the chaos of a collapsing building and high-intensity combat, she remains focused on the mission and her team's survival over her own pain.
   - _Key Dialog:_ **Angelica:** "Wake up, Zephyr, damn you! We're dead if we stay!"
 
 ---
@@ -26,5 +26,5 @@
 ### Scene 4: The Run / Museum Bridge - Exit
 
 - **Key Event:** Hatcher crashes his hover-car onto the museum's bridge to extract the team; as they escape, Vane watches them leave without pursuit, which Angelica recognizes as a sign of his calculated confidence.
-  - _Character Defining Moment:_ **Angelica Vance** — She realizes that Vane’s psychological victory is as dangerous as his physical one, as he now has her blood and knows her ultimate goals.
+  - _Character Defining Moment:_ **Angelica Ward** — She realizes that Vane’s psychological victory is as dangerous as his physical one, as he now has her blood and knows her ultimate goals.
   - _Key Dialog:_ **Angelica:** "He's already won the first round. And he wants us to know it."

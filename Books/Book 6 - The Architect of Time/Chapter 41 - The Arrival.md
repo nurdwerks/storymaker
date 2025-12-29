@@ -19,7 +19,7 @@
 ### Scene 2: The Date
 
 - **Key Event:** Angelica realized that while 20 years passed for her, only five minutes passed for the universe.
-  - _Key Dialog:_ **Angelica Vance:** "Five minutes. ... I was gone for five minutes."
+  - _Key Dialog:_ **Angelica Ward:** "Five minutes. ... I was gone for five minutes."
 
 ---
 
@@ -32,8 +32,8 @@
 ### Scene 4: The Timing
 
 - **Key Event:** An aged, warrior-hardened Angelica prepares to engage the enemy.
-  - _Character Defining Moment:_ **Angelica Vance** — She shifts from a survivor to an aggressor, ready for violence.
-  - _Key Dialog:_ **Angelica Vance:** "Right on time. ... Target the flagship. Ramming speed."
+  - _Character Defining Moment:_ **Angelica Ward** — She shifts from a survivor to an aggressor, ready for violence.
+  - _Key Dialog:_ **Angelica Ward:** "Right on time. ... Target the flagship. Ramming speed."
 
 ---
 
@@ -48,3 +48,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

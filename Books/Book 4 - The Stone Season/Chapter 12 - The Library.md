@@ -13,8 +13,8 @@
 ### Scene 2: The Choice
 
 - **Key Event:** The temperature in the sector drops to lethal levels, and the group realizes they have no fuel except the thousands of ancient books.
-  - _Character Defining Moment:_ **Angelica Vance** — Faces an ethical crisis over whether to burn history to survive the night.
-  - _Key Dialog:_ **Angelica Vance:** "A thousand years of philosophy. Three hundred years of poetry. And we're going to turn it into ash for five degrees of heat."
+  - _Character Defining Moment:_ **Angelica Ward** — Faces an ethical crisis over whether to burn history to survive the night.
+  - _Key Dialog:_ **Angelica Ward:** "A thousand years of philosophy. Three hundred years of poetry. And we're going to turn it into ash for five degrees of heat."
 
 ---
 
@@ -23,7 +23,7 @@
 - **Key Event:** Ria begins feeding the first volume into a makeshift brazer, prioritizing biological survival over cultural preservation.
   - _Character Defining Moment:_ **Ria** — Views the books as "cellulose fuel," dismissing the sentimental value.
   - _Key Dialog:_ **Ria:** "Words don't keep the blood moving. Heat does. If you want to read, do it fast. The sun goes out in ten minutes."
-  - _Key Dialog:_ **Angelica Vance:** "Burn the medical texts last. We might need the diagrams."
+  - _Key Dialog:_ **Angelica Ward:** "Burn the medical texts last. We might need the diagrams."
 
 ---
 
@@ -36,3 +36,5 @@
 ---
 
 _Summarized from Book 4 source material._
+
+

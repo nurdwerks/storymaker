@@ -10,7 +10,7 @@
 ### Scene 2: The Standoff / Parlor
 
 - **Key Event:** Kaelen holds his blade to Angelica's throat, demanding her surrender to him before Duke Grey destroys the block; Angelica refuses, claiming she would rather die than be a pawn.
-  - _Character Defining Moment:_ **Angelica Vance** — Her unyielding resolve and willingness to self-sacrifice even in a position of total vulnerability impresses Kaelen.
+  - _Character Defining Moment:_ **Angelica Ward** — Her unyielding resolve and willingness to self-sacrifice even in a position of total vulnerability impresses Kaelen.
 
 ---
 
@@ -33,5 +33,7 @@
 ### Scene 5: The Threat / Parlor
 
 - **Key Event:** Angelica puts a knife to her own throat, using the Blood Pact to mirror her pain into Kaelen and forcing a lethal stalemate.
-  - _Character Defining Moment:_ **Angelica Vance** — She masterfully weaponizes the symbol of her bondage, proving her commitment to freedom through an act of extreme desperation.
+  - _Character Defining Moment:_ **Angelica Ward** — She masterfully weaponizes the symbol of her bondage, proving her commitment to freedom through an act of extreme desperation.
   - _Key Dialog:_ **Angelica:** "I would kill myself to be free. The difference is subtle. But it is everything."
+
+

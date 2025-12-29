@@ -31,8 +31,8 @@
 ### Scene 4: The Silence
 
 - **Key Event:** Angelica prepares to sacrifice herself as the Captain and Architect, but a heavy silence falls over the bridge.
-  - _Character Defining Moment:_ **Angelica Vance** — She accepts responsibility for her design and prepares to die for her crew.
-  - _Key Dialog:_ **Angelica Vance:** "I'll do it. I'm the Captain. It's my job. Torin, take the helm."
+  - _Character Defining Moment:_ **Angelica Ward** — She accepts responsibility for her design and prepares to die for her crew.
+  - _Key Dialog:_ **Angelica Ward:** "I'll do it. I'm the Captain. It's my job. Torin, take the helm."
 
 ---
 
@@ -47,3 +47,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

@@ -57,9 +57,11 @@
 - **Key Event:** Kaelen throws Angelica out of his head with violent telekinesis. He is shaking, clutching his chest where his mother burned him.
 
   - _Key Dialog:_ **Kaelen Night:** "Get out."
-  - _Key Dialog:_ **Angelica Vance:** "I saw her. Your mother. She... she tortured you."
+  - _Key Dialog:_ **Angelica Ward:** "I saw her. Your mother. She... she tortured you."
   - _Key Dialog:_ **Kaelen Night:** "GET OUT!"
 
 - **Key Event:** Angelica now holds a weapon—she knows his secret.
 
-  - _Key Dialog:_ **Angelica Vance:** "Stay out of my head, Night. Or I will remove yours."
+  - _Key Dialog:_ **Angelica Ward:** "Stay out of my head, Night. Or I will remove yours."
+
+

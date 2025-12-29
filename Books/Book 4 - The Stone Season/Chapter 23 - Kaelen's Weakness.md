@@ -20,8 +20,8 @@
 ### Scene 3: The Solution
 
 - **Key Event:** Angelica cuts her own arm and orders Kaelen to drink her blood to satiate the bond's hunger.
-  - _Character Defining Moment:_ **Angelica Vance** — Takes a radical, intimate action to save her subordinate, asserting her command over his "martyrdom."
-  - _Key Dialog:_ **Angelica Vance:** "I'm the Captain. And that's an order, soldier. You don't get to die yet."
+  - _Character Defining Moment:_ **Angelica Ward** — Takes a radical, intimate action to save her subordinate, asserting her command over his "martyrdom."
+  - _Key Dialog:_ **Angelica Ward:** "I'm the Captain. And that's an order, soldier. You don't get to die yet."
 
 ---
 
@@ -30,7 +30,7 @@
 - **Key Event:** Kaelen feeds on Angelica's blood; he recovers instantly but is left with a profound sense of shame and "vampiric" guilt.
   - _Character Defining Moment:_ **Kaelen Night** — Realizes he has crossed a line of dependency that stains his soul.
   - _Key Dialog:_ **Kaelen Night:** "I'm a monster. I'm staining your soul."
-  - _Key Dialog:_ **Angelica Vance:** "Your blood is my blood. Literally. Now get up."
+  - _Key Dialog:_ **Angelica Ward:** "Your blood is my blood. Literally. Now get up."
   - _Key Dialog:_ **Hatcher:** "Love is a vampire."
   - _Key Dialog:_ **Ria:** "Survival is a vampire. Love is just the vein."
 

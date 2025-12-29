@@ -27,7 +27,7 @@
 ### Scene 3: The Connection
 
 - **Key Event:** Torin and Angelica communicate through geometry and physics, drawing parabolas and calculating Pi.
-  - _Character Defining Moment:_ **Angelica Vance** — She feels a sense of relief and connection, finding a peer in Torin.
+  - _Character Defining Moment:_ **Angelica Ward** — She feels a sense of relief and connection, finding a peer in Torin.
 
 ---
 
@@ -35,8 +35,8 @@
 
 - **Key Event:** Torin and Angelica exchange names.
 - **Key Event:** Angelica realizes Torin sees her as a "library" rather than a demon.
-  - _Character Defining Moment:_ **Angelica Vance** — She identifies Torin as a diamond in the rough and a potential ally who "sees the code."
-  - _Key Dialog:_ **Angelica Vance:** "He isn't looking at the dirt. He is looking at the math. He sees the code. I'm not a demon to him. I'm a library. And he is the first person I've met who wants to read the book."
+  - _Character Defining Moment:_ **Angelica Ward** — She identifies Torin as a diamond in the rough and a potential ally who "sees the code."
+  - _Key Dialog:_ **Angelica Ward:** "He isn't looking at the dirt. He is looking at the math. He sees the code. I'm not a demon to him. I'm a library. And he is the first person I've met who wants to read the book."
 
 ---
 
@@ -51,3 +51,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

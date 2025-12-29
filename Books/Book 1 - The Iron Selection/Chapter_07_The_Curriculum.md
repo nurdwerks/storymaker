@@ -25,8 +25,8 @@
 
 - **Key Event:** Angelica raises her hand and challenges the official story, citing that the "Founders" were actually flight crew with highest exposure to drive plume radiation.
 
-  - _Key Dialog:_ **Angelica Vance:** "It's not divine selection, Professor. It's genetic compatibility with the focused radiation of the ship's engine core."
-  - _Key Dialog:_ **Angelica Vance:** "We aren't gods, Professor. We're just mutants with good PR."
+  - _Key Dialog:_ **Angelica Ward:** "It's not divine selection, Professor. It's genetic compatibility with the focused radiation of the ship's engine core."
+  - _Key Dialog:_ **Angelica Ward:** "We aren't gods, Professor. We're just mutants with good PR."
 
 ---
 
@@ -46,11 +46,13 @@
 
 - **Key Event:** For three hours, Angelica endures burning muscles, spasms, and agony, but refuses to recant. Her Pride is harder than the iron.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Retreats into her mind, solving quadratic equations to distract from pain. Will not admit the lie.
+  - _Character Defining Moment:_ **Angelica Ward** — Retreats into her mind, solving quadratic equations to distract from pain. Will not admit the lie.
 
 - **Key Event:** When Halloway returns, the rod hasn't moved. He looks afraid, seeing unbreaking will in a "Silt-Rat."
 
 - **Key Event:** Kaelen waits in the hallway afterward.
 
   - _Key Dialog:_ **Kaelen Night:** "Was it worth the pain?"
-  - _Key Dialog:_ **Angelica Vance:** "The truth implies that your gods are just batteries. I can see why you prefer the lie. It's much deeper. It's much safer."
+  - _Key Dialog:_ **Angelica Ward:** "The truth implies that your gods are just batteries. I can see why you prefer the lie. It's much deeper. It's much safer."
+
+

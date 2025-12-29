@@ -47,10 +47,12 @@
 
 - **Key Event:** Angelica refuses, viewing him as "part of the engine" they don't throw away until broken beyond repair.
 
-  - _Key Dialog:_ **Angelica Vance:** "He's part of the engine. We don't throw away parts until they are broken beyond repair."
+  - _Key Dialog:_ **Angelica Ward:** "He's part of the engine. We don't throw away parts until they are broken beyond repair."
 
 - **Key Event:** Angelica checks his pulse and recognizes the damage is magical, not fixable with bandages. She orders Ria to grab his legs—they're carrying him.
 
-  - _Key Dialog:_ **Angelica Vance:** "Even gods bleed. And when they do, the sharks come. We aren't sharks, Ria. We're wolves."
+  - _Key Dialog:_ **Angelica Ward:** "Even gods bleed. And when they do, the sharks come. We aren't sharks, Ria. We're wolves."
   - _Key Dialog:_ **Ria:** "Wolves eat things too, Angel."
-  - _Key Dialog:_ **Angelica Vance:** "Yeah. But wolves hunt in a pack."
+  - _Key Dialog:_ **Angelica Ward:** "Yeah. But wolves hunt in a pack."
+
+

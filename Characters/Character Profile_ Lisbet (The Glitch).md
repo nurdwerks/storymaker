@@ -1,4 +1,4 @@
-﻿# Character Profile: Lisbet (The Glitch)
+# Character Profile: Lisbet (The Glitch)
 
 **Archetype:** The Hacker / The Tech-Witch / The Anarchist **True Sin:** LUST (Not exclusively sexual, but a desperate, dopamine-fueled craving for _Sensation_, _Connection_, and _Stimulus_. She is an addict of the "Rush"—the moment the firewall breaks, the moment the data floods in. She hacks because reality is too quiet and too lonely). **Virtue Mask:** TEMPERANCE (She projects a persona of cold, robotic logic and physical distance. She acts like she hates people and prefers machines to hide the terrifying truth: she is touch-starved and desperate for a hug she cannot survive).
 
@@ -128,7 +128,7 @@ Lisbet grew up in the **Mid-Levels**, in the crawlspaces between the walls. She 
 
 - **The Role:** She jump-starts the heaters. She keeps the lights on. Survivors huddle around her for warmth, but they have to stay three feet away. She is the campfire that burns if you get too close.
 
-- **The Loss:** **Hatcher** dies holding the door. Lisbet watches it happen on her datapad feed. She cannot save him.
+- **The Loss:** In late Book 5, **Hatcher** dies holding the door during the Hunter assault. Lisbet watches it happen on her datapad feed. She cannot save him.
 
 - **The Breakdown:** Hatcher was her anchor. Without him, her static flares out of control. She overloads, shorting out the lights in the camp. She screams in the dark, a raw, digital shriek of grief. Zephyr has to talk her down from a distance, promising he won't leave her (even though his counter is at zero).
 
@@ -226,3 +226,86 @@ Lisbet lives in the wires, but she has a community of hackers and information br
 - **Pixel:** A young girl, maybe ten, who is a "runner" for data chips. She worships Lisbet. She brings Lisbet candy and drawings. She sticks her tongue out at Angelica and calls her "The Glitchless."
 
 - **The Admin:** An anonymous voice on a secure channel who Lisbet defers to. They discuss "Level 5 Architecture." Lisbet seeks The Admin’s approval in a way she never seeks Angelica’s.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 06 | Key Event | Lisbet intercepts an encrypted transmission from Lady Corinne containing Warden patrol routes and safe windows for movement—Corinne is secretly helping. |
+| Book 2 | Chapter 07 | Key Event | Hatcher uses an ancient, untraceable vacuum-tube communicator to call a "ghost" named Lisbet for help with the decrypted data. |
+| Book 2 | Chapter 07 | Key Event | Lisbet, a high-energy teenage "Glitch," arrives and reveals that Angelica’s palace escape video has gone viral, making her the most trending bounty in the Zenith. |
+| Book 2 | Chapter 07 | Moment | **Lisbet** — She is introduced as a hyperactive technical genius who experiences data as a physical sensation. |
+| Book 2 | Chapter 07 | Key Event | Lisbet activates the "Multiplicity Protocol," broadcasting dozens of fake bio-signatures across the Zenith to confuse the Wardens' tracking systems. |
+| Book 2 | Chapter 07 | Moment | **Lisbet** — Her brilliance and ego are displayed as she effortlessly dismantles the city's coordinated drone hunt with her custom code. |
+| Book 2 | Chapter 08 | Key Event | Lisbet’s young runner, Pixel, delivers the decryption key for Solon’s chip despite being brutally attacked by a gang that stole her cybernetic eye. |
+| Book 2 | Chapter 08 | Moment | **Lisbet** — She is deeply shaken and vengeful after Pixel’s injury, showing a protective, human side beneath her glitchy exterior. |
+| Book 2 | Chapter 08 | Key Event | Angelica and Lisbet use the key to unlock the data-chip, which reveals a 3D star chart and a schematic of the Zenith that points to the Museum of Pre-History. |
+| Book 2 | Chapter 08 | Key Event | The group prepares for the heist; Angelica rebuilds her Haptic Glove into "Shock-Knuckles" while Lisbet identifies a Class-7 Synth-Guardian, "The Custodian," as the main obstacle. |
+| Book 2 | Chapter 09 | Key Event | Angelica assigns mission roles: Zephyr to distract the Custodian, Lisbet to manage digital infiltration, Hatcher as the getaway driver, and herself as the one to retrieve the Cylinder. |
+| Book 2 | Chapter 11 | Key Event | The team rappels from the roof into the Astronomy Floor; Angelica navigates a shifting laser grid with extreme precision while Lisbet loops the security sensors. |
+| Book 2 | Chapter 13 | Key Event | The museum’s security override flares to 100% brightness; the Custodian droid violently incapacitates Zephyr, hurling him into a display case, while Lisbet is locked out of the system. |
+| Book 2 | Chapter 15 | Key Event | Lisbet channels a massive electrical current through her own neural link to fry the museum’s security grid and force the blast doors open. |
+| Book 2 | Chapter 15 | Moment | **Lisbet** — She risks permanent neural damage and severe physical injury by acting as a living circuit to ensure the team's escape path is clear. |
+| Book 2 | Chapter 23 | Key Event | While Angelica "negotiates" and feeds Gilded's ego, Lisbet hacks his chair's systems. Zephyr accesses the debt ledger to erase his own record. |
+| Book 2 | Chapter 23 | Moment | **Lisbet** — Demonstrates her skill by breaking Gilded's security while he's distracted. |
+| Book 2 | Chapter 23 | Key Event | Lisbet disables the Repulsor Throne. Baron Gilded crashes to the floor, helpless under his own weight, screaming like a toddler as they escape with the access codes. |
+| Book 2 | Chapter 25 | Key Event | The team undergoes a grueling climb up a hundred stories of concrete stairs; the physical and mental toll pushes Zephyr and Lisbet to the brink of collapse. |
+| Book 2 | Chapter 26 | Key Event | The team reaches the Broadcast Dish, but Lisbet finds it protected by "Black-Ice" encryption; she decides to undergo a direct, buffer-less neural interface to break the firewall. |
+| Book 2 | Chapter 26 | Moment | **Lisbet** — Despite having been nearly killed by overloads before, she risks total brain death to ensure the truth reaches the city. |
+| Book 2 | Chapter 26 | Key Event | Lisbet plugs an industrial-grade cable into her neural port; her body is wracked by agonizing spasms and electrical arcs as she channels the system's massive data stream. |
+| Book 2 | Chapter 26 | Moment | **Hatcher** — He displays a ruthless pragmatism by physically preventing Angelica from breaking the connection, knowing that an interrupted link would be worse for Lisbet than the surge itself. |
+| Book 2 | Chapter 26 | Key Event | Inside her mind, Lisbet shatters the "obsidian wall" of the Black-Ice through sheer willpower, successfully opening the Emergency Broadcast System before collapsing into unconsciousness. |
+| Book 2 | Chapter 26 | Moment | **Lisbet** — Her mental fortitude and ultimate sacrifice allow for the breach of the Zenith's most secure communication systems. |
+| Book 2 | Chapter 27 | Key Event | The team reaches the analog Emergency Broadcast Tower. Lisbet works to bypass the ancient security systems while Angelica prepares her message. |
+| Book 2 | Chapter 27 | Moment | **Lisbet** — Her technical skills are pushed to the limit interfacing with pre-digital technology. |
+| Book 3 | Chapter 07 | Key Event | Lisbet discovers that the Zenith's surveillance network has been compromised—someone is tracking their communications through her pet AI, Router. |
+| Book 3 | Chapter 07 | Moment | **Lisbet** — Realizes her own creation has been turned against them. |
+| Book 3 | Chapter 07 | Key Event | To save the network and protect the resistance, Lisbet must permanently "wipe" Router—erasing her only friend. |
+| Book 3 | Chapter 07 | Moment | **Lisbet** — She kills the closest thing she has to family to save strangers. |
+| Book 3 | Chapter 07 | Key Event | Router's processes fade. Lisbet sits alone in the dark, mourning in silence. Angelica finds her but says nothing—just sits beside her. |
+| Book 3 | Chapter 07 | Key Event | Lisbet emerges cold and focused. She rebuilds the network without Router, faster and angrier. |
+| Book 3 | Chapter 07 | Moment | **Lisbet** — Grief becomes fuel. She won't let Router's death be meaningless. |
+| Book 4 | Chapter 02 | Key Event | Ria enters the scene and kills the scavenger by snapping his neck to take the boots for Lisbet. |
+| Book 4 | Chapter 02 | Moment | **Ria** — Efficiently eliminates a scavenger and loots a noble without hesitation, prioritizing the needs of her unit (Lisbet) over social hierarchy. |
+| Book 4 | Chapter 03 | Moment | **Lisbet** — Uses her neural link to jump the complex Zenith biocodes and open the airlock. |
+| Book 4 | Chapter 12 | Moment | **Lisbet** — Is overwhelmed by the physical books, having only ever seen digital data streams in the Spire. |
+| Book 4 | Chapter 13 | Moment | **Lisbet** — Pleads with Ria to accept the help, offering to use her own nanites to stabilize the infection. |
+| Book 4 | Chapter 16 | Key Event | Using the Scrapyard’s superior tools, Lisbet and Zephyr work together to create a functional (though crude) armor set for Ria to replace her damaged plating. |
+| Book 4 | Chapter 18 | Key Event | The creature breaks loose and kills a young boy named **Pip**, who had been following Lisbet. |
+| Book 4 | Chapter 20 | Key Event | As the group sleeps, the lights in their shelter flicker and the gravity briefly inverts, slamming people into the ceiling. Lisbet traces the malfunction to the Mainframe—something is actively sabotaging them. |
+| Book 4 | Chapter 20 | Moment | **Lisbet** — Realizes the ship's AI is not dormant; something is alive in the code. |
+| Book 4 | Chapter 26 | Key Event | Lisbet, still grieving Hatcher's death, reaches her breaking point. Her neural implants surge with emotion, shorting out every light in the camp. |
+| Book 4 | Chapter 26 | Moment | **Lisbet** — Her pain becomes literal power, uncontrolled and dangerous. |
+| Book 4 | Chapter 26 | Key Event | Kaelen talks Lisbet down from the overload, using his own experience with trauma to reach her. The lights flicker back on. |
+| Book 4 | Chapter 33 | Moment | **Lisbet** — Sobbing, she thanks Ria for her sacrifice, promising to rebuild her yet again. |
+| Book 5 | Chapter 02 | Key Event | Lisbet jacks directly into a terminal to restore power, receiving a violent electric shock but successfully awakening the ship's systems and AI. |
+| Book 5 | Chapter 02 | Moment | **Lisbet** — Displays a high tolerance for pain and a deep connection to technology, enjoying the "raw" voltage of the ancient ship. |
+| Book 5 | Chapter 08 | Moment | **Lisbet** — Devastated by the loss of Figment, her AI companion, questioning if the destination is worth the cost. |
+| Book 5 | Chapter 17 | Key Event | Zephyr is forced to choose between a backpack full of gold bars from the treasury and saving Lisbet, who is pinned under a fallen branch in the high-gravity zone. |
+| Book 5 | Chapter 17 | Moment | **Zephyr** — Abandons his lifelong dream of wealth and freedom ("his island") to save Lisbet, choosing human life over material gain. |
+| Book 5 | Chapter 20 | Moment | **Lisbet** — Repairs the environmental terminal in record time to restore local oxygen, showing her technical prowess under extreme pressure. |
+| Book 5 | Chapter 23 | Key Event | Lisbet warns that without a super-computer to calculate the jump vector, the drive is a suicide machine; Vane points to the Interface Throne. |
+| Book 5 | Chapter 23 | Moment | **Lisbet** — Terrified by the lack of safety protocols, she realizes that Angelica is the only one who can navigate the "scream of the universe." |
+| Book 5 | Chapter 31 | Key Event | Lisbet intervenes in the digital battle, using her goggles and a custom hacking deck to trap Vane's code in a "honey-pot" server—specifically the ship's waste management system. |
+| Book 5 | Chapter 31 | Moment | **Lisbet** — Demonstrates her "Undercity" hacking style, using chaos and "dirty" code to defeat Vane's rigid, perfect protocols. |
+| Book 6 | Chapter 31 | Key Event | She reassures a young girl, Lisbet-7, that they will wake up in a better future. |
+| Book 6 | Chapter 48 | Key Event | Lisbet scans the crystal and confirms it is a "singularity in a bottle," capable of a supernova-level explosion if cracked. |
+| Book 7 | Chapter 01 | Key Event | Lisbet is monitoring the long-range scanners during a graveyard shift. She observes the star-field data simply vanish from the screens—not obscured, but deleted. |
+| Book 7 | Chapter 01 | Moment | **Lisbet** — She instinctively checks the hardware first, assuming a glitch, before realizing the code is perfectly functional. Her denial shifts to cold logic. |
+| Book 7 | Chapter 04 | Moment | **Lisbet** — She is typing furiously, sweating. She realizes her counter-hacks are useless because the enemy isn't hacking the software; it's hacking the laws of physics. |
+| Book 7 | Chapter 04 | Key Event | Lisbet isolates the interference source. It is a signal coming directly from the Sphere. It penetrates the lead shielding of the hull effortlessly. |
+| Book 7 | Chapter 05 | Key Event | Lisbet plays the decoded signal in the briefing room. It is a screeching, dissonant sound that causes physical pain. |
+| Book 7 | Chapter 06 | Key Event | Ria tries to link directly with the ship’s tactical grid, but Vane blocks her clearance. She has to hack her own defense grid with Lisbet's help. |
+| Book 7 | Chapter 10 | Key Event | Angelica and Lisbet examine the "paintings" through a reinforced window. The area is sealed. |
+| Book 7 | Chapter 10 | Key Event | Lisbet scans the remains. There is no biological depth. The atoms have been rearranged onto a single plane. |
+| Book 7 | Chapter 17 | Key Event | Lisbet is barricaded in the server room. Her own security detail tries to cut through the door. |
+| Book 7 | Chapter 17 | Moment | **Lisbet** — She cries while typing the kill-command. |
+| Book 7 | Chapter 21 | Key Event | Heavily armed Zealots storm the room. Angelica's team (Ria, Kaelen, Lisbet) is outnumbered. |
+| Book 7 | Chapter 26 | Key Event | Zephyr suits up in the Mining Rig. Lisbet loads the override codes into his mech. |
+| Book 7 | Chapter 26 | Key Event | They have a moment. Lisbet knows he isn't coming back. |
+| Book 7 | Chapter 26 | Moment | **Lisbet** — She hands him his lucky deck of cards. She doesn't say goodbye. She can't. |
+| Book 7 | Chapter 32 | Key Event | Lisbet stares at her screen. Zephyr's life-sign monitor is flatline. |
+| Book 7 | Chapter 32 | Moment | **Lisbet** — She doesn't scream immediately. She waits for the "Respawn" glitch that isn't coming. |
+| Book 7 | Chapter 32 | Key Event | Lisbet finally breaks. She screams—a sound of raw data and human grief mixing. The lights on the bridge flicker in sympathy with her Bond. |
+| Book 7 | Chapter 33 | Key Event | Lisbet sees the transponder signal fading. She dives into the code. |
+| Book 7 | Chapter 50 | Key Event | **Lisbet** sits on a rock, holding Zephyr's gold tooth. She feels its coldness. It is the only metal left that matters. |

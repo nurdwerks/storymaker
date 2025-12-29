@@ -15,7 +15,7 @@
 
 - **Key Event:** They reach the summit—a flat obsidian circle above the clouds. Blinding unfiltered sun, pure cold wind.
 
-  - _Key Dialog:_ **Angelica Vance:** "We made it. We actually made it."
+  - _Key Dialog:_ **Angelica Ward:** "We made it. We actually made it."
   - _Key Dialog:_ **Ria:** "I'm never climbing stairs again."
   - _Key Dialog:_ **Kaelen Night:** "The extraction point. We are the first."
 
@@ -49,8 +49,10 @@
   - _Key Dialog:_ **Ria:** "Don't do it, Night."
   - _Key Dialog:_ **Kaelen Night:** "Two seats. The strongest survive."
   - _Key Dialog:_ **Kaelen Night:** "You are a hammer. I am a blade. Hammers are easily dodged."
-  - _Key Dialog:_ **Angelica Vance:** "Stop it!"
+  - _Key Dialog:_ **Angelica Ward:** "Stop it!"
 
 - **Key Event:** Angelica realizes with horror that Kaelen isn't bluffing—he's going to kill Ria, and she has to decide who to save.
 
   - _Key Dialog:_ **Kaelen Night:** "Three chairs. Two musical notes left. Play."
+
+

@@ -1,4 +1,4 @@
-﻿# Character Profile: Torin (The Architect)
+# Character Profile: Torin (The Architect)
 
 **Archetype:** The Engineer / The Highlander / The Anchor **True Sin:** ATTACHMENT (A profound, desperate love for a world that is already dead. He refuses to accept the inevitable end of his people, driving him to build the impossible). **Virtue Mask:** FORTITUDE (He projects the image of the stoic, unshakeable leader who can carry the burden of survival. He hides his grief behind the work).
 
@@ -145,3 +145,67 @@ Torin lives in the past, on the original Generation Ship. He is surrounded by th
 - **Dr. Hale:** (The Skeptical Healer). The ship’s doctor who worries about Torin’s stress levels. He forces Torin to sleep. He treats Angelica as a hallucination or a symptom of Torin’s fatigue. "Leave him alone, phantom. He needs rest."
 
 - **The AI "Mother" (Early Version):** The ship’s computer in its infancy. It speaks to Torin with a soft, maternal voice. "Good morning, Torin." It doesn't recognize Angelica. It treats her as "Unauthorized Personnel."
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 05 | Key Event | Torin, the tribe's Shaman, visits Angelica's cage. |
+| Book 6 | Chapter 05 | Key Event | Angelica observes Torin's tool-filled vest and his primitive quartz lenses (glasses). |
+| Book 6 | Chapter 05 | Moment | **Torin** — He approaches with intellectual curiosity rather than fear, marking him as a scientist-figure. |
+| Book 6 | Chapter 05 | Key Event | Torin prods Angelica with a stick to test her solidity, then draws a heliocentric model in the dirt. |
+| Book 6 | Chapter 05 | Key Event | Torin and Angelica communicate through geometry and physics, drawing parabolas and calculating Pi. |
+| Book 6 | Chapter 05 | Moment | **Angelica Ward** — She feels a sense of relief and connection, finding a peer in Torin. |
+| Book 6 | Chapter 05 | Key Event | Torin and Angelica exchange names. |
+| Book 6 | Chapter 05 | Key Event | Angelica realizes Torin sees her as a "library" rather than a demon. |
+| Book 6 | Chapter 05 | Moment | **Angelica Ward** — She identifies Torin as a diamond in the rough and a potential ally who "sees the code." |
+| Book 6 | Chapter 06 | Key Event | Ragnar interrupts Torin and Angelica, viewing their communication as a betrayal or sorcery. |
+| Book 6 | Chapter 07 | Key Event | Torin bestows the title of "Wise Woman" upon Angelica, which she accepts as a "shield" for her survival. |
+| Book 6 | Chapter 08 | Key Event | Angelica and Torin, escorted by Ragnar's guards, trek to the "Holy Place" (a debris field of ancient technology). |
+| Book 6 | Chapter 08 | Key Event | She tells Torin that the wreck is not magic, but raw material for their future. |
+| Book 6 | Chapter 09 | Key Event | Angelica explains to Torin that an alien invasion is coming in twenty years and that they must build a starship to escape. |
+| Book 6 | Chapter 09 | Moment | **Torin** — He shows deep fear but remains attentive to Angelica's vision. |
+| Book 6 | Chapter 10 | Key Event | Angelica uses Torin's glasses to start a fire with sunlight, demonstrating the power of "commanding the sky." |
+| Book 6 | Chapter 10 | Key Event | Ragnar agrees to a triumvirate: Ragnar as the Body (labor), Torin as the Mind (translation/tools), and Angelica as the Soul (vision/math). |
+| Book 6 | Chapter 13 | Key Event | Torin toasts the "Metal Whale," and Angelica realizes she is building a civilization, not just a ship. |
+| Book 6 | Chapter 14 | Key Event | She develops a deep, unspoken bond with Torin through years of shared intellectual and physical toil. |
+| Book 6 | Chapter 14 | Moment | **Torin** — He expresses profound admiration for Angelica's weathered strength. |
+| Book 6 | Chapter 16 | Key Event | Angelica and Torin work late in their command center, surrounded by maps and diagrams. |
+| Book 6 | Chapter 16 | Key Event | Angelica covers a sleeping Torin with a fur cloak, leading to a moment of shared vulnerability and realization of their deep love. |
+| Book 6 | Chapter 16 | Moment | **Angelica Ward** — She recognizes Torin as the only person who has ever loved her as a human being rather than a goddess or possession. |
+| Book 6 | Chapter 16 | Key Event | Torin and Angelica share their first kiss, representing twenty years of shared survival and intellectual connection. |
+| Book 6 | Chapter 16 | Key Event | Angelica expresses guilt for bringing her war to Torin, while Torin thanks her for giving him "the stars." |
+| Book 6 | Chapter 19 | Key Event | Ragnar-Vane corrects Torin's math, revealing his high-level technical knowledge. |
+| Book 6 | Chapter 19 | Moment | **Torin** — He feels a chilling realization that the King has been replaced by something else. |
+| Book 6 | Chapter 23 | Key Event | Torin panics as cables reach their breaking point, but Angelica forces him to trust her calculations. |
+| Book 6 | Chapter 23 | Moment | **Torin** — His terror for the safety of his people and Angelica nearly causes him to abandon the ship. |
+| Book 6 | Chapter 23 | Key Event | Angelica and Torin huddle together under the hull, finding mutual support amidst the deafening storm. |
+| Book 6 | Chapter 24 | Key Event | The storm passes, and the _Aeterna_ stands undamaged. Angelica and Torin view the clear night sky from the bridge. |
+| Book 6 | Chapter 24 | Key Event | Torin learns about binary stars and nuclear furnaces from Angelica, his fear replaced by awe. |
+| Book 6 | Chapter 24 | Key Event | Angelica vows to the universe that she will not let the dark take Torin or her people. |
+| Book 6 | Chapter 26 | Key Event | Angelica and Torin inspect the engine room, which is already radiating intense heat and ozone. |
+| Book 6 | Chapter 27 | Key Event | Torin mentions a restless volcano, and Angelica devises a plan to tap geothermal energy for a particle accelerator. |
+| Book 6 | Chapter 31 | Key Event | Torin is still outside, coordinating the defense of the launch ramp. |
+| Book 6 | Chapter 33 | Key Event | Torin identifies a sheared servo that has wedged the primary fuel rod, preventing the ship from jumping. |
+| Book 6 | Chapter 34 | Key Event | Torin blocks Angelica's path, arguing that she is the only one who can navigate the ship through the Time Stream. |
+| Book 6 | Chapter 34 | Key Event | Torin reassures a sobbing Angelica that he will always be with her in spirit. |
+| Book 6 | Chapter 34 | Moment | **Torin** — He displays absolute peace and certainty in his decision to sacrifice himself for the mission. |
+| Book 6 | Chapter 35 | Key Event | Angelica tries to physically force her way past Torin, but he holds her firm. |
+| Book 6 | Chapter 35 | Key Event | Torin kisses her, a final act that taste of salt, fear, and eternity. |
+| Book 6 | Chapter 35 | Key Event | Torin gives Angelica a datapad containing the genetic database and city plans, his final gift to the future. |
+| Book 6 | Chapter 36 | Key Event | Torin shoves Angelica back into the bridge airlock and seals the door. |
+| Book 6 | Chapter 36 | Key Event | Angelica pounds on the porthole glass while Torin stands on the other side in the red glow of emergency lights. |
+| Book 6 | Chapter 36 | Key Event | Torin mouths his final words to Angelica through the glass and walks away toward the core. |
+| Book 6 | Chapter 37 | Key Event | Torin enters the Radiation Chamber, suffering instant burns, and manually seats the fuel rod with superhuman effort. |
+| Book 6 | Chapter 37 | Key Event | The reactor goes critical, and Torin gives a final thumbs up before being vaporized by neutron radiation. |
+| Book 6 | Chapter 37 | Moment | **Torin** — He dies with a smile, knowing he has saved his people. |
+| Book 6 | Chapter 37 | Key Event | Angelica screams as the screen goes white, leaving only Torin's scorched quartz glasses behind. |
+| Book 6 | Chapter 38 | Key Event | Angelica breaks down in zero-G, weeping for Torin and her lost world. |
+| Book 6 | Chapter 40 | Key Event | She dreams of an alternate life where the _Zenith_ never crashed and she grew old happily with Torin. |
+| Book 6 | Chapter 40 | Key Event | In her stasis sleep, she whispers a promise to see Torin when she wakes up. |
+| Book 6 | Chapter 44 | Key Event | Angelica visits the _Aeterna_'s engine room and finds Torin's fused fuel rod. |
+| Book 6 | Chapter 44 | Key Event | She retrieves the quartz crystal trap, which now glows red with the combined energy of Vane and Torin's sacrifice. |
+| Book 6 | Chapter 48 | Key Event | She explains that the crystal absorbed the resonance of the core during Torin's sacrifice, making it immensely powerful. |
+| Book 6 | Chapter 49 | Key Event | Angelica, remembering her lost world and Torin's grave, gives the final order to attack the flagship. |
+| Book 6 | Chapter 49 | Key Event | Angelica watches as the countdown hits zero, dedicating the final strike to Torin. |
+| Book 7 | Chapter 45 | Key Event | She shows it **Torin** dying to save the timeline in Book 6. |

@@ -26,15 +26,15 @@
 ### Scene 3: The Capture
 
 - **Key Event:** Angelica activates the Tesla Coil, ionizing the air and trapping Vane's ionic pattern in a large quartz crystal.
-  - _Key Dialog:_ **Angelica Vance:** "Gotcha."
+  - _Key Dialog:_ **Angelica Ward:** "Gotcha."
 
 ---
 
 ### Scene 4: The Battery
 
 - **Key Event:** Angelica seals the pulsating quartz crystal in a lead-lined box, intending to use Vane's energy to power the warp core.
-  - _Character Defining Moment:_ **Angelica Vance** — She triumphs over her nemesis by turning him into a literal tool for her mission.
-  - _Key Dialog:_ **Angelica Vance:** "Congratulations. You just became the backup generator. You're going to help us fly, whether you like it or not."
+  - _Character Defining Moment:_ **Angelica Ward** — She triumphs over her nemesis by turning him into a literal tool for her mission.
+  - _Key Dialog:_ **Angelica Ward:** "Congratulations. You just became the backup generator. You're going to help us fly, whether you like it or not."
 
 ---
 
@@ -49,3 +49,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

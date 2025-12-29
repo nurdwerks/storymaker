@@ -19,7 +19,13 @@ Mrs. Gable is a sweet-faced old woman who knits alongside Joyce in the retiremen
 
 ## III. Book 4 Integration
 
-- **Location:** Book 4, Chapter 20
+- **Location:** Book 4, Chapter 22
 - **Scene:** "The Protest" (The False Flag)
 - **Role:** The Innocent Victim
 - **Quote:** "Oh dear. They sound upset. Someone should talk to them."
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 22 | Key Event | Torque’s survivors and local scavengers attack the "Gentle Rest" beacon after seeing its lights; a resident, Mrs. Gable, is killed by a "False Flag" agitator's shot. |

@@ -20,8 +20,8 @@
 ### Scene 3: The Truth of Vane
 
 - **Key Event:** They find a hidden log from Vane's predecessor, revealing that Vane knew the truth and was trying to "fast-track" evolution to survive the nebula's radiation.
-  - _Character Defining Moment:_ **Angelica Vance** — Realizes that Vane wasn't just a madman; he was a desperate man who saw the end of the world and tried to outrun it.
-  - _Key Dialog:_ **Angelica Vance:** "He wasn't trying to be a god. He was trying to be a bridge. He just didn't care how many people he walked on to cross it."
+  - _Character Defining Moment:_ **Angelica Ward** — Realizes that Vane wasn't just a madman; he was a desperate man who saw the end of the world and tried to outrun it.
+  - _Key Dialog:_ **Angelica Ward:** "He wasn't trying to be a god. He was trying to be a bridge. He just didn't care how many people he walked on to cross it."
 
 ---
 
@@ -29,8 +29,10 @@
 
 - **Key Event:** The reactor core begins to destabilize as it exits the nebula's shadow; they must reach the "Solar Gates" to harness the returning sunlight or the ship's engines will fail.
   - _Key Dialog:_ **Ria (Static):** "Energy... levels... critical. Need... light. Find... the... gates."
-  - _Key Dialog:_ **Angelica Vance:** "Then we stop praying to the shadow. We hunt the sun."
+  - _Key Dialog:_ **Angelica Ward:** "Then we stop praying to the shadow. We hunt the sun."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

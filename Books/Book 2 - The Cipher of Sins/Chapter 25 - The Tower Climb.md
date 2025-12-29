@@ -3,7 +3,7 @@
 ### Scene 1: The Stairs / Emergency Stairwell, Broadcast Tower
 
 - **Key Event:** The team undergoes a grueling climb up a hundred stories of concrete stairs; the physical and mental toll pushes Zephyr and Lisbet to the brink of collapse.
-  - _Character Defining Moment:_ **Angelica Vance** — She becomes the physical and emotional anchor for the group, literally dragging her teammates upward through her own extreme exhaustion.
+  - _Character Defining Moment:_ **Angelica Ward** — She becomes the physical and emotional anchor for the group, literally dragging her teammates upward through her own extreme exhaustion.
 
 ---
 
@@ -18,7 +18,7 @@
 ### Scene 3: The Gift / Floor 80
 
 - **Key Event:** Angelica gives Zephyr the priceless golden casing of the Cylinder, telling him to use it to buy his freedom from the credit-lords.
-  - _Character Defining Moment:_ **Angelica Vance** — She sacrifices a literal fortune to save her friend’s life, demonstrating her primary loyalty to her team over material wealth.
+  - _Character Defining Moment:_ **Angelica Ward** — She sacrifices a literal fortune to save her friend’s life, demonstrating her primary loyalty to her team over material wealth.
   - _Key Dialog:_ **Angelica:** "Buy your life back, Zephyr. Pay off your interest. ... Be a free man."
 
 ---
@@ -28,3 +28,5 @@
 - **Key Event:** Zephyr processes the gold directly into his cybernetic systems, triggering a "Platinum" power surge that restores his health and strength; he surges to the roof, smashing through the final blast doors.
   - _Character Defining Moment:_ **Zephyr** — Rejuvenated by the raw power of the converted gold, he embraces his role as the team’s "avenging angel" with renewed ferocity.
   - _Key Dialog:_ **Zephyr:** "Let's go punch god in the face."
+
+

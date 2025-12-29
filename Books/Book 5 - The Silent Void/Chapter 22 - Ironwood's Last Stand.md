@@ -13,7 +13,7 @@
 
   - _Character Defining Moment:_ **General Ironwood** — Acknowledges the end of his era of warfare and reluctantly yields command to Angelica's "other options."
   - _Key Dialog:_ **General Ironwood:** "My boys... They didn't even get to fire. They just... vanished."
-  - _Key Dialog:_ **Angelica Vance:** "General, we don't fight them. We leave them."
+  - _Key Dialog:_ **Angelica Ward:** "General, we don't fight them. We leave them."
 
 - **Key Event:** The Mothership begins a gravitational tractor beam operation, slowly reeling the Zenith in toward its massive, jagged maw.
 
@@ -21,3 +21,5 @@
   - _Key Dialog:_ **AI:** "Hull integrity at 80%. Structural stress increasing."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

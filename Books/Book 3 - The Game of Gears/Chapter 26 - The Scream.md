@@ -21,7 +21,9 @@
 ### Scene 4: The Fire
 
 - **Key Event:** Angelica's grief transforms into cold resolve and she prepares for a total strike against Vane.
-  - _Character Defining Moment:_ **Angelica Vance** — Her personality shifts as she abandons mercy and decides to "burn it all down."
-  - _Key Dialog:_ **Angelica Vance:** "Vane thinks he killed the Rebellion. He just killed my mercy. Burn it all down."
+  - _Character Defining Moment:_ **Angelica Ward** — Her personality shifts as she abandons mercy and decides to "burn it all down."
+  - _Key Dialog:_ **Angelica Ward:** "Vane thinks he killed the Rebellion. He just killed my mercy. Burn it all down."
 
 ---
+
+

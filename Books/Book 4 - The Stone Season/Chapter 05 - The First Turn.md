@@ -19,7 +19,7 @@
 ### Scene 3: The Eyes
 
 - **Key Event:** The transformed Vermillion looks at the camera, revealing pitch-black eyes and black ichor.
-  - _Character Defining Moment:_ **Angelica Vance** — Observes the loss of humanity in a man she previously knew as a noble.
+  - _Character Defining Moment:_ **Angelica Ward** — Observes the loss of humanity in a man she previously knew as a noble.
   - _Key Dialog:_ **Dr. Aris:** "They don't see. They sense. Pheromones. Heat. Resonance. They are hunting dogs."
 
 ---
@@ -29,10 +29,12 @@
 - **Key Event:** Vermillion brutally kills and feeds on a passing refugee, whose body immediately begins its own transformation.
 
   - _Key Dialog:_ **Dr. Aris:** "Fuel. High-calorie intake required for the metabolic surge. The virus burns energy at 500% the normal rate. If they don't eat, they digest their own organs."
-  - _Key Dialog:_ **Angelica Vance:** "Death is just a pause. Just a pause before the hunger starts."
+  - _Key Dialog:_ **Angelica Ward:** "Death is just a pause. Just a pause before the hunger starts."
 
 - **Key Event:** The transformed Vermillion emits a high-pitched shriek, calling other Blighted to the location as a "dinner bell."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

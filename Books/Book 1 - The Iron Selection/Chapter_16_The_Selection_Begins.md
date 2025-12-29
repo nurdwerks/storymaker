@@ -25,12 +25,12 @@
 
 - **Key Event:** Squad Iron regroups via comm-beads. Kaelen fires a shadow flare. They meet on a water tower.
 
-  - _Key Dialog:_ **Angelica Vance:** "Landed in Sector 7. Grid coordinates unstable."
+  - _Key Dialog:_ **Angelica Ward:** "Landed in Sector 7. Grid coordinates unstable."
   - _Key Dialog:_ **Ria:** "I landed... inside a clock tower? I think I'm on a giant minute hand."
 
 - **Key Event:** Angelica analyzes the shifting city and realizes it reconfigures every hour—an encryption algorithm made of concrete based on Fibonacci spirals.
 
-  - _Key Dialog:_ **Angelica Vance:** "It's not a walk. It's a puzzle."
+  - _Key Dialog:_ **Angelica Ward:** "It's not a walk. It's a puzzle."
 
 ---
 
@@ -41,7 +41,7 @@
 - **Key Event:** The girl escapes. Squad Bronze is crushed—nothing left but a red smear.
 
   - _Character Defining Moment:_ **Kaelen Night** — Looks calculated, not horrified, noting "Efficiency. The weak are filtered out by the environment."
-  - _Key Dialog:_ **Angelica Vance:** "Vane didn't just build an obstacle course. He built a meat grinder."
+  - _Key Dialog:_ **Angelica Ward:** "Vane didn't just build an obstacle course. He built a meat grinder."
 
 ---
 
@@ -55,3 +55,5 @@
 - **Key Event:** They begin moving toward the Spire.
 
   - _Key Dialog:_ **Ria:** "Welcome to the machine. Try not to become a spare part."
+
+

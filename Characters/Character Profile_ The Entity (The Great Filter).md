@@ -1,4 +1,4 @@
-﻿# Character Profile: The Entity (The Great Filter)
+# Character Profile: The Entity (The Great Filter)
 
 **Archetype:** Cosmic Horror / The Logic of the Universe / The Gardener **True Sin:** NONE (It exists beyond the spectrum of human morality. To a bacterium, the antibiotic is not "evil," it is simply inevitable. However, from a human perspective, it embodies **SLOTH** on a cosmic scale—the desire for the universe to be perfectly still, cold, and silent). **Virtue Mask:** ORDER (It presents its genocide as necessary hygiene. It claims to be the immune system of the cosmos, pruning "cancerous" civilizations to prevent the Heat Death of the Universe).
 
@@ -34,27 +34,27 @@ The Entity is not motivated by conquest, hatred, or hunger. It is motivated by *
 
 - **The Gardener:** The Entity views itself as a gardener. To save the Garden (The Universe) from withering (Heat Death), it must prune the Weeds (Life). It silences noisy civilizations before they burn down the house.
 
-- **The Dark Forest:** The Entity *is* the Hunter in the Dark Forest. It listens for the spike of Resonance usage (like Angelica’s Source or Vane’s experiments) and descends to extinguish it.
+- **The Dark Forest:** The Entity _is_ the Hunter in the Dark Forest. It listens for the spike of Resonance usage (like Angelica’s Source or Vane’s experiments) and descends to extinguish it.
 
 ## III. Mechanics and Weapons
 
-The Entity does not fight. Fighting implies a struggle. The Entity *deletes*.
+The Entity does not fight. Fighting implies a struggle. The Entity _deletes_.
 
 - **The Planar Collapse (The 2D Foil):** Its primary weapon. It fires a transparent, postcard-sized projectile at a solar system. When the foil makes contact, it collapses the third dimension into the second.
 
-  - *The Horror:* 3D objects are forcibly flattened. Planets become paintings. Humans become diagrams of anatomy. It is instant, unstoppable, and silent. It reduces the complexity of life into simple geometry.
+  - _The Horror:_ 3D objects are forcibly flattened. Planets become paintings. Humans become diagrams of anatomy. It is instant, unstoppable, and silent. It reduces the complexity of life into simple geometry.
 
-- **Digital Assimilation:** It can infect any networked system. In **Book 5**, it hacks the *Aeterna* not with a virus, but by introducing a math problem so complex that the ship’s AI commits suicide trying to solve it.
+- **Digital Assimilation:** It can infect any networked system. In **Book 5**, it hacks the _Aeterna_ not with a virus, but by introducing a math problem so complex that the ship’s AI commits suicide trying to solve it.
 
-- **Resonance Dampening:** It can turn off magic. Because it *is* the source of the Prima-Materia, it can revoke access. In Book 7, it simply turns off Vane’s Nano-Swarm, causing the insects to fall inert like dust.
+- **Resonance Dampening:** It can turn off magic. Because it _is_ the source of the Prima-Materia, it can revoke access. In Book 7, it simply turns off Vane’s Nano-Swarm, causing the insects to fall inert like dust.
 
 ## IV. Backstory & Pre-Narrative Life
 
 The Entity is as old as the current iteration of the universe. It is likely the remnant of a previous universe that solved the problem of survival by shedding its biology.
 
-- **The Connection to the *Aeterna*:** The Generation Ship runs on a **Star-Tear Drive** powered by Prima-Materia. The Zenith ancestors stole this fuel from a "Sleeping God" (a dormant node of the Entity) found on their original home world.
+- **The Connection to the _Aeterna_:** The Generation Ship runs on a **Star-Tear Drive** powered by Prima-Materia. The Zenith ancestors stole this fuel from a "Sleeping God" (a dormant node of the Entity) found on their original home world.
 
-- **The Chase:** The *Aeterna* is not just a ship; it is a thief carrying a piece of the Entity’s body. The Entity has been chasing them across the galaxy for a thousand years not just to silence them, but to reclaim its biomass.
+- **The Chase:** The _Aeterna_ is not just a ship; it is a thief carrying a piece of the Entity’s body. The Entity has been chasing them across the galaxy for a thousand years not just to silence them, but to reclaim its biomass.
 
 - **The Signal:** The "Do Not Answer" signal in Book 5 was a warning from a civilization the Entity had already flattened—a final ghost-message telling others to stay quiet.
 
@@ -62,17 +62,17 @@ The Entity is as old as the current iteration of the universe. It is likely the 
 
 ### 1. With Angelica (The Glitch / The Debate)
 
-- **The Dynamic:** *Logic vs. Emotion.*
+- **The Dynamic:** _Logic vs. Emotion._
 
 - **The Conflict:** The Entity views Angelica as a chaotic anomaly. She uses Resonance without paying the entropic toll (Sacrifice). To the Entity, she is a perpetual motion machine—a physical impossibility that breaks the laws of thermodynamics.
 
 - **The Confusion:** The Entity cannot predict Angelica. It runs trillions of simulations, and in 99.9% of them, Angelica should act in self-interest (survival). When she acts in **Altruism** (Risking herself for others), the Entity suffers a "Runtime Error." It cannot compute love because love is energetically inefficient.
 
-- **The Tea Party (Book 7):** Angelica forces the Entity to sit at a table in a Botswana cottage (Memory). She forces it to engage in "Small Talk." She argues that a universe that lasts forever but contains nothing is worthless. She argues that the *purpose* of the universe is to be burned by life. "We are the flame. You are just the cold ash."
+- **The Tea Party (Book 7):** Angelica forces the Entity to sit at a table in a Botswana cottage (Memory). She forces it to engage in "Small Talk." She argues that a universe that lasts forever but contains nothing is worthless. She argues that the _purpose_ of the universe is to be burned by life. "We are the flame. You are just the cold ash."
 
 ### 2. With Prelate Vane (The Malware)
 
-- **The Dynamic:** *God and the Heretic.*
+- **The Dynamic:** _God and the Heretic._
 
 - **The Worship:** Vane worships the Entity. He injects Prima-Materia to become like it. He thinks they are partners.
 
@@ -82,7 +82,7 @@ The Entity is as old as the current iteration of the universe. It is likely the 
 
 ### 3. With Dr. Aris (The Upload)
 
-- **The Dynamic:** *The Data Packet.*
+- **The Dynamic:** _The Data Packet._
 
 - **The Interaction:** Unlike Vane, the Entity respects Aris. Aris sacrificed his biology (Sleep) for Data (Pride). The Entity views Aris as "Compatible Software."
 
@@ -90,29 +90,29 @@ The Entity is as old as the current iteration of the universe. It is likely the 
 
 ### 4. With Torin (The Variable)
 
-- **The Dynamic:** *The Logical Trap.*
+- **The Dynamic:** _The Logical Trap._
 
 - **The Significance:** Torin is dead before the Entity arrives in the present, but he is the weapon Angelica uses to defeat it.
 
 - **The Argument:** Angelica presents the Entity with the memory of Torin’s sacrifice.
 
-  - *Angelica:* "He died so I could live. He gained nothing. He lost everything. Calculate the value of that."
+  - _Angelica:_ "He died so I could live. He gained nothing. He lost everything. Calculate the value of that."
 
-  - *The Entity:* "Value = Zero. Survival = Zero. Outcome = Illogical."
+  - _The Entity:_ "Value = Zero. Survival = Zero. Outcome = Illogical."
 
-  - *Angelica:* "The outcome is *Me*. I am here because he is not. Love creates causality that defies entropy."
+  - _Angelica:_ "The outcome is _Me_. I am here because he is not. Love creates causality that defies entropy."
 
 - **The Result:** The Entity accepts that it cannot model Human Love. It agrees to a truce (The Bargain) to observe this phenomenon further, rather than destroying it. It spares humanity out of scientific curiosity.
 
 ## VI. Narrative Arc through the Series
 
-### Book 1-4 — ***The Background Radiation***
+### Book 1-4 — **_The Background Radiation_**
 
 - **State:** The Entity is the looming dread. It is the reason the world ended. It is the reason the Dome cracked (sabotage via the Signal).
 
 - **Presence:** It is the whisper in the static. It is the black veins in the Virals (who are corrupted by Prima-Materia). It is the "Ghost" haunting the machine.
 
-### Book 5: The Silent Void — ***The Hunter***
+### Book 5: The Silent Void — **_The Hunter_**
 
 - **State:** The Entity wakes up. It locates the ship.
 
@@ -120,21 +120,21 @@ The Entity is as old as the current iteration of the universe. It is likely the 
 
 - **The Threat:** It is a horror movie monster that cannot be shot. It walks through walls. It turns crew members into geometry.
 
-### Book 6: The Architect of Time — ***The Inevitability***
+### Book 6: The Architect of Time — **_The Inevitability_**
 
 - **State:** The Entity exists in the past, present, and future simultaneously.
 
 - **The Action:** It arrives in the past timeline to stop the launch. It possesses the weather, creating storms to destroy the colony. It forces the humans to accelerate their technology, inadvertently causing the very "Noise" it wanted to prevent.
 
-### Book 7: The Final Resonance — ***The Negotiator***
+### Book 7: The Final Resonance — **_The Negotiator_**
 
 - **State:** It arrives at the hull. It prepares the **Planar Collapse**.
 
 - **The Confrontation:** It meets Angelica in the Mindscape. It expects a battle of wills (Power). It gets a debate on philosophy (Meaning).
 
-- **The Bargain:** It agrees to leave humanity alone *if* they give up the Prima-Materia.
+- **The Bargain:** It agrees to leave humanity alone _if_ they give up the Prima-Materia.
 
-  - *The Deal:* Angelica must burn all the magic in the system (The Source, The Bonds, The Flux) to terraform a planet. The Entity takes the energy release (The Feast) and departs, leaving humanity alive but mundane.
+  - _The Deal:_ Angelica must burn all the magic in the system (The Source, The Bonds, The Flux) to terraform a planet. The Entity takes the energy release (The Feast) and departs, leaving humanity alive but mundane.
 
 - **The Departure:** The Entity folds into sub-space. The stars return. The silence is broken by the sound of birds on the new world.
 
@@ -144,19 +144,55 @@ Since the Entity has no body, its "Mannerisms" are environmental manipulations i
 
 - **The Glitch:** When the Entity is confused or processing "Illogical Data" (like Love), the Mindscape flickers. The white walls turn into code or static. Angelica learns to watch for these glitches—they are the Entity’s version of a "Tell."
 
-- **The Echo:** It never speaks with one voice. It speaks with a chorus. * "We (I) require (want) silence (death)."* The parenthesis represent the sub-textual truth beneath the stated logic.
+- **The Echo:** It never speaks with one voice. It speaks with a chorus. _ "We (I) require (want) silence (death)."_ The parenthesis represent the sub-textual truth beneath the stated logic.
 
 - **Symmetry:** It is obsessed with symmetry. If Angelica creates a chair, the Entity creates an identical chair opposite it. It mirrors her movements perfectly until she does something unpredictable.
 
 ## VIII. Key Quotes (Translated from Concepts)
 
-- *"You are fire. Fire thinks it wants to burn forever. Fire does not know that ash is the only permanence."* (To Angelica, Book 7)
+- _"You are fire. Fire thinks it wants to burn forever. Fire does not know that ash is the only permanence."_ (To Angelica, Book 7)
 
-- *"There is no good. There is no evil. There is only the equation. You are an unbalanced variable."*
+- _"There is no good. There is no evil. There is only the equation. You are an unbalanced variable."_
 
-- *"Silence is not death. Silence is peace. Why do you struggle to make noise?"*
+- _"Silence is not death. Silence is peace. Why do you struggle to make noise?"_
 
-- *"We have pruned a billion worlds. You are not special. You are just... loud."*
+- _"We have pruned a billion worlds. You are not special. You are just... loud."_
 
-- *"You traded a Star for a Heartbeat? Illogical. Acceptable."* (The Final Verdict).
+- _"You traded a Star for a Heartbeat? Illogical. Acceptable."_ (The Final Verdict).
 
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 7 | Chapter 01 | Key Event | Angelica is pruning a withered plant. She feels a sudden, chilling draft that has no physical source. It is the psychic pressure of the Entity arriving. |
+| Book 7 | Chapter 03 | Key Event | Alone, Vane drops the facade. He speaks to the injection ports in his arm (his link to the Prima-Materia/Entity). He pleads for recognition. |
+| Book 7 | Chapter 05 | Key Event | Kaelen realizes "Amplitude" refers to Life/Magic. The Entity is telling them they are too loud. |
+| Book 7 | Chapter 11 | Moment | **Kaelen** — He experiences the Entity's "thought process" for a split second—a cold, infinite calculation that nearly wipes his ego. |
+| Book 7 | Chapter 21 | Key Event | He demands the Interface Codes for the ship's core. He believes he needs to offer the ship's energy to the Entity. |
+| Book 7 | Chapter 21 | Key Event | Before the violence starts, a massive pulse of Silence hits the room. Everyone freezes. The Entity has bypassed the hull and entered the room. |
+| Book 7 | Chapter 22 | Key Event | The Zealots drop their weapons. They fall to their knees, weeping. They perceive the Entity as divine awe. |
+| Book 7 | Chapter 23 | Key Event | The Entity speaks (a mechanical, multi-tonal sound). It does not address him as a person. |
+| Book 7 | Chapter 24 | Key Event | Angelica stands her ground. She realizes the Entity isn't malevolent; it's indifferent. It's an operating system cleaning a disk. |
+| Book 7 | Chapter 24 | Key Event | The Hyper-Cube folds back into itself. The Entity vanishes from the room. |
+| Book 7 | Chapter 34 | Key Event | The Entity is processing the data. "Self-Termination for Zero Gain" is an illogical equation. |
+| Book 7 | Chapter 34 | Key Event | She realizes that the Entity operates on pure logic. Zephyr's act of irrational love broke its predictive model. |
+| Book 7 | Chapter 36 | Key Event | Kaelen and Ria take up guard positions at the door. They know the Entity might send physical drones to kill her body while her mind is away. |
+| Book 7 | Chapter 36 | Key Event | She forces her way through the Entity's firewall. It feels like swimming through concrete. |
+| Book 7 | Chapter 37 | Key Event | The Entity manifests. It is a shape that hurts to look at—a non-Euclidean object that shifts between a sphere, a pyramid, and nothing. |
+| Book 7 | Chapter 37 | Key Event | The Entity analyzes Angelica. It categorizes her as "Anomaly." |
+| Book 7 | Chapter 38 | Key Event | The Entity tests her logic. It presents her with the "Trolley Problem" on a cosmic scale. |
+| Book 7 | Chapter 38 | Key Event | The Entity asks which world is "Better" (More stable). |
+| Book 7 | Chapter 39 | Key Event | Leo speaks with the Entity's voice, but Leo's mannerisms. |
+| Book 7 | Chapter 43 | Key Event | She sits down and invites the Entity. |
+| Book 7 | Chapter 43 | Key Event | The Entity is confused by the specificity of the memory. It takes the form of a human silhouette (made of stars) and sits. |
+| Book 7 | Chapter 44 | Key Event | Angelica debates the Entity. The Entity argues that Life = Entropy, and Entropy = Death of the Universe. Therefore, Life is suicide. |
+| Book 7 | Chapter 44 | Key Event | The Entity cannot defeat her logic because its axioms are different. It values Duration. She values Quality. |
+| Book 7 | Chapter 45 | Key Event | The Entity demands proof that "inefficiency" has value. |
+| Book 7 | Chapter 45 | Key Event | Angelica uploads a memory packet directly into the Entity. |
+| Book 7 | Chapter 45 | Key Event | The Entity processes the sums. "1 Life - 1 Life = 0." But the impact of the death created a future for thousands. "1 Life - 1 Life = Future." |
+| Book 7 | Chapter 46 | Key Event | The Entity glitches. The Botswana cottage flickers into static. |
+| Book 7 | Chapter 46 | Key Event | Angelica realizes the Entity is lonely. It is the only thing of its kind. It prunes the universe because it is afraid of the noise. |
+| Book 7 | Chapter 46 | Key Event | The glitch stops. The Entity stabilizes. It looks at her with Curiosity instead of Judgment. |
+| Book 7 | Chapter 47 | Key Event | The Entity offers a compromise. "The Noise is dangerous. But the Silence is... boring." |
+| Book 7 | Chapter 47 | Key Event | Angelica agrees. She will burn the Source to terraform a planet, giving the energy to the Entity as a parting gift. This satisfies the conservation of energy. |
+| Book 7 | Chapter 48 | Key Event | Angelica pushes Aeon into the Entity's light. |

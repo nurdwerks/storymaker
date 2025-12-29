@@ -9,9 +9,9 @@
 
 ### Scene 1: The Arrival
 
-- **Key Event:** Angelica Vance, Kaelen Night, and a group of survivors from the Undercity enter the massive generation ship, the Zenith.
+- **Key Event:** Angelica Ward, Kaelen Night, and a group of survivors from the Undercity enter the massive generation ship, the Zenith.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Experiences a sense of insignificance and vertigo when confronted with the vast scale of the ship's interior.
+  - _Character Defining Moment:_ **Angelica Ward** — Experiences a sense of insignificance and vertigo when confronted with the vast scale of the ship's interior.
   - _Key Dialog:_ **Kaelen Night:** "We lived in a shoebox. This... this is the house."
   - _Key Dialog:_ **Ria:** "It's not a house. It's a tomb."
 
@@ -19,6 +19,7 @@
 
   - _Character Defining Moment:_ **Hatcher** — Maintains a cynical and wary posture, warning the group that the ship might "bite."
   - _Key Dialog:_ **Hatcher:** "Ghosts don't leave footprints."
+  - _Character Defining Moment:_ **Hatcher** — Speaks bluntly to the group about the risks, refusing to sugarcoat the situation. _"Every word I say is borrowed time. I don't waste it on false hope."_
   - _Key Dialog:_ **General Ironwood:** "Form up! We are not alone. Weapons free!"
 
 _Copy this template for each scene. Add or remove scenes and events as needed._

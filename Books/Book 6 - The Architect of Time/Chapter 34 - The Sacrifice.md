@@ -27,7 +27,7 @@
 ### Scene 3: The Choice
 
 - **Key Event:** Angelica refuses to let him go, but the situation is beyond negotiation as the reactor nears meltdown.
-  - _Key Dialog:_ **Angelica Vance:** "No. I won't do it. I won't let you."
+  - _Key Dialog:_ **Angelica Ward:** "No. I won't do it. I won't let you."
 
 ---
 
@@ -42,3 +42,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

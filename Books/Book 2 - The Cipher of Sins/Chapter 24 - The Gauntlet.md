@@ -10,7 +10,7 @@
 ### Scene 2: The War Zone / Sector 4 Alleys
 
 - **Key Event:** The team fights off the "Rust-Jackals" gang and Warden squads. Angelica destroys a combat droid with her shock-knuckles, her Gene-Key-enhanced reflexes recognizing threats before she does.
-  - _Character Defining Moment:_ **Angelica Vance** — She begins to feel like part of a "jagged little army," finding her place within the group.
+  - _Character Defining Moment:_ **Angelica Ward** — She begins to feel like part of a "jagged little army," finding her place within the group.
 
 ---
 
@@ -18,3 +18,5 @@
 
 - **Key Event:** The team reaches the base of the Emergency Broadcast Tower, facing one final stretch of heavily guarded perimeter.
   - _Character Defining Moment:_ **Hatcher** — He provides covering fire with his shotgun, methodically clearing a path for the team with professional calm.
+
+

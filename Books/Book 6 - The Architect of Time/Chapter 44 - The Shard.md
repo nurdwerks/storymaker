@@ -18,7 +18,7 @@
 ### Scene 2: The Battery
 
 - **Key Event:** She retrieves the quartz crystal trap, which now glows red with the combined energy of Vane and Torin's sacrifice.
-  - _Key Dialog:_ **Angelica Vance:** "Congratulations. You just became the backup generator."
+  - _Key Dialog:_ **Angelica Ward:** "Congratulations. You just became the backup generator."
 
 ---
 
@@ -31,7 +31,7 @@
 ### Scene 4: The Purpose
 
 - **Key Event:** She vows to make Vane's energy useful by taking down the enemy fleet.
-  - _Key Dialog:_ **Angelica Vance:** "Vane, you wanted to change the future? You're going to get your chance."
+  - _Key Dialog:_ **Angelica Ward:** "Vane, you wanted to change the future? You're going to get your chance."
 
 ---
 
@@ -46,3 +46,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

@@ -12,19 +12,19 @@
 
 ### Scene 2: The King of Scrap
 
-- **Key Event:** Angelica reunites with Jax, a resistance leader with an exposed cybernetic arm.
-  - _Key Dialog:_ **Jax:** "Let them see the machine. Let them see the machine."
-  - _Key Dialog:_ **Jax:** "Welcome to the resistance, princess." (to Corinne)
+- **Key Event:** Angelica reunites with Miller, a resistance leader with an exposed cybernetic arm.
+  - _Key Dialog:_ **Miller:** "Let them see the machine. Let them see the machine."
+  - _Key Dialog:_ **Miller:** "Welcome to the resistance, princess." (to Corinne)
 
 ### Scene 3: The War Room
 
 - **Key Event:** Angelica meets with Miller, Mara, and Korg to plan an assault on the Engine Room to stop "Protocol Omega."
-  - _Key Dialog:_ **Angelica Vance:** "Vane knows we're here. He's planning to purge the sector. Protocol Omega."
+  - _Key Dialog:_ **Angelica Ward:** "Vane knows we're here. He's planning to purge the sector. Protocol Omega."
 
 ### Scene 4: The Strategist
 
 - **Key Event:** Angelica proposes entering the Engine Room through the cooling system during a pressure drop, requiring stolen gear.
-  - _Character Defining Moment:_ **Angelica Vance** — Shifts her focus from "fixing" the machine to "breaking" the existing power structure.
-  - _Key Dialog:_ **Angelica Vance:** "The machine is broken, Jax. I'm just scrapping it for parts."
+  - _Character Defining Moment:_ **Angelica Ward** — Shifts her focus from "fixing" the machine to "breaking" the existing power structure.
+  - _Key Dialog:_ **Angelica Ward:** "The machine is broken, Miller. I'm just scrapping it for parts."
 
 ---

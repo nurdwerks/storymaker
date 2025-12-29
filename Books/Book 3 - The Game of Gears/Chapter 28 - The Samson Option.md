@@ -9,13 +9,13 @@
 ### Scene 1: The Impossible Choice
 
 - **Key Event:** Angelica proposes cutting the gravity tethers to the Zenith Spire to bring it down, despite the high civilian risk.
-  - _Key Dialog:_ **Angelica Vance:** "No more hiding. No more negotiating. We are the storm."
+  - _Key Dialog:_ **Angelica Ward:** "No more hiding. No more negotiating. We are the storm."
 
 ### Scene 2: The Debate
 
-- **Key Event:** Kaelen and Jax challenge Angelica's proposed "Samson Option," arguing it will kill too many innocents.
-  - _Character Defining Moment:_ **Angelica Vance** — Displays a lack of empathy for Zenith civilians, viewing them as "collateral damage."
-  - _Key Dialog:_ **Jax:** "Is this what Leo would have wanted?"
+- **Key Event:** Kaelen and Miller challenge Angelica's proposed "Samson Option," arguing it will kill too many innocents.
+  - _Character Defining Moment:_ **Angelica Ward** — Displays a lack of empathy for Zenith civilians, viewing them as "collateral damage."
+  - _Key Dialog:_ **Miller:** "Is this what Leo would have wanted?"
 
 ### Scene 3: The Compromise
 
@@ -24,6 +24,6 @@
 ### Scene 4: The Decision
 
 - **Key Event:** Angelica orders the attack on the North Tether.
-  - _Key Dialog:_ **Angelica Vance:** "Do it."
+  - _Key Dialog:_ **Angelica Ward:** "Do it."
 
 ---

@@ -11,14 +11,16 @@
 
 - **Key Event:** Angelica drifts in the eternal silence of the Bulk, where time has no meaning, and she begins to replay her life like a movie to keep her consciousness from dissolving.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Clings to her memories of the Undercity, Leo, and Kaelen as "rafts in a storm" to prevent entropy from erasing her.
-  - _Key Dialog:_ **Angelica Vance:** "Precision, Angie. The machine knows if you're trembling." (Memory of her mother)
-  - _Key Dialog:_ **Angelica Vance:** "I'm not the Captain anymore. I can rest now."
+  - _Character Defining Moment:_ **Angelica Ward** — Clings to her memories of the Undercity, Leo, and Kaelen as "rafts in a storm" to prevent entropy from erasing her.
+  - _Key Dialog:_ **Angelica Ward:** "Precision, Angie. The machine knows if you're trembling." (Memory of her mother)
+  - _Key Dialog:_ **Angelica Ward:** "I'm not the Captain anymore. I can rest now."
 
 - **Key Event:** Angelica prepares to surrender to the white noise, accepting her role as a "memory that no one remembers" and finally finding a measure of peace.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Demonstrates the strength to let go of her ego and responsibility, finding peace in the silence.
-  - _Key Dialog:_ **Angelica Vance:** "Is this death? It's not so bad. It's quiet. It's finally quiet."
+  - _Character Defining Moment:_ **Angelica Ward** — Demonstrates the strength to let go of her ego and responsibility, finding peace in the silence.
+  - _Key Dialog:_ **Angelica Ward:** "Is this death? It's not so bad. It's quiet. It's finally quiet."
     Riverside
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

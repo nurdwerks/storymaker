@@ -17,8 +17,9 @@
 
 - **Key Event:** The bridge is lost to the machines, forcing the survivors to retreat toward Sector X (the bio-dome) to use the jungle as cover.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Realizes they are being exterminated as "pests" and orders a desperate retreat to save as many as possible.
-  - _Key Dialog:_ **Angelica Vance:** "We lost the bridge. We lost the eyes of the ship."
+  - _Character Defining Moment:_ **Angelica Ward** — Realizes they are being exterminated as "pests" and orders a desperate retreat to save as many as possible.
+  - _Key Dialog:_ **Angelica Ward:** "We lost the bridge. We lost the eyes of the ship."
   - _Key Dialog:_ **Hatcher:** "Welcome to the hunt."
+  - _Key Dialog:_ **Hatcher:** "If you've got something to say to someone, say it now. The reaper doesn't wait for convenient timing."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._

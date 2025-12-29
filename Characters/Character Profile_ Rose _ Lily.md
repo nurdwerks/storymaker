@@ -21,3 +21,5 @@ Rose and Lily are genetically modified twins designed to be "perfect" but second
 
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L631-L632)
 - **Defining Quote from Lady Corinne:** "Don't look at me like that, Rose. Lily was a choice, and I chose survival. You should be grateful you're still worth the effort to drag along. Stop that weeping; it's bad for the complexion."
+
+

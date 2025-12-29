@@ -23,3 +23,9 @@ The Mongrel is a massive, scarred man who barely speaks, guarding the entrance t
 - **Scene:** "The Silence." The Mongrel dies defending the gate from the Rust-Eaters. He takes a spear to the chest but kills his attacker before falling.
 - **Role:** The Final Shield. His death signifies the loss of Hatcher’s physical protection.
 - **Quote:** _(Silence. He points to the safety of the tunnel, then dies.)_
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 17 | Key Event | **The Mongrel** dies defending the gate from the Nulls. He takes a spear to the chest but kills his attacker before falling, dying in absolute silence. |

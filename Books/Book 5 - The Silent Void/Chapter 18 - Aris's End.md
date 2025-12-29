@@ -17,8 +17,10 @@
 
 - **Key Event:** Angelica catches the datapad, preserving Aris's final sacrifice and the key to the ship's ultimate weapon.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Acknowledges Aris's "archival" and resolves that his death will not be in vain.
-  - _Key Dialog:_ **Angelica Vance:** "He didn't die. He just went to the library."
+  - _Character Defining Moment:_ **Angelica Ward** — Acknowledges Aris's "archival" and resolves that his death will not be in vain.
+  - _Key Dialog:_ **Angelica Ward:** "He didn't die. He just went to the library."
   - _Key Dialog:_ **Kaelen Night:** "The man was a genius and a fool. But mostly a genius."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

@@ -1,4 +1,4 @@
-﻿# Character Profile: Lady Vesper (The Glass Queen)
+# Character Profile: Lady Vesper (The Glass Queen)
 
 **Archetype:** The Mean Girl / The Failed Survivor / The Cersei Lannister **True Sin:** ENVY (She does not want what others have; she wants them _not_ to have it. She envies Corinne’s effortless charm, Angelica’s power, and the Emperor’s authority. Her envy is destructive—if she cannot be the most beautiful thing in the room, she will break the mirrors). **Virtue Mask:** JUSTICE (She frames her cruelty as "Social Order." She believes she is the arbiter of etiquette and hierarchy. She punishes those who "step out of line" (like Angelica) not out of spite, but because they disrupt the natural order of the Zenith).
 
@@ -88,7 +88,7 @@ Vesper’s magic is beautiful, sharp, and ultimately hollow.
 
 - **The Poisoned Chalice:** Vesper poisons a cup meant for Angelica at the banquet. Corinne swaps it. Vesper’s chief ally drinks it and dies. Vesper realizes Corinne is a player, not a pawn.
 
-- **The Fall:** During the Red Wedding, Vesper tries to use Prism to cut her way out. She kills three guards. But the shockwave from Angelica’s **Carving** knocks her down. Her femur snaps. She is left screaming in the rubble as the Palace falls.
+- **The Fall:** During the Obsidian Banquet, Vesper tries to use Prism to cut her way out. She kills three guards. But the shockwave from Angelica’s **Carving** knocks her down. Her femur snaps. She is left screaming in the rubble as the Palace falls.
 
 ### Book 4: The Stone Season — **_The Warning_**
 
@@ -100,3 +100,26 @@ Vesper’s magic is beautiful, sharp, and ultimately hollow.
 
 - **Event Location:** [Book 3, Chapter 23: The Slaughter](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L1821-1828)
 - **Defining Quote:** "Glass doesn't bend, Princess. It breaks." (Spoken by Ria, revealing Vesper's flaw: ENVY/FRAGILITY)
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 17 | Key Event | Joyce receives a "Code Black" order from Lady Vesper to eliminate Angelica, which triggers her dormant sleeper agent conditioning. |
+| Book 2 | Chapter 18 | Key Event | Under interrogation, Joyce reveals that Lady Vesper—the Merchant Lord—wants Angelica dead to prevent Prelate Vane from using her to override and control the ship's core. |
+| Book 2 | Chapter 18 | Moment | **Angelica Ward** — She realizes she is the pawn in a conflict between two ancient monsters (Vane and Vesper) and begins to embrace the dangerous possibility of her own power. |
+| Book 2 | Chapter 19 | Key Event | Joyce reveals that the Founders are ancient mutineers who stay immortal using body-swapping tech and that Lady Vesper (the Merchant Lord) wants Angelica dead to prevent Vane from gaining total control. |
+| Book 2 | Chapter 19 | Key Event | Hatcher suggests Angelica reclaim the ship by sitting on the Interface Throne herself; Angelica embraces this path, vowing to "bury" both Vane and Vesper. |
+| Book 3 | Chapter 05 | Key Event | Lady Vesper, Head of House Envy, enters the room and confront Angelica and Corinne. |
+| Book 3 | Chapter 05 | Key Event | Corinne and Vesper engage in a public verbal fencing match, while Vesper whispers a recruitment offer to Angelica. |
+| Book 3 | Chapter 09 | Key Event | The sabotage causes immediate chaos in the Zenith, and Angelica receives an encrypted video message from Lady Vesper. |
+| Book 3 | Chapter 10 | Key Event | Lady Vesper gathers conspirators in a hidden alcove—nobles who secretly oppose Duke Grey's growing power. This is the first meeting of the "Obsidian Circle." |
+| Book 3 | Chapter 10 | Moment | **Lady Vesper** — Revealed as the spider at the center of the anti-Grey conspiracy. |
+| Book 3 | Chapter 14 | Key Event | Upon entering the Engine Sector, the team is gassed with a neuro-paralytic mist and captured by Lady Vesper and Kaelen. |
+| Book 3 | Chapter 15 | Key Event | In a neighboring cell, Corinne and Vesper engage in a verbal confrontation over tea. |
+| Book 3 | Chapter 15 | Moment | **Corinne** — Maintains her composure and uses etiquette as a weapon after being slapped by Vesper. |
+| Book 3 | Chapter 22 | Key Event | Lady Corinne, seated near Angelica, notices a subtle poisoning attempt. Without drawing attention, she swaps the poisoned cup with Lady Vesper's wine. |
+| Book 3 | Chapter 22 | Key Event | Lady Vesper takes a sip of her wine. Minutes later, she excuses herself, visibly ill. The assassination attempt fails—but Corinne has made an enemy. |
+| Book 3 | Chapter 22 | Moment | **Lady Vesper** — Realizes someone interfered, begins scanning the room for the betrayer. |
+| Book 3 | Chapter 23 | Key Event | The dinner proceeds while the ship burns outside; Lady Vesper publicly dismisses and banishes Baroness Shard for "cracking the ambiance." |
+| Book 3 | Chapter 24 | Moment | **Lady Vesper** — Her physical fragility is exposed when she breaks her leg from a simple fall. |

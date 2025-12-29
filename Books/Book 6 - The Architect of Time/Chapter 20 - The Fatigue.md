@@ -1,51 +1,41 @@
-# Chapter Summary Template
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
-
-> [!NOTE]
-> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
+# Chapter 20: The Fatigue
 
 ---
 
-## Chapter 20: The Fatigue
+### Scene 1: The Quartermaster / Resistance Base
 
-### Scene 1: The Accident
-
-- **Key Event:** A new crane rope snaps instantly, causing a massive hull plate to plummet.
-- **Key Event:** Torin narrowly escapes injury, but Angelica realizes the rope was molecularly "erased."
-
----
-
-### Scene 2: The Sight
-
-- **Key Event:** Angelica spots a jagged, glitching figure in the treeline—the energy-form of Vane.
-  - _Character Defining Moment:_ **Vane** — He manifests as a "Time-Wraith" intent on sabotaging the ship's molecular integrity.
+- **Key Event:** Years into the future timeline, Zephyr serves as Quartermaster of the resistance, managing supplies with ruthless efficiency.
+  - _Character Defining Moment:_ **Zephyr** — His greed has transformed into logistical genius; every calorie and bullet is tracked.
+  - _Key Dialog:_ **Zephyr:** "Three bullets per person. No exceptions. Not even for you, princess."
+  - _Key Dialog:_ **Angelica Ward:** "I'm not a princess anymore."
+  - _Key Dialog:_ **Zephyr:** "Yeah, well. Old habits."
 
 ---
 
-### Scene 3: The Threat
+### Scene 2: The Inventory / Supply Depot
 
-- **Key Event:** Vane psychically threatens to rot the ship from the inside out and ensure Angelica dies in the mud.
-  - _Key Dialog:_ **Vane:** "I am the rust on the iron. I am the fatigue in the metal. ... I will watch you age and wither."
-
----
-
-### Scene 4: The Resolve
-
-- **Key Event:** Angelica decides to treat Vane as a phenomenon to be trapped and used as a battery for the ship.
-  - _Character Defining Moment:_ **Angelica Vance** — She weaponizes her enemy, turning him into a power source.
-  - _Key Dialog:_ **Angelica Vance:** "He's energy. Pure ionic energy. And energy can be trapped. ... I'll make him the engine."
+- **Key Event:** Zephyr reveals the state of their resources: six months of food, two months of ammunition, and zero hope of resupply.
+  - _Key Dialog:_ **Zephyr:** "Math doesn't lie. We've got six months before we start eating each other."
+  - _Key Dialog:_ **Kaelen:** "Then we finish this in five."
 
 ---
 
-## Template Usage Notes
+### Scene 3: The Old Man / Depot Office
 
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Character Defining Moments:** Nest under the key event where the moment occurs.
-4. **Key Dialog:** Nest under the key event where the dialog is spoken.
-5. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies.
+- **Key Event:** Zephyr is visibly older now—grey at the temples, slower to laugh. The years have worn him down, but his loyalty remains.
+  - _Character Defining Moment:_ **Zephyr** — No longer the young thief; he's become the man who keeps them alive.
+  - _Key Dialog:_ **Angelica Ward:** "You could have left. Years ago."
+  - _Key Dialog:_ **Zephyr:** "Where would I go? You're the only one who still owes me money."
 
 ---
 
-_Copy this template for each chapter. Add or remove scenes and events as needed._
+### Scene 4: The Plan / War Room
+
+- **Key Event:** Angelica presents the final plan to retake the ship. Zephyr runs the numbers and confirms it's possible—barely.
+  - _Key Dialog:_ **Zephyr:** "If everything goes perfectly, we have a twelve percent chance."
+  - _Key Dialog:_ **Angelica Ward:** "Better odds than usual."
+  - _Key Dialog:_ **Zephyr:** "That's what worries me."
+
+---
+
+_Summarized from Book 6 source material._

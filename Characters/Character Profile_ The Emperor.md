@@ -1,4 +1,4 @@
-﻿# Character Profile: The Emperor (The Ghost in the Machine)
+# Character Profile: The Emperor (The Ghost in the Machine)
 
 **Archetype:** The Wizard of Oz / The Dying God / The Digital Tyrant **True Sin:** PRIDE (The absolute refusal to cede power, even to death. He believes he is the only mind capable of steering the _Aeterna_. He views his own existence as the structural integrity of the state). **Virtue Mask:** FORTITUDE (The propaganda paints him as "The Eternal Father," the man who holds the sky up. He is presented as an unshakeable pillar of strength who has guided the ship for three hundred years).
 
@@ -184,3 +184,16 @@ The Emperor (or the hologram of him) is surrounded by the highest functionaries 
 - **The Keeper of the Robes:** A servant who adjusts the Emperor’s holographic emitters (though pretending to adjust clothes). He fusses over the Emperor’s image. He sneers at Angelica’s utilitarian clothes.
 
 - **General of the Praetorian Guard:** A gold-armored giant who stands at the foot of the throne. He only takes orders from the Emperor. If Angelica speaks, he doesn't even blink. He is a statue of loyalty that excludes all others.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 30 | Moment | **Praetorian General** — A lifetime of loyalty to the Emperor distilled into one final battle. |
+| Book 3 | Chapter 30 | Key Event | The High Chamberlain sees the tank shattered, the Emperor's withered body exposed. His faith crumbles in an instant. |
+| Book 4 | Chapter 16 | Moment | **Hatcher** — Reveals that the Scrapyard is more than just a home; it's a "Lifeboat" for residents of the Undercity who reject both the Emperor and Vane. |
+| Book 4 | Chapter 20 | Key Event | As they argue, an airlock in the adjacent corridor suddenly opens, venting three survivors into the void. The Emperor's hologram flickers on screens throughout the sector—glitching, distorted, screaming in static. |
+| Book 4 | Chapter 20 | Moment | **The Emperor** — Revealed to be alive as a malevolent ghost in the ship's systems, punishing the survivors for his fall. |
+| Book 4 | Chapter 20 | Key Event | Despite the Emperor's attack proving the ship is actively hostile, half of the survivors pack up and leave to follow Torque rather than face another night of sabotage. |
+| Book 5 | Chapter 30 | Key Event | As Angelica connects to the Interface Throne, she enters the Mindscape—and faces the digital ghost of The Emperor, who has been waiting for her. |
+| Book 5 | Chapter 30 | Moment | **The Emperor** — His final form: pure code, pure spite. |

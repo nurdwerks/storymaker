@@ -2,35 +2,39 @@
 
 ---
 
-### Scene 1: The Scrapyard
+### Scene 1: The Ambush / Lower Tunnels
 
-- **Key Event:** Hatcher leads the group through a vertical trash chute into his "Scrapyard," a fortified sector filled with antique technology and biological waste.
-  - _Character Defining Moment:_ **Hatcher** — Displays his collection of "Pre-Fall" relics, revealing a nostalgic streak for a world that used "real steel."
-  - _Key Dialog:_ **Hatcher:** "Welcome to the museum of bad ideas. Watch your step; the grease is older than the Emperor."
-
----
-
-### Scene 2: The Attack
-
-- **Key Event:** The Scrapyard is attacked by the Cannibal Gang (The Vultures), who use high-frequency harpoons to scale the walls.
-  - _Key Dialog:_ **Ria:** "They're not even using kinetics. It's all tension and gravity. Low-tech, but effective."
+- **Key Event:** The group is ambushed by a gang of starving survivors who have resorted to cannibalism.
+- **Key Event:** **Rookie** hesitates to shoot a child attacker. The hesitation costs him his life. He dies in Ria's arms.
+  - _Key Dialog:_ **Rookie:** "I couldn't... he was just a kid."
+- **Key Event:** Ria takes a serious wound defending the rear after Rookie falls.
+  - _Key Dialog:_ **Cannibal Leader:** "Fresh meat. Still walking."
 
 ---
 
-### Scene 3: The Defense
+### Scene 2: The Triage / Safe Room
 
-- **Key Event:** Zephyr uses his golden arm to overclock the Scrapyard's magnetic sorting system, turning the piles of scrap into flying debris to repel the attackers.
-  - _Character Defining Moment:_ **Zephyr** — Risks a permanent burnout of his arm’s capacitors to save Lisbet from a harpoon.
-  - _Key Dialog:_ **Zephyr:** "I'm pushing 400 volts into the brass. If this doesn't work, I'm just an expensive paperweight. Get down!"
+- **Key Event:** Ria's wound is severe. Doc Stitch must choose: treat Ria, or save his remaining supplies for a civilian child who was also injured in the attack.
+  - _Character Defining Moment:_ **Doc Stitch** — Faces his moral failure. He chooses Ria—the fighter—over the child.
+  - _Key Dialog:_ **Doc Stitch:** "I can't save both. She fights. The kid doesn't."
+  - _Key Dialog:_ **Angelica Ward:** "You're choosing who lives?"
+  - _Key Dialog:_ **Doc Stitch:** "That's what medicine is now. Math."
 
 ---
 
-### Scene 4: The Outcome
+### Scene 3: The Consequence / Safe Room
 
-- **Key Event:** The gang is repelled, but the Scrapyard's main power core is damaged, forcing the group to move on immediately.
-  - _Character Defining Moment:_ **Angelica Vance** — Takes the lead in salvaging what’s left of the power cells, refusing to let the setback stop their descent.
-  - _Key Dialog:_ **Hatcher:** "My shop is a wreck. That's thirty years of junk gone in thirty minutes."
-  - _Key Dialog:_ **Angelica Vance:** "Junk is just potential that hasn't found a use yet. Grab the battery and let's go."
+- **Key Event:** The child dies overnight. Ria survives. Doc Stitch drinks himself into silence, refusing to speak to anyone.
+  - _Character Defining Moment:_ **Doc Stitch** — His guilt is absolute, but he would make the same choice again.
+  - _Key Dialog:_ **Ria:** "I didn't ask you to—"
+  - _Key Dialog:_ **Doc Stitch:** "Shut up. Just... survive. That's the payment."
+
+---
+
+### Scene 4: The March / Forward
+
+- **Key Event:** The group continues forward. No one speaks of the child. Survival has stripped away the luxury of mourning.
+  - _Key Dialog:_ **Hatcher:** "We don't stop. Stopping gets you eaten."
 
 ---
 

@@ -21,3 +21,5 @@ Marcel is Corinne's lead stylist and closest confidant in the Vanity Court. He i
 
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L627-L630)
 - **Defining Quote from Lady Corinne:** "A broken mirror doesn't reflect the truth, Marcel. It just cuts the hand of the person trying to use it. You're not an 'echo' anymore; you're just noise. Get out of my sight."
+
+

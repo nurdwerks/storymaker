@@ -13,12 +13,12 @@
 
 - **Key Event:** Angelica infiltrates the maintenance catwalk above the Sector 1 Medical Hub using her homemade Haptic Glove to hack the security grid.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Experiences code as music, sliding between security measures like a violin finding silence in noise.
+  - _Character Defining Moment:_ **Angelica Ward** — Experiences code as music, sliding between security measures like a violin finding silence in noise.
 
 - **Key Event:** Angelica successfully spoofs a Priority Alpha Drone Dispatch Order to acquire Crate 819 containing pediatric steroid inhalers.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Pride flares as she mocks the Zenith's inadequate security.
-  - _Key Dialog:_ **Angelica Vance:** "Your firewall is a joke. I could write a better security protocol in crayon on a napkin."
+  - _Character Defining Moment:_ **Angelica Ward** — Pride flares as she mocks the Zenith's inadequate security.
+  - _Key Dialog:_ **Angelica Ward:** "Your firewall is a joke. I could write a better security protocol in crayon on a napkin."
 
 ---
 
@@ -38,11 +38,11 @@
 
 - **Key Event:** Angelica threatens to crash the patient database, but Vane sees through her bluff, knowing she wouldn't kill patients.
 
-  - _Key Dialog:_ **Prelate Vane:** "No, you won't. You have the hands of a surgeon, Miss Vance. Not a butcher."
+  - _Key Dialog:_ **Prelate Vane:** "No, you won't. You have the hands of a surgeon, Miss Ward. Not a butcher."
 
 - **Key Event:** Vane reveals his Legion—a nano-swarm living beneath his skin. A tiny silver beetle crawls from his tear duct across his ocular lens.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Experiences real, primal fear upon realizing she faces a Prelate, one of the Seven.
+  - _Character Defining Moment:_ **Angelica Ward** — Experiences real, primal fear upon realizing she faces a Prelate, one of the Seven.
   - _Character Defining Moment:_ **Prelate Vane** — Represents Gluttony (Minister of Charity)—consuming everything while giving back crumbs.
 
 - **Key Event:** Vane examines and then crushes Angelica's Haptic Glove while still on her hand, declaring her work "brilliant" but wasted on petty theft.
@@ -62,4 +62,6 @@
 
 - **Key Event:** Vane tosses the medicine vial to Angelica, noting it will buy Leo a month or two. Winning the Selection is the only path to a permanent cure.
 
-  - _Key Dialog:_ **Prelate Vane:** "You treat the law like a suggestion, Miss Vance. Fortunately, so do I."
+  - _Key Dialog:_ **Prelate Vane:** "You treat the law like a suggestion, Miss Ward. Fortunately, so do I."
+
+

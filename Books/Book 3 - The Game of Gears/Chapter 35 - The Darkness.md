@@ -13,7 +13,7 @@
 ### Scene 2: The Course
 
 - **Key Event:** Angelica addresses the entire ship as Captain, announcing the decision to take the dangerous route home.
-  - _Key Dialog:_ **Angelica Vance:** "This is Captain Vance... there is a blue world."
+  - _Key Dialog:_ **Angelica Ward:** "This is Captain Ward... there is a blue world."
 
 ### Scene 3: The Departure
 
@@ -21,7 +21,7 @@
 
 ### Scene 4: Into the Unknown
 
-- **Key Event:** The ship enters the void, with the leadership team—Jax, Corinne, Silas, and Angelica—ready on the bridge.
-  - _Key Dialog:_ **Angelica Vance:** "Engage."
+- **Key Event:** The ship enters the void, with the leadership team—Miller, Corinne, Silas, and Angelica—ready on the bridge.
+  - _Key Dialog:_ **Angelica Ward:** "Engage."
 
 ---

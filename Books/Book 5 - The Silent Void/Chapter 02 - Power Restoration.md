@@ -17,8 +17,9 @@
 
 - **Key Event:** The ship's AI detects a recursive deep space signal directed at the Zenith, and the ship automatically enters "Silent Running" mode.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Decides to prioritize caution and stealth, refusing to override the ship's hiding protocols until they know who is looking.
-  - _Key Dialog:_ **Angelica Vance:** "The ship isn't dead. It's just holding its breath. And it's terrified."
+  - _Character Defining Moment:_ **Angelica Ward** — Decides to prioritize caution and stealth, refusing to override the ship's hiding protocols until they know who is looking.
+  - _Key Dialog:_ **Angelica Ward:** "The ship isn't dead. It's just holding its breath. And it's terrified."
   - _Key Dialog:_ **Hatcher:** "We're the rats in the walls. And something is hunting the house."
+  - _Key Dialog:_ **Hatcher:** "I've been dead before. Twice in the Stone Season alone. Death keeps sending invitations—I keep marking them 'Return to Sender.'"
 
 _Copy this template for each scene. Add or remove scenes and events as needed._

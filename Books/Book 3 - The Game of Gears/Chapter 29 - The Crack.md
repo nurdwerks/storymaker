@@ -21,6 +21,8 @@
 ### Scene 4: The Breach
 
 - **Key Event:** A hull breach occurs in Sector 12 due to the stress, and Angelica orders the breach of the Spire as its shields fail.
-  - _Key Dialog:_ **Angelica Vance:** "Shields are down! Breach the Spire!"
+  - _Key Dialog:_ **Angelica Ward:** "Shields are down! Breach the Spire!"
 
 ---
+
+

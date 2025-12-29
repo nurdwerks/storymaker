@@ -22,7 +22,7 @@
 
 - **Key Event:** Angelica realizes Hatcher is actually carrying a high-ranking Zenith identification chip, implying he was more than a simple scavenger.
   - _Character Defining Moment:_ **Hatcher** — Evades questions about his past, focusing only on the "debt" he owes the ship.
-  - _Key Dialog:_ **Angelica Vance:** "That's a Gold-Tier ID. You were a Pilot? Or a Commander?"
+  - _Key Dialog:_ **Angelica Ward:** "That's a Gold-Tier ID. You were a Pilot? Or a Commander?"
   - _Key Dialog:_ **Hatcher:** "I was a lot of things. Now I'm just a drifter with a map. You coming or not?"
 
 ---
@@ -30,10 +30,12 @@
 ### Scene 4: The Alliance
 
 - **Key Event:** The group agrees to follow Hatcher to the Foundation, recognizing that their survival depends on his knowledge of the "deep vents."
-  - _Character Defining Moment:_ **Angelica Vance** — Decides to trust a stranger over the data-driven pessimism of Dr. Aris.
-  - _Key Dialog:_ **Angelica Vance:** "He has the map. We have the muscle. It's a survival pact. Move out."
+  - _Character Defining Moment:_ **Angelica Ward** — Decides to trust a stranger over the data-driven pessimism of Dr. Aris.
+  - _Key Dialog:_ **Angelica Ward:** "He has the map. We have the muscle. It's a survival pact. Move out."
   - _Key Dialog:_ **Ria:** "I've trusted worse. Usually people who were already dead."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

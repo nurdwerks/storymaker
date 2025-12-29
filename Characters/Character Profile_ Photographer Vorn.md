@@ -21,3 +21,5 @@ Photographer Vorn is a hovering paparazzi allowed into Corinne's inner circle to
 
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L635-L636)
 - **Defining Quote from Lady Corinne:** "You were paid to capture the light, Vorn, not the shadows. If you want to show the world the 'truth,' remember that truth is just a matter of composition. And I’ve already composed your cell."
+
+

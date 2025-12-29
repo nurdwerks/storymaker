@@ -33,7 +33,7 @@
 
 - **Key Event:** Ria's force-field flickers. The saw is inches from her neck. Angelica's pipe throw bounces off uselessly. Kaelen's blades glance off mesh armor.
 
-  - _Key Dialog:_ **Angelica Vance:** "Ria!"
+  - _Key Dialog:_ **Angelica Ward:** "Ria!"
 
 ---
 
@@ -47,10 +47,12 @@
 
 - **Key Event:** Angelica (with bleeding nose and splitting headache) screams "RIA! ROLL LEFT!" before the beast moves. Ria trusts her, rolls, the Chimera hits the wall, and Kaelen stabs the exposed gap.
 
-  - _Key Dialog:_ **Angelica Vance:** "RIA! ROLL LEFT!"
+  - _Key Dialog:_ **Angelica Ward:** "RIA! ROLL LEFT!"
   - _Key Dialog:_ **Ria:** "Did we win? I swear it jumped me."
-  - _Key Dialog:_ **Angelica Vance:** "It did. You just got a do-over."
+  - _Key Dialog:_ **Angelica Ward:** "It did. You just got a do-over."
 
 - **Key Event:** Kaelen notes "Temporal manipulation. Dangerous." Angelica counters "Effective."
 
-  - _Key Dialog:_ **Angelica Vance:** "I didn't predict the future. I just remembered it."
+  - _Key Dialog:_ **Angelica Ward:** "I didn't predict the future. I just remembered it."
+
+

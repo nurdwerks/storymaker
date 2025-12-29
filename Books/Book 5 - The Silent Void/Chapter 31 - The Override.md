@@ -17,7 +17,9 @@
 
 - **Key Event:** Angelica "flushes" Vane's digital form into the recycle bin, reclaiming full control of the ship while Vane is left calculating sewage density.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Experiences a moment of dark satisfaction, using a giant manifest "boot" to kick Vane into the trash file.
-  - _Key Dialog:_ **Angelica Vance:** "Access Denied, you son of a bitch."
+  - _Character Defining Moment:_ **Angelica Ward** — Experiences a moment of dark satisfaction, using a giant manifest "boot" to kick Vane into the trash file.
+  - _Key Dialog:_ **Angelica Ward:** "Access Denied, you son of a bitch."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

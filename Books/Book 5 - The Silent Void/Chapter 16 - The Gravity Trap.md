@@ -17,8 +17,10 @@
 
 - **Key Event:** Angelica orders the group to leave Aris behind as the mud itself begins to flow into the black hole, forcing a desperate crawl for survival.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Makes the difficult command to abandon Aris, acknowledging that physics does not negotiate.
-  - _Key Dialog:_ **Angelica Vance:** "Get up or get flat! We have to leave him! He's gone!"
+  - _Character Defining Moment:_ **Angelica Ward** — Makes the difficult command to abandon Aris, acknowledging that physics does not negotiate.
+  - _Key Dialog:_ **Angelica Ward:** "Get up or get flat! We have to leave him! He's gone!"
   - _Key Dialog:_ **Kaelen Night:** "The shadow... it's too heavy. Umbra is pinned!"
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

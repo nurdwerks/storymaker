@@ -21,8 +21,8 @@
 ### Scene 3: The Verdict
 
 - **Key Event:** Angelica must decide whether to preserve the data for its potential "cure" or destroy it for "safety."
-  - _Character Defining Moment:_ **Angelica Vance** — Chooses a middle path: she locks the data behind a "Moral Override" that requires three keys to access, which she distributes among the group.
-  - _Key Dialog:_ **Angelica Vance:** "Knowledge isn't the enemy. Monopoly is. We keep the data, but no one person—not even me—can open it alone."
+  - _Character Defining Moment:_ **Angelica Ward** — Chooses a middle path: she locks the data behind a "Moral Override" that requires three keys to access, which she distributes among the group.
+  - _Key Dialog:_ **Angelica Ward:** "Knowledge isn't the enemy. Monopoly is. We keep the data, but no one person—not even me—can open it alone."
 
 ---
 
@@ -30,8 +30,10 @@
 
 - **Key Event:** The group seals the Bi-Core, leaving the dormant Mother and the clone tanks behind, as they prepare to head for the ship's final physical boundary—the Outer Hull.
   - _Key Dialog:_ **Kaelen Night:** "Where to now, Captain?"
-  - _Key Dialog:_ **Angelica Vance:** "Up. To the glass. I want to see if the stars are still there."
+  - _Key Dialog:_ **Angelica Ward:** "Up. To the glass. I want to see if the stars are still there."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

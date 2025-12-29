@@ -17,3 +17,9 @@
   **Quote:** _"The Market is closed, Zephyr."_
 - **Impact on Zephyr:** Zephyr is forced to distance himself from Sly to protect his own reputation. The loss of his most reliable fence cuts off Zephyr’s primary source of information and income, forcing him into riskier, more desperate jobs.
 - **Impact on Entourage:** The "Market" is closed. The ring loses its ability to turn stolen Zenith goods into liquid credits, turning the Smuggler’s Ring into a group of "hoarders" who are trapped with valuable but unsellable contraband.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 06 | Key Event | Zephyr attempts to fence stolen encryption keys but is rejected by his contact, Sly, due to a crackdown and a bounty on his head. |

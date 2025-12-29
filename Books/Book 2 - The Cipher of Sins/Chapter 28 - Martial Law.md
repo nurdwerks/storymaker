@@ -12,6 +12,9 @@
 
 - **Key Event:** Acting under absolute orders, Wardens open fire on a crowd of civilians watching the broadcast, turning a moment of revelation into a public execution.
   - _Character Defining Moment:_ **The Wardens** — Their transition from guardians of the Zenith to its indiscriminate executioners is completed as they target men, women, and children.
+- **Key Event:** Ria watches a Zenith Warden beat a child who looks like her brother Jax. The facade cracks. She realizes she has become the thing that killed her brother. She crushes the Warden's skull with her bare hands.
+  - _Character Defining Moment:_ **Ria** — She switches sides not for Angelica, but for Jax. The soldier dies. The sister is reborn.
+  - _Key Dialog:_ **Ria (whispered):** "Not again. Never again."
 
 ---
 
@@ -26,7 +29,7 @@
 ### Scene 4: The Horror / Tower Roof
 
 - **Key Event:** Watching the city-wide bloodbath from the tower roof, Angelica collapses under the psychological weight of the carnage her broadcast unleashed.
-  - _Character Defining Moment:_ **Angelica Vance** — She struggles with the crushing moral burden of leadership, questioning if the price of truth is worth the lives being lost.
+  - _Character Defining Moment:_ **Angelica Ward** — She struggles with the crushing moral burden of leadership, questioning if the price of truth is worth the lives being lost.
 
 ---
 

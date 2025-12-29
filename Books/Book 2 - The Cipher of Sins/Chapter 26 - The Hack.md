@@ -26,5 +26,7 @@
 ### Scene 4: The Launch / Tower Roof
 
 - **Key Event:** Angelica inserts the Cylinder’s core into the console and presses "TRANSMIT," initiating a city-wide override of every public and private screen.
-  - _Character Defining Moment:_ **Angelica Vance** — She takes her first steps as a public revolutionary, delivering a defiant declaration of war against the Founders' regime.
+  - _Character Defining Moment:_ **Angelica Ward** — She takes her first steps as a public revolutionary, delivering a defiant declaration of war against the Founders' regime.
   - _Key Dialog:_ **Angelica:** "The emperor has no clothes. He has no soul. And he has no right to rule."
+
+

@@ -11,7 +11,7 @@
 
 - **Key Event:** Angelica undergoes the neural interface procedure, where micro-needles from the "Crown" pierce her skull and brain stem to establish a 100% sync rate with the ship.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Endures extreme physical and psychological agony, her scream ending abruptly as her consciousness is successfully uploaded into the ship's systems.
+  - _Character Defining Moment:_ **Angelica Ward** — Endures extreme physical and psychological agony, her scream ending abruptly as her consciousness is successfully uploaded into the ship's systems.
   - _Key Dialog:_ **AI:** "Connection established. Sync rate 100%. I see you."
   - _Key Dialog:_ **Kaelen Night:** "Angelica! Don't touch her! Vane, you're killing her!"
 
@@ -22,3 +22,5 @@
   - _Key Dialog:_ **Kaelen Night:** "Her eyes... they're gone."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

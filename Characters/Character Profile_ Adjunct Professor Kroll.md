@@ -13,3 +13,5 @@ Adjunct Professor Kroll is a sycophant who echoes Prelate Vane’s every sentime
 
 - **Event Location:** [Book 3, Chapter 32: Kaelen's Stand](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L2520-2540)
 - **Defining Quote:** "I am redundant... The algorithm is 99.9% more efficient." (Reveals flaw: PRIDE/TOTAL SUBSERVIENCE)
+
+

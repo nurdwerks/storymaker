@@ -18,3 +18,9 @@ The Seamstress is a woman who creates the intricate, often painful garments and 
 - **The Event:** During the seizure of the estate, The Seamstress tries to stop the guards from entering the wardrobe. She pleads to finish a hem on a silk dress.
 - **The Fate:** A guard crushes her hands with a mace. "No further production authorized."
 - **Status:** **Maimed / Useless.** Her hands, the source of her value and the Night's visual glory, are destroyed. She is kicked aside like trash.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 13 | Key Event | Kaelen witnesses a guard crushing the hands of The Seamstress, the woman who wove the family's garments. |

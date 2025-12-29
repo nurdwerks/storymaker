@@ -21,7 +21,7 @@
 
 - **Key Event:** Angelica manages the evacuation, prioritizing skills and knowledge over material wealth.
 - **Key Event:** She forces a woman to abandon a chest of gold, calling it "dead weight."
-  - _Character Defining Moment:_ **Angelica Vance** — She remains cold and focused on survival priorities amidst the chaos.
+  - _Character Defining Moment:_ **Angelica Ward** — She remains cold and focused on survival priorities amidst the chaos.
 
 ---
 
@@ -35,7 +35,7 @@
 ### Scene 4: The Command
 
 - **Key Event:** Angelica shoves the last family up the ramp as the world burns around them.
-  - _Key Dialog:_ **Angelica Vance:** "Go! Go! Go! ... Your life is up there! Run!"
+  - _Key Dialog:_ **Angelica Ward:** "Go! Go! Go! ... Your life is up there! Run!"
 
 ---
 
@@ -50,3 +50,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

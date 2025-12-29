@@ -13,3 +13,12 @@ Chamberlain Hives is the administrator of Duke Grey’s estate. He is officious,
 
 - **Event Location:** [Book 3, Chapter 15: The Game of Gears](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L1270-1290)
 - **Defining Quote:** "It was the new AI Chamberlain, efficient and soulless, replacing Hives, who had been scrapped for a scheduling error." (Reveals flaw: PRIDE/DISPOSABILITY)
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 1 | Chapter 15 | Key Event | Duke Grey watches the dance from the VIP balcony, surrounded by his entourage. He notices Kaelen protecting Angelica and whispers to Chamberlain Hives. |
+| Book 3 | Chapter 13 | Key Event | High Chamberlain's auditor, Mister Sterling, arrives at the Night estate with Zenith Wardens to seize it due to unpaid loans. |
+| Book 3 | Chapter 30 | Key Event | The High Chamberlain sees the tank shattered, the Emperor's withered body exposed. His faith crumbles in an instant. |
+| Book 3 | Chapter 30 | Moment | **High Chamberlain** — A lifetime of devotion revealed as devotion to a lie. |

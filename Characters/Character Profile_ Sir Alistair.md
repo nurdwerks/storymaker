@@ -18,3 +18,5 @@ Sir Alistair is Duke Grey’s Master of the Hunt and a high-ranking member of th
 - **The Event:** Honorable Death in Battle. During a desperate defense of the High-Levels, Sir Alistair dies leading a charge against a mutant horde. He dies with a laugh and a glass of brandy in his hand, a "hero" to the very end.
 - **Impact on Duke Grey:** Grey is genuinely shaken. Alistair was the only one he felt he could be "himself" with. His death turns Grey's stoicism into cold, focused wrath, leading to more aggressive and dangerous military decisions.
 - **Impact on Entourage:** The "life of the party" is gone. The Grey Court becomes even more somber and militaristic, as the remaining members realize that even the "Old Blood" can bleed and die.
+
+

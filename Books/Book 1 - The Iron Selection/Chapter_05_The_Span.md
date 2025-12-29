@@ -22,7 +22,7 @@
 - **Key Event:** Ria (6'2", built like a linebacker with cement-colored skin from the Silt districts) encounters Angelica struggling against the wind.
 
   - _Key Dialog:_ **Ria:** "You're gonna slow us down, twigs."
-  - _Key Dialog:_ **Angelica Vance:** "I'm pacing myself."
+  - _Key Dialog:_ **Angelica Ward:** "I'm pacing myself."
   - _Key Dialog:_ **Ria:** "Pace this."
 
 - **Key Event:** Ria hip-checks Angelica. On ice-slicked glass in crosswind, this sends Angelica sliding toward the edge. She loses traction and goes over.
@@ -43,12 +43,12 @@
 
 - **Key Event:** Kaelen slices his own palm with an obsidian knife inscribed with red runes. His blood boils and evaporates into black smoke absorbed by his shadow—the Blood Price for his telekinesis.
 
-  - _Key Dialog:_ **Angelica Vance:** "You're bleeding."
+  - _Key Dialog:_ **Angelica Ward:** "You're bleeding."
   - _Key Dialog:_ **Kaelen Night:** "Observation: Accurate. Utility: Zero."
 
 - **Key Event:** Kaelen explains his blood pays for the "Iron" cost of magic and warns Angelica not to make him spend blood on her again.
 
-  - _Key Dialog:_ **Kaelen Night:** "Do not make me spend my blood on you again, Vance. It is expensive. The exchange rate is poor."
+  - _Key Dialog:_ **Kaelen Night:** "Do not make me spend my blood on you again, Ward. It is expensive. The exchange rate is poor."
 
 - **Key Event:** Ria's challenge prompts Kaelen to turn his cold gaze on her. His shadow ripples threateningly; she backs down.
 
@@ -57,3 +57,5 @@
 - **Key Event:** Angelica asks why he saved her. Kaelen claims pragmatic self-interest.
 
   - _Key Dialog:_ **Kaelen Night:** "I do not bleed for you, Silt-Rat. I bleed because I hate cleaning up messes. And you would make a very large mess."
+
+

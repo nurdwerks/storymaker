@@ -7,7 +7,7 @@
 
 ---
 
-## Chapter 24: The Resonance Gambit
+## Chapter 24: The Silt Broadcast
 
 ### Scene 1: The Interface
 
@@ -44,7 +44,7 @@
 
 - **Key Event:** The Spire whines at a glass-shattering frequency. Spiders freeze and fall. Every screen in the Zenith goes to static, then shows Angelica's distorted, violet-burning face.
 
-  - _Key Dialog:_ **Angelica Vance (broadcast):** "We are not your entertainment. We are the Iron Selection. We survived your poison. We survived your traps. We survived each other. We are not leaving. And you are not winning. We are changing the game."
+  - _Key Dialog:_ **Angelica Ward (broadcast):** "We are not your entertainment. We are the Iron Selection. We survived your poison. We survived your traps. We survived each other. We are not leaving. And you are not winning. We are changing the game."
 
 ---
 
@@ -54,7 +54,9 @@
 
 - **Key Event:** A massive Extraction Claw descends from the Zenith—industrial grapple meant for heavy cargo. It grabs the entire Spire platform and rips it from the tower.
 
-  - _Key Dialog:_ **Angelica Vance:** "Did... did it work?"
+  - _Key Dialog:_ **Angelica Ward:** "Did... did it work?"
   - _Key Dialog:_ **Kaelen Night:** "It worked. We got their attention."
 
 - **Key Event:** They rise—not as winners, but as prisoners.
+
+

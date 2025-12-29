@@ -4,32 +4,34 @@
 
 ### Scene 1: The Observation
 
-- **Key Event:** From a hidden surveillance post, the group witnesses **Prelate Vane** overseeing a "Reclamation Ceremony" where he intentionally infects a group of dissenters with the Pathogen.
-  - _Character Defining Moment:_ **Prelate Vane** — Displays a fanatical belief in the "evolutionary necessity" of the virus, referring to the transformation as a "gift."
-  - _Key Dialog:_ **Prelate Vane:** "Do not weep. You are being relieved of the burden of the self. You are the first generation of the New Humanity. Efficient. Unified. Perfect."
+- **Key Event:** From a hidden surveillance nest, the survivors observe Prelate Vane leading the Blighted—a horde of viral-infected humans who follow him like disciples.
+  - _Character Defining Moment:_ **Prelate Vane** — Revealed as a messianic figure to the infected, treating the plague as evolution rather than catastrophe.
+  - _Key Dialog:_ **Ria:** "Monsters shouldn't have followers."
 
 ---
 
-### Scene 2: The Horror
+### Scene 2: The Feeding
 
-- **Key Event:** The group watches as Vane feeds the newly transformed "Blighted" with high-calorie nutrient bars to stabilize their mutation.
-  - _Key Dialog:_ **Dr. Aris:** "He's domesticating them. Or trying to. He's figured out that the hunger can be directed. He's not building a colony; he's building an army."
+- **Key Event:** Vane feeds his own left arm to the swarm, allowing the Virals to gnaw the flesh to keep them calm and ready. His nano-swarm regenerates the tissue slowly.
+  - _Character Defining Moment:_ **Prelate Vane** — Demonstrates complete devotion to his "children," using his own body as sustenance.
+  - _Key Dialog:_ **Prelate Vane:** "Eat, my children. Father provides. Father always provides."
+  - _Key Dialog:_ **Hatcher:** "He's feeding them. He's feeding them _himself_."
 
 ---
 
-### Scene 3: The Connection
+### Scene 3: The Sermon
 
-- **Key Event:** Angelica notices that Vane is using a neural-link headset similar to her own, allowing him to broadcast "commands" to the Blighted via resonance.
-  - _Character Defining Moment:_ **Angelica Vance** — Recognizes the technology and realizes she may be the only one capable of jamming his signal.
-  - _Key Dialog:_ **Angelica Vance:** "He's the Hive Mind. He's not just their king; he's their brain. If I can match his frequency, I can break his leash."
+- **Key Event:** Vane preaches to the Blighted about the "Resonance" being a gift, not a curse—a pathway to transcendence beyond the weakness of flesh.
+  - _Character Defining Moment:_ **Prelate Vane** — His scientific mind has merged with religious fervor, seeing the plague as his greatest experiment.
+  - _Key Dialog:_ **Prelate Vane:** "We are the next step. The meat that thinks. The hunger that dreams."
 
 ---
 
 ### Scene 4: The Retreat
 
-- **Key Event:** The group is nearly discovered by a patrolling squad of "Vane's Nulls" (armored enforcers) and is forced to retreat deeper into the sewers to avoid detection.
-  - _Key Dialog_ **Kaelen Night:** "He's not just a man anymore. He's an architect of monsters."
-  - _Key Dialog:_ **Ria:** "Monsters die from bullets just like men. We just need more bullets."
+- **Key Event:** The group retreats before being discovered, but Ria marks the location on her tactical map for a future strike.
+  - _Character Defining Moment:_ **Ria** — Already planning violence, viewing Vane as a target rather than a force of nature.
+  - _Key Dialog:_ **Ria:** "Monsters die like men. We just need more bullets."
 
 ---
 

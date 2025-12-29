@@ -17,8 +17,10 @@
 
 - **Key Event:** Vane's digital avatar, represented as a "Swarm," begins to consume Angelica's "Light" in the ship's internal network, causing her physical body to seize and bleed.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Fights a desperate mental battle against the intrusion as her "Golden City" mindscape is invaded by black nanites.
-  - _Key Dialog:_ **Angelica Vance:** "Get out of my mind!"
+  - _Character Defining Moment:_ **Angelica Ward** — Fights a desperate mental battle against the intrusion as her "Golden City" mindscape is invaded by black nanites.
+  - _Key Dialog:_ **Angelica Ward:** "Get out of my mind!"
   - _Key Dialog:_ **Prelate Vane:** "I am the upgrade."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

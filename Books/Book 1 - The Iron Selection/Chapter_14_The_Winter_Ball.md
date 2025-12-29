@@ -24,11 +24,11 @@
 
 - **Key Event:** At the supply depot, Corinne (Highborn from House Aurum) mocks Angelica and uses a gravity field to push her aside from the silk gowns.
 
-  - _Key Dialog:_ **Corinne:** "Go wear a trash bag, Vance. It suits your lineage."
+  - _Key Dialog:_ **Corinne:** "Go wear a trash bag, Ward. It suits your lineage."
 
 - **Key Event:** Angelica digs through the reject bin and finds a moth-eaten military dress uniform from the Pre-Collapse era—Dissident Grey, the color of the failed rebellion.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Sees the ruined dress as a chassis, not a ruin.
+  - _Character Defining Moment:_ **Angelica Ward** — Sees the ruined dress as a chassis, not a ruin.
 
 ---
 
@@ -38,17 +38,17 @@
 
 - **Key Event:** The finished dress fits like a glove of steel with high collar protecting her neck, tight sleeves with finger-loops concealing throwing bearings.
 
-  - _Key Dialog:_ **Angelica Vance:** "Iron. Not gold. Iron."
+  - _Key Dialog:_ **Angelica Ward:** "Iron. Not gold. Iron."
 
 ---
 
 ### Scene 4: The Entrance
 
-- **Key Event:** In the Grand Ballroom (holographic galaxy ceiling, ozone and gardenia perfume), Angelica's name is announced: "Angelica Vance. Unaffiliated."
+- **Key Event:** In the Grand Ballroom (holographic galaxy ceiling, ozone and gardenia perfume), Angelica's name is announced: "Angelica Ward. Unaffiliated."
 
 - **Key Event:** Angelica descends the stairs in matte grey that absorbs light, with only the radioactive blue pulse at her hem. The room goes quiet.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Stands out like a wound among peacocks in shifting rainbows.
+  - _Character Defining Moment:_ **Angelica Ward** — Stands out like a wound among peacocks in shifting rainbows.
 
 - **Key Event:** Corinne drops her champagne flute. Kaelen watches from the balcony with a small smile.
 
@@ -56,4 +56,6 @@
 
 - **Key Event:** Angelica projects a thought so loud that telepaths wince.
 
-  - _Key Dialog:_ **Angelica Vance:** "Stare all you want. I am the wrench in your gears."
+  - _Key Dialog:_ **Angelica Ward:** "Stare all you want. I am the wrench in your gears."
+
+

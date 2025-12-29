@@ -28,9 +28,11 @@
 ### Scene 4: The Promise
 
 - **Key Event:** Angelica promises that even if they are just "drifting echoes," they will make the ship their own and find a way to stop the "Death of the Sun" (the ship's failing reactor).
-  - _Character Defining Moment:_ **Angelica Vance** — Reframes their situation: they aren't lost, they are the "New Navigators."
-  - _Key Dialog:_ **Angelica Vance:** "The ship isn't a tomb until we stop breathing. We have the data. We have the deck. We find the reactor, and we turn the sun back on."
+  - _Character Defining Moment:_ **Angelica Ward** — Reframes their situation: they aren't lost, they are the "New Navigators."
+  - _Key Dialog:_ **Angelica Ward:** "The ship isn't a tomb until we stop breathing. We have the data. We have the deck. We find the reactor, and we turn the sun back on."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

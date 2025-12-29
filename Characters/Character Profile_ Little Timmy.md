@@ -19,7 +19,13 @@
 
 ## III. Book 4 Integration
 
-- **Location:** Book 4, Chapter 20
+- **Location:** Book 4, Chapter 22
 - **Scene:** "The Sacrifice" (Paralyzed protecting Joyce)
 - **Role:** The Unbreakable Wall
 - **Quote:** "Legs... don't work. Did I stop them, Miss Joyce?"
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 22 | Key Event | The orderly **Timmy** is paralyzed while shielding Joyce from a scavenger's laser cutter, and Joyce goes on a lethal rampage using her knitting needles. |

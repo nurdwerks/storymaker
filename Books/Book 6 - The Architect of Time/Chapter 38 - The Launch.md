@@ -30,7 +30,7 @@
 ### Scene 4: The Farewell
 
 - **Key Event:** Angelica vows to make the sacrifice count as she turns away from the burning Earth.
-  - _Key Dialog:_ **Angelica Vance:** "I will make it count. I promise you, I will make it count."
+  - _Key Dialog:_ **Angelica Ward:** "I will make it count. I promise you, I will make it count."
 
 ---
 
@@ -45,3 +45,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

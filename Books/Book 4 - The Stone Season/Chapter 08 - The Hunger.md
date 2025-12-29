@@ -2,35 +2,35 @@
 
 ---
 
-### Scene 1: The Shortage
+### Scene 1: The Scavenging / Baron Gilded's Penthouse Ruins
 
-- **Key Event:** The group arrives at a "Water Exchange" in Sector 9, only to discover a riot in progress as the pipes have run dry and the last of the clean water is being guarded by armed enforcers.
-  - _Key Dialog:_ **Hatcher:** "Thirst is a faster killer than the Blighted. People with dry throats don't listen to reason."
-
----
-
-### Scene 2: The Negotiation
-
-- **Key Event:** Angelica attempts to negotiate with the enforcers by offering "Zenith Service Tokens," but they are rejected as worthless currency since the Fall.
-  - _Character Defining Moment:_ **Angelica Vance** — Realizes the total collapse of the economic system she was raised to trust.
-  - _Key Dialog:_ **Enforcer:** "These are just shiny bits of plastic now, girl. I can't drink a token. I want meat or tech."
+- **Key Event:** Zephyr leads a scavenging mission into the frozen upper sectors. They enter Baron Gilded's abandoned penthouse looking for supplies.
+  - _Key Dialog:_ **Zephyr:** "If anyone had hoarded food and batteries, it was this golden bastard."
 
 ---
 
-### Scene 3: The Desperation
+### Scene 2: The Discovery / Gilded's Throne Room
 
-- **Key Event:** Kaelen explores the shadows of the exchange, discovering that the enforcers are hoarding water for themselves while the crowd dies.
-  - _Character Defining Moment:_ **Kaelen Night** — Struggles with his code of honor versus the necessity of theft for the group's survival.
-  - _Key Dialog:_ **Kaelen Night:** "They have enough for everyone. They're just waiting for the price to go up. It's not order. It's greed."
+- **Key Event:** Zephyr finds Baron Gilded's frozen corpse, still seated in his crashed Repulsor Throne. The cold preserved him perfectly—a golden statue of greed.
+  - _Character Defining Moment:_ **Zephyr** — Feels no pity, only satisfaction. He rips out Gilded's diamond-studded gold tooth as payment for old debts.
+  - _Key Dialog:_ **Zephyr:** "Remember when you threatened to take my arm? I'm taking your smile instead."
+  - _Key Dialog:_ **Ria:** "That's disgusting."
+  - _Key Dialog:_ **Zephyr:** "That's business."
 
 ---
 
-### Scene 4: The Heist
+### Scene 3: The Supplies / Penthouse Vault
 
-- **Key Event:** The group decides to steal the water canisters during the chaos of the riot, with Angelica leading the diversion and Ria providing the heavy lifting.
-  - _Character Defining Moment:_ **Angelica Vance** — Orders the "redistribution" of the water, marking her first act of direct rebellion against established (even if corrupt) authority.
-  - _Key Dialog:_ **Angelica Vance:** "They aren't enforcers. They're hoarders. Take the tanks. Don't look back."
-  - _Key Dialog:_ **Ria:** "Finally. A plan with a positive outcome."
+- **Key Event:** The group finds Gilded's emergency stash: protein bars, water purifiers, and thermal blankets. Enough to keep the survivors alive for weeks.
+  - _Key Dialog:_ **Angelica Ward:** "He had enough here to save a hundred people. He saved none."
+
+---
+
+### Scene 4: The Return / Through the Frozen Corridors
+
+- **Key Event:** On the way back, the group encounters a pack of starving Virals. They fight through, losing two scavengers but saving the supplies.
+  - _Character Defining Moment:_ **Ria** — Her combat instincts save the mission, but she's visibly shaken by the close call.
+  - _Key Dialog:_ **Ria:** "We got the food. The dead don't eat anyway."
 
 ---
 

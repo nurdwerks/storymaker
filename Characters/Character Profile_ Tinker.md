@@ -23,3 +23,9 @@ Tinker is a one-armed mechanic who can fix anything with a piece of wire and a p
 - **Scene:** "The Burst." Tinker loses his remaining arm trying to stabilize a pressure valve to keep the camp warm.
 - **Role:** The Broken Maker. His maiming signifies the loss of Hatcher’s ability to "fix" things.
 - **Quote:** _"I fixed it, Hatcher. The pressure is... stable."_
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 16 | Key Event | **Tinker** attempts to fix a high-pressure primary conduit to keep the camp warm. The pipe bursts, and he loses his remaining arm in the explosion. |

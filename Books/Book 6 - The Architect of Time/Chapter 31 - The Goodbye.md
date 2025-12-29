@@ -13,7 +13,7 @@
 
 - **Key Event:** Angelica manages the final loading of civilians into cryo-pods, which act as a time machine to skip the upcoming dark ages.
 - **Key Event:** She reassures a young girl, Lisbet-7, that they will wake up in a better future.
-  - _Key Dialog:_ **Angelica Vance:** "When you wake up, the sky will be blue again. The monsters will be dust. And we will be free."
+  - _Key Dialog:_ **Angelica Ward:** "When you wake up, the sky will be blue again. The monsters will be dust. And we will be free."
 
 ---
 
@@ -33,7 +33,7 @@
 ### Scene 4: The Promise
 
 - **Key Event:** Angelica promises the sleeping souls that she will get them home.
-  - _Key Dialog:_ **Angelica Vance:** "Sleep tight. See you in the future. I promise I won't let you down."
+  - _Key Dialog:_ **Angelica Ward:** "Sleep tight. See you in the future. I promise I won't let you down."
 
 ---
 
@@ -48,3 +48,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

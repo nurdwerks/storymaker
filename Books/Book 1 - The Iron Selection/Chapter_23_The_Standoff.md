@@ -34,7 +34,7 @@
 
 - **Key Event:** Angelica feels cold, white-hot fury. She projects "STOP!" with Kinetic Voice—a wave of pure force that shatters the camera drone and blasts Kaelen and Ria apart.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Manifests powerful Kinetic Voice for the first time.
+  - _Character Defining Moment:_ **Angelica Ward** — Manifests powerful Kinetic Voice for the first time.
 
 ---
 
@@ -42,9 +42,9 @@
 
 - **Key Event:** Angelica stands in the center, bleeding from the nose, eyes blazing, and offers herself first if they want to kill someone.
 
-  - _Key Dialog:_ **Angelica Vance:** "I'm your friend, you absolute moron! I'm the one who pulled you out of the poison!"
+  - _Key Dialog:_ **Angelica Ward:** "I'm your friend, you absolute moron! I'm the one who pulled you out of the poison!"
   - _Key Dialog:_ **Ria:** "The math doesn't work, Angie. 3 minus 2 equals 1."
-  - _Key Dialog:_ **Angelica Vance:** "Screw the math! We change the equation!"
+  - _Key Dialog:_ **Angelica Ward:** "Screw the math! We change the equation!"
 
 ---
 
@@ -52,10 +52,12 @@
 
 - **Key Event:** Angelica realizes the Spire is a broadcast antenna. She proposes hijacking it with Aeon to scream so loud they can't be ignored.
 
-  - _Key Dialog:_ **Angelica Vance:** "I want to hijack it. I want to scream so loud that they can't ignore us."
+  - _Key Dialog:_ **Angelica Ward:** "I want to hijack it. I want to scream so loud that they can't ignore us."
   - _Key Dialog:_ **Kaelen Night:** "That is insanity. The feedback could fry your brain."
-  - _Key Dialog:_ **Angelica Vance:** "Better than dying on this rock."
+  - _Key Dialog:_ **Angelica Ward:** "Better than dying on this rock."
 
 - **Key Event:** All three agree. With two minutes left, they commit to breaking the game.
 
-  - _Key Dialog:_ **Angelica Vance:** "We have two minutes to break the game. Let's make some noise."
+  - _Key Dialog:_ **Angelica Ward:** "We have two minutes to break the game. Let's make some noise."
+
+

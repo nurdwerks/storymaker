@@ -13,3 +13,10 @@ Broker Vix is a high-speed information trader who whispers secrets directly into
 
 - **Event Location:** [Book 3, Chapter 10: The Gala of Ghosts](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L838-854)
 - **Defining Quote:** "Information is a commodity, Vix. And your data has become corrupted." (Reveals flaw: GREED)
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 16 | Key Event | Broker Vix approaches Angelica with an offer—information about Vane's plans in exchange for future considerations. She is Baron Gilded's information dealer. |
+| Book 3 | Chapter 16 | Moment | **Broker Vix** — Everything is for sale, including her employer's secrets. |

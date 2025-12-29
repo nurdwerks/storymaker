@@ -13,3 +13,9 @@ Quartermaster Flint is an old war buddy of General Ironwood who now manages the 
 
 - **Event Location:** [Book 3, Chapter 26: The Forging of Wrath](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L2050-2070)
 - **Defining Quote:** "I didn't sign up for slaughter, General." (Reveals flaw: SLOTH/OLD GUARD CONSCIENCE)
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 20 | Key Event | Years into the future timeline, Zephyr serves as Quartermaster of the resistance, managing supplies with ruthless efficiency. |

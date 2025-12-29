@@ -1,4 +1,4 @@
-﻿# Character Profile: Lord Cromwell (The Hand of the King)
+# Character Profile: Lord Cromwell (The Hand of the King)
 
 **Archetype:** The Technocrat / The Whisperer / The Banality of Evil **True Sin:** SLOTH (Not physical laziness—he works eighteen hours a day. It is **Moral Sloth (Acedia)**. It is the refusal to take a stand, to create, or to disrupt. He chooses the path of least resistance to maintain the status quo, even when the status quo is a slaughter. He is the man who processes the paperwork for the genocide). **Virtue Mask:** PRUDENCE (He frames his cowardice as "Caution" and "Stability." He claims to be the "Voice of Reason" restraining the Emperor's madness and Duke Grey’s ambition. "I do not make the waves; I steer the ship").
 
@@ -70,7 +70,7 @@ Cromwell’s magic is not about force; it is about **Record** and **Binding**.
 
 - **The Mechanics:**
 
-  - **Covert Manifestation:** **The Truth Seal**. Anything Cromwell writes in the Ledger using Scriptor’s ink _becomes_ legal truth within the ship’s operating system. If he writes "Angelica Vance is a Traitor," the automated turrets will target her. If he writes "Sector 12 has ample food," the rationing system cuts their supply. He edits reality via bureaucracy.
+  - **Covert Manifestation:** **The Truth Seal**. Anything Cromwell writes in the Ledger using Scriptor’s ink _becomes_ legal truth within the ship’s operating system. If he writes "Angelica Ward is a Traitor," the automated turrets will target her. If he writes "Sector 12 has ample food," the rationing system cuts their supply. He edits reality via bureaucracy.
 
   - **Overt Manifestation:** **The Binding**. Scriptor can shoot threads of ink that wrap around a target. These threads are unbreakable binding contracts. They can gag a person, bind their hands, or anchor them to the floor.
 
@@ -108,9 +108,9 @@ Cromwell’s magic is not about force; it is about **Record** and **Binding**.
 
 - **The Manipulation:** He tries to force Angelica to become a figurehead Queen—one who waves from the balcony while he rules from the shadows.
 
-- **The Failure:** He underestimates Angelica’s **Pride**. He thinks she wants safety; she wants change. When he blocks **Lisbet’s** warning about the Red Wedding, he inadvertently pushes Angelica into the arms of the Rebellion.
+- **The Failure:** He underestimates Angelica’s **Pride**. He thinks she wants safety; she wants change. When he blocks **Lisbet’s** warning about the Obsidian Banquet, he inadvertently pushes Angelica into the arms of the Rebellion.
 
-- **The Red Wedding:** Cromwell is present at the banquet. He sits quietly, eating soup while the massacre happens. He does not flinch when Leo dies. He simply checks a name off in his book. This absolute lack of reaction horrifies **Kaelen** more than Grey’s violence.
+- **The Obsidian Banquet:** Cromwell is present at the banquet. He sits quietly, eating soup while the massacre happens. He does not flinch when Leo dies. He simply checks a name off in his book. This absolute lack of reaction horrifies **Kaelen** more than Grey’s violence.
 
 ### Book 4: The Stone Season — **_The Irrelevant Man_**
 
@@ -168,13 +168,13 @@ Cromwell’s magic is not about force; it is about **Record** and **Binding**.
 
 ## VIII. Key Quotes & Internal Monologues
 
-- _(Whispered)_: _"The Realm does not need a hero, Miss Vance. Heroes break things. The Realm needs a signature."_ (Book 3)
+- _(Whispered)_: _"The Realm does not need a hero, Miss Ward. Heroes break things. The Realm needs a signature."_ (Book 3)
 
 - _"Duke Grey thinks he owns the city because he bought the bricks. I own the city because I numbered the bricks."_ (Book 3)
 
 - _"Chaos is just paperwork I haven't filed yet."_
 
-- _(Internal Monologue during the Red Wedding)_: _"Messy. Very messy. The carpet will have to be replaced. I’ll need to allocate funds from the Education budget."_
+- _(Internal Monologue during the Obsidian Banquet)_: _"Messy. Very messy. The carpet will have to be replaced. I’ll need to allocate funds from the Education budget."_
 
 - _"I am the anchor! You cannot sail without me!"_ (To Ria, as she leaves him in the dark).
 
@@ -189,3 +189,15 @@ Cromwell operates in the dark, but he is not alone. He has a network of spies an
 - **Agent 44:** A faceless assassin who stands guard. He and Cromwell play chess in their downtime. The sight of the Spymaster and his killer engaging in a game of intellect excludes Angelica, who is neither a player nor a piece, but the board.
 
 - **The Raven:** A courier who brings messages from the Emperor (or who Cromwell claims are from the Emperor). The Raven bows to Cromwell but ignores Angelica. Their arrival signals "Grown Up Talk," and Angelica is often dismissed from the room.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 02 | Key Event | Angelica meets Lord Cromwell and observes his mechanical bond, The Scriptor, writing in a ledger. |
+| Book 3 | Chapter 02 | Key Event | Cromwell uses a holographic display to show Leo Ward in a detention cell as leverage against Angelica. |
+| Book 3 | Chapter 02 | Key Event | Angelica realizes the "banality of evil" in Cromwell's bureaucratic approach and decides to comply for now. |
+| Book 3 | Chapter 02 | Moment | **Angelica Ward** — Recognizes that violence will not work against Cromwell and chooses a more controlled response. |
+| Book 3 | Chapter 31 | Key Event | Lord Cromwell attempts to stop the group by threatening to destroy the AI core, which would terminate life support. |
+| Book 3 | Chapter 31 | Key Event | Miller shoots Cromwell to prevent him from using the detonator; ARIA deletes "Protocol Vane" and engages "Protocol Life." |
+| Book 3 | Chapter 31 | Moment | **Lord Cromwell** — Even as he bleeds out, his final act is bureaucratic—he tries to file a formal complaint. The paperwork scatters, irrelevant. He dies as he lived. |

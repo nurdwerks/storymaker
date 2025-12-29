@@ -19,3 +19,14 @@ Squire Pip is a young boy training to be a knight under Kaelen's guidance. He re
 
 **Event Location:** Book 2, Chapter 16
 **Defining Quote:** _"I... I got him. I saved you, my Lord."_
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 16 | Key Event | Kaelen Night and Squire Pip intercept the escaping team; after Pip is forced to kill a scavenger in self-defense, a conflicted Kaelen allows Angelica to leave. |
+| Book 2 | Chapter 16 | Moment | **Squire Pip** — He kills for the first time, experiencing the immediate emotional toll and trauma of lethal combat. |
+| Book 2 | Chapter 16 | Moment | **Kaelen Night** — He chooses to prioritize the emotional state of his squire over his duty to the Crown, allowing a high-value fugitive to escape. |
+| Book 4 | Chapter 18 | Key Event | The creature breaks loose and kills a young boy named **Pip**, who had been following Lisbet. |
+| Book 4 | Chapter 19 | Key Event | The survivors surround Aris, demanding he be executed for Pip's death, armed with pipes and stones. |
+| Book 4 | Chapter 24 | Key Event | Angelica takes the night watch on a catwalk over a massive ventilation shaft, reflecting on the growing list of casualties (Pip, Lord Vermillion, Torque). |

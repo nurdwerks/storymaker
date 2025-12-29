@@ -3,7 +3,7 @@
 ### Scene 1: The Lights / Gallery, Museum of Pre-History
 
 - **Key Event:** The museum’s security override flares to 100% brightness; the Custodian droid violently incapacitates Zephyr, hurling him into a display case, while Lisbet is locked out of the system.
-  - _Character Defining Moment:_ **Angelica Vance** — She experiences a moment of paralysis as her escape plan disintegrates under the force of Prelate Vane's direct intervention.
+  - _Character Defining Moment:_ **Angelica Ward** — She experiences a moment of paralysis as her escape plan disintegrates under the force of Prelate Vane's direct intervention.
 
 ---
 
@@ -25,5 +25,7 @@
 ### Scene 4: The Goal / Gallery
 
 - **Key Event:** Pinned by the nano-swarm, Angelica is forced to provide a blood sample to the Cylinder, which Vane reveals as the "key" to the Interface Throne.
-  - _Character Defining Moment:_ **Angelica Vance** — She faces the horrifying realization that Vane views her not as a person, but as a biological utility.
+  - _Character Defining Moment:_ **Angelica Ward** — She faces the horrifying realization that Vane views her not as a person, but as a biological utility.
   - _Key Dialog:_ **Prelate Vane:** "You are not a person. You are a password made of meat."
+
+

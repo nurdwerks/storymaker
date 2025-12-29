@@ -19,3 +19,10 @@ The Governess is an ancient woman who raised Kaelen and now "mentors" the young 
 - **The Twist:** She claims she did it because "Vane pays better" and she was tired of raising failures.
 - **The Fate:** A Zenith Warden thanks her for her service, then shoots her in the back with a stun-round (or lethal round, effectively ending her role). Kaelen watches the woman who raised him die as a traitor.
 - **Status:** **Deceased / Executed.**
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 13 | Key Event | Droids forcibly remove Lady Selene's illegal "Youth-Grafts," and The Governess reveals she betrayed the family to Vane. |
+| Book 3 | Chapter 13 | Key Event | A Zenith Warden thanks The Governess for her service, then shoots her in the back. Useful tools are discarded when the job is done. |

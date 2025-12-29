@@ -11,10 +11,10 @@
 
 ### Scene 1: The Crater
 
-- **Key Event:** Angelica Vance regains consciousness in a crash crater filled with mud, ash, and steam.
-  - _Character Defining Moment:_ **Angelica Vance** — She realizes she has fallen from the void and forced herself to stand despite intense pain and a head wound.
+- **Key Event:** Angelica Ward regains consciousness in a crash crater filled with mud, ash, and steam.
+  - _Character Defining Moment:_ **Angelica Ward** — She realizes she has fallen from the void and forced herself to stand despite intense pain and a head wound.
 - **Key Event:** Angelica assesses the state of her Interface Suit and physical condition.
-  - _Character Defining Moment:_ **Angelica Vance** — She notes her arrhythmia is back and realizes she is "broken, but alive," finding a sense of existence in survival.
+  - _Character Defining Moment:_ **Angelica Ward** — She notes her arrhythmia is back and realizes she is "broken, but alive," finding a sense of existence in survival.
 
 ---
 
@@ -24,7 +24,7 @@
 - **Key Event:** Angelica tries to communicate with her neural construct, Aeon, which is in critical hibernation due to massive energy drain from temporal displacement.
   - _Key Dialog:_ **Aeon:** "Protect... the... Pilot..."
 - **Key Event:** The connection to Aeon severs, leaving Angelica without her usual temporal powers and feeling vulnerable.
-  - _Character Defining Moment:_ **Angelica Vance** — She recognizes her vulnerability as a mortal girl from the Undercity, stripped of her god-like status.
+  - _Character Defining Moment:_ **Angelica Ward** — She recognizes her vulnerability as a mortal girl from the Undercity, stripped of her god-like status.
 
 ---
 
@@ -38,9 +38,9 @@
 ### Scene 4: The Reality
 
 - **Key Event:** Angelica realizes she has fallen through the cracks of reality and is stranded in Earth's prehistoric past.
-  - _Key Dialog:_ **Angelica Vance:** "I am not lost in space. I am lost in time."
+  - _Key Dialog:_ **Angelica Ward:** "I am not lost in space. I am lost in time."
 - **Key Event:** Angelica experiences despair but finds a spark of pride and determination to "build the future again."
-  - _Character Defining Moment:_ **Angelica Vance** — Her refusal to die in the mud and her self-identification as the "Architect" show her resilience and ambition.
+  - _Character Defining Moment:_ **Angelica Ward** — Her refusal to die in the mud and her self-identification as the "Architect" show her resilience and ambition.
 
 ---
 
@@ -55,3 +55,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

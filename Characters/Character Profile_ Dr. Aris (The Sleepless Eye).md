@@ -1,4 +1,4 @@
-﻿# Character Profile: Dr. Aris (The Sleepless Eye)
+# Character Profile: Dr. Aris (The Sleepless Eye)
 
 **Archetype:** The Traitor / The Visionary / The Unethical Scientist **True Sin:** PRIDE (Intellectual Hubris. The unshakable belief that he alone sees the "pattern" of the universe, and that he has the right to rewrite biology to fit that pattern. He views morality as an intellectual failure). **Virtue Mask:** PATIENCE (He hides his god-complex behind the slow, methodical facade of the Scientific Method. He claims he is merely "observing" and "collecting data," distancing himself from the atrocities he engineers).
 
@@ -74,7 +74,7 @@ Aris’s magic is cerebral. It is the power of processing.
 
 ## V. Backstory & Pre-Narrative Life
 
-Aris was the contemporary of **Prelate Vane** and **Dr. Elena Vance** (Angelica’s mother) at the Arcanum.
+Aris was the contemporary of **Prelate Vane** and **Dr. Elena Ward** (Angelica’s mother) at the Arcanum.
 
 - **The Triangle:** Vane was the Politician. Elena was the Genius. Aris was the Obsessive. Aris loved Elena, not romantically, but professionally. He coveted her mind. When she beat him for the Head of Research position, his **Pride** shattered.
 
@@ -176,3 +176,60 @@ Aris does not have friends; he has "collaborators." These individuals form a tig
 - **Intern Oakhart:** A brilliant young prodigy from the Zenith Academy. He is the "student" Aris never had. They share quiet moments of mentorship—Aris explaining a complex formula, Oakhart nodding in understanding—that make Angelica ache with jealousy. She watches them and sees the education she was denied.
 
 - **Analyst Veda:** A cold, data-driven statistician who manages Aris’s simulation models. She speaks to Aris in rapid-fire jargon, laughing at inside jokes about entropy that go over Angelica’s head. She treats Angelica as a data point to be graphed, not a person to be acknowledged.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 03 | Key Event | The group encounters Dr. Aris, a disgraced xenobiologist known as "The Sleepless Eye," who is obsessively working amid the wreckage. |
+| Book 4 | Chapter 03 | Moment | **Dr. Aris** — Displays a twitchy, sleep-deprived demeanor, claiming he has bypassed the need for sleep to process data in real-time. |
+| Book 4 | Chapter 03 | Key Event | Aris demonstrates the capabilities of his hard-light construct, Nautilus, which allows him to multitask at inhuman speeds. |
+| Book 4 | Chapter 03 | Key Event | Ria and Aris strike a deal for the group to stay in the lab, though Aris warns them of "guests" behind a dented blast door. |
+| Book 4 | Chapter 03 | Moment | **Dr. Aris** — Categorizes the sound of desperate clawing against the steel door as an ongoing "experiment." |
+| Book 4 | Chapter 04 | Key Event | Dr. Aris shows Angelica a vial of a black, viscous liquid that he identifies as the cause of a simplified, predatory evolution. |
+| Book 4 | Chapter 04 | Key Event | Aris explains that Vane’s virus strips away higher brain functions (empathy, memory, regret) to save metabolic energy, leaving only "The Lizard Brain." |
+| Book 4 | Chapter 04 | Key Event | Aris warns that the "Blighted" are attracted to heat and are now widespread due to containment failure during the fall. |
+| Book 4 | Chapter 06 | Moment | **Dr. Aris** — Obsessively monitors his sensors, prioritizing the collection of "baseline acoustic data" of the screams over the group's safety. |
+| Book 4 | Chapter 10 | Moment | **Angelica Ward** — Decides to trust a stranger over the data-driven pessimism of Dr. Aris. |
+| Book 4 | Chapter 13 | Key Event | Dr. Aris forced a scan on Ria, revealing that the fungal spores are integrating with her organic nervous system through the neural ports. |
+| Book 4 | Chapter 13 | Key Event | Dr. Aris performs the field surgery with a soldering iron and a dirty scalpel while the group guards the room from scavengers. |
+| Book 4 | Chapter 15 | Key Event | Angelica and Aris debate the long-term versus short-term survival strategy. |
+| Book 4 | Chapter 15 | Moment | **Dr. Aris** — Realizes the error too late, having failed to account for Vane’s control over the comms-net. |
+| Book 4 | Chapter 18 | Key Event | Dr. Aris reveals he has captured a live Blighted—a former member of the Scrapyard—and has it chained in a portable containment field for study. |
+| Book 4 | Chapter 18 | Key Event | Aris demonstrates that the Blighted is reacting to a specific low-frequency hum coming from the walls—the "Song" of the Mother. |
+| Book 4 | Chapter 18 | Moment | **Dr. Aris** — Displays an unsettling clinical detachment, ignoring the creature's pain to measure its pulse. |
+| Book 4 | Chapter 18 | Moment | **Angelica Ward** — Slaps the notebook out of Aris’s hand during his attempt to document the boy’s death as "data." |
+| Book 4 | Chapter 18 | Key Event | Ria nearly kills Aris, but Angelica stops her because Aris is the only one who knows the codes for the Foundation blast doors. |
+| Book 4 | Chapter 19 | Key Event | The survivors surround Aris, demanding he be executed for Pip's death, armed with pipes and stones. |
+| Book 4 | Chapter 19 | Key Event | Angelica steps between the mob and Aris, using her "Command Voice" to stop the immediate violence. |
+| Book 4 | Chapter 19 | Moment | **Angelica Ward** — Argues that while Aris is a "monster," he is a necessary "tool" that they cannot afford to lose if they want to survive. |
+| Book 4 | Chapter 19 | Key Event | Angelica declares Aris "guilty" but suspends the sentence, effectively making him a "prisoner who is useful." |
+| Book 4 | Chapter 19 | Moment | **Angelica Ward** — Threatens to kill Aris personally if he treats another person as a "variable." |
+| Book 4 | Chapter 23 | Key Event | Kaelen collapses from advanced anemia; Aris explains that the **Blood Price** (his shadow-manipulation bond) is consuming his red blood cells. |
+| Book 4 | Chapter 23 | Key Event | Dr. Aris states that Kaelen needs immediate iron or blood to survive, as his body is "cannibalizing its own marrow." |
+| Book 4 | Chapter 25 | Key Event | The group reaches the "Project Noah" blast doors at the bottom of the ship, which Aris identifies as containing the control codes for the ship's ecosystem. |
+| Book 4 | Chapter 25 | Key Event | A massive wave of Blighted converges on their position, tracking their heat signatures down the ventilation shafts; Aris struggles to bypass the Zenith-level biocodes. |
+| Book 4 | Chapter 27 | Key Event | Dr. Aris suggests that they can use the Gene-Bank to "reset" the ship’s biological locks, but it requires a "Pure Sequence" sacrifice to overwrite the Pathogen. |
+| Book 4 | Chapter 32 | Key Event | With the Mother dormant, the group stands in the silent Bi-Core; Aris immediately begins attempting to download the Mother's "evolutionary data." |
+| Book 4 | Chapter 32 | Moment | **Dr. Aris** — Shows no remorse for the near-extinction of the group, focusing only on the "academic treasure." |
+| Book 4 | Chapter 35 | Key Event | Using the deck's telescopes, Aris finds a small, blue dot in the distance—Earth—and realizes it is thousands of years behind them. |
+| Book 4 | Chapter 36 | Moment | **Dr. Aris** — Identifies the signal as a "Vane-Protocol" remnant, meaning Vane's ancestors may have been the ones who quarantined the ship in the first place. |
+| Book 4 | Chapter 37 | Key Event | Dr. Aris decodes the drone’s data-burst, revealing the true coordinates of the ship; they are not in deep space, but in a "Parking Orbit" around a dying sun. |
+| Book 5 | Chapter 07 | Key Event | Dr. Aris explains the "Dark Forest" theory to Angelica, warning her that the galaxy is silent because civilizations hide out of fear of predators. |
+| Book 5 | Chapter 07 | Moment | **Dr. Aris** — Reveals his deep understanding of cosmic survival and his fear that humanity's past signals have already made them prey. |
+| Book 5 | Chapter 07 | Key Event | Aris detects "wake patterns" of ships moving toward the Zenith, confirming that they are likely not alone and are being tracked. |
+| Book 5 | Chapter 11 | Moment | **Dr. Aris** — Fascinated by the "impossible" growth rates and aggressive motility of the vegetation. |
+| Book 5 | Chapter 12 | Moment | **Dr. Aris** — Identifies the source of the distortion as a leaking black hole and explains that they are burning their lives away in "fast time" relative to the outside. |
+| Book 5 | Chapter 14 | Key Event | Dr. Aris is mesmerized by the discovery, seeing it as the "answer" to interstellar travel and the "period at the end of the sentence." |
+| Book 5 | Chapter 14 | Moment | **Dr. Aris** — Becomes obsessed with the data, ignoring the physical danger to observe the event horizon. |
+| Book 5 | Chapter 15 | Key Event | Dr. Aris, driven by his obsession to understand the "ultimate variable," crosses the safety line and crawls toward the singularity's event horizon. |
+| Book 5 | Chapter 15 | Moment | **Dr. Aris** — Chooses knowledge over survival, trading his life for a moment of absolute understanding of the universe's source code. |
+| Book 5 | Chapter 15 | Key Event | Angelica and the rest of the group are forced to watch as Aris unspools at the atomic level, unable to save him due to the immense gravity. |
+| Book 5 | Chapter 16 | Key Event | Aris's proximity destabilizes the singularity's magnetic bottle, causing a massive 5G gravity spike that pins the entire group to the floor and begins dragging them into the abyss. |
+| Book 5 | Chapter 16 | Key Event | Angelica orders the group to leave Aris behind as the mud itself begins to flow into the black hole, forcing a desperate crawl for survival. |
+| Book 5 | Chapter 16 | Moment | **Angelica Ward** — Makes the difficult command to abandon Aris, acknowledging that physics does not negotiate. |
+| Book 5 | Chapter 18 | Key Event | In his final moments of spaghettification, Dr. Aris experiences a "moment of clarity," realizing that the singularity is the engine for the Zenith's Star-Tear Drive. |
+| Book 5 | Chapter 18 | Moment | **Dr. Aris** — Throws his datapad (containing the Zenith's core and his final observations) back to Angelica just before he is absorbed by the black hole. |
+| Book 5 | Chapter 18 | Key Event | Angelica catches the datapad, preserving Aris's final sacrifice and the key to the ship's ultimate weapon. |
+| Book 5 | Chapter 18 | Moment | **Angelica Ward** — Acknowledges Aris's "archival" and resolves that his death will not be in vain. |
+| Book 5 | Chapter 20 | Moment | **Angelica Ward** — Looks back at the closing door, mourning Aris and the lost world of Sector X while clutching his datapad. |

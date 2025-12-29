@@ -24,14 +24,14 @@
 ### Scene 3: The Surprise
 
 - **Key Event:** Angelica makes contact with a shocked Ironwood, identifying herself as "the Cavalry."
-  - _Key Dialog:_ **Angelica Vance:** "This is the Cavalry. You're welcome."
+  - _Key Dialog:_ **Angelica Ward:** "This is the Cavalry. You're welcome."
 
 ---
 
 ### Scene 4: The Chaos
 
 - **Key Event:** Angelica spins the ship with expert precision, mocking the Hunters for their lack of a counter-strategy.
-  - _Key Dialog:_ **Angelica Vance:** "Surprise, bastards. I brought a hammer."
+  - _Key Dialog:_ **Angelica Ward:** "Surprise, bastards. I brought a hammer."
 
 ---
 
@@ -46,3 +46,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

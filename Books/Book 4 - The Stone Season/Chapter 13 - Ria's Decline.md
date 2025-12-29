@@ -30,8 +30,10 @@
 - **Key Event:** Dr. Aris performs the field surgery with a soldering iron and a dirty scalpel while the group guards the room from scavengers.
   - _Character Defining Moment:_ **Ria** — Refuses sedation, wanting to see the "rot" being removed so she remembers the cost.
   - _Key Dialog:_ **Ria:** "No sleep. Watch the work. I want to see what's left when the armor comes off."
-  - _Key Dialog:_ **Angelica Vance:** "You're still Ria. Even without the chrome. Remember that."
+  - _Key Dialog:_ **Angelica Ward:** "You're still Ria. Even without the chrome. Remember that."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

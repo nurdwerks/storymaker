@@ -26,5 +26,7 @@
 ### Scene 4: The Save / Mag-Lev Highway
 
 - **Key Event:** Ria chokes Zephyr and demands Angelica surrender; Angelica chooses to use Aeon to distract Ria and barely saves Zephyr from falling off the roof as they pass through a narrow tunnel.
-  - _Character Defining Moment:_ **Angelica Vance** — She makes a split-second decision to prioritize her teammate's life over defeating her pursuer, proving she still values her allies despite her cold leadership.
+  - _Character Defining Moment:_ **Angelica Ward** — She makes a split-second decision to prioritize her teammate's life over defeating her pursuer, proving she still values her allies despite her cold leadership.
   - _Key Dialog:_ **Ria:** "This isn't over!"
+
+

@@ -19,7 +19,7 @@
 ### Scene 2: The Ships
 
 - **Key Event:** Angelica identifies the incoming vessels as "Hunter Ships"—scavengers and survivors of the _Zenith_ Authority.
-  - _Key Dialog:_ **Angelica Vance:** "We are out of time."
+  - _Key Dialog:_ **Angelica Ward:** "We are out of time."
 
 ---
 
@@ -33,7 +33,7 @@
 ### Scene 4: The Alarm
 
 - **Key Event:** Despite an unstable field at 99% charge, Angelica triggers the emergency alarm for immediate evacuation.
-  - _Key Dialog:_ **Angelica Vance:** "Sound the alarm. Get everyone on board. Now. We leave in one hour, ready or not."
+  - _Key Dialog:_ **Angelica Ward:** "Sound the alarm. Get everyone on board. Now. We leave in one hour, ready or not."
 
 ---
 
@@ -48,3 +48,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

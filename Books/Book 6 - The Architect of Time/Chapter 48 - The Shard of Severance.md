@@ -26,7 +26,7 @@
 ### Scene 3: The Delivery
 
 - **Key Event:** Angelica selects Zephyr, the fleet's best pilot, for a suicide mission to deliver the "bomb" into the enemy flagship's engine room.
-  - _Key Dialog:_ **Angelica Vance:** "Tell Vane he finally gets to change the future. He gets to end it."
+  - _Key Dialog:_ **Angelica Ward:** "Tell Vane he finally gets to change the future. He gets to end it."
 
 ---
 
@@ -35,3 +35,5 @@
 - **Key Event:** Zephyr accepts the mission with grim determination, promising to deliver the message "express shipping."
   - _Character Defining Moment:_ **Zephyr** — He accepts a certain death sentence with fatalistic humor and bravery.
   - _Key Dialog:_ **Zephyr:** "Consider it delivered. ... I'll put it right down their throat."
+
+

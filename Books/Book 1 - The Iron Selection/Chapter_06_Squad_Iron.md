@@ -21,7 +21,7 @@
 
 - **Key Event:** Angelica walks to the podium amid laughter due to her small size. A drone laser-burns a barcode behind her right ear—marking her status as "Expendable."
 
-  - _Character Defining Moment:_ **Angelica Vance** — Touched the tender brand, recognizing her official status.
+  - _Character Defining Moment:_ **Angelica Ward** — Touched the tender brand, recognizing her official status.
 
 - **Key Event:** Angelica surveys Squad Iron: Ria, Jax, and a dozen other thugs who look at her like fresh meat.
 
@@ -33,7 +33,7 @@
 
 - **Key Event:** Angelica claims a top corner bunk and hides her holo of Leo under the pillow—her only piece of soft humanity.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Feels the weight of losing freedom; she was hungry but free in the Undercity—here she is a barcode, inventory.
+  - _Character Defining Moment:_ **Angelica Ward** — Feels the weight of losing freedom; she was hungry but free in the Undercity—here she is a barcode, inventory.
 
 ---
 
@@ -56,9 +56,11 @@
 
 - **Key Event:** At 0600 reveille, Ria grabs the electrified ladder. A blue arc shocks her, throwing her into lockers. Angelica unlaces her boots from Ria's paralyzed feet and reclaims them.
 
-  - _Key Dialog:_ **Angelica Vance:** "The rent was too high. I'm moving out."
+  - _Key Dialog:_ **Angelica Ward:** "The rent was too high. I'm moving out."
   - _Key Dialog:_ **Ria:** "Okay. You have teeth."
 
 - **Key Event:** Angelica establishes herself as dangerous despite her size.
 
-  - _Key Dialog:_ **Angelica Vance:** "You assume I'm prey because I'm quiet. A landmine is quiet until you step on it."
+  - _Key Dialog:_ **Angelica Ward:** "You assume I'm prey because I'm quiet. A landmine is quiet until you step on it."
+
+

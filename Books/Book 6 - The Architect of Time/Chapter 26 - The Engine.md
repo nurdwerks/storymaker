@@ -12,7 +12,7 @@
 ### Scene 1: The Install
 
 - **Key Event:** The hybrid Star-Tear Drive, a mix of _Vanguard_ salvage and Iron Age tools, is hoisted into the ship.
-  - _Key Dialog:_ **Angelica Vance:** "Careful! If you drop it, you crack the planet!"
+  - _Key Dialog:_ **Angelica Ward:** "Careful! If you drop it, you crack the planet!"
 
 ---
 
@@ -27,14 +27,14 @@
 
 - **Key Event:** Angelica and Torin inspect the engine room, which is already radiating intense heat and ozone.
   - _Key Dialog:_ **Torin:** "It feels like a sleeping dragon."
-  - _Key Dialog:_ **Angelica Vance:** "It is. And we just woke it up."
+  - _Key Dialog:_ **Angelica Ward:** "It is. And we just woke it up."
 
 ---
 
 ### Scene 4: The Heart
 
 - **Key Event:** Angelica confirms the magnetic containment is holding and the "heart" is beating.
-  - _Key Dialog:_ **Angelica Vance:** "The heart is beating. Now we just need to feed it. We need the fuel."
+  - _Key Dialog:_ **Angelica Ward:** "The heart is beating. Now we just need to feed it. We need the fuel."
 
 ---
 
@@ -58,3 +58,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

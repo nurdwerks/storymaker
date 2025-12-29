@@ -13,3 +13,5 @@ The Mirror-Maid is a silent servant who carries a full-length mirror behind Lady
 
 - **Event Location:** [Book 3, Chapter 23: The Slaughter](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L1821-1828)
 - **Defining Quote:** "You are cracking the ambiance, darling." (Spoken by Vesper, reveals flaw: SLOTH/ERASURE)
+
+

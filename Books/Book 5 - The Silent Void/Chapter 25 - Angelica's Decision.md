@@ -13,13 +13,15 @@
 
   - _Character Defining Moment:_ **Kaelen Night** — Shows his profound love for Angelica, preferring a doomed physical fight over losing the woman he loves to the machine.
   - _Key Dialog:_ **Kaelen Night:** "I want the woman, not the ship! I want to hold you, not the bulkhead!"
-  - _Key Dialog:_ **Angelica Vance:** "I'll be everywhere. I'll be the walls. I'll be the gravity holding you down."
+  - _Key Dialog:_ **Angelica Ward:** "I'll be everywhere. I'll be the walls. I'll be the gravity holding you down."
 
 - **Key Event:** Angelica shares a final, desperate kiss with Kaelen before reaffirming her decision, stating that she was "bred for the job."
 
-  - _Character Defining Moment:_ **Angelica Vance** — Fully accepts her destiny as the Pilot, choosing the survival of the group over her own individual life.
-  - _Key Dialog:_ **Angelica Vance:** "I have to be the door, Kaelen."
-  - _Key Dialog:_ **Angelica Vance:** "Don't mourn me until I'm dead. Just cover my back."
+  - _Character Defining Moment:_ **Angelica Ward** — Fully accepts her destiny as the Pilot, choosing the survival of the group over her own individual life.
+  - _Key Dialog:_ **Angelica Ward:** "I have to be the door, Kaelen."
+  - _Key Dialog:_ **Angelica Ward:** "Don't mourn me until I'm dead. Just cover my back."
     Riverside
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

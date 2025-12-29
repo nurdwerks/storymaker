@@ -9,6 +9,20 @@
 
 ## Chapter 45: The Reunion
 
+---
+
+### Scene 1: Hatcher's Return
+
+- **Key Event:** The survivors discover Hatcher is alive—found frozen in a Cryo-Storage facility and awakened by the terraforming event. They gather around him, holding his old belongings.
+  - _Character Defining Moment:_ **Hatcher** — Waves off their attempts to return his things, embodying his mortality philosophy.
+  - _Key Dialog:_ **Lisbet:** "We kept your things. The flask. The sax. Everything."
+  - _Key Dialog:_ **Hatcher:** "Keep it. Looks better on you anyway."
+  - _Key Dialog:_ **Lisbet:** "But it's yours—"
+  - _Key Dialog:_ **Hatcher:** "I've been dead before, kid. When you come back, you don't get to reclaim the old life. You build a new one. Those are yours now. Earn them."
+  - _Key Dialog:_ **Hatcher:** "The things I left behind became yours the moment I 'died.' Taking them back would mean pretending death didn't happen. And I don't pretend."
+
+---
+
 ### Scene 1: The Docking
 
 - **Key Event:** Angelica boards the _Zenith_ Wearing her primitive battlefield armor, looking like a "barbarian queen."
@@ -32,8 +46,8 @@
 ### Scene 4: The Difference
 
 - **Key Event:** Angelica mourns the life she lived while her friends were only "blinking."
-  - _Key Dialog:_ **Angelica Vance:** "I lived a lifetime while you blinked. I built a world and watched it burn, and you haven't even had lunch."
-  - _Key Dialog:_ **Angelica Vance:** "Take me to the bridge. We have a war to win."
+  - _Key Dialog:_ **Angelica Ward:** "I lived a lifetime while you blinked. I built a world and watched it burn, and you haven't even had lunch."
+  - _Key Dialog:_ **Angelica Ward:** "Take me to the bridge. We have a war to win."
 
 ---
 

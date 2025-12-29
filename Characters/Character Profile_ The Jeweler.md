@@ -13,3 +13,5 @@ The Jeweler is a master craftsman who is constantly measuring Lady Vesper for ne
 
 - **Event Location:** [Book 3, Chapter 23: The Slaughter](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L1821-1828)
 - **Defining Quote:** (Witnessing his own work destroy her) "The 'improvements' he had made to her bone density were now her undoing." (Reveals flaw: PRIDE)
+
+

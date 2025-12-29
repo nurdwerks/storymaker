@@ -13,13 +13,15 @@
 
   - _Character Defining Moment:_ **Prelate Vane** — Experiences total existential dread and rage, realizing that in a place with no data or matter, his logic and ambition are completely impotent.
   - _Key Dialog:_ **Prelate Vane:** "You idiot! You stranded us! There is no Input/Output! There is nothing to rule!"
-  - _Key Dialog:_ **Angelica Vance:** "Sit down and be quiet. We have a long wait."
+  - _Key Dialog:_ **Angelica Ward:** "Sit down and be quiet. We have a long wait."
 
 - **Key Event:** Angelica uses her superior "Soul energy" to bind Vane in chains of golden light, making him a prisoner in her personal purgatory.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Asserts her dominance over Vane, recognizing that the Bulk responds to will and sacrifice, not cybernetic logic.
-  - _Key Dialog:_ **Angelica Vance:** "No. This is just the waiting room. Get comfortable."
+  - _Character Defining Moment:_ **Angelica Ward** — Asserts her dominance over Vane, recognizing that the Bulk responds to will and sacrifice, not cybernetic logic.
+  - _Key Dialog:_ **Angelica Ward:** "No. This is just the waiting room. Get comfortable."
   - _Key Dialog:_ **Prelate Vane:** "This is hell. You trapped us in hell."
     Riverside
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

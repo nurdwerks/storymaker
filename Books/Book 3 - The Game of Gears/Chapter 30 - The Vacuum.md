@@ -1,27 +1,37 @@
-# Chapter Summary: Chapter 30 - The Vacuum
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
+# Chapter 30: The Vacuum
 
 ---
 
-## Chapter 30: The Vacuum
+### Scene 1: The Breach / Palace Outer Wall
 
-### Scene 1: Into the Void
-
-- **Key Event:** Angelica and her team enter the Spire through the jammed blast doors, navigating thin atmosphere.
-
-### Scene 2: Zero-G Combat
-
-- **Key Event:** The group engages in silent, zero-gravity combat with Praetorians.
-
-### Scene 3: The Hollow Throne
-
-- **Key Event:** The team reaches the Inner Sanctum to find it littered with the bodies of the royal taster and robe keeper; the High Chamberlain is found weeping.
-  - _Key Dialog:_ **The High Chamberlain:** "The face... it flickered. There is no one there. I have bowed to a ghost for fifty years."
-
-### Scene 4: The Seal
-
-- **Key Event:** Angelica hacks a terminal to trigger emergency bulkheads and seal the hull breach in Sector 12, even though it traps the group in the Spire.
-  - _Key Dialog:_ **Angelica Vance:** "Sector sealed."
+- **Key Event:** Ria's forces breach the palace walls. The Praetorian General leads the defense, his gold armor gleaming as he commands the elite guards.
+  - _Character Defining Moment:_ **Praetorian General** — A lifetime of loyalty to the Emperor distilled into one final battle.
+  - _Key Dialog:_ **Praetorian General:** "Hold the line! For the Emperor! For the Zenith!"
 
 ---
+
+### Scene 2: The Duel / Courtyard
+
+- **Key Event:** Ria faces the Praetorian General in single combat. Despite his skill, she overwhelms him with pure ferocity.
+  - _Character Defining Moment:_ **Ria** — Her rage against authority finds its perfect target.
+  - _Key Dialog:_ **Praetorian General:** "You fight without honor."
+  - _Key Dialog:_ **Ria:** "Honor is a luxury. I fight to win."
+
+---
+
+### Scene 3: The Fall / Courtyard
+
+- **Key Event:** The Praetorian General falls. With his death, the palace guard's morale collapses. The way to the throne room opens.
+  - _Key Dialog:_ **Ria:** "Your Emperor is a corpse in a tank. You died for nothing."
+
+---
+
+### Scene 4: The Chamberlain's Revelation / Throne Room Antechamber
+
+- **Key Event:** The High Chamberlain sees the tank shattered, the Emperor's withered body exposed. His faith crumbles in an instant.
+  - _Character Defining Moment:_ **High Chamberlain** — A lifetime of devotion revealed as devotion to a lie.
+  - _Key Dialog:_ **High Chamberlain:** "There is no one there. I have bowed to a ghost for fifty years."
+
+---
+
+_Summarized from Book 3 source material._

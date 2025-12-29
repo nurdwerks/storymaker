@@ -32,7 +32,7 @@
 ### Scene 4: The Dedication
 
 - **Key Event:** Angelica turns her grief into resolve and initiates the launch sequence.
-  - _Key Dialog:_ **Angelica Vance:** "For him. He did it for us. Initiate launch sequence."
+  - _Key Dialog:_ **Angelica Ward:** "For him. He did it for us. Initiate launch sequence."
 
 ---
 
@@ -47,3 +47,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

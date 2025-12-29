@@ -1,46 +1,33 @@
-# Chapter Summary
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
-
-> [!NOTE]
-> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
-
----
-
 ## Chapter 1: The Golden Cage
 
-### Scene 1: The Luxury / The Palace, Sector 1
+### Scene 1: The Palace / Sector 1
 
-- **Key Event:** Angelica Vance wakes up in a luxurious room in the Palace of Sector 1, surrounded by amenities she has never experienced in the Undercity, such as sterile air and spider-silk sheets.
-  - _Character Defining Moment:_ **Angelica Vance** — She rejects the new holographic gowns provided for her, choosing instead to wear her old, mended Undercity jumpsuit to maintain her identity.
-  - _Key Dialog:_ **Angelica:** "We shouldn't be here."
-  - _Key Dialog:_ **Angelica:** "Leo is here. That's the only thing that matters."
-
----
-
-### Scene 2: The Visit / Medical Wing, Sector 1-Alpha
-
-- **Key Event:** Wardens escort Angelica to the Medical Wing, where she finds her brother Leo sedated in a Bacta-Suspension pod under the justification of efficient healing.
-  - _Character Defining Moment:_ **Angelica Vance** — She realizes that Leo is not just a patient but collateral being used by Prelate Vane to ensure her compliance.
-  - _Key Dialog:_ **Doctor:** "Consciousness burns calories. Unconscious bodies can be repaired more efficiently."
-  - _Key Dialog:_ **Angelica:** "I'll get you out. I promise."
+- **Key Event:** Angelica Ward awakens in a luxurious suite in the Imperial Palace, a "guest" of Prelate Vane following her victory in the Iron Selection.
+  - _Character Defining Moment:_ **Angelica Ward** — Despite the gilded surroundings, she immediately searches for exits, weapons, and surveillance devices.
+  - _Key Dialog:_ **Angelica Ward:** "A cage is still a cage, even if the bars are gold."
 
 ---
 
-### Scene 3: The Pull / Central Atrium / Throne Room
+### Scene 2: The Video Call / Palace Suite
 
-- **Key Event:** While passing the Throne Room, Angelica feels a physical "tug" or resonance from the Interface Throne, a massive construct that controls the City's core functions.
-  - _Character Defining Moment:_ **Angelica Vance** — She experiences an involuntary and powerful connection to the Throne, feeling a "song" that vibrates in her bones despite having no official Resonance.
-  - _Key Dialog:_ **Warden:** "Citizen Vance. This area is restricted. Move along."
-
----
-
-### Scene 4: The Shadow / Palace Balcony
-
-- **Key Event:** Prelate Vane observes Angelica from a shadow-shrouded balcony, noting that the Interface Throne responded to her presence with a 300% resonance spike.
-  - _Character Defining Moment:_ **Prelate Vane** — He observes the resonance spike through his Ocular lens and identifies Angelica as the "key" to the Throne, revealing his intent to use her.
-  - _Key Dialog:_ **Prelate Vane:** "The key fits the lock."
+- **Key Event:** A holographic message from Leo Ward appears on the suite's terminal. He looks healthy but uses the "Silt Bow"—three fingers pressed to his chest—a secret signal meaning "I am a prisoner."
+  - _Character Defining Moment:_ **Angelica Ward** — She recognizes the signal instantly, her relief at seeing him alive turning to cold fury.
+  - _Key Dialog:_ **Leo Ward:** "I'm fine, Angie. They're treating me really well. The food is great." _(His eyes flick down to his three fingers)_
+  - _Key Dialog:_ **Angelica Ward (to herself):** "He's telling me to run. Which means I have to stay."
 
 ---
 
-_Copy this template for each chapter. Add or remove scenes and events as needed._
+### Scene 3: The Observation / Throne Room Antechamber
+
+- **Key Event:** Prelate Vane observes Angelica through hidden cameras, noting her behavior and calculating her usefulness as a "Vessel."
+  - _Character Defining Moment:_ **Prelate Vane** — Views Angelica purely as a scientific specimen and political tool, not a person.
+  - _Key Dialog:_ **Prelate Vane:** "She searches for weakness. Good. The strong ones always do. They're easier to break."
+
+---
+
+### Scene 4: The Terms / Palace Dining Hall
+
+- **Key Event:** Vane presents Angelica with her new reality: she will remain as a "guest" while Leo receives medical treatment. Any escape attempt means Leo dies.
+  - _Character Defining Moment:_ **Angelica Ward** — She accepts the terms without flinching, already planning how to turn captivity into advantage.
+  - _Key Dialog:_ **Prelate Vane:** "Your brother's lungs are failing. We can save him. All you need to do is... cooperate."
+  - _Key Dialog:_ **Angelica Ward:** "Define 'cooperate.'"

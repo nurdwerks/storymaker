@@ -15,7 +15,7 @@
 
 - **Key Event:** Magister Vane visits Angelica's cell and explains his "calculus" for purging Sector 12 to ensure the ship's survival.
   - _Key Dialog:_ **Magister Vane:** "If I do not purge Sector 12, the life support fails in six months. Everyone dies... It is not cruelty. It is calculus."
-  - _Character Defining Moment:_ **Angelica Vance** — Rejects Vane's mathematical justification, accusing him of hoarding resources and manufactured scarcity.
+  - _Character Defining Moment:_ **Angelica Ward** — Rejects Vane's mathematical justification, accusing him of hoarding resources and manufactured scarcity.
 
 ### Scene 3: The Socialite's War
 
@@ -26,7 +26,9 @@
 ### Scene 4: The Escape Artist
 
 - **Key Event:** Angelica dislocates her thumb to escape her magnetic mono-filament restraints.
-  - _Character Defining Moment:_ **Angelica Vance** — Demonstrates extreme physical resolve and mechanical thinking to free herself.
-  - _Key Dialog:_ **Angelica Vance:** "Calculus this."
+  - _Character Defining Moment:_ **Angelica Ward** — Demonstrates extreme physical resolve and mechanical thinking to free herself.
+  - _Key Dialog:_ **Angelica Ward:** "Calculus this."
 
 ---
+
+

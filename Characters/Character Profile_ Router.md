@@ -17,3 +17,13 @@ Router is a massive, silent man who carries Lisbet’s server racks. He is the p
   **Quote:** _[Silence]_
 - **Impact on Lisbet:** Lisbet is forced to wipe Router’s localized memory bank to protect the Underground’s secrets, effectively lobotomizing her friend from a distance. This cold, tactical "execution" shatters the Underground’s trust in her leadership.
 - **Impact on Entourage:** The "Pathfinder" is gone. The Underground becomes blind and isolated, forced to use slower, riskier methods of communication that make them even more vulnerable to the Zenith’s surveillance.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 07 | Key Event | Lisbet discovers that the Zenith's surveillance network has been compromised—someone is tracking their communications through her pet AI, Router. |
+| Book 3 | Chapter 07 | Key Event | To save the network and protect the resistance, Lisbet must permanently "wipe" Router—erasing her only friend. |
+| Book 3 | Chapter 07 | Key Event | Router's processes fade. Lisbet sits alone in the dark, mourning in silence. Angelica finds her but says nothing—just sits beside her. |
+| Book 3 | Chapter 07 | Key Event | Lisbet emerges cold and focused. She rebuilds the network without Router, faster and angrier. |
+| Book 3 | Chapter 07 | Moment | **Lisbet** — Grief becomes fuel. She won't let Router's death be meaningless. |

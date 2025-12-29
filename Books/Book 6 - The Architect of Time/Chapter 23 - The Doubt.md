@@ -32,7 +32,7 @@
 ### Scene 4: The Loophole
 
 - **Key Event:** Angelica asserts that while gravity is a law, humans are "lawyers" who find loopholes.
-  - _Key Dialog:_ **Angelica Vance:** "We cheat, Torin. That is what humans do. We cheat the wind. We cheat the dark. We cheat death."
+  - _Key Dialog:_ **Angelica Ward:** "We cheat, Torin. That is what humans do. We cheat the wind. We cheat the dark. We cheat death."
 
 ---
 
@@ -55,3 +55,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

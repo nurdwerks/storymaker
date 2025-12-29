@@ -19,7 +19,7 @@
 ### Scene 2: The Freedom
 
 - **Key Event:** Angelica is allowed to walk freely through the camp and observes the tribe's sophisticated adaptations (water filtration, leather curing, aerodynamics).
-  - _Character Defining Moment:_ **Angelica Vance** — She feels a grudging respect for the tribe's ingenuity in the face of survival.
+  - _Character Defining Moment:_ **Angelica Ward** — She feels a grudging respect for the tribe's ingenuity in the face of survival.
 
 ---
 
@@ -33,8 +33,8 @@
 ### Scene 4: The Title
 
 - **Key Event:** Torin bestows the title of "Wise Woman" upon Angelica, which she accepts as a "shield" for her survival.
-  - _Character Defining Moment:_ **Angelica Vance** — She accepts the burden of the title for strategic reasons but maintains her identity as an engineer.
-  - _Key Dialog:_ **Angelica Vance:** "It's not magic. It's just air pressure. Physics. Biology. But if it gets me a warm bed and better food than raw lizard, I'll take the title. Just... don't start worshipping me. I'm not a goddess. I'm just an engineer who knows how to fix a clogged pipe."
+  - _Character Defining Moment:_ **Angelica Ward** — She accepts the burden of the title for strategic reasons but maintains her identity as an engineer.
+  - _Key Dialog:_ **Angelica Ward:** "It's not magic. It's just air pressure. Physics. Biology. But if it gets me a warm bed and better food than raw lizard, I'll take the title. Just... don't start worshipping me. I'm not a goddess. I'm just an engineer who knows how to fix a clogged pipe."
 
 ---
 
@@ -49,3 +49,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

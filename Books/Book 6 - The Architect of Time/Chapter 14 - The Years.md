@@ -36,7 +36,7 @@
 ### Scene 4: The Truth
 
 - **Key Event:** Angelica reflects on her lost youth and the trade she made for the ship.
-  - _Key Dialog:_ **Angelica Vance:** "Time moves differently when you are building something eternal. I forgot to count the years, Torin. ... I woke up, and my youth was gone. I traded my life for a ship."
+  - _Key Dialog:_ **Angelica Ward:** "Time moves differently when you are building something eternal. I forgot to count the years, Torin. ... I woke up, and my youth was gone. I traded my life for a ship."
 
 ---
 
@@ -51,3 +51,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

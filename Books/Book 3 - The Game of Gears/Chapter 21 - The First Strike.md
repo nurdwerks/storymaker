@@ -13,17 +13,19 @@
 ### Scene 2: Total Blackout
 
 - **Key Event:** Leo cuts power to the entire Zenith, including life support and gravity, to force the backup generators and draw attention.
-  - _Key Dialog:_ **Angelica Vance:** "Panic makes people look up."
+  - _Key Dialog:_ **Angelica Ward:** "Panic makes people look up."
 
 ### Scene 3: The Voice of Truth
 
-- **Key Event:** Angelica broadcasts Captain Vance's video logs across every screen in the ship, revealing the Council's lies.
-  - _Key Dialog:_ **Captain A.R. Vance:** "The mission is a lie..."
+- **Key Event:** Angelica broadcasts Captain Ward's video logs across every screen in the ship, revealing the Council's lies.
+  - _Key Dialog:_ **Captain A.R. Ward:** "The mission is a lie..."
 
 ### Scene 4: The Rally
 
 - **Key Event:** Angelica addresses the ship's citizens directly, urging them to rise up and reclaim the ship.
-  - _Character Defining Moment:_ **Angelica Vance** — Steps fully into her role as the face of the revolution.
-  - _Key Dialog:_ **Angelica Vance:** "The Magister is gone. Rise up."
+  - _Character Defining Moment:_ **Angelica Ward** — Steps fully into her role as the face of the revolution.
+  - _Key Dialog:_ **Angelica Ward:** "The Magister is gone. Rise up."
 
 ---
+
+

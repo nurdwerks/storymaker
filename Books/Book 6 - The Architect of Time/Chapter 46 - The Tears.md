@@ -18,7 +18,7 @@
 ### Scene 2: The Breakdown
 
 - **Key Event:** Angelica has a raw, animalistic breakdown, screaming into her pillow for the life and person she lost.
-  - _Character Defining Moment:_ **Angelica Vance** — She finally lets go of the stoicism that carried her for 20 years.
+  - _Character Defining Moment:_ **Angelica Ward** — She finally lets go of the stoicism that carried her for 20 years.
 
 ---
 
@@ -31,7 +31,7 @@
 ### Scene 4: The Heart
 
 - **Key Event:** Angelica resolves to use her status as a ghost to become dangerous to her enemies.
-  - _Key Dialog:_ **Angelica Vance:** "I left my heart in the Stone Age. ... But ghosts are dangerous. Ghosts have nothing left to lose."
+  - _Key Dialog:_ **Angelica Ward:** "I left my heart in the Stone Age. ... But ghosts are dangerous. Ghosts have nothing left to lose."
 
 ---
 
@@ -46,3 +46,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

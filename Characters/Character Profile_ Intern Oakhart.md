@@ -16,3 +16,9 @@ Intern Oakhart is a young, seemingly friendly assistant who brings Angelica food
 - **The Event:** Absolute Betrayal / Death. Oakhart’s role as a spy is discovered by a rival research group. To protect Aris’s secrets, Oakhart is "discontinued"—his clearance is revoked, and his localized server is purged while he is still connected.
 - **Impact on Dr. Aris:** Aris doesn't mourn the boy. He simply notes the "loss of a valuable information channel" and moves on to the next intern. This cold dismissal is the final proof for the remaining team that they are all expendable variables.
 - **Impact on Entourage:** The "Friendly Face" is gone. The researchers stop trying to "befriend" the subjects and become as cold and transactional as Aris himself, turning the research team into a group of hollow, professional operatives.
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 32 | Key Event | An explosion rocks the engine room. Someone has sabotaged the ship. Intern Oakhart is found dead near the detonation point—framed or guilty, no one can tell. |

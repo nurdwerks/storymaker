@@ -36,8 +36,10 @@
 ### Scene 5: The Close
 
 - **Key Event:** The door slams shut, and Hatcher detonates his grenade belt, creating a blinding flash that seals the transition to the Foundation.
-  - _Key Dialog:_ **Angelica Vance:** "The door closes. The hero stays outside."
+  - _Key Dialog:_ **Angelica Ward:** "The door closes. The hero stays outside."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

@@ -24,7 +24,7 @@
 ### Scene 3: The Wake
 
 - **Key Event:** In her stasis sleep, she whispers a promise to see Torin when she wakes up.
-  - _Key Dialog:_ **Angelica Vance (Murmured):** "Wait for me, Torin. I'll see you when I wake up."
+  - _Key Dialog:_ **Angelica Ward (Murmured):** "Wait for me, Torin. I'll see you when I wake up."
 
 ---
 
@@ -39,3 +39,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

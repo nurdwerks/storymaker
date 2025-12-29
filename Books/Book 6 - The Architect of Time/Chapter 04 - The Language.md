@@ -33,8 +33,8 @@
 ### Scene 4: The Conclusion
 
 - **Key Event:** Angelica successfully communicates with a guard using the word "Wota" (water).
-  - _Character Defining Moment:_ **Angelica Vance** — Her engineer's arrogance returns as she feels she has "hacked the system" of language.
-  - _Key Dialog:_ **Angelica Vance:** "Language is just code with bad syntax. I can crack this. I just need more data. And if I can talk to them, I can manipulate them. And if I can manipulate them, I can get out of this cage and find a way home."
+  - _Character Defining Moment:_ **Angelica Ward** — Her engineer's arrogance returns as she feels she has "hacked the system" of language.
+  - _Key Dialog:_ **Angelica Ward:** "Language is just code with bad syntax. I can crack this. I just need more data. And if I can talk to them, I can manipulate them. And if I can manipulate them, I can get out of this cage and find a way home."
 
 ---
 
@@ -49,3 +49,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

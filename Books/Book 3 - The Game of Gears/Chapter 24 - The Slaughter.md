@@ -9,7 +9,7 @@
 ### Scene 1: The Kill Box
 
 - **Key Event:** The dinner parley turns into a direct conflict; several nobles are casualties while Silas and Angelica fight the cyborg attackers.
-  - _Key Dialog:_ **Angelica Vance:** "Aim for the joints!"
+  - _Key Dialog:_ **Angelica Ward:** "Aim for the joints!"
   - _Character Defining Moment:_ **Lady Vesper** — Her physical fragility is exposed when she breaks her leg from a simple fall.
 
 ### Scene 2: The Blockade
@@ -28,3 +28,5 @@
 - **Key Event:** The remaining team members retreat through the kitchen into the waste disposal vents as the cyborgs close in.
 
 ---
+
+

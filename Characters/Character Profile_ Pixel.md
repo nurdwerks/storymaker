@@ -17,3 +17,10 @@ Pixel is a young girl who works as a "runner" for data chips in the Underground.
   **Quote:** _"It's just hardware."_
 - **Impact on Lisbet:** Lisbet offers to replace the eye with a standard Zenith surveillance model, but Pixel refuses, realizing that she has become a "vessel" for the very system she fought. Pixel’s cynicism turns into a quiet, suicidal despair.
 - **Impact on Entourage:** The "Laughter" stops. The Underground loses its artistic voice, turning from a vibrant community of rebels into a cold, transactional network of hackers who no longer care about the "message."
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 08 | Key Event | Lisbet’s young runner, Pixel, delivers the decryption key for Solon’s chip despite being brutally attacked by a gang that stole her cybernetic eye. |
+| Book 2 | Chapter 08 | Moment | **Lisbet** — She is deeply shaken and vengeful after Pixel’s injury, showing a protective, human side beneath her glitchy exterior. |

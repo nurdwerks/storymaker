@@ -20,8 +20,8 @@
 ### Scene 3: The Intervention
 
 - **Key Event:** Angelica stops Kaelen, not with an order, but with a plea to find a "New Purpose" in the light.
-  - _Character Defining Moment:_ **Angelica Vance** — Shows Kaelen that he isn't just a weapon or a shadow, but a person with a life worth living beyond the war.
-  - _Key Dialog:_ **Angelica Vance:** "I didn't give you my blood so you could waste it on a machine. You're coming with me. Into the light. As a man, not a mask."
+  - _Character Defining Moment:_ **Angelica Ward** — Shows Kaelen that he isn't just a weapon or a shadow, but a person with a life worth living beyond the war.
+  - _Key Dialog:_ **Angelica Ward:** "I didn't give you my blood so you could waste it on a machine. You're coming with me. Into the light. As a man, not a mask."
 
 ---
 
@@ -35,3 +35,5 @@
 ---
 
 _Summarized from Book 4 source material._
+
+

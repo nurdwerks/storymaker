@@ -19,14 +19,14 @@
 ### Scene 2: The Feast
 
 - **Key Event:** Ragnar declares a feast to celebrate the "Raising of the Spine."
-  - _Character Defining Moment:_ **Angelica Vance** — She finds a sense of belonging in the tribe's raw joy, which contrasts with the formal celebrations of the Zenith.
+  - _Character Defining Moment:_ **Angelica Ward** — She finds a sense of belonging in the tribe's raw joy, which contrasts with the formal celebrations of the Zenith.
 
 ---
 
 ### Scene 3: The Toast
 
 - **Key Event:** Torin toasts the "Metal Whale," and Angelica realizes she is building a civilization, not just a ship.
-  - _Key Dialog:_ **Angelica Vance:** "Every cathedral starts with one stone. This is ours. This is the foundation of the future. We build up from here. Brick by brick. Plate by plate. Until we touch the sky."
+  - _Key Dialog:_ **Angelica Ward:** "Every cathedral starts with one stone. This is ours. This is the foundation of the future. We build up from here. Brick by brick. Plate by plate. Until we touch the sky."
 
 ---
 
@@ -49,3 +49,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

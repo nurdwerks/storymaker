@@ -15,7 +15,7 @@
 
 - **Key Event:** Angelica is pushed into a decontamination pod. When she tries to hide Aeon, a robotic arm reaches for him. She screams and tries to bite the arm. Sedative gas knocks her unconscious.
 
-  - _Key Dialog:_ **Angelica Vance:** "Don't touch him!"
+  - _Key Dialog:_ **Angelica Ward:** "Don't touch him!"
 
 ---
 
@@ -23,13 +23,13 @@
 
 - **Key Event:** Angelica is thrown into Headmaster Vane's glass office in a grey jumpsuit. Kaelen (pristine black uniform) and Ria (gleaming chrome polish) are already there.
 
-  - _Key Dialog:_ **Angelica Vance:** "Where is Aeon?"
+  - _Key Dialog:_ **Angelica Ward:** "Where is Aeon?"
   - _Key Dialog:_ **Headmaster Vane:** "The toy is being analyzed. It is harmless. You, however... are not."
 
 - **Key Event:** Vane reveals he watched her broadcast. The ratings were the highest in Zenith history.
 
-  - _Key Dialog:_ **Angelica Vance:** "It... it was still a show?"
-  - _Key Dialog:_ **Headmaster Vane:** "Everything is a show, Miss Vance. The struggle. The defiance. The hope. It's all part of the narrative. The Highborns love a rebel... especially one they own."
+  - _Key Dialog:_ **Angelica Ward:** "It... it was still a show?"
+  - _Key Dialog:_ **Headmaster Vane:** "Everything is a show, Miss Ward. The struggle. The defiance. The hope. It's all part of the narrative. The Highborns love a rebel... especially one they own."
 
 ---
 
@@ -63,6 +63,8 @@
 
   - _Key Dialog:_ **Kaelen Night:** "What now?"
   - _Key Dialog:_ **Ria:** "We rest?"
-  - _Key Dialog:_ **Angelica Vance:** "No. We survived the game. Now... we break the board."
+  - _Key Dialog:_ **Angelica Ward:** "No. We survived the game. Now... we break the board."
 
 (End of Book 1)
+
+

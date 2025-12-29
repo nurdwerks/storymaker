@@ -30,9 +30,11 @@
 ### Scene 4: The Join
 
 - **Key Event:** Faced with abandonment, Corinne agrees to follow the group, carrying part of their equipment to earn her share of water.
-  - _Character Defining Moment:_ **Angelica Vance** — Shows a cold kind of mercy, giving Corinne a heavy bag to carry instead of leaving her to die.
-  - _Key Dialog:_ **Angelica Vance:** "You want a future? Carry the batteries. That's your ticket. No work, no walk."
+  - _Character Defining Moment:_ **Angelica Ward** — Shows a cold kind of mercy, giving Corinne a heavy bag to carry instead of leaving her to die.
+  - _Key Dialog:_ **Angelica Ward:** "You want a future? Carry the batteries. That's your ticket. No work, no walk."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

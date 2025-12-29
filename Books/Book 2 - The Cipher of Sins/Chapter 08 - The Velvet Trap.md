@@ -10,7 +10,7 @@
 ### Scene 2: The Cipher / Safehouse, "The Rusty Gear"
 
 - **Key Event:** Angelica and Lisbet use the key to unlock the data-chip, which reveals a 3D star chart and a schematic of the Zenith that points to the Museum of Pre-History.
-  - _Character Defining Moment:_ **Angelica Vance** — Her ability to recognize order in the seemingly random "aesthetic" encryption highlights her analytical intelligence and unique heritage.
+  - _Character Defining Moment:_ **Angelica Ward** — Her ability to recognize order in the seemingly random "aesthetic" encryption highlights her analytical intelligence and unique heritage.
 
 ---
 
@@ -25,4 +25,6 @@
 ### Scene 4: The Preparation / Safehouse
 
 - **Key Event:** The group prepares for the heist; Angelica rebuilds her Haptic Glove into "Shock-Knuckles" while Lisbet identifies a Class-7 Synth-Guardian, "The Custodian," as the main obstacle.
-  - _Character Defining Moment:_ **Angelica Vance** — Her skill as a scavenger and engineer is proven as she upgrades her weapons using only salvaged parts and scraps.
+  - _Character Defining Moment:_ **Angelica Ward** — Her skill as a scavenger and engineer is proven as she upgrades her weapons using only salvaged parts and scraps.
+
+

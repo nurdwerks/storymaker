@@ -32,8 +32,10 @@
 - **Key Event:** Corinne breaks down and returns the headset, finally choosing the group over her past ambitions.
   - _Character Defining Moment:_ **Lady Corinne** — Admits her vanity and makes a vow to "earn her keep" in the new world.
   - _Key Dialog:_ **Corinne:** "I’m not a Queen. I’m just... Corinne. And I’m cold. Let’s finish this."
-  - _Key Dialog_ **Angelica Vance:** "Good choice, Silver. Now help me hold the line."
+  - _Key Dialog_ **Angelica Ward:** "Good choice, Silver. Now help me hold the line."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

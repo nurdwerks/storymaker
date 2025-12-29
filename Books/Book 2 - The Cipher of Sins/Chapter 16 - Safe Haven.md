@@ -23,6 +23,9 @@
   - _Character Defining Moment:_ **Joyce** — Introduced as a master of domestic camouflage whose grandmotherly appearance hides a lifetime of expertise in violence and espionage.
   - _Key Dialog:_ **Joyce:** "Television always did add ten pounds of menace."
   - _Key Dialog:_ **Joyce:** "I just scrubbed the blood and grime out of this rug last Tuesday, and I’m not in the mood to do it again so soon."
+  - **Key Event:** Joyce pauses, momentarily forgetting where she keeps the antiseptic. Hatcher notices the "hollow" silence—a symptom of her Bond eating a memory—and steps in.
+  - _Key Dialog:_ **Hatcher:** "Top shelf, left cabinet. Behind the chamomile. right?"
+  - _Key Dialog:_ **Joyce (smiling):** "Right where I left it. You always were observant, Detective."
 
 ---
 

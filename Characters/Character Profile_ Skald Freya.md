@@ -19,3 +19,11 @@ Skald Freya is the storyteller who sings the songs of Ragnar’s deeds. She is t
 
 **Event Location:** Book 6, Chapter 15
 **Defining Quote:** _"A singer without a voice is a bird with no wings. She is useless to me now."_ — Ragnar
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 15 | Key Event | Skald Freya, the tribe's singer and oral historian, is captured and tortured by Hunter scouts. |
+| Book 6 | Chapter 15 | Key Event | The Hunters cut out Freya's tongue to destroy the tribe's "voice." |
+| Book 6 | Chapter 15 | Key Event | Ragnar rescues Freya but abandons her emotionally when he realizes she can no longer sing. |

@@ -9,7 +9,7 @@
 ### Scene 1: The Salon
 
 - **Key Event:** Angelica attends High Tea in the Solarium with Corinne, struggling to navigate the complex social etiquette of the Zenith.
-  - _Character Defining Moment:_ **Angelica Vance** — Focuses on the structural instability of the room rather than the social grace required.
+  - _Character Defining Moment:_ **Angelica Ward** — Focuses on the structural instability of the room rather than the social grace required.
   - _Key Dialog:_ **Lady Corinne:** "Drink your tea. And try to look like you aren't calculating the velocity of our death. It makes the other ladies nervous."
 
 ### Scene 2: The Shark
@@ -25,8 +25,10 @@
 ### Scene 4: The Realization
 
 - **Key Event:** Angelica reflects on the difference between the brutal honesty of the Undercity and the hidden lethality of Zenith etiquette.
-  - _Character Defining Moment:_ **Angelica Vance** — Rejects the delicate social game and asserts her identity as a mechanic.
+  - _Character Defining Moment:_ **Angelica Ward** — Rejects the delicate social game and asserts her identity as a mechanic.
   - _Key Dialog:_ **Lady Corinne:** "Knives leave scars on the skin. Those heal. Etiquette leaves scars on the soul. The wounds are much deeper. They bleed forever."
-  - _Key Dialog:_ **Angelica Vance:** "I need a wrench."
+  - _Key Dialog:_ **Angelica Ward:** "I need a wrench."
 
 ---
+
+

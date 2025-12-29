@@ -11,7 +11,7 @@
 
 - **Key Event:** The overloaded singularity collapses and then explodes into a "white hole," releasing a massive energy wave that shatters the bio-dome's glass ceiling and exposes the sector to vacuum.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Instinctively coordinates the group's positioning to avoid the initial blast, showing her growing command over chaotic situations.
+  - _Character Defining Moment:_ **Angelica Ward** — Instinctively coordinates the group's positioning to avoid the initial blast, showing her growing command over chaotic situations.
   - _Key Dialog:_ **AI:** "Hull integrity compromised. Atmospheric venting in progress. Seal bulkheads."
   - _Key Dialog:_ **Hatcher:** "The sky is breaking! Run for the airlock!"
 
@@ -23,3 +23,5 @@
     Riverside
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

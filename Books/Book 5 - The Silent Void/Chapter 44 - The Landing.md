@@ -11,12 +11,14 @@
 
 - **Key Event:** Angelica crashes through the canopy and slams into the mud, waking up in intense pain but relishing the sensation of Being alive and having a physical body again.
 
-  - _Character Defining Moment:_ **Angelica Vance** — Sobs with relief as she touches her own bruises, delighting in the "sharp sting" of physical reality and the smell of real rain.
-  - _Key Dialog:_ **Angelica Vance:** "I survived. I beat the math."
-  - _Key Dialog:_ **Angelica Vance:** "It smells of pine... and life."
+  - _Character Defining Moment:_ **Angelica Ward** — Sobs with relief as she touches her own bruises, delighting in the "sharp sting" of physical reality and the smell of real rain.
+  - _Key Dialog:_ **Angelica Ward:** "I survived. I beat the math."
+  - _Key Dialog:_ **Angelica Ward:** "It smells of pine... and life."
 
 - **Key Event:** Angelica discovers that the Rift has reconstituted her form, and she is now a flesh-and-blood human once more, albeit alone on a prehistoric Earth.
 
-  - _Key Dialog:_ **Angelica Vance:** "Dirt. I missed dirt."
+  - _Key Dialog:_ **Angelica Ward:** "Dirt. I missed dirt."
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

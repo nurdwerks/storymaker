@@ -13,3 +13,9 @@ Mister Sterling is Baron Gilded's personal appraiser and accountant. Equipped wi
 
 - **Event Location:** [Book 3, Chapter 10: The Gala of Ghosts](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L838-854)
 - **Defining Quote:** "A man is only as valuable as the numbers he produces. You, Sterling, have become a negative asset." (Reveals flaw: GREED)
+
+## Consistency Check
+
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 13 | Key Event | High Chamberlain's auditor, Mister Sterling, arrives at the Night estate with Zenith Wardens to seize it due to unpaid loans. |

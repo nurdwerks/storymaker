@@ -31,8 +31,10 @@
 - **Key Event:** Angelica saves Joyce from Ratched and drags her into the cold tunnels as the "Gentle Rest" burns down.
   - _Character Defining Moment:_ **Joyce** — Is left emotionally empty and broken, realizing her sanctuary was a lie.
   - _Key Dialog:_ **Joyce:** "I just wanted to knit. I just wanted to be normal."
-  - _Key Dialog:_ **Angelica Vance:** "The illusion was ash. You're awake now."
+  - _Key Dialog:_ **Angelica Ward:** "The illusion was ash. You're awake now."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

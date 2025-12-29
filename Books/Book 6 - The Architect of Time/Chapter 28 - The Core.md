@@ -33,7 +33,7 @@
 ### Scene 4: The Power
 
 - **Key Event:** Angelica watches the charge meter rise, comparing their theft of geothermal energy to Prometheus stealing fire.
-  - _Key Dialog:_ **Angelica Vance:** "Fire from the earth to reach the sky. ... We are stealing fire from the gods, Torin. And we are going to use it to leave them behind."
+  - _Key Dialog:_ **Angelica Ward:** "Fire from the earth to reach the sky. ... We are stealing fire from the gods, Torin. And we are going to use it to leave them behind."
 
 ---
 
@@ -48,3 +48,5 @@
 ---
 
 _Copy this template for each chapter. Add or remove scenes and events as needed._
+
+

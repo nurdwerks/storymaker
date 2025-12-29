@@ -19,6 +19,8 @@
 
   - _Character Defining Moment:_ **Kaelen Night** — Pushes his physical and magical limits, bleeding heavily from his palm but refusing to let a single Hunter reach the throne.
   - _Key Dialog:_ **Kaelen Night:** "You fly. We fight. None shall pass."
-  - _Key Dialog:_ **Angelica Vance:** (Sweating, eyes closed, silent in the interface)
+  - _Key Dialog:_ **Angelica Ward:** (Sweating, eyes closed, silent in the interface)
 
 _Copy this template for each scene. Add or remove scenes and events as needed._
+
+

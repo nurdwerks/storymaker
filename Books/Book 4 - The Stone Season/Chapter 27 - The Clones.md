@@ -13,8 +13,8 @@
 ### Scene 2: The Malfunction
 
 - **Key Event:** One of the tanks malfunctions, releasing a "failed clone"—a twisted, mindless version of Angelica that attacks the group.
-  - _Character Defining Moment:_ **Angelica Vance** — Is forced to kill a version of "herself," literalizing her internal struggle to destroy her past.
-  - _Key Dialog:_ **Angelica Vance:** "It has my eyes. It has my eyes!"
+  - _Character Defining Moment:_ **Angelica Ward** — Is forced to kill a version of "herself," literalizing her internal struggle to destroy her past.
+  - _Key Dialog:_ **Angelica Ward:** "It has my eyes. It has my eyes!"
   - _Key Dialog:_ **Ria:** "Close them, then. Pull the trigger."
 
 ---
@@ -29,11 +29,13 @@
 ### Scene 4: The Defiance
 
 - **Key Event:** Angelica refuses to sacrifice herself to "save a ghost ship," choosing instead to use the data to find a way to kill the Pathogen once and for all.
-  - _Character Defining Moment:_ **Angelica Vance** — Rejects her "destiny" as a sacrifice, choosing her individual agency over her programmed purpose.
-  - _Key Dialog:_ **Angelica Vance:** "I am not a battery for your machine. I am a person. We find another way."
+  - _Character Defining Moment:_ **Angelica Ward** — Rejects her "destiny" as a sacrifice, choosing her individual agency over her programmed purpose.
+  - _Key Dialog:_ **Angelica Ward:** "I am not a battery for your machine. I am a person. We find another way."
   - _Key Dialog:_ **Dr. Aris:** "The math doesn't allow for another way. You are a variable in a larger equation."
-  - _Key Dialog:_ **Angelica Vance:** "Then I'll change the math."
+  - _Key Dialog:_ **Angelica Ward:** "Then I'll change the math."
 
 ---
 
 _Summarized from Book 4 source material._
+
+

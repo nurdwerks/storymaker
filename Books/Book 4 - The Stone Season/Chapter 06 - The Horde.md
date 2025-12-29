@@ -22,7 +22,7 @@
 - **Key Event:** Ria holds the choke point at the hub entrance, using a scavenged heavy-industrial welder as a field-expedient weapon to incinerate the lead Blighted.
   - _Character Defining Moment:_ **Ria** — Displays no fear, viewing the battle as a purely mechanical problem of "flow control."
   - _Key Dialog:_ **Ria:** "Too many variables. I need to thin the herd. Cover the left vent."
-  - _Key Dialog:_ **Angelica Vance:** "Ria! They're flanking us!"
+  - _Key Dialog:_ **Angelica Ward:** "Ria! They're flanking us!"
   - _Key Dialog:_ **Ria:** "Let them. I have more fuel than they have skin."
 
 ---
@@ -30,11 +30,13 @@
 ### Scene 4: The Escape
 
 - **Key Event:** The group escapes into a secondary maintenance tunnel, sealing the hub behind them, though they hear the Blighted beginning to tear through the steel door.
-  - _Character Defining Moment:_ **Angelica Vance** — Forces the group to leave behind a crate of medical supplies to move faster, choosing survival over comfort.
-  - _Key Dialog:_ **Angelica Vance:** "Drop the meds. We can't use them if we're dead. Move!"
+  - _Character Defining Moment:_ **Angelica Ward** — Forces the group to leave behind a crate of medical supplies to move faster, choosing survival over comfort.
+  - _Key Dialog:_ **Angelica Ward:** "Drop the meds. We can't use them if we're dead. Move!"
   - _Key Dialog:_ **Kaelen Night:** "We might need those."
-  - _Key Dialog:_ **Angelica Vance:** "We need speed more. That's a command."
+  - _Key Dialog:_ **Angelica Ward:** "We need speed more. That's a command."
 
 ---
 
 _Summarized from Book 4 source material._
+
+
