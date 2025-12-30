@@ -186,28 +186,32 @@ Ironwood’s circle is forged in fire. It is a brotherhood of soldiers who have 
 
 ## Consistency Check
 
-| Book | Chapter | Type | Event Description |
-|---|---|---|---|
-| Book 3 | Chapter 27 | Key Event | General Ironwood orders Protocol Omega (releasing Helium-3) to clear Sector 4, but Major Steel warns the sector instead. |
-| Book 3 | Chapter 27 | Moment | **Sergeant "Brick" Wall** — Sacrifices his life to protect General Ironwood during a breach of the war room. |
-| Book 5 | Chapter 03 | Key Event | General Ironwood and Hatcher clash over the ship's survival strategy, with Ironwood demanding a defensive military posture while Hatcher advocates for stealth. |
-| Book 5 | Chapter 03 | Moment | **General Ironwood** — Shows his militant nature and preference for "dominance" over what he considers the "cowardice" of hiding. |
-| Book 5 | Chapter 05 | Key Event | General Ironwood attempts a mutiny on the bridge, threatening Angelica with a gun to force her to authorize firing the ship's batteries at a detected probe. |
-| Book 5 | Chapter 05 | Moment | **General Ironwood** — Shows his obsession with military action and his disregard for Angelica's leadership, calling her a "child hiding under the bed." |
-| Book 5 | Chapter 05 | Key Event | Angelica uses the "Imperial Voice" to assert her authority, forcing Ironwood and his enhanced soldiers to stand down. |
-| Book 5 | Chapter 08 | Key Event | The crew is divided over whether to follow the map to Sanctuary, with Ironwood convinced it's their birthright and Kaelen warning it's a lure. |
-| Book 5 | Chapter 08 | Moment | **General Ironwood** — Displays religious-like fervor for the "Founders" and the idea of reclaiming Earth 2.0. |
-| Book 5 | Chapter 09 | Key Event | The survivors hold a vote on whether to answer the signal, and although the majority votes "No" to favor safety, Ironwood's lieutenant broadcasts the signal anyway, committing the ship. |
-| Book 5 | Chapter 09 | Moment | **Angelica Ward** — Insists on a democratic process to maintain unity, but is ultimately undermined by Ironwood's treason. |
-| Book 5 | Chapter 10 | Moment | **General Ironwood** — Is energized by the arrival of the enemy, finally having the war he wanted, despite the catastrophic odds. |
-| Book 5 | Chapter 11 | Moment | **General Ironwood** — Proposes burning the jungle to create "kill boxes," which is immediately rejected by Hatcher because the plants provide oxygen. |
-| Book 5 | Chapter 16 | Moment | **General Ironwood** — Refuses to die on his knees, fighting the 5G pressure with sheer will and mechanical strength to crawl backward. |
-| Book 5 | Chapter 21 | Moment | **General Ironwood** — Experiences a moment of genuine awe and despair, realizing the scale of the threat and the obsolescence of human technology. |
-| Book 5 | Chapter 22 | Key Event | Ironwood launches the ship's remaining fighter drones in a desperate diversionary attack, only to see them annihilated in seconds by the Hunter fleet's superior speed and weaponry. |
-| Book 5 | Chapter 22 | Moment | **General Ironwood** — Acknowledges the end of his era of warfare and reluctantly yields command to Angelica's "other options." |
-| Book 5 | Chapter 24 | Moment | **General Ironwood** — Volunteers to take the throne instead, but is rejected by Vane because he lacks the "imagination" and "resonance" of the Sangreal. |
-| Book 5 | Chapter 28 | Moment | **General Ironwood** — Watches the tactical display in awe as Angelica's reaction time drops to zero, outperforming any computer or human pilot. |
-| Book 5 | Chapter 33 | Moment | **General Ironwood** — Leads a desperate defense with his remaining soldiers, but is forced to witness the total inefficiency of standard firearms against the Hunter carapaces. |
-| Book 6 | Chapter 42 | Key Event | The heavy, ironwood-reinforced _Aeterna_ rams the Alien Mothership, acting as a kinetic bullet. |
-| Book 6 | Chapter 42 | Key Event | Angelica makes contact with a shocked Ironwood, identifying herself as "the Cavalry." |
-| Book 6 | Chapter 43 | Key Event | Ironwood realizes the ship's pilot is an aged version of Angelica. |
+| Book   | Chapter    | Type                 | Event Description                                                                                                                                                                         |
+| ------ | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Book 3 | Chapter 27 | Key Event            | General Ironwood orders Protocol Omega (releasing Helium-3) to clear Sector 4, but Major Steel warns the sector instead.                                                                  |
+| Book 3 | Chapter 27 | Moment               | **Sergeant "Brick" Wall** — Sacrifices his life to protect General Ironwood during a breach of the war room.                                                                              |
+| Book 4 | Chapter 11 | Key Event            | Rookie, a young soldier from Ironwood's guard, joins the group, indicating Ironwood's faction is nearby.                                                                                  |
+| Book 4 | Chapter 33 | Key Event            | Ironwood and Kaelen attempt to turn the manual release wheel of the Hatch, but it is frozen shut.                                                                                         |
+| Book 4 | Chapter 33 | Key Event            | Ironwood and Kaelen use Ria (and her overload) to break the seal of the Hatch.                                                                                                            |
+| Book 4 | Chapter 33 | Detailed Description | **Ironwood** — His servos whine in protest as he throws his full weight against the wheel; later, he catches the limb Ria.                                                                |
+| Book 5 | Chapter 03 | Key Event            | General Ironwood and Hatcher clash over the ship's survival strategy, with Ironwood demanding a defensive military posture while Hatcher advocates for stealth.                           |
+| Book 5 | Chapter 03 | Moment               | **General Ironwood** — Shows his militant nature and preference for "dominance" over what he considers the "cowardice" of hiding.                                                         |
+| Book 5 | Chapter 05 | Key Event            | General Ironwood attempts a mutiny on the bridge, threatening Angelica with a gun to force her to authorize firing the ship's batteries at a detected probe.                              |
+| Book 5 | Chapter 05 | Moment               | **General Ironwood** — Shows his obsession with military action and his disregard for Angelica's leadership, calling her a "child hiding under the bed."                                  |
+| Book 5 | Chapter 05 | Key Event            | Angelica uses the "Imperial Voice" to assert her authority, forcing Ironwood and his enhanced soldiers to stand down.                                                                     |
+| Book 5 | Chapter 08 | Key Event            | The crew is divided over whether to follow the map to Sanctuary, with Ironwood convinced it's their birthright and Kaelen warning it's a lure.                                            |
+| Book 5 | Chapter 08 | Moment               | **General Ironwood** — Displays religious-like fervor for the "Founders" and the idea of reclaiming Earth 2.0.                                                                            |
+| Book 5 | Chapter 09 | Key Event            | The survivors hold a vote on whether to answer the signal, and although the majority votes "No" to favor safety, Ironwood's lieutenant broadcasts the signal anyway, committing the ship. |
+| Book 5 | Chapter 09 | Moment               | **Angelica Ward** — Insists on a democratic process to maintain unity, but is ultimately undermined by Ironwood's treason.                                                                |
+| Book 5 | Chapter 10 | Moment               | **General Ironwood** — Is energized by the arrival of the enemy, finally having the war he wanted, despite the catastrophic odds.                                                         |
+| Book 5 | Chapter 11 | Moment               | **General Ironwood** — Proposes burning the jungle to create "kill boxes," which is immediately rejected by Hatcher because the plants provide oxygen.                                    |
+| Book 5 | Chapter 16 | Moment               | **General Ironwood** — Refuses to die on his knees, fighting the 5G pressure with sheer will and mechanical strength to crawl backward.                                                   |
+| Book 5 | Chapter 21 | Moment               | **General Ironwood** — Experiences a moment of genuine awe and despair, realizing the scale of the threat and the obsolescence of human technology.                                       |
+| Book 5 | Chapter 22 | Key Event            | Ironwood launches the ship's remaining fighter drones in a desperate diversionary attack, only to see them annihilated in seconds by the Hunter fleet's superior speed and weaponry.      |
+| Book 5 | Chapter 22 | Moment               | **General Ironwood** — Acknowledges the end of his era of warfare and reluctantly yields command to Angelica's "other options."                                                           |
+| Book 5 | Chapter 24 | Moment               | **General Ironwood** — Volunteers to take the throne instead, but is rejected by Vane because he lacks the "imagination" and "resonance" of the Sangreal.                                 |
+| Book 5 | Chapter 28 | Moment               | **General Ironwood** — Watches the tactical display in awe as Angelica's reaction time drops to zero, outperforming any computer or human pilot.                                          |
+| Book 5 | Chapter 33 | Moment               | **General Ironwood** — Leads a desperate defense with his remaining soldiers, but is forced to witness the total inefficiency of standard firearms against the Hunter carapaces.          |
+| Book 6 | Chapter 42 | Key Event            | The heavy, ironwood-reinforced _Aeterna_ rams the Alien Mothership, acting as a kinetic bullet.                                                                                           |
+| Book 6 | Chapter 42 | Key Event            | Angelica makes contact with a shocked Ironwood, identifying herself as "the Cavalry."                                                                                                     |
+| Book 6 | Chapter 43 | Key Event            | Ironwood realizes the ship's pilot is an aged version of Angelica.                                                                                                                        |

@@ -112,27 +112,7 @@ Cromwell’s magic is not about force; it is about **Record** and **Binding**.
 
 - **The Obsidian Banquet:** Cromwell is present at the banquet. He sits quietly, eating soup while the massacre happens. He does not flinch when Leo dies. He simply checks a name off in his book. This absolute lack of reaction horrifies **Kaelen** more than Grey’s violence.
 
-### Book 4: The Stone Season — **_The Irrelevant Man_**
-
-- **State:** The Dome cracks. The Palace collapses. The bureaucracy ends in a nanosecond.
-
-- **The Fall:** Cromwell survives the initial collapse by sealing himself in the Royal Bunker. He has food, water, and air.
-
-- **The Breakdown:** He sits in the bunker with his Ledger. He tries to issue orders to the automated systems, but the antennas are broken. He writes "Restore Power" in the book, but nothing happens. His magic relies on the _System_. Without the System, he is just a mute man with a book.
-
-- **The Madness:** He continues to hold meetings with empty chairs. He drafts treaties with the Virals. He maintains the "Order" of a kingdom of one.
-
-### Book 5: The Silent Void — **_The Ghost in the Bunker_**
-
-- **State:** **Zephyr** and **Ria** find the bunker while scavenging for tech. They crack the seal.
-
-- **The Scene:** They find Cromwell. He is skeletal, surrounded by stacks of paper filled with frantic scribbles.
-
-- **The Interaction:** Cromwell tries to "order" them to arrest **Angelica**. He holds up his Ledger.
-
-- **The End:** Ria laughs. "Your ink is dry, old man." She doesn't kill him. She just takes the batteries from his life-support unit to power her arm. They leave him in the dark.
-
-- **The Death:** Cromwell dies not from violence, but from irrelevance. He dies trying to file a complaint form against the apocalypse.
+- **The Death:** In the final confrontation at the Ship's Core, Cromwell attempts to detonate the AI to maintain "Order." **Kaelen** shoots him. Cromwell dies not in a grand battle, but while trying to file a bureaucratic grievance against his own murder. His death marks the end of the "Old Order."
 
 ## VII. Relational Deep Dives
 
@@ -176,8 +156,6 @@ Cromwell’s magic is not about force; it is about **Record** and **Binding**.
 
 - _(Internal Monologue during the Obsidian Banquet)_: _"Messy. Very messy. The carpet will have to be replaced. I’ll need to allocate funds from the Education budget."_
 
-- _"I am the anchor! You cannot sail without me!"_ (To Ria, as she leaves him in the dark).
-
 ### 4. The Shadow Cabinet
 
 Cromwell operates in the dark, but he is not alone. He has a network of spies and informants who are loyal only to him. They are the eyes and ears of the city, and they make Angelica feel constantly watched.
@@ -192,12 +170,12 @@ Cromwell operates in the dark, but he is not alone. He has a network of spies an
 
 ## Consistency Check
 
-| Book | Chapter | Type | Event Description |
-|---|---|---|---|
-| Book 3 | Chapter 02 | Key Event | Angelica meets Lord Cromwell and observes his mechanical bond, The Scriptor, writing in a ledger. |
-| Book 3 | Chapter 02 | Key Event | Cromwell uses a holographic display to show Leo Ward in a detention cell as leverage against Angelica. |
-| Book 3 | Chapter 02 | Key Event | Angelica realizes the "banality of evil" in Cromwell's bureaucratic approach and decides to comply for now. |
-| Book 3 | Chapter 02 | Moment | **Angelica Ward** — Recognizes that violence will not work against Cromwell and chooses a more controlled response. |
-| Book 3 | Chapter 31 | Key Event | Lord Cromwell attempts to stop the group by threatening to destroy the AI core, which would terminate life support. |
-| Book 3 | Chapter 31 | Key Event | Miller shoots Cromwell to prevent him from using the detonator; ARIA deletes "Protocol Vane" and engages "Protocol Life." |
-| Book 3 | Chapter 31 | Moment | **Lord Cromwell** — Even as he bleeds out, his final act is bureaucratic—he tries to file a formal complaint. The paperwork scatters, irrelevant. He dies as he lived. |
+| Book   | Chapter    | Type      | Event Description                                                                                                                                                      |
+| ------ | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Book 3 | Chapter 02 | Key Event | Angelica meets Lord Cromwell and observes his mechanical bond, The Scriptor, writing in a ledger.                                                                      |
+| Book 3 | Chapter 02 | Key Event | Cromwell uses a holographic display to show Leo Ward in a detention cell as leverage against Angelica.                                                                 |
+| Book 3 | Chapter 02 | Key Event | Angelica realizes the "banality of evil" in Cromwell's bureaucratic approach and decides to comply for now.                                                            |
+| Book 3 | Chapter 02 | Moment    | **Angelica Ward** — Recognizes that violence will not work against Cromwell and chooses a more controlled response.                                                    |
+| Book 3 | Chapter 31 | Key Event | Lord Cromwell attempts to stop the group by threatening to destroy the AI core, which would terminate life support.                                                    |
+| Book 3 | Chapter 31 | Key Event | Miller shoots Cromwell to prevent him from using the detonator; ARIA deletes "Protocol Vane" and engages "Protocol Life."                                              |
+| Book 3 | Chapter 31 | Moment    | **Lord Cromwell** — Even as he bleeds out, his final act is bureaucratic—he tries to file a formal complaint. The paperwork scatters, irrelevant. He dies as he lived. |

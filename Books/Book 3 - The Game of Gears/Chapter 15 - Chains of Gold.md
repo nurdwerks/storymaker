@@ -39,9 +39,10 @@
 ### Scene 3: The Socialite's War
 
 - **Key Event:** In a neighboring luxury holding cell, Corinne is being held by Lady Vesper.
-- **Detailed Description:** Corinne's cell is furnished like a guest room, with a velvet chaise and a tea service. It is a prison of politeness. Lady Vesper sits opposite her, pouring tea. Vesper is trying to turn Corinne, to make her testify against Angelica. She appeals to Corinne's vanity and her status as a Highborn.
+- **Detailed Description:** Corinne's cell is furnished like a guest room, with a velvet chaise and a tea service. It is a prison of politeness. **Sir Alistair** guards the door, leaning against the frame with a crystal glass of brandy in his hand. He winks at Corinne, treating her imprisonment as a amusing timeout. Lady Vesper sits opposite her, pouring tea. Vesper is trying to turn Corinne, to make her testify against Angelica. She appeals to Corinne's vanity and her status as a Highborn.
+  - _Key Dialog:_ **Sir Alistair:** "Don't pout, Corinne. We're just culling the herd. You're too pretty for the chopping block."
 - **Key Event:** Corinne insults Vesper, engaging in verbal combat.
-- **Detailed Description:** Vesper insinuates that Corinne is just a "pet" of the resistance, dragged into the mud by commoners. Corinne sips her tea. She looks Vesper in the eye and dismantles her. She points out that Vesper is merely Vane's lapdog, a "Gatekeeper" with no real power.
+- **Detailed Description:** Corinne ignores Alistair. Vesper insinuates that Corinne is just a "pet" of the resistance, dragged into the mud by commoners. Corinne sips her tea. She looks Vesper in the eye and dismantles her. She points out that Vesper is merely Vane's lapdog, a "Gatekeeper" with no real power.
   - _Key Dialog:_ **Lady Corinne:** "You talk a lot about power, Vesper. But are you actually sitting at the table? Or are you just guarding the door while Vane makes the decisions? You always were a glorified doorman, Vesper. Even in school."
 - **Key Event:** Vesper loses her temper and slaps Corinne.
 - **Detailed Description:** The slap echoes in the room. Corinne's cheek reddens. She does not cry. She does not flinch. She slowly turns her head back, smiling coldly. She touches her lip, checking for blood.
@@ -55,7 +56,7 @@
 - **Key Event:** Angelica dislocates her own thumb to free her hand.
 - **Detailed Description:** Angelica braces herself. She hyperventilates to flood her system with oxygen. She jams her thumb against the wall and pushes. She grits her teeth, stifling a scream as the joint pops out of its socket. The pain is blinding, white-hot nausea. Her hand goes limp. She slicks her skin with sweat and blood from her earlier injuries. Slowly, agonizingly, she pulls her hand through the loop. The skin tears, but the bone slides through.
 - **Key Event:** Angelica frees herself and resets her thumb.
-- **Detailed Description:** She drops to the floor, gasping. Her hand is useless, swelling rapidly. She grabs her thumb with her other hand and snaps it back into place with a sickening *crunch*. She leans against the wall, trembling, sweat pooling at her feet. She looks at the magnetic lock.
+- **Detailed Description:** She drops to the floor, gasping. Her hand is useless, swelling rapidly. She grabs her thumb with her other hand and snaps it back into place with a sickening _crunch_. She leans against the wall, trembling, sweat pooling at her feet. She looks at the magnetic lock.
   - _Character Defining Moment:_ **Angelica Ward** — She proves that her body is just another machine to her, one she is willing to break to get the job done.
   - _Key Dialog:_ **Angelica Ward:** "Calculus this."
 

@@ -35,11 +35,12 @@
 
 ### Scene 3: The Watch
 
-- **Key Event:** Angelica Ward, present at the gala as Grey's "trophy," observes the meeting from across the ballroom.
-- **Detailed Description:** Angelica stands near the refreshment table, ostensibly admiring a sculpture. In reality, she is using a reflection in the polished silver tray to watch the room. She sees Vesper slip behind the tapestry. She sees Lord Ashford follow, looking nervous. She times their exit. She reads their body language when they return—the tight jaws, the furtive glances. She realizes there is a fracture in the Highborn facade.
-- **Internal Conflict:** Angelica analyzes the data. A divided enemy is useful. If she can widen the crack, the whole structure might collapse. She files the information away. She won't tell Grey; she will let the rot spread.
-  - _Character Defining Moment:_ **Angelica Ward** — She begins to think like a spymaster. She realizes that information is a weapon as potent as a wrench.
-  - _Key Dialog:_ **Angelica Ward (to herself):** "They hate each other more than they hate Grey. That's useful. Friction creates heat. Heat creates fire."
+- **Key Event:** Angelica Ward, present at the gala as Grey's "trophy," receives a signal from **Hatcher**, who is undercover as a waiter.
+- **Detailed Description:** Angelica stands near the refreshment table, ostensibly admiring a sculpture. A heavy-set waiter with a slight stoop passes her, offering a tray of champagne. It is **Hatcher**, his face clean-shaven (a rare sight) and his eyes devoid of recognition. He doesn't look at her. He simply places a napkin on the table. Angelica mirrors the move, picking it up. On the underside, written in charcoal, are the words: _OBSIDIAN. TAPESTRY. NOW._ Hatcher disappears into the kitchen, blending perfectly with the invisible labor force of the Palace.
+- **Key Event:** Angelica acts on the intel, observing Vesper and Ashford slipping behind the tapestry.
+- **Internal Conflict:** Angelica realizes Hatcher is right—the "Nulls" are invisible here. She feels a surge of gratitude for the old detective.
+  - _Character Defining Moment:_ **Hatcher** — He demonstrates his mastery of tradecraft, proving that he can infiltrate even the highest levels of the Zenith by simply acting like he belongs in the service corridors.
+  - _Key Dialog:_ **Angelica Ward (to herself):** "The best spy is the one nobody pays to see."
 
 ### Scene 4: The Dance
 
@@ -55,11 +56,22 @@
 ### Scene 5: The Forbidden Lineage
 
 - **Key Event:** Deep in the ship's Archives, Master Archivist Sol discovers a sealed file while searching for anomalies in the genealogy database.
-- **Detailed Description:** Sol is alone in the dusty stacks of the Archives. He is an old man, bent with age, his fingers stained with ink. He is cross-referencing Angelica's DNA markers (stolen by Vane) with the historical registry. He finds a match. It is not a Silt bloodline. It connects directly to the "Valerius" line—the original Captains of the *Aeterna*.
+- **Detailed Description:** Sol is alone in the dusty stacks of the Archives. He is an old man, bent with age, his fingers stained with ink. He is cross-referencing Angelica's DNA markers (stolen by Vane) with the historical registry. He finds a match. It is not a Silt bloodline. It connects directly to the "Valerius" line—the original Captains of the _Aeterna_.
 - **Key Event:** Sol realizes the danger of the information.
 - **Detailed Description:** If Vane finds out, he will kill Angelica to prevent a rival claim to the throne. If the Resistance finds out, they will use her as a figurehead for a war. Sol closes the file. He encrypts it with a "Dead Man's Key." He decides to hide the truth to protect the girl.
   - _Character Defining Moment:_ **Master Archivist Sol** — He chooses to protect the secret (and himself) rather than reveal the truth immediately. He fears the disruption of order more than he loves the truth.
   - _Key Dialog:_ **Sol:** "Knowledge is dangerous. Ignorance is safety. Stay hidden, little ghost. The light will only burn you."
+
+### Scene 6: The Needle
+
+- **Key Event:** A spy from House Envy attempts to plant a listening device on Lady Corinne.
+- **Detailed Description:** Corinne is laughing with a group of suitors near the balcony. A young, handsome nobleman bumps into her, his hand slipping a micro-transmitter into the folds of her dress. Before he can withdraw, **Joyce** (the "Great-Aunt") stumbles, spilling her purse.
+- **Key Event:** Joyce neutralizes the spy with a "clumsy" accident.
+- **Detailed Description:** As Joyce falls, her hand lashes out with the speed of a viper. She drives a knitting needle through the spy's expensive shoe, pinning his foot to the floor. he screams. It looks like a senile accident. In the confusion, she retrieves the transmitter and drops it into a champagne flute.
+  - _Character Defining Moment:_ **Joyce (The Needle)** — She apologizes profusely to the screaming man, offering him a candy from her bag while expertly checking his pulse to ensure he doesn't go into shock and cause a scene.
+  - _Key Dialog:_ **Joyce:** "Oh, you poor dear! I am so clumsy. These old floors are so slippery. Have a peppermint. It helps with the pain."
+  - _Key Dialog:_ **Spy:** (Whimpering) "My foot... you pinned my foot..."
+  - _Key Dialog:_ **Joyce:** (Whispering, the mask dropping for a micro-second) "Walk away, or the next one goes in your eye."
 
 ---
 

@@ -30,11 +30,11 @@
 ### Scene 2: The Scientist / The Main Laboratory
 
 - **Key Event:** The group enters the lab and confronts Dr. Aris.
-- **Detailed Description:** The interior is a mess of equipment, cables, and samples. In the center of the chaos sits Dr. Aris. He is surrounded by screens, typing frantically with one hand while eating a nutrient paste with the other. He does not look up when the armed group enters. He is disheveled, his lab coat stained, his hair wild. His eyes are bloodshot, held open by sheer will and stimulants. He is muttering to himself, a constant stream of variables and calculations. The room is freezing; he has diverted all life support power to the server banks.
-- **Internal Conflict:** The group is unnerved. They expected a corpse or a monster, not a bureaucrat. Ria raises her weapon, sensing a threat in his manic energy. Hatcher keeps his hand on his knife, watching the shadows. Aris finally spins his chair around. He looks at them not with fear, but with annoyance, as if they are late for an appointment.
-
-  - _Character Defining Moment:_ **Dr. Aris (The Sleepless Eye)** — He displays his defining trait: the refusal to sleep. He claims he has bypassed the biological necessity to maximize his efficiency. He treats the intruders as data points rather than people.
-  - _Key Dialog:_ **Dr. Aris:** "Don't touch the glass. The condensation ruins the view. You're late. Or early. Time is subjective when you remove the circadian rhythm. Sleep is inefficient. I have bypassed the archive function."
+- **Detailed Description:** The interior is a mess of equipment, cables, and samples. In the center of the chaos sits Dr. Aris ... He does not look up when the armed group enters.
+  - **The Silent Partner:** In the corner, slumped over a terminal, is the frozen corpse of **Researcher Theta**. Frost covers his lab coat. Aris occasionally talks to the body, asking for "variables," completely ignoring the fact that his assistant has been dead for weeks.
+  - **Internal Conflict:** The group is unnerved... Aris finally spins his chair around.
+  - _Character Defining Moment:_ **Dr. Aris (The Sleepless Eye)** — He displays his defining trait...
+  - _Key Dialog:_ **Dr. Aris:** "Don't touch the glass. The condensation ruins the view. Theta, shift the spectral range to gamma... oh, right. You're indisposed. Useless."
   - _Key Dialog:_ **Angelica Ward:** "Dr. Aris? You were exiled years ago. We thought you were dead."
   - _Key Dialog:_ **Dr. Aris:** "Exile is just a change of laboratory. And death is a permanent outage. I am neither."
 

@@ -16,12 +16,18 @@
 ### Scene 1: The Salon
 
 - **Key Event:** Angelica Ward, dressed in a gown of stiff, silver silk, attends High Tea in the Solarium of Lady Corinne’s estate.
-- **Detailed Description:** The Solarium is a glass bubble suspended from the side of the Zenith Spire, offering a terrifying view of the three-mile drop to the clouds below. The light is blindingly bright, refracted by crystal prisms hanging from the ceiling. The room is filled with the wives and daughters of the High Council—women painted in pastel bioluminescence, their voices a murmur of polite gossip. They sip tea from cups so thin they look like spun sugar. Angelica feels like a bull in a china shop. Her boots are hidden under her dress, but she can feel the steel toes pressing against the delicate floor. She is scanning the room, not for friends, but for structural weaknesses. She notes the stress fractures in the glass panels and the load-bearing capacity of the support struts.
-- **Internal Conflict:** Angelica is suffocating. The corset Corinne forced her into restricts her breathing to shallow sips of air. Every movement is a chore. She despises the frivolity of the event. While people in Sector 12 are starving, these women are debating the merits of synthetic versus organic rose petals. She fights the urge to flip the table and scream.
-  - _Character Defining Moment:_ **Angelica Ward** — She unconsciously taps a rhythmic code on the table—a distress signal used by miners. It is a nervous tic, a way to ground herself in her old reality.
-  - _Key Dialog:_ **Lady Corinne:** (Hissing behind her fan) "Stop tapping. You sound like a leaky pipe. Drink your tea. And try to look like you aren't calculating the velocity of our death. It makes the other ladies nervous."
-  - _Key Dialog:_ **Angelica Ward:** "The glass is three microns too thin for this altitude. If a bird hits it, we're all dead."
-  - _Key Dialog:_ **Lady Corinne:** "Then smile. Let's make a pretty corpse."
+- **Detailed Description:** The Solarium is a glass bubble suspended from the side of the Zenith Spire, offering a terrifying view of the three-mile drop to the clouds below. The light is blindingly bright, refracted by crystal prisms hanging from the ceiling. The room is filled with the wives and daughters of the High Council—women painted in pastel bioluminescence.
+  - **The Vanity Court:** Surrounding **Lady Corinne** is her retinue: **Marcel** (her stylus-wielding fashion stylist who critiques everyone's hemline), the twins **Rose and Lily** (who brush her hair in unison), and **Photographer Vorn** (who orbits her like a moon, snapping photos for the social feed). **Sir Gallant**, her current suitor, hovers nearby, fetching her drinks with pathetic eagerness.
+  - **The Imperial Shadows:** In the corner, the **Royal Taster** samples the buffet with paranoid precision. The **Jeweler** inspects the ladies' diamonds with a loupe, while the **Mirror-Maid** stands silently behind the High Chamberlain, holding a reflective shield so he can check his appearance.
+- **Key Event:** Angelica Ward enters, feeling out of place.
+- **Detailed Description:** Angelica feels like a bull in a china shop. Sitting next to Corinne is **Joyce**, a frail, confused-looking elderly woman knitting a scarf that seems to have no end. Joyce is introduced as Corinne's "Great-Aunt" from the country, a harmless relic who constantly asks for more sugar.
+- **Key Event:** **Adjunct Professor Kroll** is present as a curiosity.
+- **Detailed Description:** **Professor Kroll**, a minor academic invited to explain the science of the tea leaves, is arguing loudly about atmospheric pressure with a bored noble. **Madame Velour**, the head of the Textile Guild, watches Angelica's dress with a critical eye, whispering to Marcel.
+- **Internal Conflict:** Angelica is suffocating. The corset Corinne forced her into restricts her breathing. She despises the frivolity. She watches Joyce, knowing the "old woman" is actually a lethal sleeper agent.
+  - _Character Defining Moment:_ **Angelica Ward** — She unconsciously taps a rhythmic code on the table.
+  - _Key Dialog:_ **Lady Corinne:** (Hissing behind her fan) "Stop tapping. You sound like a leaky pipe. Drink your tea. And for heaven's sake, smile at Aunt Joyce. She's the only one here who isn't trying to poison you."
+  - _Key Dialog:_ **Joyce (The Needle):** (Loudly, appearing senile) "Did you say poison, dear? I thought we were having Earl Grey. You know I can't digest poison after noon."
+  - _Key Dialog:_ **Lady Corinne:** "It's a metaphor, Auntie. Eat your scone."
 
 ### Scene 2: The Shark
 

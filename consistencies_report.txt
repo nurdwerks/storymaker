@@ -1,0 +1,26 @@
+# Detected Discrepancies
+
+- **Adjunct Professor Kroll**: Consistency Check table is empty or missing.
+- **Dr Hale**: Consistency Check table is empty or missing.
+- **Dr. Aris (The Sleepless Eye)**: Narrative describes Book 1, but no events found in Consistency Check.
+- **General Ironwood**: Narrative describes Book 4, but no events found in Consistency Check.
+- **Hatcher (The Null _ The Drifter.._**: Narrative describes Book 3, but no events found in Consistency Check.
+- **Joyce (The Needle)**: Narrative describes Book 3, but no events found in Consistency Check.
+- **Joyce (The Needle)**: Narrative describes Book 5, but no events found in Consistency Check.
+- **Lady Corinne (The Porcelain Dol.._**: Narrative describes Book 6, but no events found in Consistency Check.
+- **Lady Vesper**: Narrative describes Book 4, but no events found in Consistency Check.
+- **Lord Cromwell**: Narrative describes Book 1, but no events found in Consistency Check.
+- **Lord Cromwell**: Narrative describes Book 4, but no events found in Consistency Check.
+- **Lord Cromwell**: Narrative describes Book 5, but no events found in Consistency Check.
+- **Madame Velour**: Consistency Check table is empty or missing.
+- **Marcel**: Consistency Check table is empty or missing.
+- **Photographer Vorn**: Consistency Check table is empty or missing.
+- **Researcher Theta**: Consistency Check table is empty or missing.
+- **Rose _ Lily**: Consistency Check table is empty or missing.
+- **Sir Alistair**: Consistency Check table is empty or missing.
+- **Sir Gallant**: Consistency Check table is empty or missing.
+- **The Emperor**: Narrative describes Book 1, but no events found in Consistency Check.
+- **The Jeweler**: Consistency Check table is empty or missing.
+- **The Mirror-Maid**: Consistency Check table is empty or missing.
+- **The Royal Taster**: Consistency Check table is empty or missing.
+- **The Shield-Sisters**: Consistency Check table is empty or missing.

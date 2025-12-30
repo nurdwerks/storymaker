@@ -52,7 +52,7 @@
 ### Scene 4: The Entrance
 
 - **Key Event:** The Grand Ballroom.
-- **Detailed Description:** The Ballroom is a sensory overload. The ceiling is a holographic projection of the galaxy. The air smells of ozone and expensive gardenia perfume. The music is a live orchestra—a luxury unheard of in the Silt. The Highborns are dressed in shifting rainbows of light-fabric, gold, and jewels. They look like peacocks.
+- **Detailed Description:** The Ballroom is a sensory overload. The ceiling is a holographic projection of the galaxy. Dominating the center of the room is a massive, translucent hologram of **The Emperor**, his golden armor shimmering as he watches the festivities with unblinking, dead eyes. The Highborns bow to it as they pass. The air smells of ozone and expensive gardenia perfume. The music is a live orchestra—a luxury unheard of in the Silt. The Highborns are dressed in shifting rainbows of light-fabric, gold, and jewels. They look like peacocks.
 
 - **Key Event:** The announcement.
 - **Detailed Description:** The Doorman announces the arrivals. "Lord Jax of House Silver." "Lady Corinne of House Aurum." Then Angelica arrives at the top of the stairs. The Doorman pauses, looking at her attire. "Cadet Angelica Ward. Unaffiliated."

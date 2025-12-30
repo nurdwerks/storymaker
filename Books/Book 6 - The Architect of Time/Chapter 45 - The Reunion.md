@@ -43,6 +43,14 @@
 
   - _Key Dialog:_ **Angelica Ward (whispered):** "You're so young. You're all so painfully young. I forgot how smooth your faces were."
   - _Key Dialog:_ **Lisbet:** "You're old, Angel. ... I mean... you changed. You look like my grandmother. Before she died."
+
+- **Key Event:** The Matriarch.
+- **Detailed Description:** **Lady Corinne** steps forward. She is no longer the "Porcelain Doll." She has let her hair go fully grey, wearing it in a complex, regal braid. She wears simple, functional robes, and she is holding a toddler on her hip—one of the ship-born children. She looks at Angelica with deep, ancient recognition. They are the only two "Old Women" in the room now.
+
+  - _Key Dialog:_ **Lady Corinne:** "Welcome home, sister. You missed the tea, but I saved you a seat."
+  - _Key Dialog:_ **Angelica Ward:** "Corinne... you kept them safe?"
+  - _Key Dialog:_ **Lady Corinne:** "I kept them human. That was the harder job."
+
   - _Key Dialog:_ **Angelica Ward:** "Time is relative, Lisbet. Pain is absolute. I've had a lot of time, and a fair amount of pain. But I'm still me. Mostly."
 
 ### Scene 4: The Difference
