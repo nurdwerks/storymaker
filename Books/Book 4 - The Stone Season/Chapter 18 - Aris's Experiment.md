@@ -1,66 +1,126 @@
+# Chapter Summary
+
+> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
+
+> [!NOTE]
+> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
+
+---
+
 ## Chapter 18: Aris's Experiment
 
-### Scene 1: The Captive / Sector 4 Camp
+### Scene 1: The Captive
 
-- **Key Event:** The camp is quiet. Too quiet. Angelica is cleaning her rifle by the fire.
-- **Key Event:** Then, a noise. A wet, rattling growl.
-- **Key Event:** Ria draws her pistol. "Perimeter breach!"
-- **Key Event:** Dr. Aris emerges from his tent. He is dragging a sled. On the sled is a cage made of scavenged laser-bars.
-- **Key Event:** Inside the cage is a Blighted. It is humanoid, but twisted. Its skin is grey and translucent, revealing black veins. It snaps its jaws at the bars, drooling black ichor.
-- **Key Event:** "Aris!" Angelica shouts, standing up. "What the hell is that?"
-- **Key Event:** "Subject 4," Aris says, adjusting his glasses. "I captured it near the ventilation distinct. A former maintenance worker, judging by the uniform scraps."
-- **Key Event:** Ria aims at the creature's head. "You brought a monster into our camp? Are you trying to get us killed, Doctor?"
-- **Key Event:** "I am trying to learn!" Aris snaps. "We know nothing about their physiology. How do they track us? Do they sleep? Do they feel pain?"
-- **Key Event:** He pokes the creature with an electrified prod. It shrieks.
-  - _Key Dialog:_ **Ria:** "You brought a monster into our camp? Are you trying to get us killed, Doctor?"
+- **Key Event:** The Setting.
+- **Detailed Description:** The refugee camp in the ruins of Sector 4 is unusually quiet. The constant hum of the ventilation fans is muffled by the heavy snowfall drifting down from the damaged ceiling panels. The fire in the center of the camp is dying, casting long, flickering shadows on the tents.
+- **Key Event:** The Noise.
+- **Detailed Description:** **Angelica Ward** is stripping and cleaning her laser-rifle by the embers. She hears a sound—not the wind, but a wet, rattling growl, followed by the scrape of metal on metal.
+- **Key Event:** The Alert.
+- **Detailed Description:** **Ria** is on her feet instantly, drawing her heavy pistol.
+  - _Key Dialog:_ **Ria:** "Perimeter breach! North quadrant!"
+- **Key Event:** The Entrance.
+- **Detailed Description:** **Dr. Aris** emerges from the gloom of the north tunnel. He is dragging a heavy cargo sled, grunting with effort. On the sled is a makeshift cage constructed from scavenged rebar and active laser-grid emitters.
+- **Key Event:** The Specimen.
+- **Detailed Description:** Inside the cage is a **Blighted**. It is humanoid, but twisted. Its skin is grey, translucent, and stretched tight over deformed bones, revealing pulsating black veins underneath. It snaps its jaws at the bars, drooling a thick, black ichor that hisses when it hits the floor. It has no eyes, only empty sockets that leak black fluid.
+- **Key Event:** The Reaction.
+- **Detailed Description:** Angelica stands up, training her rifle on the cage.
+  - _Key Dialog:_ **Angelica Ward:** "Aris! What the hell is that?"
+- **Key Event:** The Explanation.
+- **Detailed Description:** Aris stops the sled. He adjusts his glasses, wiping condensation from the lenses. He looks excited, almost manic.
+  - _Key Dialog:_ **Dr. Aris:** "Subject 4. I captured it near the ventilation junction. A former maintenance worker, judging by the uniform scraps fused to its dermal layer. An excellent specimen. Very active."
+- **Key Event:** The Confrontation.
+- **Detailed Description:** Ria aims at the creature's head.
+  - _Key Dialog:_ **Ria:** "You brought a monster into our camp? Into the sleeping area? Are you trying to get us killed, Doctor? Or just insane?"
+- **Key Event:** The Defense.
+- **Detailed Description:** Aris steps in front of the cage, shielding the monster.
+  - _Key Dialog:_ **Dr. Aris:** "I am trying to learn! We are fighting a war against an enemy we do not understand. We know nothing about their physiology. How do they track us? Do they sleep? Do they feel pain? If we are to survive the Stone Season, we must know the predator."
+- **Key Event:** The Prod.
+- **Detailed Description:** He takes an electrified cattle prod and Jabs the creature through the bars. It shrieks—a sound like tearing metal—and recoils.
+  - _Key Dialog:_ **Dr. Aris:** "Pain response confirmed. Primitive, but present."
 
-### Scene 2: The Observation / The Camp
+### Scene 2: The Observation
 
-- **Key Event:** Aris ignores them. He pulls out a frequency emitter.
-- **Key Event:** He twists the dial. A low hum fills the air.
-- **Key Event:** The Blighted stops thrashing. It freezes. It cocks its head, listening.
-- **Key Event:** "Fascinating," Aris mutters into his recorder. "It reacts to 40 Hertz. The same frequency as the ship's main power conduit. They aren't hunting us by smell. They're hunting by _resonance_."
-- **Key Event:** The creature's muscles bunch. It grabs the laser bars. Its skin sizzles and pops, but it doesn't let go.
-- **Key Event:** "Doctor," Hatcher says, stepping forward. "It's getting agitated."
-- **Key Event:** "Just a moment," Aris says, face pressed to the bars. "I need to measure the tensile strength output. The muscle density must be..."
-- **Key Event:** _SNAP._
-- **Key Event:** The laser-bar shorts out. The creature bends the metal.
-- **Key Event:** "Oh," Aris says. "The bars broke."
-  - _Character Defining Moment:_ **Dr. Aris** — Displays an unsettling clinical detachment, ignoring the creature's pain to measure its pulse.
+- **Key Event:** The Experiment.
+- **Detailed Description:** Aris ignores the weapons pointed at him. He pulls a frequency emitter from his coat pocket. He twists the dial. A low, vibrating hum fills the air.
+- **Key Event:** The Reaction.
+- **Detailed Description:** The Blighted stops thrashing instantly. It freezes. It cocks its head, listening. Its black veins pulse in time with the sound.
+- **Key Event:** The Hypothesis.
+- **Detailed Description:** Aris dictates into his voice recorder.
+  - _Key Dialog:_ **Dr. Aris:** "Fascinating. Subject reacts to 40 Hertz. The same frequency as the ship's main power conduit. They aren't hunting us by smell or sight. They're hunting by _resonance_. They track the electromagnetic field of our technology. And our nervous systems."
+- **Key Event:** The Agitation.
+- **Detailed Description:** The creature's muscles bunch. It grabs the laser bars. Its skin sizzles and pops, smoke rising from its palms, but it doesn't let go. It begins to pull.
+- **Key Event:** The Warning.
+- **Detailed Description:** **Hatcher** steps forward, his shotgun leveled.
+  - _Key Dialog:_ **Hatcher:** "Doctor. It's getting agitated. Turn it off."
+- **Key Event:** The Measurement.
+- **Detailed Description:** Aris presses his face closer to the bars, staring at the creature's straining muscles.
+  - _Key Dialog:_ **Dr. Aris:** "Just a moment. I need to measure the tensile strength output. The muscle density must be extraordinary to withstand the laser grid..."
+- **Key Event:** The Failure.
+- **Detailed Description:** _SNAP._ The laser emitter shorts out in a shower of sparks. The creature bends the metal bars apart with a scream of rage.
+- **Key Event:** The Realization.
+- **Detailed Description:** Aris blinks.
+  - _Key Dialog:_ **Dr. Aris:** "Oh. The bars broke. That was unexpected."
+  - _Character Defining Moment:_ **Dr. Aris** — Displays an unsettling clinical detachment, treating a life-threatening security breach as a fascinating data point.
 
-### Scene 3: The Tragedy / The Camp
+### Scene 3: The Tragedy
 
-- **Key Event:** The creature lunges. Not at Aris. At the movement behind him.
-- **Key Event:** **Pip**, a seven-year-old orphan who follows Lisbet around, had crept closer to see.
-- **Key Event:** "Pip! Run!" Lisbet screams.
-- **Key Event:** The creature is a blur of grey motion. It hits the boy.
-- **Key Event:** There is no fight. Just a sickening crunch. The boy goes limp.
-- **Key Event:** A gunshot rings out. Hatcher puts a slug through the creature's eye. It drops, twitching.
-- **Key Event:** Silence falls. Lisbet runs to the boy. She wails.
-- **Key Event:** Aris walks over. He checks the creature's corpse. Then he looks at the boy.
-- **Key Event:** He opens his notebook. "Unfortunate variable. But the data confirms the muscle density is 300% of human norm. The child was... collateral damage to the experiment."
-- **Key Event:** Angelica walks up to him. Her face is white with rage.
-- **Key Event:** _SMACK._
-- **Key Event:** She slaps the notebook out of his hand. It skids into the mud.
-- **Key Event:** "You killed a child," she whispers. "You let it out. You played god and a boy is dead."
-  - _Key Dialog:_ **Dr. Aris:** "Unfortunate variable. But the data confirms the muscle density is 300% of human norm. The child was... collateral."
-  - _Key Dialog:_ **Angelica Ward:** "You killed a child. You let it out. You played god and a boy is dead."
+- **Key Event:** The Lunge.
+- **Detailed Description:** The creature lunges through the gap. Not at Aris. It ignores him completely. It leaps at the movement behind him.
+- **Key Event:** The Victim.
+- **Detailed Description:** **Pip**, a seven-year-old orphan who follows Lisbet around, had crept closer to see the "monster." He is holding a toy robot.
+- **Key Event:** The Scream.
+- **Detailed Description:** Lisbet screams.
+  - _Key Dialog:_ **Lisbet:** "Pip! Run!"
+- **Key Event:** The Impact.
+- **Detailed Description:** The creature is a blur of grey motion. It hits the boy with the force of a battering ram.
+- **Key Event:** The Death.
+- **Detailed Description:** There is no fight. Just a sickening crunch as the boy is thrown against the cavern wall. He slides down, limp. The toy robot clatters across the stone.
+- **Key Event:** The Execution.
+- **Detailed Description:** A gunshot rings out. Deafening in the enclosed space. Hatcher puts a slug directly through the creature's eye socket. It drops, twitching, black blood pooling rapidly.
+- **Key Event:** The Aftermath.
+- **Detailed Description:** Silence falls. A heavy, suffocating silence. Then, Lisbet runs to the boy. She drops to her knees. She wails—a raw, high-pitched sound of grief.
+- **Key Event:** The Assessment.
+- **Detailed Description:** Aris walks over. He checks the creature's corpse first. He nods. Then he looks at the dead boy.
+- **Key Event:** The Log.
+- **Detailed Description:** He opens his notebook. He writes something down.
+  - _Key Dialog:_ **Dr. Aris:** "Unfortunate variable. But the data confirms the muscle density is 300% of human norm. The containment protocol was insufficient. The child was... collateral damage to the experiment."
+- **Key Event:** The Rage.
+- **Detailed Description:** Angelica walks up to him. Her movements are stiff. Her face is white with rage.
+- **Key Event:** The Strike.
+- **Detailed Description:** _SMACK._ She slaps the notebook out of his hand. It skids into the mud. She grabs him by the collar and slams him against the rock wall.
+  - _Key Dialog:_ **Angelica Ward:** "You killed a child. You let it out. You played god with a monster in a refugee camp, and a boy is dead. Look at him! Look at what you did!"
 
-### Scene 4: The Threat / The Camp
+### Scene 4: The Ultimatum
 
-- **Key Event:** Ria marches forward. She puts her pistol to Aris's forehead. "Give me one reason not to paint the tent with your brains, Doc."
-- **Key Event:** Aris doesn't flinch. He looks at Angelica.
-- **Key Event:** "I know the codes," he says softly. "The Foundation Blast Doors. You can't open them without me. If I die, you all die in the dark."
-- **Key Event:** Ria cocks the hammer. "I'll take my chances."
-- **Key Event:** "Ria. Stand down," Angelica says.
-- **Key Event:** "He killed the kid!" Ria shouts.
-- **Key Event:** "I know," Angelica says. Her voice is dead. "But he's right. We need his brain."
-- **Key Event:** She looks at Aris. "But if you ever—_ever_—endanger this crew again... I will give you to the Blighted myself. Piece by piece."
-- **Key Event:** Aris picks up his notebook. He wipes the mud off. "A death is a tragedy, Miss Ward. Data is eternal. Which one saves the human race? Do the math."
-- **Key Event:** He turns and walks back to his tent.
-- **Key Event:** Angelica watches him go. She hates him. And she hates herself for letting him live.
-  - _Character Defining Moment:_ **Angelica Ward** — Makes the pragmatic, "Vane-like" decision to value a monster’s utility over justice for a child.
-  - _Key Dialog:_ **Angelica Ward:** "Put him down, Ria. We need his brain."
+- **Key Event:** The Gun.
+- **Detailed Description:** Ria marches forward. She puts the muzzle of her pistol to Aris's forehead. Her finger tightens on the trigger.
+  - _Key Dialog:_ **Ria:** "Give me one reason not to paint the tent with your brains, Doc. Start talking."
+- **Key Event:** The Logic.
+- **Detailed Description:** Aris doesn't flinch. He looks past the gun, meeting Angelica's eyes.
+  - _Key Dialog:_ **Dr. Aris:** "I know the codes. The Foundation Blast Doors in Sector 1. You can't open them without me. I am the only one who understands the cipher. If I die, you all die in the dark. You starve. You freeze."
+- **Key Event:** The Threat.
+- **Detailed Description:** Ria cocks the hammer.
+  - _Key Dialog:_ **Ria:** "I'll take my chances. He's dangerous."
+- **Key Event:** The Order.
+- **Detailed Description:** Angelica closes her eyes. She takes a breath.
+  - _Key Dialog:_ **Angelica Ward:** "Ria. Stand down."
+- **Key Event:** The Protest.
+- **Detailed Description:** Ria stares at her.
+  - _Key Dialog:_ **Ria:** "He killed the kid, Angel! He doesn't even care!"
+- **Key Event:** The Decision.
+- **Detailed Description:** Angelica opens her eyes. They are cold. Hard.
+  - _Key Dialog:_ **Angelica Ward:** "I know. But he's right. We need his brain. The mission comes first. Even before justice."
+- **Key Event:** The Warning.
+- **Detailed Description:** She leans in close to Aris.
+  - _Key Dialog:_ **Angelica Ward:** "But if you ever—_ever_—endanger this crew again... I don't care about the codes. I will give you to the Blighted myself. Piece by piece. You are on probation, Doctor. Permanent probation."
+- **Key Event:** The Response.
+- **Detailed Description:** Aris picks up his notebook. He wipes the mud off carefully.
+  - _Key Dialog:_ **Dr. Aris:** "A death is a tragedy, Miss Ward. Data is eternal. Which one saves the human race? Do the math. Emotions are variables I cannot afford."
+- **Key Event:** The Exit.
+- **Detailed Description:** He turns and walks back to his tent as if nothing happened.
+- **Key Event:** The Cost.
+- **Detailed Description:** Angelica watches him go. She looks at Lisbet weeping over the body. She realizes she has just made a deal with the devil.
+  - _Character Defining Moment:_ **Angelica Ward** — She makes the pragmatic, ruthless decision to value a monster’s utility over immediate justice, proving she is becoming more like Vane than she wants to admit.
 
 ---
 

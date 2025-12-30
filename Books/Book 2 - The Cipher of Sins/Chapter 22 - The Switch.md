@@ -1,69 +1,129 @@
+# Chapter Summary
+
+> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
+
+> [!NOTE]
+> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
+
+---
+
 ## Chapter 22: The Switch
 
-### Scene 1: The Hesitation / "Petal & Stem" - Parlor
+### Scene 1: The Hesitation
 
-- **Key Event:** The standoff is over, but the threat isn't. Duke Grey’s men are massing outside.
-- **Key Event:** Kaelen Night stands by the window, peering through the cracks in the boarded-up glass.
-- **Key Event:** "They're bringing up a breacher," he says. "A kinetic ram. They'll be through the wall in five minutes."
-- **Key Event:** He looks back at Angelica. She is bandaged, pale, but alive.
-- **Key Event:** He thinks about the orders he was given. _Bring her to the menagerie. Unmarked._
-- **Key Event:** He thinks about what happens to "pets" in the Duke's care. His sister, Meridia, was a "guest" once. She came back... different. Hollow.
-- **Key Event:** "You're thinking about giving me up," Angelica says quietly.
-- **Key Event:** Kaelen looks at her. "I'm thinking about survival."
-- **Key Event:** "Yours or mine?"
-- **Key Event:** "Both," Kaelen says. "If I give you to him, you live. He won't kill his prize."
-- **Key Event:** "Living isn't existing, Kaelen," Angelica says. "You of all people should know that. You're a weapon. You exist. But do you live?"
-- **Key Event:** The question hits him like a physical blow. She is the only person who hasn't seen him as a tool. A "Perfect Soldier."
-  - _Character Defining Moment:_ **Kaelen Night** — He realizes that Angelica is the only person who hasn't seen him as a weapon, triggering a major shift in his loyalty.
+- **Key Event:** The Siege.
+- **Detailed Description:** The brief standoff inside the "Petal & Stem" flower shop has ended, but the real threat is massing outside. The heavy tramping of armored boots echoes in the alleyways of Sector 2.
+- **Key Event:** The Observation.
+- **Detailed Description:** **Kaelen Night** stands by the front window, peering through the cracks in the hastily nailed-up wooden boards. His silhouette is sharp against the flashing red lights of the police cruisers.
+  - _Key Dialog:_ **Kaelen Night:** "They're bringing up a breacher. A kinetic ram. They'll be through that wall in five minutes. Maybe less."
+- **Key Event:** The Look.
+- **Detailed Description:** He turns back to the room. **Angelica Ward** is sitting on a crate of fertilizer, clutching her side. She is bandaged, pale, and covered in grime, but she is alive. **Ria** is checking her weapons by the back door, her face a mask of concentration.
+- **Key Event:** The Internal Conflict.
+- **Detailed Description:** Kaelen thinks about the orders he received directly from Duke Grey's encrypted channel: _Secure the package. Bring her to the menagerie. Unmarked. Use any means necessary._
+- **Key Event:** The Memory.
+- **Detailed Description:** He remembers the "Menagerie." He remembers visiting his sister, **Meridia**, there after she was "invited" by the Duke. She came back... different. Hollow. Her eyes were empty, like windows into a dark room. She never spoke again.
+- **Key Event:** The Accusation.
+- **Detailed Description:** Angelica watches him. She sees the conflict playing out behind his stoic mask.
+  - _Key Dialog:_ **Angelica Ward:** "You're thinking about giving me up. You're doing the math."
+- **Key Event:** The Calculation.
+- **Detailed Description:** Kaelen looks at her.
+  - _Key Dialog:_ **Kaelen Night:** "I'm thinking about survival, Angelica. The odds are a thousand to one."
+- **Key Event:** The Question.
+- **Detailed Description:** Her voice is quiet but cuts through the noise outside.
+  - _Key Dialog:_ **Angelica Ward:** "Yours or mine?"
+- **Key Event:** The Justification.
+- **Detailed Description:** Kaelen sighs.
+  - _Key Dialog:_ **Kaelen Night:** "Both. If I give you to him, you live. He won't kill his prize. He collects rare things. He doesn't break them."
+- **Key Event:** The Rebuttal.
+- **Detailed Description:** Angelica stands up, wincing.
+  - _Key Dialog:_ **Angelica Ward:** "Living isn't existing, Kaelen. Look at yourself. You're the 'Perfect Soldier'. The Duke's favorite toy. You exist. But do you live? Or are you just waiting for someone to pull your trigger?"
+- **Key Event:** The Impact.
+- **Detailed Description:** The question hits him like a physical blow. She is the only person who hasn't seen him as a tool. Even his own family sees him as a rank, an asset.
+  - _Character Defining Moment:_ **Kaelen Night** — He realizes that Angelica sees the human beneath the armor, triggering a major crack in his lifelong conditioning.
 
-### Scene 2: The Warning / Parlor
+### Scene 2: The Warning
 
-- **Key Event:** Kaelen walks over to her. He lowers his voice.
-- **Key Event:** "You don't understand what he does," he says. "He uses Gene-Keys. He'll put you in a fugue state. You'll be awake, but you won't be _there_. You'll just be... a womb. A biological factory for his experiments."
-- **Key Event:** Angelica's eyes widen. "A vessel," she whispers. "Just like Vane said."
-- **Key Event:** The horror of it is absolute. To be reduced to biology. To be a function.
-- **Key Event:** She grips the knife tighter. "Then I won't let them take me."
-- **Key Event:** "You can't fight an army, Princess."
-- **Key Event:** "I can die," she says. "I will not be a vessel. I will not be a factory. I am Angelica Ward."
-- **Key Event:** Kaelen sees the resolve in her face. It terrifies him.
-- **Key Event:** "If they can't control the Captain," he mutters, quoting an old military maxim, "they create a Captain they can control."
-  - _Character Defining Moment:_ **Angelica Ward** — Her terror at being reduced to a "vessel" or a "function" drives her to a final, desperate resolve to die rather than be taken.
-  - _Key Dialog:_ **Kaelen:** "If they can't control the Captain, they create a Captain they can control."
+- **Key Event:** The Approach.
+- **Detailed Description:** Kaelen walks over to her. He lowers his voice so Ria won't hear.
+  - _Key Dialog:_ **Kaelen Night:** "You don't understand what he does. It's not just a prison. He uses Gene-Keys. Chemical obedience. He'll put you in a fugue state. You'll be awake, you'll feel everything, but you won't be _there_. You'll just be... a womb. A biological factory for his experiments. He wants to breed the Sangreal gene."
+- **Key Event:** The Horror.
+- **Detailed Description:** Angelica's eyes widen. The color drains from her face completely.
+  - _Key Dialog:_ **Angelica Ward:** "A vessel. Just like Vane said. They don't want a leader. They want parts."
+- **Key Event:** The Resolve.
+- **Detailed Description:** The horror is absolute. To be reduced to biology. To be a function. She grips the hilt of her knife until her knuckles are white.
+  - _Key Dialog:_ **Angelica Ward:** "Then I won't let them take me. I'll cut my own throat first."
+- **Key Event:** The Reality.
+- **Detailed Description:** Kaelen shakes his head.
+  - _Key Dialog:_ **Kaelen Night:** "You can't fight an army, Princess. Not with a knife."
+- **Key Event:** The Declaration.
+- **Detailed Description:** She looks him in the eye.
+  - _Key Dialog:_ **Angelica Ward:** "I can die. I will not be a vessel. I will not be a factory. I am Angelica Ward. And I belong to no one."
+- **Key Event:** The Lesson.
+- **Detailed Description:** Kaelen remembers an old military maxim.
+  - _Key Dialog:_ **Kaelen Night:** "If they can't control the Captain, they create a Captain they can control. Vane's First Rule of Command."
 
-### Scene 3: The Choice / Parlor
+### Scene 3: The Choice
 
-- **Key Event:** _BOOM._ The front wall shudders. The kinetic ram is hitting.
-- **Key Event:** "Time's up," Ria says, checking her ammo. "I have three magazines left. That's about thirty seconds of suppressive fire."
-- **Key Event:** Kaelen looks at the door. He looks at Angelica.
-- **Key Event:** He has spent twenty years following orders. Following the Chair.
-- **Key Event:** But the Chair is empty. The heart is here.
-- **Key Event:** _Snick._
-- **Key Event:** He sheathes his sword. The shadows around him vanish.
-- **Key Event:** "The basement," he says. "There's a sewage output. It drains to Sector 4. The slums."
-- **Key Event:** Angelica blinks. "You're letting us go?"
-- **Key Event:** "I'm giving you a head start," Kaelen says. He picks up a heavy table and shoves it against the door.
-- **Key Event:** "What about you?"
-- **Key Event:** Kaelen draws his sword again. "I'm going to hold the door."
-- **Key Event:** "They'll kill you," Angelica says.
-- **Key Event:** "They'll try," Kaelen smiles. It is a terrifying smile.
-- **Key Event:** "It's time I served something real," he says. "Something with a pulse."
-  - _Character Defining Moment:_ **Kaelen Night** — He makes the ultimate choice to serve "the heart" (Angelica) over "the chair" (the Founders), effectively committing social and career suicide.
-  - _Key Dialog:_ **Kaelen:** "It's time I served something real. Something with a pulse."
+- **Key Event:** The Breach.
+- **Detailed Description:** _BOOM._ The front wall shudders violently. Plaster dust rains down from the ceiling. The kinetic ram is hitting the structure. The wood groans.
+- **Key Event:** The Ammo.
+- **Detailed Description:** Ria checks her ammo.
+  - _Key Dialog:_ **Ria:** "Time's up! I have three magazines left. That's about thirty seconds of suppressive fire before we're overrun. Make a call, soldier!"
+- **Key Event:** The Pause.
+- **Detailed Description:** Kaelen looks at the door, vibrating with each impact. He looks at Angelica, terrified but defiant.
+- **Key Event:** The Conflict.
+- **Detailed Description:** He has spent twenty years following orders. Following "The Chair." His entire identity is built on obedience.
+- **Key Event:** The Decision.
+- **Detailed Description:** But the Chair is empty. The heart is here.
+- **Key Event:** The Action.
+- **Detailed Description:** _Snick._ He sheathes his sword. The shadows that usually cling to him seem to vanish, leaving him exposed.
+- **Key Event:** The Escape.
+- **Detailed Description:** He points to the floor.
+  - _Key Dialog:_ **Kaelen Night:** "The basement. There's a sewage output. It drains to Sector 4. The slums. It's filth, but it's unguarded."
+- **Key Event:** The Surprise.
+- **Detailed Description:** Angelica blinks, stunned.
+  - _Key Dialog:_ **Angelica Ward:** "You're letting us go?"
+- **Key Event:** The Sacrifice.
+- **Detailed Description:** Kaelen picks up a heavy oak table and shoves it against the front door, reinforcing the barricade.
+  - _Key Dialog:_ **Kaelen Night:** "I'm giving you a head start. Five minutes."
+- **Key Event:** The Question.
+- **Detailed Description:** Angelica hesitates at the trapdoor.
+  - _Key Dialog:_ **Angelica Ward:** "What about you?"
+- **Key Event:** The Stand.
+- **Detailed Description:** Kaelen draws his sword again. The metal sings.
+  - _Key Dialog:_ **Kaelen Night:** "I'm going to hold the door. They won't get past me quickly."
+- **Key Event:** The Prediction.
+- **Detailed Description:** Angelica grabs his arm.
+  - _Key Dialog:_ **Angelica Ward:** "They'll kill you. It's treason, Kaelen."
+- **Key Event:** The Change.
+- **Detailed Description:** Kaelen smiles. It is a terrifying, genuine smile.
+  - _Key Dialog:_ **Kaelen Night:** "They'll try. But for the first time... I'm choosing my fight. It's time I served something real. Something with a pulse. Go."
+  - _Character Defining Moment:_ **Kaelen Night** — He makes the ultimate choice to serve "the heart" (Angelica) over "the chair" (the Founders), effectively committing social and career suicide to save her.
 
-### Scene 4: The Betrayal / "Petal & Stem" - Front and Basement
+### Scene 4: The Betrayal
 
-- **Key Event:** "Night!" Duke Grey's voice booms over the loudspeaker. "Open this door! Deliver the package!"
-- **Key Event:** Kaelen doesn't answer. He stacks chairs. He creates a kill-box.
-- **Key Event:** Angelica stops at the basement stairs.
-- **Key Event:** "Why?" she asks.
-- **Key Event:** "Go, Angelica," Kaelen says, not looking back. "Run before I remember I am a soldier. Run before the shadows call me back."
-- **Key Event:** She runs.
-- **Key Event:** Kaelen stands alone in the parlor. He feels light. He has just committed high treason. He has thrown away his rank, his house, his life.
-- **Key Event:** And he has never felt more free.
-- **Key Event:** The door splinters. The first soldier bursts in.
-- **Key Event:** Kaelen laughs.
-  - _Character Defining Moment:_ **Kaelen Night** — He smiles genuinely for the first time, experiencing the "bitter, triumphant" freedom of his betrayal.
-  - _Key Dialog:_ **Kaelen:** "Go, Angelica. Run before I remember I am a soldier. Run before the shadows call me back."
+- **Key Event:** The Voice.
+- **Detailed Description:** A voice booms over the loudspeaker outside. It is Duke Grey himself.
+  - _Key Dialog:_ **Duke Grey (Amplified):** "Night! Open this door! Deliver the package! Do not make me come in there!"
+- **Key Event:** The Silence.
+- **Detailed Description:** Kaelen doesn't answer. He stacks chairs. He moves shelves. He creates a "kill-box"—a funnel of death at the entryway.
+- **Key Event:** The Parting.
+- **Detailed Description:** Angelica stops at the bottom of the basement stairs. She looks up at him one last time.
+  - _Key Dialog:_ **Angelica Ward:** "Why?"
+- **Key Event:** The Farewell.
+- **Detailed Description:** Kaelen doesn't look back. He is staring at the door.
+  - _Key Dialog:_ **Kaelen Night:** "Go, Angelica. Run before I remember I am a soldier. Run before the shadows call me back."
+- **Key Event:** The Departure.
+- **Detailed Description:** She runs. The sound of her footsteps fades into the damp dark of the sewers.
+- **Key Event:** The Feeling.
+- **Detailed Description:** Kaelen stands alone in the parlor. Dust swirls around him. He feels light. Lighter than he has felt in years. He has just committed high treason. He has thrown away his rank, his house, his life.
+- **Key Event:** The Freedom.
+- **Detailed Description:** And he has never felt more free.
+- **Key Event:** The Breach.
+- **Detailed Description:** The door splinters. The wood gives way. The first armored soldier bursts in.
+- **Key Event:** The Laugh.
+- **Detailed Description:** Kaelen laughs.
+  - _Key Dialog:_ **Kaelen Night:** "Welcome to the party, boys."
 
 ---
 
