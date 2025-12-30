@@ -1,52 +1,48 @@
-# Chapter Summary Template
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
-
-> [!NOTE]
-> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
-
----
-
 ## Chapter 31: The Goodbye
 
-### Scene 1: The Pods
+### Scene 1: The Pods / _Aeterna_ Cryo-Deck
 
-- **Key Event:** Angelica manages the final loading of civilians into cryo-pods, which act as a time machine to skip the upcoming dark ages.
-- **Key Event:** She reassures a young girl, Lisbet-7, that they will wake up in a better future.
+- **Key Event:** The Cryo-Deck is cold. Mist rolls across the floor.
+- **Key Event:** Rows of silver pods stretch into the darkness. Six hundred of them. The entire population of the valley.
+- **Key Event:** Angelica walks down the line. She checks the vitals. Green lights.
+- **Key Event:** She stops at a pod. A little girl, Lisbet-7 (an ancestor of the Lisbet she knew), is clutching a stuffed animal made of rabbit fur.
+- **Key Event:** The girl looks terrified. "Will it hurt?" she asks.
+- **Key Event:** Angelica kneels. "No. It will feel like a nap. A long nap."
+- **Key Event:** "Will the monsters be there when I wake up?"
+- **Key Event:** Angelica strokes the girl's hair. "No. When you wake up, the sky will be blue again. The monsters will be dust. And we will be free."
+- **Key Event:** The girl nods. She trusts the Sky-Woman.
+- **Key Event:** Angelica initiates the sequence. The glass frosts over. The girl sleeps.
   - _Key Dialog:_ **Angelica Ward:** "When you wake up, the sky will be blue again. The monsters will be dust. And we will be free."
 
----
+### Scene 2: The Sleep / Cryo-Deck
 
-### Scene 2: The Sleep
+- **Key Event:** The last heavy seal hisses shut.
+- **Key Event:** The room is silent, save for the hum of the cooling units.
+- **Key Event:** They are safe. They are cargo now.
+- **Key Event:** Angelica feels a crushing weight of responsibility. She is carrying a civilization in her hold.
+- **Key Event:** Suddenly, the ship shudders. _BOOM._
+- **Key Event:** Dust falls from the ceiling. Ideally, they would launch quietly. Reality has other plans.
+- **Key Event:** "Bridge!" she snaps into her comms. "Status!"
 
-- **Key Event:** The ship is fully loaded and ready for launch, but the bridge is under bombardment.
+### Scene 3: The Check / Bridge
 
----
+- **Key Event:** Elara is at the tactical station. "Shields are holding at 80%!" she shouts over the alarms.
+- **Key Event:** "Who is hitting us?"
+- **Key Event:** "Hunters," Elara says. "They didn't wait for nightfall. They landed dropships at the gate. Mechs. Heavy walkers."
+- **Key Event:** The viewscreen shows the valley burning. Green laser fire cuts through the smoke.
+- **Key Event:** "Where is Torin?" Angelica asks.
+- **Key Event:** "He's at the ramp," Elara says. "Holding the line. He says the engines need three more minutes to reach launch thrust."
+- **Key Event:** Angelica swears. Three minutes is an eternity.
 
-### Scene 3: The Check
+### Scene 4: The Promise / Cryo-Deck
 
-- **Key Event:** Elara reports that the magnetic shielding is fluctuating as the Hunters land troop mechs at the gate.
-- **Key Event:** Torin is still outside, coordinating the defense of the launch ramp.
-
----
-
-### Scene 4: The Promise
-
-- **Key Event:** Angelica promises the sleeping souls that she will get them home.
+- **Key Event:** Angelica looks back at the pods one last time.
+- **Key Event:** Six hundred lives. Six hundred futures.
+- **Key Event:** She places her hand on the bulkhead door.
+- **Key Event:** "Sleep tight," she whispers. "See you in the future. I promise I won't let you down."
+- **Key Event:** She turns and runs for the turbo-lift. She has a war to finish before she can sleep.
   - _Key Dialog:_ **Angelica Ward:** "Sleep tight. See you in the future. I promise I won't let you down."
 
 ---
 
-## Template Usage Notes
-
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Character Defining Moments:** Nest under the key event where the moment occurs.
-4. **Key Dialog:** Nest under the key event where the dialog is spoken.
-5. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies.
-
----
-
-_Copy this template for each chapter. Add or remove scenes and events as needed._
-
-
+_Summarized from Book 6 source material._

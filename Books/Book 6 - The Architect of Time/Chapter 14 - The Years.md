@@ -1,55 +1,65 @@
-# Chapter Summary Template
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
-
-> [!NOTE]
-> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
-
----
-
 ## Chapter 14: The Years
 
-### Scene 1: The Montage
+### Scene 1: The Montage / The Scaffolding
 
-- **Key Event:** Two decades pass as the ship, _Aeterna_, slowly takes shape through all seasons.
+- **Key Event:** Time blurs. It isn't measured in days, but in rivets.
+- **Key Event:** **Year 1:** The keel is laid.
+- **Key Event:** **Year 3:** The ribs loop up like the skeleton of a whale.
+- **Key Event:** **Year 5:** The first hull plates are hammered into place. Constant, rhythmic clanging that echoes through the valley from dawn to dusk.
+- **Key Event:** **Year 10:** The engines are mounted. Massive, distinct shapes that promise fire.
+- **Key Event:** Angelica is always there. Pointing. Yelling. Drawing in the dirt.
+- **Key Event:** She doesn't stop. She sleeps in short bursts. She eats while walking.
+- **Key Event:** The seasons change. The jungle grows back, and they cut it down. The rains come, and they work in the mud. The sun burns, and they work in the heat.
+
+### Scene 2: The Broken Brother / The Logging Camp
+
+- **Key Event:** **Year 12.** A tragedy in the logging camp.
+- **Key Event:** A massive redwood shifts on the rollers.
+- **Key Event:** Bjorn the Breaker, Ragnar's blood-brother, is too slow.
+- **Key Event:** The log crushes his legs.
+- **Key Event:** He screams. The healers come running.
+- **Key Event:** They drag him out. His legs are ruined using.
+- **Key Event:** Ragnar stands over him.
+- **Key Event:** "Brother," Bjorn gasps. "Help me up."
+- **Key Event:** Ragnar looks at the mangled limbs. Then at the log that stopped moving.
+- **Key Event:** "Move the log," Ragnar orders the men.
+- **Key Event:** "But Bjorn..."
+- **Key Event:** "Move the log!" Ragnar roars. "The ship needs wood!"
+- **Key Event:** He looks down at Bjorn. There is no pity in his eyes. Only calculation.
+- **Key Event:** "A wolf that cannot run drags down the pack," he says.
+- **Key Event:** He turns his back.
+- **Key Event:** Bjorn is left in the mud. He stops screaming. He just stares at his brother's back, realizing the world has changed.
+
+### Scene 3: The Aging / The Upper Deck
+
+- **Key Event:** **Year 18.**
+- **Key Event:** Angelica sits on the edge of the finished upper deck, 100 feet in the air.
+- **Key Event:** She looks at her hands. They are calloused, scarred. The hands of a worker, not a noble.
+- **Key Event:** She touches her face. There are lines around her eyes. Gray in her hair.
+- **Key Event:** She was twenty when she crashed. She is forty now.
+- **Key Event:** Torin sits beside her. He is grayer too. Thicker.
+- **Key Event:** He passes her a water skin.
+- **Key Event:** "It is a good view," he says.
+- **Key Event:** Angelica sighs. "I'm old, Torin. Look at me. I'm a hag."
+- **Key Event:** Torin looks at her. Really looks at her.
+- **Key Event:** "No," he says. "You look like the mountain. Strong. Weathered. Unmovable."
+- **Key Event:** He touches a scar on her cheek.
+- **Key Event:** "The smooth stone is pretty," he says. "But the rough stone holds the wall. You are the rough stone, Angelica."
+- **Key Event:** Angelica leans into his touch. It is the only softness she allows herself.
+
+### Scene 4: The Truth / The Upper Deck
+
+- **Key Event:** The sun sets, turning the hull to gold.
+- **Key Event:** "I missed it," Angelica whispers.
+- **Key Event:** "What?"
+- **Key Event:** "My life," she says. "I missed being young. I missed... everything."
+- **Key Event:** She looks at the ship. Her masterpiece. Her prison.
+- **Key Event:** "Time moves differently when you are building something eternal," she says. "I forgot to count the years, Torin. I woke up, and my youth was gone. I traded my life for a ship."
+- **Key Event:** Torin stands up. He offers her a hand.
+- **Key Event:** "You traded your life for _our_ lives," he says. "A fair trade."
+- **Key Event:** Angelica takes his hand. She stands wincing at the ache in her back.
+- **Key Event:** "Let's hope so," she says. "Because I can't get a refund."
 
 ---
 
-### Scene 2: The Broken Brother
-
-- **Key Event:** Bjorn the Breaker is severely injured when a log crushes his legs.
-- **Key Event:** Ragnar cold-heartedly rejects Bjorn for being no longer "useful" to the pack.
-  - _Character Defining Moment:_ **Ragnar** — His absolute focus on survival and utility makes him discard his own blood-brother.
-  - _Key Dialog:_ **Ragnar:** "A wolf that cannot run drags down the pack."
-
----
-
-### Scene 3: The Aging
-
-- **Key Event:** Angelica ages over the 20-year construction, her appearance reflecting the harsh labor and sun.
-- **Key Event:** She develops a deep, unspoken bond with Torin through years of shared intellectual and physical toil.
-  - _Character Defining Moment:_ **Torin** — He expresses profound admiration for Angelica's weathered strength.
-  - _Key Dialog:_ **Torin:** "You look like the mountain. Strong. Weathered. Unmovable."
-
----
-
-### Scene 4: The Truth
-
-- **Key Event:** Angelica reflects on her lost youth and the trade she made for the ship.
-  - _Key Dialog:_ **Angelica Ward:** "Time moves differently when you are building something eternal. I forgot to count the years, Torin. ... I woke up, and my youth was gone. I traded my life for a ship."
-
----
-
-## Template Usage Notes
-
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Character Defining Moments:** Nest under the key event where the moment occurs.
-4. **Key Dialog:** Nest under the key event where the dialog is spoken.
-5. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies.
-
----
-
-_Copy this template for each chapter. Add or remove scenes and events as needed._
-
-
+_Summarized from Book 6 source material._

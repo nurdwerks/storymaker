@@ -1,44 +1,58 @@
-# Chapter 2: The New Rules
+## Chapter 2: The New Rules
 
----
+### Scene 1: The Scavenge / Sector 4 Impact Crater
 
-### Scene 1: The Scavenge
+- **Key Event:** _CRUNCH._
+- **Key Event:** Angelica hits the bottom of the crater. Mud. Trash. Sludge.
+- **Key Event:** She rolls, coughing. The air tastes of sulfur and rot. The Undercity.
+- **Key Event:** Zephyr lands next to her. He groans, clutching his side.
+- **Key Event:** "I think I broke a rib," he wheezes. "Add it to the tab."
+- **Key Event:** They aren't alone.
+- **Key Event:** A figure is crawling through the debris. A scavenger. Rags wrapped around his feet.
+- **Key Event:** He is pulling at the boots of a body.
+- **Key Event:** The body moves. It's Lord Vermillion, a minor noble who fell with them.
+- **Key Event:** "Get off me, peasant!" Vermillion shrieks. "I am Lord Vermillion! I command you! Do you know who I am? I am a Peer of the Realm!"
+- **Key Event:** The scavenger ignores him. He pulls out a rusty knife. He wants the boots.
 
-- **Key Event:** Angelica and Zephyr impact the ground in Sector 4 (the slums), landing in a crater created by Zenith debris.
+### Scene 2: The Kill / The Crater
 
-  - _Key Dialog:_ **Zephyr:** "I think I broke a rib. Add it to the tab."
+- **Key Event:** Angelica moves to intervene. "Stop!"
+- **Key Event:** Before she can take a step, a blur of motion drops from the shadows.
+- **Key Event:** Ria.
+- **Key Event:** She lands on the scavenger's back.
+- **Key Event:** _CRACK._
+- **Key Event:** She snaps his neck. Efficient. ruthless.
+- **Key Event:** The scavenger goes limp.
+- **Key Event:** Ria doesn't look at the body. She pulls the boots off.
+- **Key Event:** She throws them to Lisbet, who is shivering nearby.
+- **Key Event:** "Put them on," Ria says. "Your soles were worn through."
+- **Key Event:** Angelica stares. "You killed him."
+- **Key Event:** "He was armed," Ria says. "And Lisbet needs shoes."
 
-- **Key Event:** A local scavenger attempts to loot the boots of a dying noble, Lord Vermillion, who tries to command authority based on his title.
-  - _Key Dialog:_ **Lord Vermillion:** "I am Lord Vermillion! I command you! Do you know who I am? I am a Peer of the Realm!"
+### Scene 3: The Speech / The Crater
 
----
+- **Key Event:** Lord Vermillion is sobbing. "Thank you! Thank you, citizen! I will reward you! My house is powerful!"
+- **Key Event:** Angelica kneels beside him. "He's bleeding. We need to bind this."
+- **Key Event:** Ria steps in front of her. "No."
+- **Key Event:** "What?"
+- **Key Event:** "Leave him," Ria says.
+- **Key Event:** "He's hurt!"
+- **Key Event:** "He's noise," Ria says flatly. "He's calorie-negative. We can't carry him. We can't feed him. If you heal him, he just starves slower. Leave him."
+- **Key Event:** Vermillion stares at them. "You can't! I am a Lord!"
 
-### Scene 2: The Kill
+### Scene 4: The Law / The Crater Edge
 
-- **Key Event:** Ria enters the scene and kills the scavenger by snapping his neck to take the boots for Lisbet.
-  - _Character Defining Moment:_ **Ria** — Efficiently eliminates a scavenger and loots a noble without hesitation, prioritizing the needs of her unit (Lisbet) over social hierarchy.
-  - _Key Dialog:_ **Ria:** "Put them on. Your soles were worn through."
-
----
-
-### Scene 3: The Speech
-
-- **Key Event:** Ria stops Angelica from helping the injured Lord Vermillion, labeling him "dead weight."
-  - _Character Defining Moment:_ **Ria** — Rejects the concept of Zenith charity, viewing it as "noise" and "calorie-negative."
-  - _Key Dialog:_ **Ria:** "He's noise. He's calorie-negative. We can't carry him. We can't feed him. If you heal him, he just starves slower. Leave him."
-
----
-
-### Scene 4: The Law
-
-- **Key Event:** Ria stands on debris and declares a new set of laws for the Undercity: survival depends on utility and caloric intake, not previous rank.
-  - _Character Defining Moment:_ **Angelica Ward** — Accepts Ria's logic and steps back from helping the noble, hardening her resolve for the sake of survival.
-  - _Key Dialog:_ **Ria:** "Zenith laws are for full bellies. Down here, the only law is caloric intake. You work, you eat. You steal, you die."
-  - _Key Dialog:_ **Ria:** "There are no seats on the council here, Ward. There is only the food chain. Are you eating, or are you meat?"
-  - _Key Dialog:_ **Angelica Ward:** "Morality is a luxury we left upstairs. Move."
+- **Key Event:** Ria climbs up onto a pile of twisted metal. She looks down at them.
+- **Key Event:** "Zenith laws are for full bellies," she announces. "Down here, the only law is caloric intake. You work, you eat. You steal, you die."
+- **Key Event:** She points at Vermillion. "He can't work. So he doesn't eat."
+- **Key Event:** She looks at Angelica. "There are no seats on the council here, Ward. There is only the food chain. Are you eating, or are you meat?"
+- **Key Event:** Angelica looks at the dying noble. Then she looks at the dark, hungry city around them.
+- **Key Event:** She stands up. She wipes the mud from her hands.
+- **Key Event:** "I'm eating," she says.
+- **Key Event:** "Good," Ria says. "Now strip him. His coat is wool. We can use it."
+- **Key Event:** Angelica hesitates for one second. Then she bends down.
+- **Key Event:** "Morality is a luxury we left upstairs," she whispers. "Move."
 
 ---
 
 _Summarized from Book 4 source material._
-
-

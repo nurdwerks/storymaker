@@ -41,8 +41,8 @@ def generate_report(base_dir):
              count = count_words_in_file(file_path)
              total_words += count
              
-             # Status check (arbitrary threshold of 100 words for empty files)
-             status = "Pass" if count > 100 else "Incomplete"
+             # Status check (arbitrary threshold of 1000 words for empty files)
+             status = "Pass" if count > 1000 else "Incomplete"
              
              all_chapters.append({
                  "book": book_folder,

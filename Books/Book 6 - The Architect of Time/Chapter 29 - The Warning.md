@@ -1,52 +1,48 @@
-# Chapter Summary Template
-
-> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
-
-> [!NOTE]
-> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
-
----
-
 ## Chapter 29: The Warning
 
-### Scene 1: The Sky
+### Scene 1: The Sky / The Village, Earth (Past)
 
-- **Key Event:** On the 29th day of charging, the sky turns purple with an ionization trail from atmospheric entry.
-- **Key Event:** Angelica realizes someone is breaking the atmosphere with hostile intent.
+- **Key Event:** It is the 29th day of charging the Hyper-Core. The tribals are celebrating the harvest.
+- **Key Event:** Angelica stands on the ridge, looking up. The sky is a deep, bruised blue.
+- **Key Event:** Suddenly, a streak of fire tears across the heavens. Not a meteor. It's purple. Ionization.
+- **Key Event:** Another streak follows. Then another.
+- **Key Event:** "Torin!" she shouts, running down the slope. "Get the telescope!"
+- **Key Event:** Torin meets her at the base of the tower. He hands her the scope. She trains it on the sky.
+- **Key Event:** Ships. Jagged, ugly ships made of welded scrap and hate. They are burning through the atmosphere, leaving trails of black smoke.
+- **Key Event:** Angelica lowers the scope. "They found us."
 
----
+### Scene 2: The Ships / The Tower
 
-### Scene 2: The Ships
-
-- **Key Event:** Angelica identifies the incoming vessels as "Hunter Ships"—scavengers and survivors of the _Zenith_ Authority.
+- **Key Event:** She recognizes the lead ship. The _Devourer_. It's a Zenith-class mining frigate, retrofitted with heavy cannons.
+- **Key Event:** "Hunter Ships," she says, her voice cold. "Scavengers. They survived the Fall by eating everyone else."
+- **Key Event:** "How many?" Torin asks.
+- **Key Event:** "Six," Angelica says. "Enough to level this mountain."
+- **Key Event:** She looks at the village. The children playing. The elders drying fish. They are soft targets.
+- **Key Event:** "We are out of time," she whispers.
   - _Key Dialog:_ **Angelica Ward:** "We are out of time."
 
----
+### Scene 3: The Timing / The Village Square
 
-### Scene 3: The Timing
+- **Key Event:** A boom shakes the ground. A kinetic rod—a solid tungsten spear dropped from orbit—slams into the mountain peak above them.
+- **Key Event:** Rock shatters. An avalanche of dust and boulders rumbles down, stopping just short of the tree line.
+- **Key Event:** It wasn't a miss. It was a warning shot.
+- **Key Event:** The villagers scream, scattering.
+- **Key Event:** Angelica stands firm. "They want the engine," she realizes. "They tracked the Resonance spike. They know we have a way off this rock."
+- **Key Event:** "They don't want to destroy us," Torin says. "They want to hijack us."
+- **Key Event:** "If they take any of us," Angelica says, checking her rifle, "it will be as livestock."
 
-- **Key Event:** The lead Hunter ship fires a kinetic rod into the mountain to intimidate the tribe.
-- **Key Event:** Angelica realizes the scavengers want the ship's engine to escape Earth themselves.
+### Scene 4: The Alarm / The Launch Pad
 
----
-
-### Scene 4: The Alarm
-
-- **Key Event:** Despite an unstable field at 99% charge, Angelica triggers the emergency alarm for immediate evacuation.
+- **Key Event:** Angelica runs to the control console. "Status!"
+- **Key Event:** "Core charge at 99%!" Starla reports. "The field is unstable! If we launch now, we might tear the ship apart!"
+- **Key Event:** Another kinetic rod hits, closer this time. The ground heaves.
+- **Key Event:** Angelica looks at the sky. The Hunter ships are descending, their landing thrusters firing.
+- **Key Event:** She looks at the ship. It's not ready. But neither are they.
+- **Key Event:** She hits the big red button. The klaxon wails—a banshee scream that echoes through the valley.
+- **Key Event:** "Sound the alarm!" she shouts into the PA system. "Get everyone on board! Leave the supplies! Leave everything!"
+- **Key Event:** "We leave in one hour," she says, her voice echoing over the panic. "Ready or not."
   - _Key Dialog:_ **Angelica Ward:** "Sound the alarm. Get everyone on board. Now. We leave in one hour, ready or not."
 
 ---
 
-## Template Usage Notes
-
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Character Defining Moments:** Nest under the key event where the moment occurs.
-4. **Key Dialog:** Nest under the key event where the dialog is spoken.
-5. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies.
-
----
-
-_Copy this template for each chapter. Add or remove scenes and events as needed._
-
-
+_Summarized from Book 6 source material._
