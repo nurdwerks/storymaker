@@ -2,11 +2,6 @@
 
 | Book | Chapter | Word Count | Status |
 |---|---|---|---|
-| Book 7 - The Final Resonance | [Chapter 32 - The Aftershock.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2032%20-%20The%20Aftershock.md) | 152 | Pass |
-| Book 7 - The Final Resonance | [Chapter 38 - The First Test.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2038%20-%20The%20First%20Test.md) | 152 | Pass |
-| Book 7 - The Final Resonance | [Chapter 48 - The Offering.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2048%20-%20The%20Offering.md) | 153 | Pass |
-| Book 7 - The Final Resonance | [Chapter 42 - The Shattering.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2042%20-%20The%20Shattering.md) | 154 | Pass |
-| Book 7 - The Final Resonance | [Chapter 44 - The Argument.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2044%20-%20The%20Argument.md) | 154 | Pass |
 | Book 7 - The Final Resonance | [Chapter 43 - The Tea Party.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2043%20-%20The%20Tea%20Party.md) | 155 | Pass |
 | Book 7 - The Final Resonance | [Chapter 46 - The Glitch.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2046%20-%20The%20Glitch.md) | 155 | Pass |
 | Book 7 - The Final Resonance | [Chapter 31 - Putting it on the Tab.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2031%20-%20Putting%20it%20on%20the%20Tab.md) | 156 | Pass |
@@ -267,14 +262,19 @@
 | Book 1 - The Iron Selection | [Chapter_15_The_Dance.md](Books/Book%201%20-%20The%20Iron%20Selection/Chapter_15_The_Dance.md) | 595 | Pass |
 | Book 1 - The Iron Selection | [Chapter_02_The_Interception.md](Books/Book%201%20-%20The%20Iron%20Selection/Chapter_02_The_Interception.md) | 604 | Pass |
 | Book 1 - The Iron Selection | [Chapter_01_The_Scavengers_Prince.md](Books/Book%201%20-%20The%20Iron%20Selection/Chapter_01_The_Scavengers_Prince.md) | 615 | Pass |
+| Book 7 - The Final Resonance | [Chapter 44 - The Argument.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2044%20-%20The%20Argument.md) | 1088 | Pass |
 | Book 6 - The Architect of Time | [Chapter 39 - The Loop.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2039%20-%20The%20Loop.md) | 1310 | Pass |
 | Book 7 - The Final Resonance | [Chapter 36 - The Plug-In.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2036%20-%20The%20Plug-In.md) | 1310 | Pass |
+| Book 7 - The Final Resonance | [Chapter 42 - The Shattering.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2042%20-%20The%20Shattering.md) | 1321 | Pass |
 | Book 7 - The Final Resonance | [Chapter 47 - The Bargain.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2047%20-%20The%20Bargain.md) | 1385 | Pass |
 | Book 7 - The Final Resonance | [Chapter 41 - The Avatar of Lilith.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2041%20-%20The%20Avatar%20of%20Lilith.md) | 1405 | Pass |
 | Book 7 - The Final Resonance | [Chapter 39 - The Avatar of Leo.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2039%20-%20The%20Avatar%20of%20Leo.md) | 1430 | Pass |
 | Book 7 - The Final Resonance | [Chapter 34 - The Pause.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2034%20-%20The%20Pause.md) | 1434 | Pass |
 | Book 7 - The Final Resonance | [Chapter 40 - The Acceptance.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2040%20-%20The%20Acceptance.md) | 1473 | Pass |
 | Book 7 - The Final Resonance | [Chapter 45 - The Proof.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2045%20-%20The%20Proof.md) | 1479 | Pass |
+| Book 7 - The Final Resonance | [Chapter 48 - The Offering.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2048%20-%20The%20Offering.md) | 1561 | Pass |
 | Book 7 - The Final Resonance | [Chapter 22 - The Entity Enter.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2022%20-%20The%20Entity%20Enter.md) | 1567 | Pass |
+| Book 7 - The Final Resonance | [Chapter 38 - The First Test.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2038%20-%20The%20First%20Test.md) | 1678 | Pass |
+| Book 7 - The Final Resonance | [Chapter 32 - The Aftershock.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2032%20-%20The%20Aftershock.md) | 1682 | Pass |
 
-**Total Word Count:** 91432
+**Total Word Count:** 97997
