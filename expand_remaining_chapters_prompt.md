@@ -1,6 +1,7 @@
 # Agentic Prompt: Expand Remaining Chapters
 
-**Goal:** Expand all remaining chapters in `ChapterWordCount.md` that have a word count < 1000 words. Focus primarily on the chapters in "Book 7 - The Final Resonance", followed by any remaining chapters in other books.
+**Goal:** Expand all remaining chapters in `ChapterWordCount.md` that have a word count < 1000 words.
+After 20 chapters have been processed, proceed with final verification and submit a PR.
 
 **Context:**
 - **Template:** `Books/Chapter Summary Template.md` contains the required structure and rules (Tone, Word Count, Consistency).
@@ -17,7 +18,6 @@
 2.  **Iterative Expansion Loop (For each target chapter):**
     - **Read the Chapter:** Read the current content of the target chapter file (e.g., `Books/Book 7 - The Final Resonance/Chapter XX - Title.md`).
     - **Read Relevant Profiles:** Based on the characters mentioned in the chapter (or implied by the plot), read the corresponding profiles in `Characters/`.
-        - *Key Profiles for Book 7:* Angelica Ward, Kaelen Night, Ria, Lisbet, The Entity, Prelate Vane.
     - **Apply Template:** Overwrite the chapter file with the content of `Books/Chapter Summary Template.md` at the top, followed by the expanded content.
     - **Expand Content:**
         - **Detailed Description:** Add a "Detailed Description" section for every "Key Event". Describe sensory details (sight, sound, smell), the environment, and specific physical actions.
@@ -28,17 +28,12 @@
     - **Verify:** Run `python3 generate_word_count.py` to confirm the chapter now passes the word count check.
 
 3.  **Batching:**
-    - Process chapters in batches of 5-10 to manage context window and execution time.
+    - Process chapters in batches of 5 to manage context window and execution time.
     - Update `ChapterWordCount.md` after each batch to track progress.
 
 4.  **Final Verification:**
     - Once all chapters are processed, run `generate_word_count.py` one last time.
     - Check `ChapterWordCount.md` to ensure **Total Word Count** has increased significantly and all targeted chapters are "Pass" (or > 1000 words).
-
-**Specific Constraints for Book 7:**
-- **The Entity:** Describe it using geometric terms (hyper-cubes, spheres), "Null-Light," and silence. It is not evil; it is an immune system.
-- **Entropy:** The central theme is the battle between Life (Noise/Energy) and Death (Silence/Entropy).
-- **Character Arcs:** Ensure continuity with the end of Book 6 (e.g., Kaelen's redemption, Ria's loss of sensation, Lisbet's grief).
 
 **Output:**
 - The final output should be the updated chapter files and the updated `ChapterWordCount.md`.
