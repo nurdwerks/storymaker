@@ -22,4 +22,9 @@ Sir Gallant is a young, handsome suitor who currently holds the position of "Fla
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L633-L634)
 - **Defining Quote from Lady Corinne:** "You were supposed to be the shield, Gallant. Not the one hiding behind me. A knight who fears the dark isn't a knight—he's just a boy in expensive metal. I have no use for boys who can't keep their hands steady."
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 04 | Detailed Description | The dining hall is suffocatingly warm, the air thick with the smell of roasted meat and heavy perfume. Angelica pushes her plate away, her face pale. She whispers an apology to the Duke, claiming the richness of the food has unsettled her. Grey, annoyed but maintaining his gallant facade, waves a hand of dismissal. Angelica walks out of the hall, her heels clicking on the marble. As soon as the heavy doors close behind her, her posture changes. The fragility vanishes. She moves with the silent, stalking grace of an Undercity scavenger. She slips off her heels, carrying them. She moves down the corridor, avoiding the patrolling automated sentries by timing their rotation cycles. |
+| Book 3 | Chapter 05 | *The Vanity Court | Surrounding **Lady Corinne** is her retinue: **Marcel** (her stylus-wielding fashion stylist who critiques everyone's hemline), the twins **Rose and Lily** (who brush her hair in unison), and **Photographer Vorn** (who orbits her like a moon, snapping photos for the social feed). **Sir Gallant**, her current suitor, hovers nearby, fetching her drinks with pathetic eagerness. |

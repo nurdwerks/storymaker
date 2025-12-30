@@ -28,4 +28,9 @@ The Mongrel is a massive, scarred man who barely speaks, guarding the entrance t
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 4 | Chapter 17 | Key Event | **The Mongrel** dies defending the gate from the Nulls. He takes a spear to the chest but kills his attacker before falling, dying in absolute silence. |
+| Book 4 | Chapter 17 | Detailed Description | **The Mongrel**, a fierce scavenger warlord who joined their alliance, holds the left flank. He is huge, swinging a massive pipe wrench. |
+| Book 4 | Chapter 17 | Dialog | **The Mongrel:** "For the heap!" |
+| Book 4 | Chapter 17 | Detailed Description | The Mongrel roars and charges. A Null steps inside his guard with mathematical efficiency. |
+| Book 4 | Chapter 17 | Detailed Description | _Thunk._ A pneumatic spear drives through the Mongrel's chest. |
+| Book 4 | Chapter 17 | Detailed Description | The Mongrel gasps. He brings the wrench down, crushing the Null's skull in a spray of sparks and fluid. |
+| Book 4 | Chapter 17 | Detailed Description | They both fall. Silent. The Mongrel is dead. The Null is deactivated. |

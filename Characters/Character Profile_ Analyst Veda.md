@@ -21,4 +21,5 @@ Analyst Veda is a woman who uses high-speed computers to predict the outcome of 
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 6 | Chapter 25 | Key Event | Angelica addresses the crew of the new ship. Analyst Veda and Bio-Engineer Kline are among the department heads present. |
+| Book 6 | Chapter 25 | Detailed Description | The bridge is crowded. Analyst Veda, now a mature woman with sharp eyes, stands at the navigation station. Bio-Engineer Kline checks the environmental systems. Ragnar (possessed by Vane) stands in the corner, watching silently with his milky eyes. Angelica stands at the helm. She is no longer the young girl who fell from the sky; she is a woman of forty, her hair streaked with white, her hands calloused. She wears a uniform made of cured leather and scavenged fabric—the uniform of a Captain. |
+| Book 6 | Chapter 25 | Dialog | **Analyst Veda:** "Navigation charts are loaded. We have three potential destination vectors. Tau Ceti is the most viable for habitation." |

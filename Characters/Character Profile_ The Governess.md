@@ -24,5 +24,7 @@ The Governess is an ancient woman who raised Kaelen and now "mentors" the young 
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 13 | Key Event | Droids forcibly remove Lady Selene's illegal "Youth-Grafts," and The Governess reveals she betrayed the family to Vane. |
-| Book 3 | Chapter 13 | Key Event | A Zenith Warden thanks The Governess for her service, then shoots her in the back. Useful tools are discarded when the job is done. |
+| Book 3 | Chapter 13 | Key Event | The Governess, the woman who raised Kaelen, reveals her treachery. |
+| Book 3 | Chapter 13 | Detailed Description | Kaelen finds the Governess standing by the open safe in the study. She is handing a stack of data-crystals to a Warden. These are the family's secret ledgers, the proof of their illegal dealings. Kaelen stares at her, betrayed. She looks back with cold pragmatism. |
+| Book 3 | Chapter 13 | Dialog | **The Governess:** "Because Vane pays better. And I was tired of raising failures. Your house is dead, boy. I'm just leaving before the roof falls in." |
+| Book 3 | Chapter 13 | Key Event | The Governess is executed by the Wardens. |

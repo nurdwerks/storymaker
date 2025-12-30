@@ -28,4 +28,12 @@
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 4 | Chapter 22 | Key Event | The orderly **Timmy** is paralyzed while shielding Joyce from a scavenger's laser cutter, and Joyce goes on a lethal rampage using her knitting needles. |
+| Book 4 | Chapter 22 | Dialog | **Joyce:** "...She's gone. Timmy! Secure the hallway!" |
+| Book 4 | Chapter 22 | Key Event | The mob breaches the facility. "Little" Timmy defends Joyce. |
+| Book 4 | Chapter 22 | Detailed Description | The hallway becomes a kill zone. Scavengers pour in, smashing furniture and looting. Timmy, the massive orderly, stands in front of Joyce like a shield. He uses a heavy oak table as a weapon, sweeping attackers aside. But he is overwhelmed. A scavenger with a laser cutter slices through his leg. Timmy falls but refuses to move, covering Joyce with his body. He takes blow after blow, his eyes locked on Joyce, waiting for her command. |
+| Book 4 | Chapter 22 | Detailed Description | Joyce snaps. The "Grandmother" persona evaporates completely. She pulls the knitting needles from her hair. **Needle**, her Phase-Viper bond, manifests around her arm. She moves into the mob. It is not a fight; it is a slaughter. She moves faster than the eye can follow, her needles phasing through armor and bone. She strikes with surgical precision—carotid, femoral, ocular. In seconds, ten men are dead. She stands over Timmy, breathing hard, her cardigan splattered with blood. |
+| Book 4 | Chapter 22 | *Internal Conflict | Joyce looks at Timmy. He is dying. His sacrifice has bought her time, but it has broken her heart. She touches his face, her bloody hand trembling—not from age, but from grief. |
+| Book 4 | Chapter 22 | Dialog | **Timmy (wheezing):** "Did I stop them, Miss Joyce? Did I do good?" |
+| Book 4 | Chapter 22 | Dialog | **Joyce:** "Yes, Timmy. You were the best boy. You were the cushion." |
+| Book 4 | Chapter 22 | *Internal Conflict | Joyce is broken. She has lost her home, her friend Gable, her protector Timmy, and her illusion of peace. She is just a killer in the dark again. She looks at her hands, still stained with blood, and weeps silently. |
+| Book 6 | Chapter 47 | *Internal Conflict | She sees faces that remind her of the friends she lost. A mechanic who looks like Timmy. A gunner who has Hatcher's eyes. She realizes that the crew is her family now. She is fighting for them, not just for the abstract concept of "Humanity." |

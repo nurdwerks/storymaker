@@ -24,5 +24,11 @@ Bjorn the Breaker is a massive warrior and Ragnar’s blood-brother. He represen
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 6 | Chapter 14 | Key Event | Bjorn the Breaker is severely injured when a log crushes his legs. |
-| Book 6 | Chapter 14 | Key Event | Ragnar cold-heartedly rejects Bjorn for being no longer "useful" to the pack. |
+| Book 6 | Chapter 14 | Detailed Description | Bjorn the Breaker, Ragnar's blood-brother and strongest lieutenant, is too slow. He slips. The log rolls over his legs. |
+| Book 6 | Chapter 14 | Detailed Description | The crunch of bone is sickening. Bjorn screams. It is a high, thin sound that cuts through the forest. |
+| Book 6 | Chapter 14 | Detailed Description | Ragnar stands over him. Bjorn is pale, shock setting in. |
+| Book 6 | Chapter 14 | Dialog | **Bjorn:** "Brother... help me up. I can't feel my feet." |
+| Book 6 | Chapter 14 | Dialog | **Worker:** "But Bjorn... he needs help." |
+| Book 6 | Chapter 14 | Detailed Description | He looks down at Bjorn. There is no pity in his eyes. Only cold calculation. |
+| Book 6 | Chapter 14 | Dialog | **Ragnar:** "A wolf that cannot run drags down the pack. You are done, Bjorn. You are weight now." |
+| Book 6 | Chapter 14 | Detailed Description | He turns his back and walks away to supervise the lifting. Bjorn is left in the mud, staring at his brother's back, realizing that in this new world, utility is the only currency. |

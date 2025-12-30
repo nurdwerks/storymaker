@@ -18,5 +18,10 @@ Dr. Splicer is a genetics expert fascinated by Prelate Vane’s vision of the "P
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 32 | Key Event | The team breaches Prelate Vane's hidden research laboratory. Dr. Splicer and Lab Assistant Igor are among the defenders. |
-| Book 3 | Chapter 32 | Key Event | In the firefight, Dr. Splicer is killed by Ria's precise shot. Lab Assistant Igor attempts to flee but is caught in the crossfire. |
+| Book 3 | Chapter 32 | Key Event | Dr. Splicer, Vane's head of genetic research, attempts to purge the databases before the team can reach them. |
+| Book 3 | Chapter 32 | Detailed Description | Splicer is a thin, nervous man with cybernetic implants in his skull. He stands behind a wall of reinforced glass, typing frantically. He shouts orders to his assistant, Igor, a hulking, lobotomized brute. |
+| Book 3 | Chapter 32 | Dialog | **Dr. Splicer:** "Hold them back! The data must not be compromised! Upload to the secure server! Delete local files!" |
+| Book 3 | Chapter 32 | Dialog | **Dr. Splicer:** "You're too late! The data is already uploaded! You'll find nothing but ghosts here!" |
+| Book 3 | Chapter 32 | Detailed Description | The glass wall shatters under concentrated fire. Igor charges, swinging a heavy wrench. Kaelen steps forward, his movement a blur. He sidesteps the blow and severs Igor's hamstrings with a precise cut of his mono-blade. Igor falls, screaming. Splicer draws a pistol, but he is a scientist, not a soldier. |
+| Book 3 | Chapter 32 | Key Event | Ria kills Dr. Splicer. |
+| Book 3 | Chapter 32 | Detailed Description | Ria doesn't hesitate. She puts a single round through Splicer's chest. He is thrown backward into his console, sparks flying as his body shorts out the equipment. |

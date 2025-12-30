@@ -98,4 +98,8 @@
 
 ---
 
+- **Key Event:** The medical scan.
+- **Detailed Description:** As Angelica lies unconscious, **Dr. Aris** (The Sleepless Eye) observes her vitals from behind the glass. He notes the anomaly in her resonance signature—a void where a soul should be. He records the data with clinical detachment, his cybernetic eye whirring as it zooms in on the burn mark from the decontamination spray.
+  - _Key Dialog:_ **Dr. Aris:** "Subject stabilized. Resonance Index: Null. She is a perfect blank slate."
+
 _Summarized from Book 1 source material._

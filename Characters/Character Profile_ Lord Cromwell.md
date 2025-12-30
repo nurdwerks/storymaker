@@ -170,12 +170,38 @@ Cromwell operates in the dark, but he is not alone. He has a network of spies an
 
 ## Consistency Check
 
-| Book   | Chapter    | Type      | Event Description                                                                                                                                                      |
-| ------ | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Book 3 | Chapter 02 | Key Event | Angelica meets Lord Cromwell and observes his mechanical bond, The Scriptor, writing in a ledger.                                                                      |
-| Book 3 | Chapter 02 | Key Event | Cromwell uses a holographic display to show Leo Ward in a detention cell as leverage against Angelica.                                                                 |
-| Book 3 | Chapter 02 | Key Event | Angelica realizes the "banality of evil" in Cromwell's bureaucratic approach and decides to comply for now.                                                            |
-| Book 3 | Chapter 02 | Moment    | **Angelica Ward** — Recognizes that violence will not work against Cromwell and chooses a more controlled response.                                                    |
-| Book 3 | Chapter 31 | Key Event | Lord Cromwell attempts to stop the group by threatening to destroy the AI core, which would terminate life support.                                                    |
-| Book 3 | Chapter 31 | Key Event | Miller shoots Cromwell to prevent him from using the detonator; ARIA deletes "Protocol Vane" and engages "Protocol Life."                                              |
-| Book 3 | Chapter 31 | Moment    | **Lord Cromwell** — Even as he bleeds out, his final act is bureaucratic—he tries to file a formal complaint. The paperwork scatters, irrelevant. He dies as he lived. |
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 1 | Chapter 09 | Detailed Description | **Lord Cromwell** stands in the shadows of the Observation Deck, his mechanical quill scratching automatically in a ledger. He listens to Vane's assessment of the candidates, his eyes flicking to the Emperor's empty throne. He does not speak, but his presence reminds Vane that every word is being recorded for the Archives. |
+| Book 1 | Chapter 09 | Moment | **Lord Cromwell** — He represents the silent, bureaucratic memory of the State, ensuring that even the most powerful Prelates are accountable to the written record. |
+| Book 3 | Chapter 02 | Key Event | Angelica enters the inner office and meets Lord Cromwell, the High Steward of the Zenith. |
+| Book 3 | Chapter 02 | Detailed Description | The inner office is dominated by a massive desk made of dark, polished wood. Behind it sits Lord Cromwell. He is a small, withered man with skin like parchment and eyes that look like beads of black glass. He is writing in a ledger with a fountain pen, the scratch of the nib loud in the quiet room. On his shoulder sits his Bond-Animal: "The Scriptor," a mechanical spider made of brass and clockwork. The spider has multiple limbs, each holding a quill or a magnifying lens. It mimics Cromwell's movements, scuttling across the ledger to blot ink or turn pages. |
+| Book 3 | Chapter 02 | Key Event | Cromwell reviews Angelica's file. |
+| Book 3 | Chapter 02 | Detailed Description | Cromwell does not look up immediately. He finishes a sentence, dots an 'i', and then closes the book. He picks up a stack of paper—Angelica's dossier. He reads from it in a dry, monotone voice. He lists her crimes: arson in Sector 4, theft of state property (the drone), treasonous speech during the selection. He lists them not with anger, but with the detached boredom of an accountant auditing a tax return. |
+| Book 3 | Chapter 02 | Dialog | **Lord Cromwell:** "Your file is... messy. Arson. Theft of state property. Treason. Unauthorized modification of Class-A technology. You seem to have a talent for disorder, Miss Ward." |
+| Book 3 | Chapter 02 | Key Event | Cromwell reveals the true nature of his power: he controls the resources. |
+| Book 3 | Chapter 02 | Detailed Description | Cromwell stands up and walks to the window. He gestures to the city below. He explains that Vane may be the face of the Zenith, but Cromwell is the spine. He controls the food rations, the water cycles, the air scrubbers. He calculates the caloric needs of every citizen. |
+| Book 3 | Chapter 02 | Key Event | Cromwell uses a holographic display to show Leo Ward. |
+| Book 3 | Chapter 02 | Detailed Description | He waves his hand, and a section of the air turns into a screen. It shows a live feed of a detention cell. Leo is sitting on a cot, reading a book. He looks safe, but the cell is stark. Cromwell explains the arrangement. Leo is being kept in "protective custody." His medicine is being administered on a schedule set by Cromwell. |
+| Book 3 | Chapter 02 | Dialog | **Lord Cromwell:** "I am the Steward. My job is to ensure the numbers balance. And right now, you are a deficit. You are noise in my system. I do not like noise." |
+| Book 3 | Chapter 02 | Dialog | **Lord Cromwell:** "The boy requires 40 milligrams of stablizers daily. Expensive. But manageable. If you are useful, the ledger balances. If you are not... I stop the shipment. You behave, he eats. You rebel, he starves. It is simple calculus." |
+| Book 3 | Chapter 02 | Key Event | Angelica realizes she cannot fight Cromwell with force. |
+| Book 3 | Chapter 02 | Moment | **Angelica Ward** — She recognizes the "banality of evil" in Cromwell's bureaucratic approach. He isn't a monster who enjoys pain; he's a functionary who simply doesn't care. That makes him more dangerous. She chooses a controlled response, hiding her rage behind a mask of compliance. |
+| Book 3 | Chapter 02 | Dialog | **Lord Cromwell:** "Good. See that you do. You are dismissed." |
+| Book 3 | Chapter 10 | Detailed Description | The alcove is small, lit by a single, dim orb. Vesper stands in the center, surrounded by Lord Ashford, Lady Seraphina, and three other minor house heads. They are the "Obsidian Circle"—a conspiracy formed to oppose Duke Grey's consolidation of power. They are terrified. Grey's influence is growing daily; he controls the food supply (through Cromwell) and the military (through Vane). |
+| Book 3 | Chapter 31 | Key Event | The team breaches the inner sanctum, only to find Lord Cromwell waiting for them. |
+| Book 3 | Chapter 31 | Detailed Description | Cromwell stands before the crystal interface. He is not wearing armor; he is wearing his pristine, bureaucratic grey suit. He looks out of place among the high-tech machinery, a relic of administration in a world of war. In his hand, he holds a "Dead Man's Switch"—a detonator wired to a series of thermal charges placed directly on the AI core. |
+| Book 3 | Chapter 31 | Key Event | Cromwell threatens to destroy the AI, which would terminate all life support on the ship. |
+| Book 3 | Chapter 31 | Dialog | **Lord Cromwell:** "Halt! One step closer and I fry the brain. I will initiate a total system purge. The regulations are clear on this matter. In the event of a mutiny, the ship is to be scuttled to prevent contagion." |
+| Book 3 | Chapter 31 | Dialog | **Angelica:** "You'll kill everyone, Cromwell. Even yourself. Is that in the regulations?" |
+| Book 3 | Chapter 31 | Dialog | **Lord Cromwell:** "Order must be maintained. Even in death." |
+| Book 3 | Chapter 31 | Key Event | Angelica engages ARIA directly, bypassing Cromwell's authority by using her Captain's override codes. |
+| Book 3 | Chapter 31 | Detailed Description | Angelica steps forward, ignoring the detonator. She speaks not to Cromwell, but to the crystal. She inputs her biometric data into a remote terminal on her wrist. "AUTHORIZATION: CAPTAIN WARD." The crystal flares. ARIA's avatar—a holographic woman composed of streaming data—manifests above the platform. |
+| Book 3 | Chapter 31 | Key Event | Cromwell, realizing he is losing control, attempts to trigger the detonator. |
+| Book 3 | Chapter 31 | Detailed Description | Cromwell screams, his bureaucratic veneer shattering. "She is corrupting the file! I must sanitize!" His thumb moves to the button. |
+| Book 3 | Chapter 31 | Key Event | Kaelen shoots Cromwell. |
+| Book 3 | Chapter 31 | Detailed Description | Kaelen does not hesitate. He draws his pistol and fires a single shot. The bullet strikes Cromwell in the shoulder, spinning him around. He drops the detonator. It slides across the floor, stopping inches from the edge of the platform. Cromwell falls, clutching his wound. He looks at the blood on his hands with disbelief. |
+| Book 3 | Chapter 31 | Key Event | Cromwell's final moments. |
+| Book 3 | Chapter 31 | Detailed Description | Cromwell lies on the floor, breathing shallowly. He fumbles for his datapad. He tries to open a file. |
+| Book 3 | Chapter 31 | Moment | **Lord Cromwell** — Even as he bleeds out, his final act is bureaucratic. He tries to file a formal complaint against Kaelen for unauthorized use of a firearm. The paperwork scatters, irrelevant. He dies as he lived—a slave to the rules. |
+| Book 3 | Chapter 31 | Dialog | **Lord Cromwell (dying):** "This is... highly irregular... I will file a grievance... subsection 4..." |

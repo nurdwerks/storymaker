@@ -17,4 +17,9 @@ Researcher Theta is a high-ranking scientist in Dr. Aris's team. He views everyt
 - **Impact on Dr. Aris:** Aris is forced to distance himself from his former colleague. He becomes even more secretive and paranoid, purging his remaining data and accelerating his experiments to stay ahead of the "inevitable" Zenith investigation.
 - **Impact on Entourage:** The "Data" is compromised. The remaining researchers live in a state of constant fear, as they realize that their "objective" detachedness won't protect them from the political consequences of their work for Aris.
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 4 | Chapter 03 | *The Silent Partner | In the corner, slumped over a terminal, is the frozen corpse of **Researcher Theta**. Frost covers his lab coat. Aris occasionally talks to the body, asking for "variables," completely ignoring the fact that his assistant has been dead for weeks. |
+| Book 4 | Chapter 03 | Dialog | **Dr. Aris:** "Don't touch the glass. The condensation ruins the view. Theta, shift the spectral range to gamma... oh, right. You're indisposed. Useless." |

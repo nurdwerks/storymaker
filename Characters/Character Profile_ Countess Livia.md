@@ -18,5 +18,9 @@ Countess Livia is a sharp-tongued noblewoman and rumored former lover of Duke Gr
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 16 | Key Event | Duke Grey hosts a lavish celebration. Countess Livia hangs on his arm, whispering gossip while eyeing Angelica with amusement. |
-| Book 3 | Chapter 16 | Moment | **Countess Livia** — His rumored former lover marks her territory with casual cruelty. |
+| Book 3 | Chapter 16 | Key Event | Countess Livia, a prominent socialite and rumored former lover of the Duke, approaches them. |
+| Book 3 | Chapter 16 | Detailed Description | Livia is striking, dressed in crimson velvet that clashes deliberately with Angelica's grey. She hangs on the Duke's arm, marking her territory with a possessive touch. She looks at Angelica with amusement, like a cat observing a mouse. |
+| Book 3 | Chapter 16 | Moment | **Countess Livia** — She uses her history with the Duke to belittle Angelica without ever raising her voice. She establishes herself as a rival within the social hierarchy. |
+| Book 3 | Chapter 16 | Dialog | **Countess Livia:** "So this is the Little Mouse? How quaint. I heard she was feral. Does she do tricks, Valerius? Can she fetch?" |
+| Book 3 | Chapter 16 | Dialog | **Duke Grey:** "She's learning, Livia. She has... hidden talents. Aren't you learning, my dear?" |
+| Book 3 | Chapter 16 | Dialog | **Angelica Ward:** "I'm learning which snakes are venomous, Countess. So far, the colorful ones are the most dangerous." |

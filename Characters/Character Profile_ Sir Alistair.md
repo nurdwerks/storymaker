@@ -19,4 +19,10 @@ Sir Alistair is Duke Grey’s Master of the Hunt and a high-ranking member of th
 - **Impact on Duke Grey:** Grey is genuinely shaken. Alistair was the only one he felt he could be "himself" with. His death turns Grey's stoicism into cold, focused wrath, leading to more aggressive and dangerous military decisions.
 - **Impact on Entourage:** The "life of the party" is gone. The Grey Court becomes even more somber and militaristic, as the remaining members realize that even the "Old Blood" can bleed and die.
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 15 | Detailed Description | Corinne's cell is furnished like a guest room, with a velvet chaise and a tea service. It is a prison of politeness. **Sir Alistair** guards the door, leaning against the frame with a crystal glass of brandy in his hand. He winks at Corinne, treating her imprisonment as a amusing timeout. Lady Vesper sits opposite her, pouring tea. Vesper is trying to turn Corinne, to make her testify against Angelica. She appeals to Corinne's vanity and her status as a Highborn. |
+| Book 3 | Chapter 15 | Dialog | **Sir Alistair:** "Don't pout, Corinne. We're just culling the herd. You're too pretty for the chopping block." |
+| Book 3 | Chapter 15 | Detailed Description | Corinne ignores Alistair. Vesper insinuates that Corinne is just a "pet" of the resistance, dragged into the mud by commoners. Corinne sips her tea. She looks Vesper in the eye and dismantles her. She points out that Vesper is merely Vane's lapdog, a "Gatekeeper" with no real power. |

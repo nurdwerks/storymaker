@@ -22,4 +22,11 @@ Rose and Lily are genetically modified twins designed to be "perfect" but second
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L631-L632)
 - **Defining Quote from Lady Corinne:** "Don't look at me like that, Rose. Lily was a choice, and I chose survival. You should be grateful you're still worth the effort to drag along. Stop that weeping; it's bad for the complexion."
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 2 | Chapter 17 | Key Event | She notices a "Spider-Lily" in a vase. It is a rare, poisonous plant used by the Assassins' Guild. She also notices that Joyce’s knitting needles are made of "Null-Iron," a metal used to pierce kinetic shields. |
+| Book 3 | Chapter 03 | *Internal Conflict | Angelica feels suffocated. She touches a rose. It feels waxy, almost plastic. She misses the mold and wet iron of the Undercity. There, things rotted, but they also grew wild. Here, everything is preserved in a state of suspended animation. It feels like a mausoleum. |
+| Book 3 | Chapter 05 | *The Vanity Court | Surrounding **Lady Corinne** is her retinue: **Marcel** (her stylus-wielding fashion stylist who critiques everyone's hemline), the twins **Rose and Lily** (who brush her hair in unison), and **Photographer Vorn** (who orbits her like a moon, snapping photos for the social feed). **Sir Gallant**, her current suitor, hovers nearby, fetching her drinks with pathetic eagerness. |
+| Book 4 | Chapter 01 | Dialog | **Zephyr:** "That's... the Frantic Sector. And that's... that was my favorite bar. The 'Gilded Lily'." |

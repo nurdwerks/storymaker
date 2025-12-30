@@ -23,4 +23,4 @@ The Seamstress is a woman who creates the intricate, often painful garments and 
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 13 | Key Event | Kaelen witnesses a guard crushing the hands of The Seamstress, the woman who wove the family's garments. |
+| Book 3 | Chapter 13 | Detailed Description | In the weaving room, he sees a guard smashing the loom of "The Seamstress," an old woman who has made the family's clothes for generations. The guard laughs as he stomps on her hands—the hands that wove the silk of Kaelen's first uniform. The Seamstress does not cry out; she just stares at her broken fingers. The cruelty is casual, pointless. It teaches Kaelen that power without compassion is just sadism. |

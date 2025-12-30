@@ -20,4 +20,9 @@ Astrid and Brun are fierce warriors who guard Ragnar’s back. They represent th
 **Event Location:** Book 6, Chapter 22
 **Defining Quote:** _"She is a variable. And she has been subtracted."_ — Ragnar
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 6 | Chapter 23 | Detailed Description | He finds **Astrid**, one of the **Shield-Sisters**—his elite personal guard. She is kneeling before the elders, tears streaming down her face. She has just confessed. |
+| Book 6 | Chapter 23 | Detailed Description | He squeezes. _CRACK._ He snaps her neck with clinical efficiency. The **Shield-Sisters** are broken. |

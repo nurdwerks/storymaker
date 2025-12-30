@@ -22,4 +22,10 @@
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 06 | Key Event | Zephyr attempts to fence stolen encryption keys but is rejected by his contact, Sly, due to a crackdown and a bounty on his head. |
+| Book 2 | Chapter 07 | Dialog | **Hatcher:** "It has the truth, kid. That's worth more than gold. And it's harder to fence." |
+| Book 2 | Chapter 24 | Detailed Description | The base is surrounded by a heavy perimeter fence topped with monofilament wire. It is guarded by elite Warden shock-troopers in white armor. Searchlights sweep the open ground around the entrance. Automated turrets track movement. |
+| Book 3 | Chapter 06 | Key Event | In the shadow of the Auction Hall, Zephyr attempts to fence stolen encryption keys. |
+| Book 3 | Chapter 06 | Detailed Description | Zephyr meets with "Sly," a fence who operates out of a noodle stand near the loading docks. Zephyr is nervous. He looks over his shoulder. The keys he stole from the Museum are hot. He needs credits to buy his way off the ship (or so he thinks). |
+| Book 3 | Chapter 06 | Key Event | Sly rejects the deal. |
+| Book 3 | Chapter 06 | Detailed Description | Sly pushes the data-chip back. He looks terrified. He tells Zephyr that Vane has put a "Black Bounty" on anyone connected to the Museum heist. Not a capture bounty—a kill order. |
+| Book 3 | Chapter 06 | Dialog | **Sly:** "I can't be seen with you. The Market is closed, Zephyr. For good. Anyone who talks to you is dead. Vane isn't arresting people anymore; he's erasing them." |

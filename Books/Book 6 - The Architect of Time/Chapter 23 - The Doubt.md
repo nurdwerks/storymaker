@@ -126,25 +126,27 @@
 - **Key Event:** The Success.
 - **Detailed Description:** Vane has found a Vessel. The Alpha is gone.
 
-### Scene 5: The Sacrifice
+### Scene 5: The Sacrifice (The Shield Breaks)
 
 - **Key Event:** The Return.
 - **Detailed Description:** Ragnar (Vane) walks back to the cave where the tribe is sheltering. His gait is different—stiffer, more precise.
 - **Key Event:** The Dissident.
-- **Detailed Description:** He finds **Astrid**, a young healer who had suggested earlier that they stop building the ship to focus on food reserves. She is speaking to the elders.
-  - _Key Dialog:_ **Astrid:** "The storm is a sign. We have angered the balance. We should trade the iron to the Low-Tribes. Buy peace."
+- **Detailed Description:** He finds **Astrid**, one of the **Shield-Sisters**—his elite personal guard. She is kneeling before the elders, tears streaming down her face. She has just confessed.
+  - _Key Dialog:_ **Astrid:** "They have **Brun**. The River Tribe took her. They said... they said they would kill her unless I told them where the Iron Mountain was."
+- **Key Event:** The Confession.
+- **Detailed Description:** The camp goes silent. Betrayal. The location of the _Aeterna_ is their most sacred secret.
+  - _Key Dialog:_ **Astrid:** "I'm sorry, My King. She is my sister. I couldn't let them take her head. I told them."
 - **Key Event:** The Confrontation.
-- **Detailed Description:** Ragnar steps forward. The tribe parts for him.
-  - _Key Dialog:_ **Ragnar:** "Peace is for the dead."
-- **Key Event:** The Observation.
-- **Detailed Description:** The elders notice his voice is different. Smoother. Less guttural.
-- **Key Event:** The Action.
-- **Detailed Description:** He grabs Astrid by the throat. One hand. He lifts her off the ground as if she weighs nothing.
+- **Detailed Description:** Ragnar steps forward. The tribe parts for him. He looks down at his most loyal protector.
+  - _Key Dialog:_ **Ragnar:** "You traded the future of the world for one life?"
+  - _Key Dialog:_ **Astrid:** "I traded it for _her_ life. You would have done the same."
 - **Key Event:** The Logic.
-- **Detailed Description:** He stares into her panicked eyes.
-  - _Key Dialog:_ **Ragnar:** "You are a variable. You introduce inefficiency. You have been subtracted."
+- **Detailed Description:** The old Ragnar might have understood. He might have raged, but he would have understood loyalty to family. But this is not Ragnar. This is Vane. And Vane sees only variables.
+- **Key Event:** The Action.
+- **Detailed Description:** He grabs **Astrid** by the throat. One hand. He lifts her off the ground as if she weighs nothing.
+  - _Key Dialog:_ **Ragnar:** "Incorrect. Family is a variable. The Mission is a constant. You have introduced inefficiency."
 - **Key Event:** The Execution.
-- **Detailed Description:** He squeezes. _CRACK._ He snaps her neck with clinical efficiency.
+- **Detailed Description:** He squeezes. _CRACK._ He snaps her neck with clinical efficiency. The **Shield-Sisters** are broken.
 - **Key Event:** The Silence.
 - **Detailed Description:** He drops the body. The tribe screams, then falls into a terrified silence.
 - **Key Event:** The Doctrine.

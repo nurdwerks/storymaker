@@ -21,4 +21,6 @@ Intern Oakhart is a young, seemingly friendly assistant who brings Angelica food
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 6 | Chapter 32 | Key Event | An explosion rocks the engine room. Someone has sabotaged the ship. Intern Oakhart is found dead near the detonation point—framed or guilty, no one can tell. |
+| Book 6 | Chapter 32 | Detailed Description | Deep in the bowels of the ship, alarms blare. A shaped charge has detonated on the primary coolant line. Superheated steam vents into the engineering bay, scalding the air. Kaelen and Ria rush into the chaos, finding the body of Intern Oakhart lying near the blast site. He is dead, shrapnel embedded in his chest, clutching a detonator in his stiff hand. |
+| Book 6 | Chapter 32 | *Internal Conflict | Kaelen stares at the body. Oakhart was quiet, diligent. Was he a traitor working for Vane? Or a victim, framed and murdered to cover the real saboteur's tracks? The ambiguity gnaws at him. There is no time for an investigation. |
+| Book 6 | Chapter 32 | Dialog | **Kaelen:** "Oakhart's body is here. The charges were on a timer. He's holding the trigger." |

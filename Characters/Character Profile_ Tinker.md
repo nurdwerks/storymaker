@@ -28,4 +28,10 @@ Tinker is a one-armed mechanic who can fix anything with a piece of wire and a p
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 4 | Chapter 16 | Key Event | **Tinker** attempts to fix a high-pressure primary conduit to keep the camp warm. The pipe bursts, and he loses his remaining arm in the explosion. |
+| Book 4 | Chapter 16 | Detailed Description | In the corner, **Tinker**, a young scavenger, is working on a steam heater. A pipe is leaking, hissing violently. |
+| Book 4 | Chapter 16 | Detailed Description | Tinker grabs the hot pipe with his bare hands. He tries to seal it with a wrench, ignoring the burns. |
+| Book 4 | Chapter 16 | Dialog | **Tinker:** "I got it! I got it!" |
+| Book 4 | Chapter 16 | Detailed Description | Tinker is thrown back against the wall. His left arm—his good arm—is gone. Shredded by the superheated steam. |
+| Book 4 | Chapter 16 | Dialog | **Hatcher:** "Tinker! Medics!" |
+| Book 4 | Chapter 16 | Detailed Description | Tinker looks at the pressure gauge, his eyes glazing over. |
+| Book 4 | Chapter 16 | Dialog | **Tinker:** "I fixed it, Hatcher. Look. The pressure is... stable." |

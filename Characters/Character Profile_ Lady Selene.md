@@ -23,4 +23,4 @@ Lady Selene is Matriarch Lilith Night’s chief administrator and aesthetician. 
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 13 | Key Event | Droids forcibly remove Lady Selene's illegal "Youth-Grafts," and The Governess reveals she betrayed the family to Vane. |
+| Book 3 | Chapter 13 | Detailed Description | They move through the halls, tagging paintings, statues, and furniture with digital "Seized" markers. They enter the private quarters of Lady Selene, Kaelen's aunt. Selene screams as two medical droids restrain her. She has been maintaining her youth with illegal "Youth-Grafts"—synthetic skin and muscle enhancements. The droids forcibly remove the grafts, peeling away the illusion of beauty to reveal the aged, withered woman underneath. It is a brutal, clinical stripping of dignity. |

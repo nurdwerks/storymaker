@@ -22,5 +22,11 @@ Figment is a fellow hacker who only appears on screens. He is Lisbet’s equal i
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 5 | Chapter 08 | Key Event | The Zenith receives a massive, recursive data packet containing a star map to a destination called "Sanctuary," which requires the AI Figment to sacrifice himself to sanitize a logic virus within the signal. |
-| Book 5 | Chapter 08 | Moment | **Lisbet** — Devastated by the loss of Figment, her AI companion, questioning if the destination is worth the cost. |
+| Book 5 | Chapter 08 | Detailed Description | **Figment**, Lisbet's bonded AI companion, manifests. Usually, he appears as a small, cartoonish dragon or a floating eye. Now, he creates a full-sized holographic avatar—a knight made of blue wireframe. |
+| Book 5 | Chapter 08 | Dialog | **Figment:** "Logic virus detected. Class: Banshee. It's designed to enslave the navigation computer and vent the atmosphere. Nasty piece of work." |
+| Book 5 | Chapter 08 | Detailed Description | He expands his code, creating a digital quarantine "sandbox" around the incoming data. He wraps his own programming around the virus, grappling with it like a wrestler. The virus fights back, eating away at Figment's integrity. His voice distorts, shifting between octaves. |
+| Book 5 | Chapter 08 | Dialog | **Figment:** "I can't delete it. It's too adaptive. But I can eat it. I can trap it in my own kernel." |
+| Book 5 | Chapter 08 | Detailed Description | Lisbet tries to get up. She realizes what he is saying. She loves Figment more than most humans. He raised her. Losing him is like losing a limb. |
+| Book 5 | Chapter 08 | Detailed Description | Figment shakes his head. His avatar is already dissolving into static. |
+| Book 5 | Chapter 08 | Dialog | **Figment (Static-filled):** "Too late. It's been real, Liz. Or... you know. Whatever reality is. Don't forget to defrag." |
+| Book 5 | Chapter 08 | Moment | **Lisbet** — Devastated by the loss of Figment, she shows that her connection to machines is deeper than her connection to people. Her grief is raw and absolute. |

@@ -18,7 +18,13 @@ Chamberlain Hives is the administrator of Duke Grey’s estate. He is officious,
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 1 | Chapter 15 | Key Event | Duke Grey watches the dance from the VIP balcony, surrounded by his entourage. He notices Kaelen protecting Angelica and whispers to Chamberlain Hives. |
-| Book 3 | Chapter 13 | Key Event | High Chamberlain's auditor, Mister Sterling, arrives at the Night estate with Zenith Wardens to seize it due to unpaid loans. |
-| Book 3 | Chapter 30 | Key Event | The High Chamberlain sees the tank shattered, the Emperor's withered body exposed. His faith crumbles in an instant. |
-| Book 3 | Chapter 30 | Moment | **High Chamberlain** — A lifetime of devotion revealed as devotion to a lie. |
+| Book 1 | Chapter 15 | Detailed Description | He turns to Chamberlain Hives, his chief actuary. |
+| Book 1 | Chapter 15 | Dialog | **Chamberlain Hives:** "As you command, my lord." |
+| Book 3 | Chapter 05 | *The Imperial Shadows | In the corner, the **Royal Taster** samples the buffet with paranoid precision. The **Jeweler** inspects the ladies' diamonds with a loupe, while the **Mirror-Maid** stands silently behind the High Chamberlain, holding a reflective shield so he can check his appearance. |
+| Book 3 | Chapter 13 | Detailed Description | The scene opens at the grand entrance of the Night Estate, a gothic mansion of black stone and silver filigree located on the outskirts of the Zenith district. The sky above is the artificial twilight of the ship's sleep cycle, casting long, mournful shadows. A column of armored Zenith Wardens marches up the driveway, their boots striking the cobblestones in unison. At their head is Mister Sterling, the High Chamberlain's chief auditor. He wears a suit of impeccable grey, holding a datapad like a weapon. The heavy iron gates, which have stood for three centuries, are forced open with a hydraulic ram. |
+| Book 3 | Chapter 13 | Dialog | **Zenith Warden:** "The High Chamberlain thanks you for your service. Your debt is cleared. Please dispose of the biological waste." |
+| Book 3 | Chapter 30 | Key Event | In the antechamber of the Throne Room, the High Chamberlain witnesses the destruction of the Emperor's stasis tank. |
+| Book 3 | Chapter 30 | Detailed Description | The Chamberlain, an old man in velvet robes, cowers behind a pillar. The blast doors to the Throne Room have been breached. Through the smoke, he sees the "Emperor"—the figure he has served for fifty years. The stasis tank is shattered by a stray round. The preservation fluids leak out onto the floor. The body inside is revealed. It is not a sleeping god. It is a withered, desiccated corpse, dead for decades, hooked up to machines that simulate life signs. |
+| Book 3 | Chapter 30 | *Internal Conflict | The Chamberlain's world ends. He dedicated his life to the service of the Eternal Emperor. He realizes that Vane has been ruling in the Emperor's name, using the corpse as a puppet. The faith that sustained him is revealed as a hollow lie. He sinks to his knees, staring at the shriveled thing on the floor. |
+| Book 3 | Chapter 30 | Moment | **High Chamberlain** — He does not run. He does not fight. He simply breaks. The vacuum of purpose is more terrifying than the vacuum of space. |
+| Book 3 | Chapter 30 | Dialog | **High Chamberlain:** "There is no one there. It was all a pantomime. I have bowed to a ghost for fifty years. I have served... nothing." |

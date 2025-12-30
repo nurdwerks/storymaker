@@ -207,40 +207,145 @@ Ragnar is a tribal king. He is never without his warriors, his shield-maidens, a
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 6 | Chapter 03 | Key Event | Ragnar, a massive man and leader of the hunters, inspects Angelica and her metal shard. |
-| Book 6 | Chapter 03 | Moment | **Ragnar** — He shows curiosity and dominance, effortlessly taking the metal shard from Angelica. |
-| Book 6 | Chapter 03 | Key Event | Ragnar orders his men to haul Angelica away. |
-| Book 6 | Chapter 06 | Key Event | Ragnar interrupts Torin and Angelica, viewing their communication as a betrayal or sorcery. |
-| Book 6 | Chapter 06 | Key Event | Ragnar hauls Angelica out of the cage and challenges her to a duel to the death. |
-| Book 6 | Chapter 06 | Key Event | Angelica analyzes the physical mismatch and decides to use physics and leverage against Ragnar's brute force. |
-| Book 6 | Chapter 06 | Key Event | Ragnar charges Angelica, who uses his momentum to make him miss. |
-| Book 6 | Chapter 06 | Key Event | Angelica uses a loose mammoth rib as a lever to trip Ragnar, causing him to crash into the cliff wall. |
-| Book 6 | Chapter 06 | Key Event | Angelica holds Ragnar at knife-point with his own obsidian blade but chooses to spare him. |
-| Book 6 | Chapter 07 | Key Event | Ragnar acknowledges Angelica as a "Warrior" rather than a demon and destroys her cage. |
-| Book 6 | Chapter 07 | Moment | **Ragnar** — He shows a warrior's code, interpreting Angelica's mercy as a sign of absolute superiority. |
-| Book 6 | Chapter 08 | Key Event | Angelica and Torin, escorted by Ragnar's guards, trek to the "Holy Place" (a debris field of ancient technology). |
-| Book 6 | Chapter 09 | Key Event | Angelica addresses Ragnar and the elders, promising them salvation through the construction of the _Aeterna_. |
-| Book 6 | Chapter 10 | Key Event | Ragnar and the elders resist Angelica's plan, citing the risk of starvation and the lack of immediate danger. |
-| Book 6 | Chapter 10 | Key Event | Ragnar agrees to a triumvirate: Ragnar as the Body (labor), Torin as the Mind (translation/tools), and Angelica as the Soul (vision/math). |
-| Book 6 | Chapter 11 | Key Event | She presents the sword to Ragnar, demonstrating its superior strength. |
-| Book 6 | Chapter 13 | Key Event | Ragnar declares a feast to celebrate the "Raising of the Spine." |
-| Book 6 | Chapter 14 | Key Event | Ragnar cold-heartedly rejects Bjorn for being no longer "useful" to the pack. |
-| Book 6 | Chapter 14 | Moment | **Ragnar** — His absolute focus on survival and utility makes him discard his own blood-brother. |
-| Book 6 | Chapter 15 | Key Event | Ragnar rescues Freya but abandons her emotionally when he realizes she can no longer sing. |
-| Book 6 | Chapter 15 | Moment | **Ragnar** — He shows high-level disdain for anything that has lost its primary function. |
-| Book 6 | Chapter 18 | Key Event | A mutated, future-originating flu strain decimates the tribe, including a bedridden and delirious Ragnar. |
-| Book 6 | Chapter 18 | Key Event | Angelica injects the extracted penicillin into Ragnar using a primitive reed and fish bone syringe. |
-| Book 6 | Chapter 18 | Key Event | Ragnar's fever breaks after three days, and he recovers. |
-| Book 6 | Chapter 18 | Key Event | Ragnar exposes the tribe's Old Seer as a fraud for hoading food while people died and casts him out into the jungle. |
-| Book 6 | Chapter 18 | Moment | **Ragnar** — He decisively breaks with tradition in favor of Angelica's effective science. |
-| Book 6 | Chapter 19 | Key Event | Vane whispers to Ragnar, exploiting his envy of Angelica's power. |
-| Book 6 | Chapter 19 | Key Event | Ragnar willingly allows Vane to possess his body to gain "the lightning." |
-| Book 6 | Chapter 19 | Key Event | Ragnar's behavior changes, showing cultured grace and milky-white glowing eyes. |
-| Book 6 | Chapter 19 | Key Event | Ragnar-Vane corrects Torin's math, revealing his high-level technical knowledge. |
-| Book 6 | Chapter 23 | Key Event | Ragnar (possessed by Vane) kills Astrid for suggesting they trade iron for their captured sister Brun. |
-| Book 6 | Chapter 23 | Moment | **Ragnar (Vane)** — He displays absolute, cold-hearted efficiency and disdain for loyalty. |
-| Book 6 | Chapter 26 | Key Event | Ragnar uses a long pole to guide the cylinder safely into its mount. |
-| Book 6 | Chapter 28 | Key Event | Ragnar leads a team using a diamond-tipped heat drill to reach the planet's mantle. |
-| Book 6 | Chapter 28 | Key Event | Methane gas explodes in the tunnel, but Ragnar shields a young miner with his body. |
-| Book 6 | Chapter 28 | Moment | **Ragnar** — He endures blisters and fire to ensure the drilling continues. |
-| Book 6 | Chapter 30 | Key Event | Ragnar rallies the "Guardians" to defend the ship's perimeter against the intruders. |
+| Book 6 | Chapter 03 | Key Event | Ragnar. |
+| Book 6 | Chapter 03 | Detailed Description | Ragnar picks up the shard. He tests the edge with his thumb. A line of red blood appears. He nods, impressed. |
+| Book 6 | Chapter 03 | Dialog | **Ragnar:** "Good metal. Better than stone." |
+| Book 6 | Chapter 03 | Dialog | **Ragnar:** (Waving his hand dismissively) "Meat." |
+| Book 6 | Chapter 03 | Detailed Description | Ragnar doesn't turn around. He keeps walking. |
+| Book 6 | Chapter 03 | Dialog | **Ragnar:** "Meat talks. Demons scream. We will see which you are. Until then... you are in a net. So you are prey." |
+| Book 6 | Chapter 03 | Dialog | **Ragnar:** "Loud prey." |
+| Book 6 | Chapter 06 | Detailed Description | A massive shadow falls over their diagram. Ragnar stands there, blocking the sun. He looks at the geometry in the dirt with suspicion and disgust. |
+| Book 6 | Chapter 06 | Dialog | **Ragnar:** "Sorcery. Marks of the spirit world." |
+| Book 6 | Chapter 06 | Detailed Description | Torin stands up slowly. He is big, but Ragnar is bigger. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar spits on the ground. |
+| Book 6 | Chapter 06 | Dialog | **Ragnar:** "It is poison. You talk to the demon too freely. You forget your place, Shaman. You are here to guard, not to learn." |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar violently rips the bone bindings of the cage door. The wood splinters. He reaches in with a massive hand and grabs Angelica by her hair. |
+| Book 6 | Chapter 06 | Dialog | **Ragnar:** "Stand. If you are a demon, use your magic. Fly. Burn us. If you are meat... bleed." |
+| Book 6 | Chapter 06 | Detailed Description | She looks at Ragnar. Seven feet tall. Three hundred pounds of lean muscle. Scars that map a life of violence. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar cracks his knuckles. He grins. It is a wolf's grin—all teeth and appetite. |
+| Book 6 | Chapter 06 | Dialog | **Ragnar:** "Fight, little demon." |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar roars and charges. He moves with terrifying speed for his size. He is a freight train of flesh and bone. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar spins, furious that he missed. The momentum of his swing carries him wide. He is off-balance. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar takes the bait. He lunges, committing his full weight to the kill. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar's leg gives out. His momentum carries him forward. He trips over the mammoth rib. He crashes face-first into the limestone cliff wall. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar slides down the wall. He is dazed. Blood trickles from his nose. He tries to stand, but his legs are like jelly. Concussion. |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar freezes. He stares up at her. His eyes are clear now. He expects death. It is the law of the jungle. |
+| Book 6 | Chapter 06 | Dialog | **Ragnar:** (Hissing) "Do it. Finish it. Take the pack." |
+| Book 6 | Chapter 06 | Dialog | **Angelica Ward:** "Can we stop playing now? I'm tired, I'm hungry, and I want to go back to sleep. Take the knife, Ragnar. Before I change my mind." |
+| Book 6 | Chapter 06 | Detailed Description | Ragnar takes the knife. He stands up slowly, leaning on the wall. He wipes the blood from his nose. |
+| Book 6 | Chapter 06 | Dialog | **Ragnar:** "You fight with your head." |
+| Book 6 | Chapter 07 | Detailed Description | The duel in the mud is over. The silence in the clearing is absolute. Ragnar stands panting, wiping a stream of blood from his nose where Angelica struck him. He looks at the twisted door of the cage. He looks at the massive mammoth rib lying in the dirt—the weapon she used to defeat him. |
+| Book 6 | Chapter 07 | Dialog | **Ragnar:** "No cage." |
+| Book 6 | Chapter 07 | Dialog | **Ragnar:** "She is not meat. She is Warrior." |
+| Book 6 | Chapter 07 | Dialog | **Ragnar:** "Strength is not just muscle! She hunts with this!" (He taps his temple hard). "She hunted me. And she caught me." |
+| Book 6 | Chapter 07 | Dialog | **Ragnar:** "You are free to walk. But silence is best. Some still see a demon. Walk softly." |
+| Book 6 | Chapter 09 | Detailed Description | The entire settlement gathers around the central fire. Ragnar stands with his arms crossed, skeptical. The elders mutter. Angelica stands on a crate, raising her voice over the wind. She does not sugarcoat it. She tells them that the sky is coming to kill them. She tells them that their children are already dead if they do nothing. |
+| Book 6 | Chapter 09 | *Internal Conflict | She feels like a cult leader. She is selling them a dream that she isn't sure she can deliver. But when she looks at Ragnar, she sees a spark. The barbarian loves a challenge. He loves the impossible. |
+| Book 6 | Chapter 09 | Dialog | **Ragnar:** "Twenty years of heavy lifting? Sounds better than farming. I'm in." |
+| Book 6 | Chapter 10 | Detailed Description | Ragnar, the de facto chief, crosses his massive arms over his chest. His biceps are thick as tree limbs. He glares at her across the fire. |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** "We cannot do this. You are asking for madness. You want us to leave the safety of the trees? You want us to drag metal from the swamp? To build a... a tower to the sky?" |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** "We are starving. We spend every waking hour hunting for scraps. And you want us to build monuments?" |
+| Book 6 | Chapter 10 | Dialog | **Angelica Ward:** "You are not starving, Ragnar. You are hiding. You are surviving, yes. But I am offering you _living_." |
+| Book 6 | Chapter 10 | Detailed Description | Ragnar growls low in his throat. |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** "We have survived for ten generations. We know the jungle. We know silence. Silence keeps us safe." |
+| Book 6 | Chapter 10 | Detailed Description | Angelica hands the glasses back to a squinting Torin. She turns back to Ragnar. The firelight dances in her eyes. |
+| Book 6 | Chapter 10 | Dialog | **Angelica Ward:** "Fire was impossible until someone sparked it. You thought it was magic, but it's just physics. Flying is impossible... until you build wings. I am the spark, Ragnar. You are the wood. Let me show you how to burn." |
+| Book 6 | Chapter 10 | Detailed Description | Ragnar stares at the fire, watching the new flames lick at the wood. He looks up at Angelica. He doesn't see a demon anymore. He sees a predator. He sees someone who is willing to burn the world to get what she wants. And as a warrior, he respects that. |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** "What do you need? If we do this crazy thing... what do you need from us?" |
+| Book 6 | Chapter 10 | Dialog | **Angelica Ward:** (Pointing to Ragnar) "And you? You are the Body. You have the strength. You have the people." |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** (Nodding slowly) "The Body, the Mind, and the Soul. It is... balanced. It is a strong stool." |
+| Book 6 | Chapter 10 | Detailed Description | Ragnar stands. He towers over her, seven feet of muscle and scar tissue. He holds out his hand. It is massive, the palm callous and rough as tree bark. |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** "We will build your tower, Sky-Woman. We will dig your metal from the mud. But if you lead us to slaughter... I will kill you myself." |
+| Book 6 | Chapter 10 | Dialog | **Ragnar:** "To the sky." |
+| Book 6 | Chapter 13 | Detailed Description | **Ragnar**, the Alpha, bellows orders. His voice echoes off the canyon walls. |
+| Book 6 | Chapter 13 | Dialog | **Ragnar:** "Heave! Pull, you worms! The Sky-Witch demands the rock move!" |
+| Book 6 | Chapter 13 | Detailed Description | That night, the fires in the village are piled high. The flames lick the sky. Ragnar declares a feast to celebrate the "Raising of the Spine." |
+| Book 6 | Chapter 14 | Detailed Description | Bjorn the Breaker, Ragnar's blood-brother and strongest lieutenant, is too slow. He slips. The log rolls over his legs. |
+| Book 6 | Chapter 14 | Detailed Description | Ragnar stands over him. Bjorn is pale, shock setting in. |
+| Book 6 | Chapter 14 | Detailed Description | Ragnar looks at the mangled limbs. Then he looks at the log. It has stopped moving, but it is blocking the path. |
+| Book 6 | Chapter 14 | Detailed Description | Ragnar turns to the men. |
+| Book 6 | Chapter 14 | Dialog | **Ragnar:** "Move the log." |
+| Book 6 | Chapter 14 | Detailed Description | Ragnar roars. |
+| Book 6 | Chapter 14 | Dialog | **Ragnar:** "Move the log! The ship needs wood! The schedule does not wait for broken bones!" |
+| Book 6 | Chapter 14 | Dialog | **Ragnar:** "A wolf that cannot run drags down the pack. You are done, Bjorn. You are weight now." |
+| Book 6 | Chapter 15 | Key Event | Ragnar and a war-party, alerted by the lack of return signal, track the Hunters and ambush them. |
+| Book 6 | Chapter 15 | Detailed Description | Ragnar moves through the jungle like a landslide. He roars, a sound of pure primal rage that shakes the trees. He wields his iron axe with terrifying strength, cleaving the lead Hunter in two through the shoulder. The other Hunters attempt to retreat, but are pinned down by the tribe's archers. Ragnar does not take prisoners. He butchers the enemy with a brutality that shocks even his own men. He finds Freya curled in the roots of a banyan tree, covered in blood. |
+| Book 6 | Chapter 15 | *Internal Conflict | Ragnar feels a surge of protective fury. Freya is his Skald. She belongs to him. An attack on her is an insult to his legend. He drops his axe and kneels beside her, expecting her to sing of his victory. |
+| Book 6 | Chapter 15 | Key Event | Ragnar discovers the nature of Freya's injury and realizes she can no longer sing. |
+| Book 6 | Chapter 15 | Detailed Description | He lifts her chin, his hands stained with alien blood. He tells her to speak, to name the ones who did this. Freya opens her mouth, revealing the charred ruin of her throat. She makes a desperate, rasping sound, tears streaming down her face. Ragnar stares into her mouth, his expression shifting from concern to horror, and then to cold, hard disgust. He pulls his hand away as if she is contagious. He stands up, wiping her blood on his furs. |
+| Book 6 | Chapter 15 | *Internal Conflict | Ragnar's empathy is overridden by his utilitarian worldview. In his mind, a person is defined by their function. A warrior fights. A builder builds. A singer sings. Freya is broken. She is a tool that can no longer perform its task. He feels cheated—who will remember his deeds now? His pity curdles into resentment. |
+| Book 6 | Chapter 15 | Moment | **Ragnar** — He shows high-level disdain for anything that has lost its primary function, abandoning his most loyal follower in her moment of greatest need. |
+| Book 6 | Chapter 15 | Dialog | **Ragnar:** "A singer without a voice is a bird with no wings. She is useless to me now. Leave her." |
+| Book 6 | Chapter 15 | Key Event | Torin and Angelica arrive at the scene. Angelica stabilizes Freya with a med-kit, while Torin confronts Ragnar. |
+| Book 6 | Chapter 15 | Detailed Description | Angelica works quickly, applying bio-foam to Freya's throat and injecting a painkiller. She holds Freya's hand, whispering reassurances. Torin stands toe-to-toe with Ragnar, furious at the Warlord's cruelty. Ragnar ignores him, signaling his men to move out. He does not look back at the woman who spent her life glorifying him. |
+| Book 6 | Chapter 15 | Dialog | **Ragnar:** "The jungle eats the broken, Builder. That is the law. If you want her, you carry her." |
+| Book 6 | Chapter 15 | *Internal Conflict | Angelica observes the collapse of morale. She realizes that Ragnar's power was built on the story, not just the strength. By discarding Freya, he has cracked the foundation of his own rule. She sits with Freya, offering her a datapad and a stylus. She teaches Freya to write the first word: "Voice." |
+| Book 6 | Chapter 15 | Moment | **Angelica Ward** — She recognizes that communication is power, and begins to give the voiceless a new way to speak, undermining Ragnar's monopoly on the narrative. |
+| Book 6 | Chapter 16 | Detailed Description | Angelica looks at his hand covering hers. She thinks about how everyone else sees her. To Ragnar, she is a warchief. To the tribe, she is a goddess, the Wise Woman who fell from the stars. To the Zenith, she is a terrorist or a savior. To Torin... she is just Angelica. |
+| Book 6 | Chapter 18 | Detailed Description | Ragnar is dying. The massive Alpha lies on his furs, shivering uncontrollably. His mighty strength is gone, leaving him looking small and frail. |
+| Book 6 | Chapter 18 | Detailed Description | She rushes back to Ragnar's tent. The Old Seer is there, shaking a bone rattle over the dying chief and chanting about evil spirits. |
+| Book 6 | Chapter 18 | Detailed Description | She finds a vein in Ragnar's arm, which is difficult due to dehydration. She uses a hollow reed fitted with a sharpened fish bone as a needle—a terrifyingly primitive syringe. |
+| Book 6 | Chapter 18 | Detailed Description | She sits by his side. Torin stands guard at the door. Hours pass. The only sound is Ragnar's ragged breathing. |
+| Book 6 | Chapter 18 | Detailed Description | Suddenly, Ragnar gasps. His back arches. Then, he collapses back onto the furs. His breathing deepens. It slows. It evens out. The sweat breaks on his forehead. |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "I am hungry." |
+| Book 6 | Chapter 18 | Detailed Description | Three days later. Ragnar stands before the gathered tribe in the village square. He is weak, leaning on a spear, but he is standing. |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "You rattled bones while my people died. You sang songs while my children burned." |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "Search his hut." |
+| Book 6 | Chapter 18 | Detailed Description | Ragnar raises his hand for silence. |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "He fed himself on your fear. He grew fat on your graves." |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "She fed us with her wisdom. She gave us her own blood." (A misunderstanding of the injection, but effective). |
+| Book 6 | Chapter 18 | Detailed Description | Ragnar points to the dense jungle. |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "Go. Take your bones. If the spirits truly love you, they will feed you. But you will not eat with us again." |
+| Book 6 | Chapter 18 | Detailed Description | Ragnar turns to Angelica. He bows. Low. The rest of the tribe follows, a wave of submission. |
+| Book 6 | Chapter 18 | Dialog | **Ragnar:** "The Old Ways are dead. We follow the New Way. We follow the Architect." |
+| Book 6 | Chapter 19 | Key Event | Vane finds his target: Ragnar. |
+| Book 6 | Chapter 19 | Detailed Description | Ragnar, the Savage King, sits alone in the barracks. The room is dark, smelling of sweat and oil. He is sharpening his axe, the rhythmic *shhh-shhh* sound filling the silence. He is brooding. He feels useless in this high-tech war. He hates the "Sky-Ship." He hates that Angelica is the Captain and he is just a passenger, a relic of a primitive world. Vane's voice whispers to him from the shadows. It is not a sound; it is a thought placed directly in his brain. It is seductive, oily, promising. |
+| Book 6 | Chapter 19 | Detailed Description | Vane plays on Ragnar's envy. He offers him power. "The Lightning." The ability to be strong enough to rule the stars, to make Angelica look at him with fear again, to be the King he was meant to be. Ragnar stops sharpening. He listens. The barbarian code of honor crumbles under the weight of his insecurity. He looks at his hands, scarred and mortal, and wishes for more. |
+| Book 6 | Chapter 19 | *Internal Conflict | Ragnar knows this is evil. He knows it is the "Bad Spirit." But he wants to be the King again. He wants to matter. He opens his mind to the darkness. "Give me the power," he whispers. |
+| Book 6 | Chapter 19 | Moment | **Ragnar (The Savage King)** — He betrays the group not out of malice, but out of pride. He allows the possession because he cannot stand being weak. |
+| Book 6 | Chapter 19 | Dialog | **Ragnar:** "Take it. Take the flesh. Give me the lightning. Make me strong." |
+| Book 6 | Chapter 19 | Key Event | Vane takes control of Ragnar's body. |
+| Book 6 | Chapter 19 | Detailed Description | The possession is violent. Ragnar convulses, dropping his axe. His back arches as nanites flood his bloodstream, rewriting his DNA in real-time. His muscles swell, veins turning black as the nanites take hold. His skin ripples. When he stands up, the transformation is complete. He is Ragnar in shape, but Vane in movement. The lumbering gait of the barbarian is gone, replaced by a feline, cultured grace. He smooths his hair. He checks his reflection in the mirror. His eyes are no longer blue; they are milky-white, glowing with internal light. He smiles—a cold, intellectual smile that looks wrong on Ragnar's bearded face. |
+| Book 6 | Chapter 19 | *Internal Conflict | Vane (inside Ragnar) revels in the sensation of having a body again. A strong body. He flexes Ragnar's hands. He feels the raw physical power. It is intoxicating. He has traded the void for sensation. He is alive. |
+| Book 6 | Chapter 19 | Dialog | **Ragnar-Vane:** "Crude. Heavy. But effective. This will do nicely. Now, where is the engine?" |
+| Book 6 | Chapter 19 | Detailed Description | Ragnar-Vane walks into Engineering. Torin is working on the drive calculations, his back turned. Ragnar approaches him quietly. Torin expects a grunt or a demand for food. Instead, Ragnar looks at the holographic equation floating in the air. He reaches out and corrects a variable. "You forgot the thermal decay rate," he says, his voice smooth, articulate, and utterly unlike Ragnar. |
+| Book 6 | Chapter 19 | Detailed Description | Torin freezes. The wrench slips from his hand. He turns slowly. He looks at Ragnar. The barbarian is reading advanced quantum mechanics. The horror hits Torin instantly. This is not the Savage King. |
+| Book 6 | Chapter 19 | *Internal Conflict | Torin realizes the truth. That is not Ragnar. The King has been replaced. He backs away, reaching for a weapon. But Ragnar-Vane is faster. He grabs Torin's wrist with crushing strength, lifting him off the ground. Torin looks into the white eyes and sees the abyss. |
+| Book 6 | Chapter 19 | Dialog | **Torin:** "Ragnar doesn't know math. Who are you? What have you done with him?" |
+| Book 6 | Chapter 19 | Dialog | **Ragnar-Vane:** "I am the upgrade. I am the evolution. Now, show me how to overload the core, or I will peel this ship apart layer by layer." |
+| Book 6 | Chapter 23 | Detailed Description | **Ragnar** enters the room. He is checking the seals against leaks. |
+| Book 6 | Chapter 23 | Dialog | **Voice:** "Ragnar." |
+| Book 6 | Chapter 23 | Detailed Description | Ragnar looks around. He approaches the box. |
+| Book 6 | Chapter 23 | Dialog | **Ragnar:** "Who speaks? Spirit?" |
+| Book 6 | Chapter 23 | Detailed Description | Ragnar reaches out. He touches the lead lid. |
+| Book 6 | Chapter 23 | Detailed Description | Ragnar stiffens. His back arches. His eyes roll back in his head, showing only white. He convulsing silently. |
+| Book 6 | Chapter 23 | Detailed Description | He slumps, then straightens. When he opens his eyes, they are not Ragnar's eyes. They are cold. Calculative. Devoid of empathy. |
+| Book 6 | Chapter 23 | Detailed Description | Ragnar (Vane) walks back to the cave where the tribe is sheltering. His gait is different—stiffer, more precise. |
+| Book 6 | Chapter 23 | Detailed Description | Ragnar steps forward. The tribe parts for him. He looks down at his most loyal protector. |
+| Book 6 | Chapter 23 | Dialog | **Ragnar:** "You traded the future of the world for one life?" |
+| Book 6 | Chapter 23 | Detailed Description | The old Ragnar might have understood. He might have raged, but he would have understood loyalty to family. But this is not Ragnar. This is Vane. And Vane sees only variables. |
+| Book 6 | Chapter 23 | Dialog | **Ragnar:** "Incorrect. Family is a variable. The Mission is a constant. You have introduced inefficiency." |
+| Book 6 | Chapter 23 | Dialog | **Ragnar:** "Loyalty is a flaw. Obedience is survival. The ship will be built. Doubters will be discarded. Back to work." |
+| Book 6 | Chapter 25 | Detailed Description | The bridge is crowded. Analyst Veda, now a mature woman with sharp eyes, stands at the navigation station. Bio-Engineer Kline checks the environmental systems. Ragnar (possessed by Vane) stands in the corner, watching silently with his milky eyes. Angelica stands at the helm. She is no longer the young girl who fell from the sky; she is a woman of forty, her hair streaked with white, her hands calloused. She wears a uniform made of cured leather and scavenged fabric—the uniform of a Captain. |
+| Book 6 | Chapter 25 | Key Event | As the crew disperses to their stations, Ragnar (Vane) lingers on the bridge. He approaches the tactical station and quietly uploads a sub-routine into the targeting computer. |
+| Book 6 | Chapter 25 | Detailed Description | Ragnar moves with an unnatural grace that belies his massive frame. His fingers dance over the keys. The code he inserts is a "backdoor"—a protocol that will allow him to override the ship's weapons. He glances at Angelica, a faint, predatory smile touching his lips. |
+| Book 6 | Chapter 25 | *Internal Conflict | Vane is impatient. He has spent twenty years trapped in this "meat-suit," pretending to be a barbarian. He is disgusted by the sweat, the hair, the biological urges of Ragnar's body. He craves the purity of the ship. He plans to seize control the moment they break orbit. |
+| Book 6 | Chapter 25 | Dialog | **Ragnar (Vane's internal monologue):** "Build it for me, Architect. Polish the throne. I will sit in it soon enough." |
+| Book 6 | Chapter 26 | Detailed Description | Ragnar sees it happening. He doesn't shout. He acts. He grabs a long iron pry-bar lying on the deck. |
+| Book 6 | Chapter 26 | Dialog | **Ragnar:** (Roaring) "GUIDE IT!" |
+| Book 6 | Chapter 26 | Dialog | **Ragnar:** "DROP IT NOW!" |
+| Book 6 | Chapter 26 | Detailed Description | Ragnar drops the bent pole. He collapses to his knees, gasping for air, sweat pouring off him. He saved the mission. |
+| Book 6 | Chapter 28 | Detailed Description | Ragnar stands at the manual controls. He is shirtless, his massive frame slick with sweat and grime. The ambient temperature on the platform is rising by the minute as they get closer to the magma pocket. His skin is red, baking in the heat. |
+| Book 6 | Chapter 28 | Dialog | **Ragnar:** "Temperature check! Keep the coolant flowing!" |
+| Book 6 | Chapter 28 | Dialog | **Ragnar:** "Then rotate! Ten-minute shifts! If you stop sweating, you get out! I don't want any corpses clogging the shaft! Move!" |
+| Book 6 | Chapter 28 | Detailed Description | Ragnar doesn't hesitate. He doesn't think. He dives. He moves with a speed that belies his size. He tackles the boy, shielding him with his own massive back, covering him completely. |
+| Book 6 | Chapter 28 | Moment | **Ragnar** — Demonstrates his leadership. He puts himself between his men and the fire. He is the shield. |
+| Book 6 | Chapter 28 | Detailed Description | The blue fire washes over Ragnar. His skin blisters instantly. The smell of burning hair and flesh fills the air. He roars—a sound of pain and defiance—but he doesn't move. He holds the boy down until the gas pocket burns itself out. |
+| Book 6 | Chapter 28 | Detailed Description | The flame dies down to a flicker. Ragnar stands up. His back is a map of angry red burns, smoking in the cool mountain air. The boy is shaking but unharmed. |
+| Book 6 | Chapter 28 | Dialog | **Ragnar:** (Grabbing a shovel) "I'm fine! Whatever doesn't kill me better start running!" |
+| Book 6 | Chapter 28 | Dialog | **Ragnar:** "The rock is soft! That gas means we're close! Keep drilling! We do not stop for fire! We do not stop for pain!" |
+| Book 6 | Chapter 28 | Dialog | **Ragnar:** "Breach! Pull back! Reverse the bit!" |
+| Book 6 | Chapter 30 | Detailed Description | Ragnar, the old war-chief of the ground security, steps onto a supply crate. He is unarmored, holding a plasma rifle. He bellows. |
+| Book 6 | Chapter 30 | Dialog | **Ragnar:** "HOLD!" |
+| Book 6 | Chapter 30 | Dialog | **Ragnar:** "Panic kills more than plasma! If you run, you die! If they breach the perimeter while the cargo doors are open, the ship dies! Warriors! To the wall! We buy them time!" |
+| Book 6 | Chapter 30 | Dialog | **Torin:** "They've breached the West Gate! Ragnar is down! We are falling back to the ship! Start the sequence!" |

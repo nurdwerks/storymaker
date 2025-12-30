@@ -18,9 +18,14 @@ The Archivist is a cybernetic construct tasked with recording Prelate Vane’s l
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 1 | Chapter 07 | Key Event | In Lecture Hall 1, Professor Halloway (paper-thin skin, milky eyes, gold-threaded High Archivist robes) teaches the official history of the Great Ascension. |
-| Book 1 | Chapter 09 | Key Event | That night, Angelica hears a voice in her head—Aeon communicating telepathically. He calls himself "The Archivist" who keeps seconds and eats wasted moments. |
-| Book 3 | Chapter 10 | Key Event | Master Archivist Sol discovers a record in the deep archives suggesting Angelica’s lineage is not "Silt" but part of an ancient Zenith bloodline. He hides the record. |
-| Book 3 | Chapter 10 | Moment | **Master Archivist Sol** — Chooses to protect the secret (and himself) rather than reveal the truth to Kaelen immediately. |
-| Book 3 | Chapter 32 | Key Event | The team finds The Archivist—an elderly man merged with the data systems—who offers to help them access Vane's files in exchange for a quick death. |
-| Book 3 | Chapter 32 | Moment | **The Archivist** — His mind has been shattered by forced integration; death is mercy. |
+| Book 1 | Chapter 07 | Detailed Description | Lecture Hall 1 is a cavernous amphitheater built of polished marble and acoustic stone. It is designed to make the speaker sound like a god and the students feel like insects. The air is cold, conditioned to a sterile dryness. Professor Halloway stands at the podium. He is a relic of the old regime—skin as thin as parchment, milky eyes that see only what they want to see, dressed in the gold-threaded robes of a High Archivist. He taps a cane against the floor for silence. |
+| Book 1 | Chapter 09 | Detailed Description | Aeon introduces himself. He is not a pet. He is an Archivist. A keeper of timelines. |
+| Book 1 | Chapter 09 | Dialog | **Aeon (Internal Voice):** "I am the Archivist. I keep the seconds. I eat the moments you waste. I hunger." |
+| Book 3 | Chapter 10 | Key Event | Deep in the ship's Archives, Master Archivist Sol discovers a sealed file while searching for anomalies in the genealogy database. |
+| Book 3 | Chapter 10 | Moment | **Master Archivist Sol** — He chooses to protect the secret (and himself) rather than reveal the truth immediately. He fears the disruption of order more than he loves the truth. |
+| Book 3 | Chapter 32 | Key Event | The team locates the Data Core. Connected to it is "The Archivist." |
+| Book 3 | Chapter 32 | Key Event | The Archivist begs for death. |
+| Book 3 | Chapter 32 | Moment | **The Archivist** — He represents the ultimate victim of Vane's system—a human turned into a component. He bargains the only thing he has left—information—for the release of death. |
+| Book 3 | Chapter 32 | Dialog | **The Archivist:** "I remember everything. Every experiment. Every scream. It loops. It never stops. Please. Let me forget. Kill the feed." |
+| Book 3 | Chapter 32 | Dialog | **The Archivist:** "Then end me. Give me the silence." |
+| Book 3 | Chapter 32 | Detailed Description | The corridor outside fills with smoke. The Null-Squad are heavy shock troops, immune to pain, wearing armor that dampens energy weapons. There are twenty of them. The team is trapped in the lab. They need time to download the data from the dying Archivist. |

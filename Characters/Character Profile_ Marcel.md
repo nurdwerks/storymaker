@@ -22,4 +22,9 @@ Marcel is Corinne's lead stylist and closest confidant in the Vanity Court. He i
 - **Event Location:** [Book 4, Chapter 7: Corinne's Fall](file:///c:/Users/bryan/Documents/storymaker/Books/Book%204_%20The%20Stone%20Season%20%28Original%20Terms%29.md#L627-L630)
 - **Defining Quote from Lady Corinne:** "A broken mirror doesn't reflect the truth, Marcel. It just cuts the hand of the person trying to use it. You're not an 'echo' anymore; you're just noise. Get out of my sight."
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 05 | *The Vanity Court | Surrounding **Lady Corinne** is her retinue: **Marcel** (her stylus-wielding fashion stylist who critiques everyone's hemline), the twins **Rose and Lily** (who brush her hair in unison), and **Photographer Vorn** (who orbits her like a moon, snapping photos for the social feed). **Sir Gallant**, her current suitor, hovers nearby, fetching her drinks with pathetic eagerness. |
+| Book 3 | Chapter 05 | Detailed Description | **Professor Kroll**, a minor academic invited to explain the science of the tea leaves, is arguing loudly about atmospheric pressure with a bored noble. **Madame Velour**, the head of the Textile Guild, watches Angelica's dress with a critical eye, whispering to Marcel. |

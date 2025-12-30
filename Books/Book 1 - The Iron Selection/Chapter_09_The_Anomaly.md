@@ -58,6 +58,11 @@
   - _Key Dialog:_ **Angelica Ward:** "No! No eating people. No eating dreams. You stick to fruit and inanimate objects. Do you understand?"
   - _Key Dialog:_ **Aeon:** "Inefficient. Biomass is plentiful. But... Limiters set. Protocol: Pacifist. Awaiting input. Pilot."
 
+- **Key Event:** The observer.
+- **Detailed Description:** **Lord Cromwell** stands in the shadows of the Observation Deck, his mechanical quill scratching automatically in a ledger. He listens to Vane's assessment of the candidates, his eyes flicking to the Emperor's empty throne. He does not speak, but his presence reminds Vane that every word is being recorded for the Archives.
+
+  - _Character Defining Moment:_ **Lord Cromwell** — He represents the silent, bureaucratic memory of the State, ensuring that even the most powerful Prelates are accountable to the written record.
+
 - **Key Event:** The burden.
 - **Detailed Description:** Angelica turns on her side, clutching the pillow. She realizes the magnitude of her situation. She is holding a time bomb—literally. She has bonded with a creature that eats the one thing no one in the universe can buy more of: time.
   - _Key Dialog:_ **Angelica Ward (whispered):** "He eats seconds, minutes, hours. He is the most expensive pet in the universe. And I have to feed him before he feeds on me."

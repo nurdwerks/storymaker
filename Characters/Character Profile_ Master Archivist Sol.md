@@ -24,10 +24,21 @@ Master Archivist Sol is the keeper of the Night family library and Kaelen's inte
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 1 | Chapter 07 | Key Event | In Lecture Hall 1, Professor Halloway (paper-thin skin, milky eyes, gold-threaded High Archivist robes) teaches the official history of the Great Ascension. |
-| Book 1 | Chapter 09 | Key Event | That night, Angelica hears a voice in her head—Aeon communicating telepathically. He calls himself "The Archivist" who keeps seconds and eats wasted moments. |
-| Book 3 | Chapter 10 | Key Event | Master Archivist Sol discovers a record in the deep archives suggesting Angelica’s lineage is not "Silt" but part of an ancient Zenith bloodline. He hides the record. |
-| Book 3 | Chapter 10 | Moment | **Master Archivist Sol** — Chooses to protect the secret (and himself) rather than reveal the truth to Kaelen immediately. |
-| Book 3 | Chapter 19 | Key Event | The group discovers a repeating Morse code signal from the Sol System, confirming that Earth is transmitting and waiting for them. |
-| Book 3 | Chapter 32 | Key Event | The team finds The Archivist—an elderly man merged with the data systems—who offers to help them access Vane's files in exchange for a quick death. |
-| Book 3 | Chapter 32 | Moment | **The Archivist** — His mind has been shattered by forced integration; death is mercy. |
+| Book 1 | Chapter 07 | Detailed Description | Lecture Hall 1 is a cavernous amphitheater built of polished marble and acoustic stone. It is designed to make the speaker sound like a god and the students feel like insects. The air is cold, conditioned to a sterile dryness. Professor Halloway stands at the podium. He is a relic of the old regime—skin as thin as parchment, milky eyes that see only what they want to see, dressed in the gold-threaded robes of a High Archivist. He taps a cane against the floor for silence. |
+| Book 1 | Chapter 09 | Detailed Description | Aeon introduces himself. He is not a pet. He is an Archivist. A keeper of timelines. |
+| Book 1 | Chapter 09 | Dialog | **Aeon (Internal Voice):** "I am the Archivist. I keep the seconds. I eat the moments you waste. I hunger." |
+| Book 2 | Chapter 11 | Key Event | The Museum of Pre-History is a lie built of white marble and silence. It floats in the upper curve of Sol-Terra, suspended by anti-grav tethers that hum with a sound like a headache. |
+| Book 3 | Chapter 10 | Key Event | Deep in the ship's Archives, Master Archivist Sol discovers a sealed file while searching for anomalies in the genealogy database. |
+| Book 3 | Chapter 10 | Detailed Description | Sol is alone in the dusty stacks of the Archives. He is an old man, bent with age, his fingers stained with ink. He is cross-referencing Angelica's DNA markers (stolen by Vane) with the historical registry. He finds a match. It is not a Silt bloodline. It connects directly to the "Valerius" line—the original Captains of the _Aeterna_. |
+| Book 3 | Chapter 10 | Key Event | Sol realizes the danger of the information. |
+| Book 3 | Chapter 10 | Detailed Description | If Vane finds out, he will kill Angelica to prevent a rival claim to the throne. If the Resistance finds out, they will use her as a figurehead for a war. Sol closes the file. He encrypts it with a "Dead Man's Key." He decides to hide the truth to protect the girl. |
+| Book 3 | Chapter 10 | Moment | **Master Archivist Sol** — He chooses to protect the secret (and himself) rather than reveal the truth immediately. He fears the disruption of order more than he loves the truth. |
+| Book 3 | Chapter 10 | Dialog | **Sol:** "Knowledge is dangerous. Ignorance is safety. Stay hidden, little ghost. The light will only burn you." |
+| Book 3 | Chapter 19 | Key Event | The signal is traced to the Sol System. |
+| Book 3 | Chapter 32 | Key Event | The team locates the Data Core. Connected to it is "The Archivist." |
+| Book 3 | Chapter 32 | Key Event | The Archivist begs for death. |
+| Book 3 | Chapter 32 | Moment | **The Archivist** — He represents the ultimate victim of Vane's system—a human turned into a component. He bargains the only thing he has left—information—for the release of death. |
+| Book 3 | Chapter 32 | Dialog | **The Archivist:** "I remember everything. Every experiment. Every scream. It loops. It never stops. Please. Let me forget. Kill the feed." |
+| Book 3 | Chapter 32 | Dialog | **The Archivist:** "Then end me. Give me the silence." |
+| Book 3 | Chapter 32 | Detailed Description | The corridor outside fills with smoke. The Null-Squad are heavy shock troops, immune to pain, wearing armor that dampens energy weapons. There are twenty of them. The team is trapped in the lab. They need time to download the data from the dying Archivist. |
+| Book 4 | Chapter 35 | Dialog | **Dr. Aris:** "That is the Sol system. Spectrographic analysis confirms G-type main-sequence star. It is... approximately four thousand light-years astern." |

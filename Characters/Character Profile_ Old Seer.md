@@ -24,4 +24,7 @@ Old Seer is a blind mystic who throws bones for Ragnar. He is the guardian of th
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 6 | Chapter 18 | Key Event | Ragnar exposes the tribe's Old Seer as a fraud for hoading food while people died and casts him out into the jungle. |
+| Book 6 | Chapter 18 | Detailed Description | She rushes back to Ragnar's tent. The Old Seer is there, shaking a bone rattle over the dying chief and chanting about evil spirits. |
+| Book 6 | Chapter 18 | Detailed Description | He points a shaking finger at the Old Seer, who stands apart, glaring. |
+| Book 6 | Chapter 18 | Detailed Description | The Seer is dragged away, screaming curses at the Sky-Witch. |
+| Book 7 | Chapter 03 | Detailed Description | Rust, the blind seer of the ship's underbelly, sits in the dark. He does not need eyes to see the arrival of the End. He tilts his head, listening to the vibration of the ship's hull. Usually, the *Aeterna* hums with the life of a city—footsteps, pumps, laughter. Now, the hull vibrates with a low, dissonance frequency. It feels like the ship is shivering. Rust smells the air—recycled ozone, stale food, and something else. A metallic, sterile scent. The smell of "nothing." |

@@ -30,9 +30,17 @@ Thorne is the example of what happens when a weak mind touches the **Old World S
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 2 | Chapter 02 | Key Event | While dining under heavy surveillance in the Palace, a tiny courier drone drops a data-chip from Archon Solon into Angelica's soup, warning that "The History is a lie" and that she is being sought as a "vessel." |
-| Book 2 | Chapter 02 | Key Event | Angelica discovers Magister Solon dead at a desk with his throat slit. The Sigil of the Founders—a circle with four interlocking triangles—is burned into his forehead. |
-| Book 2 | Chapter 02 | Moment | **Magister Solon** — His corpse initiates the plot—he died trying to reveal the truth. |
-| Book 2 | Chapter 03 | Key Event | Using a Mag-Lev Grappling Hook scavenged from Solon's office, Angelica intercepts a sanitation drone to slow her fall before crashing through a billboard and landing in a dumpster. |
-| Book 2 | Chapter 08 | Key Event | Lisbet’s young runner, Pixel, delivers the decryption key for Solon’s chip despite being brutally attacked by a gang that stole her cybernetic eye. |
-| Book 2 | Chapter 08 | Key Event | The map identifies "Exhibit 404: The Cylinder of Truth" as the location of the information Solon died for, which Hatcher notes is restricted from public viewing. |
+| Book 2 | Chapter 01 | Detailed Description | His aide, **Magister Solon**, stands nervously behind him. |
+| Book 2 | Chapter 01 | Dialog | **Magister Solon:** "Is she the one, Prelate? Truly? The prophecy is vague." |
+| Book 2 | Chapter 02 | Detailed Description | A voice whispers inside her skull. It is **Magister Solon**, the Archon who sponsored her entry into the Academy. |
+| Book 2 | Chapter 02 | Dialog | **Magister Solon (Voiceover):** "Don't react. Just listen. The Selection isn't about finding a soldier, Angelica. It's about finding a vessel. The History is a lie. Vane is lying to everyone." |
+| Book 2 | Chapter 02 | Dialog | **Magister Solon (Voiceover):** "I found the original logs. Meet me at the Archives. Midnight. Come alone. Or humanity dies in this cage." |
+| Book 2 | Chapter 02 | Detailed Description | Ideally, she finds Solon waiting with answers. Instead, she smells copper. |
+| Book 2 | Chapter 02 | Moment | **Magister Solon** — Even in death, he serves as the catalyst, his sacrifice providing the first breadcrumb on the path to the truth. |
+| Book 2 | Chapter 02 | Detailed Description | A Captain steps forward. He looks at Solon's body. He looks at Angelica. He point to the blood on her hands—blood from her own surgery, mixed with Solon's. |
+| Book 2 | Chapter 02 | Dialog | **Warden Captain:** "You are under arrest for the murder of Magister Solon. For High Treason against the Zenith. And specifically, for attempting to destroy Imperial Archives." |
+| Book 2 | Chapter 02 | Detailed Description | It's a frame. Perfect. Seamless. They knew Solon was going to talk, so they killed him and pinned it on the "slum-rat" Candidate to discredit anything she might say. |
+| Book 2 | Chapter 03 | Detailed Description | The library, a cavernous hall of data-crystals and holographic archives, erupts into chaos. Plasma bolts sear the air, vaporizing shelves of ancient texts. The smell of ozone and burning paper fills the room. Angelica, still clutching the data-chip from Solon, slides under a marble reading table as a volley of fire destroys the bust of a Founder above her head. She activates Aeon, who is perched on her shoulder in his dormant metallic form. |
+| Book 2 | Chapter 03 | Detailed Description | The wind is deafening. Angelica is in a terminal velocity dive. Her eyes water, blurring the lights of the traffic lanes below. She spots a heavy sanitation drone—a garbage scow—moving in a lower lane. She pulls the Mag-Lev Grappling Hook she scavenged from Solon's office. It is a prototype, unstable and heavy. She aims, leading the target, and fires. The magnetic head clamps onto the drone's hull with a spark of blue light. The line goes taut. |
+| Book 2 | Chapter 08 | Key Event | Angelica and Lisbet unlock Solon's data-chip. |
+| Book 2 | Chapter 08 | *Internal Conflict | Angelica stares at the map. The patterns look familiar. They match the Fibonacci sequences she used to study in engineering. It isn't just data; it's art. She realizes Solon didn't just hide the information; he encoded it in the architecture of the city itself. |

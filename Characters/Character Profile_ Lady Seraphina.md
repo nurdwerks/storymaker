@@ -24,4 +24,8 @@ Lady Seraphina is a cousin of the Night family who represents the "perfect" life
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 3 | Chapter 23 | Key Event | Lady Seraphina exposes that the resistance team is armed, leading Vane to order their arrest. |
+| Book 3 | Chapter 10 | Detailed Description | The alcove is small, lit by a single, dim orb. Vesper stands in the center, surrounded by Lord Ashford, Lady Seraphina, and three other minor house heads. They are the "Obsidian Circle"—a conspiracy formed to oppose Duke Grey's consolidation of power. They are terrified. Grey's influence is growing daily; he controls the food supply (through Cromwell) and the military (through Vane). |
+| Book 3 | Chapter 23 | Key Event | Lady Seraphina, another high-ranking noble and rival to Vesper, exposes the fact that the resistance team is still armed. |
+| Book 3 | Chapter 23 | Detailed Description | Seraphina has been watching Silas closely. She notices the way he guards his left side, the slight bulge under his jacket. She laughs, a cruel, tinkling sound. She stands up and points a manicured finger at the group. She accuses Vane of being soft, of allowing "rats" to sit at his table with hidden claws. She reveals that Silas has a holdout blaster and Angelica has a ceramic knife in her boot. |
+| Book 3 | Chapter 23 | Dialog | **Lady Seraphina:** "Oh, spare us the theatrics, Magister. Look at them. They are coiled like snakes. They have weapons. The smuggler has a gun; the girl has a knife. Kill them before they stain the tablecloth." |
+| Book 3 | Chapter 24 | Detailed Description | Baroness Shard, who was returning from her banishment, is caught in the doorway. She screams as a cyborg impales her. Lady Seraphina tries to run but trips over her own gown. The brutality is indiscriminate. The "Mannequins" are programmed to clear the room. |

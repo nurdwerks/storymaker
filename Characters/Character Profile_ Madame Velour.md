@@ -14,4 +14,8 @@ Madame Velour is Baron Gilded's personal tailor and fabricator. She is obsessed 
 - **Event Location:** [Book 3, Chapter 10: The Gala of Ghosts](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L838-854)
 - **Defining Quote:** "A clumsy mistake, Velour. But perhaps you will find inspiration in the manual labor of the lower decks." (Reveals flaw: ENVY)
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 05 | Detailed Description | **Professor Kroll**, a minor academic invited to explain the science of the tea leaves, is arguing loudly about atmospheric pressure with a bored noble. **Madame Velour**, the head of the Textile Guild, watches Angelica's dress with a critical eye, whispering to Marcel. |

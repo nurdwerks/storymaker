@@ -22,5 +22,8 @@ Moxie is the tough owner of "The Last Drop" who treats Zephyr like a favorite so
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 2 | Chapter 28 | Key Event | Wardens storm the "Last Drop" bar; Moxie sets the establishment on fire to distract the soldiers and allow her patrons to escape through the back. |
-| Book 2 | Chapter 28 | Moment | **Moxie** — She shows heroic selflessness by burning the only home and business she has ever known to save the "rats" she cares for. |
+| Book 2 | Chapter 28 | Detailed Description | "The Last Drop" is packed with patrons trying to hide. The doors shudder as Wardens batter them with rams. Moxie, the bartender, looks at her establishment—her life's work, the only safe haven in the sector. She looks at the terrified "rats" hiding under her tables. |
+| Book 2 | Chapter 28 | Key Event | Moxie's sacrifice. |
+| Book 2 | Chapter 28 | Detailed Description | She grabs a bottle of high-proof synth-alcohol. She stuffs a rag in it. She lights it. "Get out the back!" she roars. "Go into the tunnels! Move!" As the Wardens breach the door, Moxie throws the Molotov cocktail not at them, but at her own liquor supply behind the bar. The wall of bottles explodes. A fireball consumes the front of the room, creating a wall of flame between the soldiers and her patrons. |
+| Book 2 | Chapter 28 | Moment | **Moxie** — She shows heroic selflessness by burning the only home she has ever known to save the people she pretends to despise. |
+| Book 2 | Chapter 28 | Dialog | **Moxie:** "Closing time, you tin-can bastards! Drinks are on the house!" |

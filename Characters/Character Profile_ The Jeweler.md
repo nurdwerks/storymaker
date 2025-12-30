@@ -14,4 +14,8 @@ The Jeweler is a master craftsman who is constantly measuring Lady Vesper for ne
 - **Event Location:** [Book 3, Chapter 23: The Slaughter](file:///c:/Users/bryan/Documents/storymaker/Books/Book%203_%20The%20Game%20of%20Gears%20%28Original%20Terms%29.md#L1821-1828)
 - **Defining Quote:** (Witnessing his own work destroy her) "The 'improvements' he had made to her bone density were now her undoing." (Reveals flaw: PRIDE)
 
+## Consistency Check
 
+| Book | Chapter | Type | Event Description |
+|---|---|---|---|
+| Book 3 | Chapter 05 | *The Imperial Shadows | In the corner, the **Royal Taster** samples the buffet with paranoid precision. The **Jeweler** inspects the ladies' diamonds with a loupe, while the **Mirror-Maid** stands silently behind the High Chamberlain, holding a reflective shield so he can check his appearance. |

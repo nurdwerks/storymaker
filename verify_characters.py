@@ -51,6 +51,10 @@ def get_character_profiles(characters_dir):
                 if len(term) > 2 and term_clean not in STOP_WORDS:
                     final_terms.add(term)
             
+            # Debug for missing chars
+            if "Vorn" in name_part or "Shield-Sisters" in name_part or "Jeweler" in name_part or "Mirror" in name_part:
+                 print(f"DEBUG: {name_part} Terms: {final_terms}")
+            
             profiles[name_part] = {
                 "path": path,
                 "search_terms": list(final_terms),
@@ -100,11 +104,37 @@ def scan_chapters(books_dir, profiles):
                 if line.startswith("- **Key Event:**"):
                     event_type = "Key Event"
                     content = line.replace("- **Key Event:**", "").strip()
+                elif line.startswith("- **Detailed Description:**"):
+                    event_type = "Detailed Description"
+                    content = line.replace("- **Detailed Description:**", "").strip()
                 elif line.startswith("- _Character Defining Moment:_"):
                     event_type = "Moment"
                     content = line.replace("- _Character Defining Moment:_ ", "").strip()
+                elif "_Key Dialog:_" in line:
+                    event_type = "Dialog"
+                    # Clean up dialog line to be readable
+                    # format: - _Key Dialog:_ **Name:** "Speech"
+                    content = line.replace("- _Key Dialog:_ ", "").strip()
+                elif line.strip().startswith("- **"):
+                    # Generic catch-all for custom headers like "**The Vanity Court:**"
+                    # Extract the header as the event type
+                    try:
+                        header_end = line.find("**", 3)
+                        if header_end != -1:
+                            event_type = line[3:header_end].replace(":", "").strip()
+                            content = line[header_end+2:].strip()
+                            # If content starts with ": ", remove it
+                            if content.startswith(":"):
+                                content = content[1:].strip()
+                    except:
+                        pass
+
                 
                 if event_type and content:
+                    # Debug fallback
+                    if event_type.startswith("*"):
+                         pass # print(f"DEBUG: Catch-all Event: {event_type} Content: {content[:30]}...")
+
                     # Check which characters are mentioned in this content
                     for char_name, profile_data in profiles.items():
                         found = False

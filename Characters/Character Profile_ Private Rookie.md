@@ -22,5 +22,11 @@ Private "Rookie" is a young soldier Ria is mentoring. He represents the next gen
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
-| Book 4 | Chapter 11 | Key Event | **Rookie** hesitates to shoot a child attacker. The hesitation costs him his life. He dies in Ria's arms. |
-| Book 4 | Chapter 11 | Key Event | Ria takes a serious wound defending the rear after Rookie falls. |
+| Book 4 | Chapter 11 | Key Event | **Rookie**, a young soldier from Ironwood's guard who joined them, hesitates. |
+| Book 4 | Chapter 11 | Detailed Description | Rookie raises his weapon at a small figure charging him. It is a child, no older than ten, but with the same filed teeth and dead eyes as the adults. Rookie freezes. He sees a kid. The kid sees meat. The child lunges, driving a shiv into Rookie's throat. |
+| Book 4 | Chapter 11 | *Internal Conflict | Rookie dies with a look of confusion on his face. He held onto his humanity for one second too long, and it killed him. Ria sees this. She screams, not in grief, but in rage. She shoots the child without hesitation. |
+| Book 4 | Chapter 11 | Dialog | **Rookie (gurgling):** "I couldn't... he was just a kid..." |
+| Book 4 | Chapter 11 | Detailed Description | Distracted by Rookie's fall, Ria is flanked. The leader of the Cannibals, a massive man wearing armor made of street signs, swings a heavy pipe. It connects with Ria's side, crushing armor and bone. She goes down, gasping. She rolls, firing her pistol into the leader's stomach until he stops twitching. |
+| Book 4 | Chapter 11 | Detailed Description | The ambush breaks. The Cannibals retreat, dragging their dead (and Rookie's body) with them. They leave the survivors bleeding in the dark. |
+| Book 4 | Chapter 11 | *Internal Conflict | Angelica looks at her group. They are harder now. Colder. Rookie is dead because he hesitated. The child is dead because he wasn't useful. They are shedding their humanity to stay light enough to outrun death. She wonders what will be left of them when they reach the surface. |
+| Book 4 | Chapter 11 | Dialog | **Angelica Ward:** "We remember them. Rookie. Leo. We carry them with us." |
