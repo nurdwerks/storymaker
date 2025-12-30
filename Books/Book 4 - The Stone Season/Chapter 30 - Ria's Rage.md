@@ -1,38 +1,51 @@
 # Chapter 30: Ria's Rage
 
----
+> [!IMPORTANT] > **Tone Rule:** All summaries must be written in a **Neutral and Factual** tone. Avoid subjective commentary or interpretation—focus on what happens, who is involved, and what is said.
 
-### Scene 1: The Provocation
-
-- **Key Event:** The Mother attempts to break Ria by broadcasting memories of her brother Jax's death—showing his sacrifice in Chapter 17 on loop.
-  - _Key Dialog:_ **The Mother:** "He died for nothing. You survived for nothing. Why do you resist peace?"
+> [!NOTE]
+> There is **no limit** to the number of scenes, key events, character defining moments, or key dialog entries. Include as many as necessary to fully capture the chapter.
 
 ---
+
+## Chapter 30: Ria's Rage
+
+### Scene 1: The Bio-Core
+
+- **Key Event:** The survivors stand on the edge of the central biological processor of the Mother—a massive, pulsating organ suspended in a nutrient tank. The room is filled with holographic projections of memories stolen from the ship's inhabitants.
+- **Detailed Description:** The Bio-Core is a cathedral of flesh and circuitry. The air is thick with humidity and the smell of copper. The Mother, sensing their intrusion, activates her defense mechanism: psychological warfare. Screens flicker to life all around the room, showing high-definition replays of the crew's worst traumas.
+- **Internal Conflict:** Ria is already on edge, her hand hovering over her weapon. She tries to ignore the screens, focusing on the mission to plant the thermal charges. But the Mother is intelligent. She isolates Ria, dimming the other screens and projecting a single, looped video on the main monitor: the death of Jax.
+
+- **Key Event:** The Mother broadcasts the memory of Jax's death in the Undercity famine. It shows him starving, small and weak, looking at Ria with hollow eyes before he expires. The audio is enhanced, amplifying his last, ragged breath.
+- **Detailed Description:** The image is crisp, far clearer than Ria's own fading memory. She sees the dirt on his face, the way his ribs pressed against his skin. She hears her own voice begging for food. The Mother's voice overlays the video, a soothing, synthetic whisper that echoes from the walls.
+  - _Key Dialog:_ **The Mother:** "He died for nothing. You survived for nothing. He was weak, and you let him wither. Why do you resist peace? Join us, and you can hold him again."
 
 ### Scene 2: The Breakout
 
-- **Key Event:** Ria's grief and rage overload her combat limiters, and she enters a "Red-Line" berserker state, attacking the biological mass of the Mother with her bare hands.
-  - _Character Defining Moment:_ **Ria** — Channels her guilt over Jax's death into pure fury, asserting that she will make his sacrifice mean something.
-  - _Key Dialog:_ **Ria:** "He died for the Silt. I LIVE for the Silt. And I will KILL for the Silt!"
+- **Key Event:** Ria stares at the screen, her breathing becoming ragged. The guilt she has carried for years—the belief that she ate the food that could have saved him—boils over.
+- **Detailed Description:** The metal plating on Ria's skin begins to heat up, glowing a dull cherry red. Steam vents from her shoulder ports. Her eyes, usually muddy and tired, turn solid crimson as her combat limiters disengage. She does not scream; she growls, a low, mechanical rumble that vibrates in her chest.
+- **Internal Conflict:** Ria rejects the Mother's offer of peace. She doesn't want peace; she wants penance. She wants to punish the world that let Jax die. She realizes that her survival wasn't a gift, but a debt she has to pay in violence.
+  - _Character Defining Moment:_ **Ria** — Channels her guilt over Jax's death into pure fury, asserting that she will make his sacrifice mean something. She decides that the only way to honor him is to destroy the thing mocking his memory.
+  - _Key Dialog:_ **Ria:** "He didn't die for nothing. He died so I could live. He died for the Silt. I LIVE for the Silt. And I will KILL for the Silt!"
 
----
+- **Key Event:** Ria enters a "Red-Line" berserker state. She drops her gun and charges the tank, attacking the biological mass of the Mother with her bare hands.
+- **Detailed Description:** She moves faster than her heavy frame should allow. She leaps across the gap, slamming into the reinforced glass of the nutrient tank. Her fists strike with the force of pile-drivers. The glass cracks. She punches again, and again, shattering the barrier. She plunges into the fluid, grabbing the pulsating flesh of the Mother's core. She rips at the bio-cables, tearing them out with hydraulic strength.
 
 ### Scene 3: The Toll
 
-- **Key Event:** The physical exertion of the Red-Line state begins to damage Ria's body; sparks and blood leak from her wounds as she pushes beyond human limits.
-  - _Key Dialog:_ **Lisbet:** "Ria, stop! You're tearing yourself apart! Your heart can't take this!"
-
----
+- **Key Event:** The physical exertion of the Red-Line state begins to damage Ria's body. The heat generated by her internal reactor exceeds safety tolerances.
+- **Detailed Description:** Sparks fly from her joints as the servos overheat. Her skin blisters where the metal plating is hottest. Blood leaks from her nose and ears, boiling on contact with her armor. The Mother's defense tentacles lash out, wrapping around Ria, but she ignores them, biting through the flesh to get to the core. She is burning herself out, trading her life for damage output.
+- **Internal Conflict:** Lisbet, watching the monitors, sees Ria's heart rate spike to fatal levels. She realizes Ria isn't fighting to win; she's fighting to die.
+  - _Key Dialog:_ **Lisbet:** "Ria, stop! You're tearing yourself apart! Your heart can't take this! Pull back!"
+  - _Key Dialog:_ **Ria:** "Let it burn! Let it all burn!"
 
 ### Scene 4: The Victory
 
-- **Key Event:** Ria manages to tear out a primary coolant line, causing the Mother's core temperature to spike and forcing the biological mass to retreat.
-  - _Character Defining Moment:_ **Ria** — Collapses after the battle, her body broken but her spirit undefeated.
-  - _Key Dialog:_ **Ria:** "Jax... I finished... the fight..."
-  - _Key Dialog:_ **Angelica Ward:** "Rest, sister. We'll carry you the rest of the way."
+- **Key Event:** Ria manages to find the primary coolant line feeding the Mother's central processor. With a final, agonizing heave, she rips the pipe free.
+- **Detailed Description:** A geyser of liquid nitrogen erupts into the tank, instantly freezing the biological mass. The Mother screams—a psychic shriek that shatters the remaining screens. The flesh turns grey and necrotic as the thermal shock kills the tissue. The pulsating heart of the core stops. The room goes silent, save for the hiss of escaping gas.
+- **Internal Conflict:** The rage leaves Ria as quickly as it came, leaving only exhaustion. She falls from the tank, landing hard on the deck. Her metal skin is cooling, turning a dull, lifeless grey. She lies there, staring at the ceiling, unable to move.
 
----
-
-_Summarized from Book 4 source material._
-
-
+- **Key Event:** Angelica and the team rush to her side. Ria is alive, but barely.
+- **Detailed Description:** Angelica kneels in the coolant puddle, lifting Ria's head. Ria's face is slack, her eyes dimming. She tries to lift her hand, but the servos are fused. She smiles, a weak, crooked thing. She feels lighter, as if the ghost of Jax has finally stopped sitting on her chest.
+  - _Character Defining Moment:_ **Ria** — Collapses after the battle, her body broken but her spirit undefeated. She has paid her debt.
+  - _Key Dialog:_ **Ria:** "Jax... I finished... the fight... Did you see?"
+  - _Key Dialog:_ **Angelica Ward:** "He saw, Ria. We all saw. Rest, sister. We'll carry you the rest of the way."

@@ -2,26 +2,6 @@
 
 | Book | Chapter | Word Count | Status |
 |---|---|---|---|
-| Book 5 - The Silent Void | [Chapter 05 - The First Mutiny.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2005%20-%20The%20First%20Mutiny.md) | 250 | Pass |
-| Book 6 - The Architect of Time | [Chapter 40 - The Dream.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2040%20-%20The%20Dream.md) | 250 | Pass |
-| Book 5 - The Silent Void | [Chapter 01 - The Awakening.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2001%20-%20The%20Awakening.md) | 251 | Pass |
-| Book 6 - The Architect of Time | [Chapter 15 - The Silence.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2015%20-%20The%20Silence.md) | 251 | Pass |
-| Book 5 - The Silent Void | [Chapter 16 - The Gravity Trap.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2016%20-%20The%20Gravity%20Trap.md) | 252 | Pass |
-| Book 5 - The Silent Void | [Chapter 42 - The Unknown.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2042%20-%20The%20Unknown.md) | 252 | Pass |
-| Book 5 - The Silent Void | [Chapter 12 - The Jungle.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2012%20-%20The%20Jungle.md) | 253 | Pass |
-| Book 5 - The Silent Void | [Chapter 36 - The Pull.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2036%20-%20The%20Pull.md) | 253 | Pass |
-| Book 5 - The Silent Void | [Chapter 37 - The Separation.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2037%20-%20The%20Separation.md) | 256 | Pass |
-| Book 5 - The Silent Void | [Chapter 10 - The Breach.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2010%20-%20The%20Breach.md) | 257 | Pass |
-| Book 5 - The Silent Void | [Chapter 25 - Angelica's Decision.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2025%20-%20Angelica%27s%20Decision.md) | 257 | Pass |
-| Book 5 - The Silent Void | [Chapter 41 - Vane's Fate.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2041%20-%20Vane%27s%20Fate.md) | 257 | Pass |
-| Book 6 - The Architect of Time | [Chapter 25 - The Completion.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2025%20-%20The%20Completion.md) | 260 | Pass |
-| Book 4 - The Stone Season | [Chapter 05 - The First Turn.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2005%20-%20The%20First%20Turn.md) | 261 | Pass |
-| Book 4 - The Stone Season | [Chapter 30 - Ria's Rage.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2030%20-%20Ria%27s%20Rage.md) | 262 | Pass |
-| Book 2 - The Cipher of Sins | [Chapter 12 - The Cylinder.md](Books/Book%202%20-%20The%20Cipher%20of%20Sins/Chapter%2012%20-%20The%20Cylinder.md) | 263 | Pass |
-| Book 4 - The Stone Season | [Chapter 33 - The Hatch.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2033%20-%20The%20Hatch.md) | 263 | Pass |
-| Book 5 - The Silent Void | [Chapter 08 - The Ghost Signal.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2008%20-%20The%20Ghost%20Signal.md) | 263 | Pass |
-| Book 5 - The Silent Void | [Chapter 23 - The Star-Tear Drive.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2023%20-%20The%20Star-Tear%20Drive.md) | 263 | Pass |
-| Book 5 - The Silent Void | [Chapter 24 - The Interface.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2024%20-%20The%20Interface.md) | 264 | Pass |
 | Book 5 - The Silent Void | [Chapter 29 - Vane's Betrayal.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2029%20-%20Vane%27s%20Betrayal.md) | 264 | Pass |
 | Book 5 - The Silent Void | [Chapter 15 - Aris's Obsession.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2015%20-%20Aris%27s%20Obsession.md) | 266 | Pass |
 | Book 4 - The Stone Season | [Chapter 08 - The Hunger.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2008%20-%20The%20Hunger.md) | 267 | Pass |
@@ -165,6 +145,7 @@
 | Book 5 - The Silent Void | [Chapter 35 - The Tear.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2035%20-%20The%20Tear.md) | 785 | Pass |
 | Book 2 - The Cipher of Sins | [Chapter 24 - The Gauntlet.md](Books/Book%202%20-%20The%20Cipher%20of%20Sins/Chapter%2024%20-%20The%20Gauntlet.md) | 843 | Pass |
 | Book 5 - The Silent Void | [Chapter 21 - The Fleet.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2021%20-%20The%20Fleet.md) | 857 | Pass |
+| Book 5 - The Silent Void | [Chapter 24 - The Interface.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2024%20-%20The%20Interface.md) | 872 | Pass |
 | Book 5 - The Silent Void | [Chapter 20 - The Retreat.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2020%20-%20The%20Retreat.md) | 878 | Pass |
 | Book 5 - The Silent Void | [Chapter 33 - The Hunters.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2033%20-%20The%20Hunters.md) | 884 | Pass |
 | Book 5 - The Silent Void | [Chapter 28 - The Connection.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2028%20-%20The%20Connection.md) | 896 | Pass |
@@ -172,17 +153,25 @@
 | Book 5 - The Silent Void | [Chapter 19 - The Collapse.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2019%20-%20The%20Collapse.md) | 927 | Pass |
 | Book 5 - The Silent Void | [Chapter 04 - Vane's Lab.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2004%20-%20Vane%27s%20Lab.md) | 934 | Pass |
 | Book 5 - The Silent Void | [Chapter 07 - The Silent Sea.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2007%20-%20The%20Silent%20Sea.md) | 939 | Pass |
+| Book 5 - The Silent Void | [Chapter 41 - Vane's Fate.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2041%20-%20Vane%27s%20Fate.md) | 948 | Pass |
+| Book 5 - The Silent Void | [Chapter 42 - The Unknown.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2042%20-%20The%20Unknown.md) | 951 | Pass |
 | Book 5 - The Silent Void | [Chapter 06 - The Discovery.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2006%20-%20The%20Discovery.md) | 958 | Pass |
+| Book 5 - The Silent Void | [Chapter 08 - The Ghost Signal.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2008%20-%20The%20Ghost%20Signal.md) | 966 | Pass |
 | Book 6 - The Architect of Time | [Chapter 35 - The Argument.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2035%20-%20The%20Argument.md) | 967 | Pass |
 | Book 6 - The Architect of Time | [Chapter 36 - The Door.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2036%20-%20The%20Door.md) | 969 | Pass |
 | Book 5 - The Silent Void | [Chapter 40 - The Silence.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2040%20-%20The%20Silence.md) | 973 | Pass |
+| Book 5 - The Silent Void | [Chapter 23 - The Star-Tear Drive.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2023%20-%20The%20Star-Tear%20Drive.md) | 979 | Pass |
 | Book 5 - The Silent Void | [Chapter 39 - The Fall.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2039%20-%20The%20Fall.md) | 1007 | Pass |
 | Book 7 - The Final Resonance | [Chapter 23 - The Judgment of Vane.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2023%20-%20The%20Judgment%20of%20Vane.md) | 1020 | Pass |
+| Book 4 - The Stone Season | [Chapter 05 - The First Turn.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2005%20-%20The%20First%20Turn.md) | 1028 | Pass |
 | Book 5 - The Silent Void | [Chapter 38 - The Push.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2038%20-%20The%20Push.md) | 1037 | Pass |
 | Book 5 - The Silent Void | [Chapter 13 - The Doppelgangers.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2013%20-%20The%20Doppelgangers.md) | 1044 | Pass |
 | Book 5 - The Silent Void | [Chapter 44 - The Landing.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2044%20-%20The%20Landing.md) | 1053 | Pass |
 | Book 7 - The Final Resonance | [Chapter 13 - Titans Stand.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2013%20-%20Titans%20Stand.md) | 1057 | Pass |
+| Book 5 - The Silent Void | [Chapter 37 - The Separation.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2037%20-%20The%20Separation.md) | 1058 | Pass |
+| Book 4 - The Stone Season | [Chapter 30 - Ria's Rage.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2030%20-%20Ria%27s%20Rage.md) | 1059 | Pass |
 | Book 7 - The Final Resonance | [Chapter 50 - Earth Two.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2050%20-%20Earth%20Two.md) | 1059 | Pass |
+| Book 4 - The Stone Season | [Chapter 33 - The Hatch.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2033%20-%20The%20Hatch.md) | 1066 | Pass |
 | Book 7 - The Final Resonance | [Chapter 21 - The Confrontation.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2021%20-%20The%20Confrontation.md) | 1066 | Pass |
 | Book 5 - The Silent Void | [Chapter 18 - Aris's End.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2018%20-%20Aris%27s%20End.md) | 1070 | Pass |
 | Book 7 - The Final Resonance | [Chapter 12 - The Hull Breach.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2012%20-%20The%20Hull%20Breach.md) | 1087 | Pass |
@@ -190,12 +179,15 @@
 | Book 7 - The Final Resonance | [Chapter 20 - The Power Failure.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2020%20-%20The%20Power%20Failure.md) | 1091 | Pass |
 | Book 7 - The Final Resonance | [Chapter 10 - The Assessment.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2010%20-%20The%20Assessment.md) | 1093 | Pass |
 | Book 7 - The Final Resonance | [Chapter 05 - The Noise Warning.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2005%20-%20The%20Noise%20Warning.md) | 1096 | Pass |
+| Book 2 - The Cipher of Sins | [Chapter 12 - The Cylinder.md](Books/Book%202%20-%20The%20Cipher%20of%20Sins/Chapter%2012%20-%20The%20Cylinder.md) | 1102 | Pass |
 | Book 7 - The Final Resonance | [Chapter 16 - The Bridge Lockdown.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2016%20-%20The%20Bridge%20Lockdown.md) | 1102 | Pass |
 | Book 7 - The Final Resonance | [Chapter 01 - The Silence Breaks.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2001%20-%20The%20Silence%20Breaks.md) | 1103 | Pass |
 | Book 7 - The Final Resonance | [Chapter 18 - Brother against Brother.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2018%20-%20Brother%20against%20Brother.md) | 1122 | Pass |
+| Book 5 - The Silent Void | [Chapter 36 - The Pull.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2036%20-%20The%20Pull.md) | 1123 | Pass |
 | Book 7 - The Final Resonance | [Chapter 14 - The Casualty.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2014%20-%20The%20Casualty.md) | 1126 | Pass |
 | Book 7 - The Final Resonance | [Chapter 03 - Vanes Denial.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2003%20-%20Vanes%20Denial.md) | 1139 | Pass |
 | Book 3 - The Game of Gears | [Chapter 09 - The Network.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2009%20-%20The%20Network.md) | 1144 | Pass |
+| Book 5 - The Silent Void | [Chapter 16 - The Gravity Trap.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2016%20-%20The%20Gravity%20Trap.md) | 1147 | Pass |
 | Book 3 - The Game of Gears | [Chapter 35 - The Darkness.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2035%20-%20The%20Darkness.md) | 1152 | Pass |
 | Book 3 - The Game of Gears | [Chapter 22 - The Feast of Vipers.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2022%20-%20The%20Feast%20of%20Vipers.md) | 1156 | Pass |
 | Book 5 - The Silent Void | [Chapter 11 - Into the Wild.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2011%20-%20Into%20the%20Wild.md) | 1157 | Pass |
@@ -216,8 +208,10 @@
 | Book 7 - The Final Resonance | [Chapter 26 - The Second Wave.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2026%20-%20The%20Second%20Wave.md) | 1210 | Pass |
 | Book 3 - The Game of Gears | [Chapter 24 - The Slaughter.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2024%20-%20The%20Slaughter.md) | 1213 | Pass |
 | Book 5 - The Silent Void | [Chapter 22 - Ironwood's Last Stand.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2022%20-%20Ironwood%27s%20Last%20Stand.md) | 1213 | Pass |
+| Book 6 - The Architect of Time | [Chapter 15 - The Silence.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2015%20-%20The%20Silence.md) | 1216 | Pass |
 | Book 3 - The Game of Gears | [Chapter 14 - Whispers in the Dark.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2014%20-%20Whispers%20in%20the%20Dark.md) | 1222 | Pass |
 | Book 3 - The Game of Gears | [Chapter 28 - The Samson Option.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2028%20-%20The%20Samson%20Option.md) | 1224 | Pass |
+| Book 6 - The Architect of Time | [Chapter 25 - The Completion.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2025%20-%20The%20Completion.md) | 1224 | Pass |
 | Book 3 - The Game of Gears | [Chapter 17 - The Great Escape.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2017%20-%20The%20Great%20Escape.md) | 1226 | Pass |
 | Book 7 - The Final Resonance | [Chapter 08 - The First Shot.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2008%20-%20The%20First%20Shot.md) | 1227 | Pass |
 | Book 3 - The Game of Gears | [Chapter 05 - Social Warfare.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2005%20-%20Social%20Warfare.md) | 1228 | Pass |
@@ -228,6 +222,8 @@
 | Book 3 - The Game of Gears | [Chapter 04 - The Red Room.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2004%20-%20The%20Red%20Room.md) | 1253 | Pass |
 | Book 3 - The Game of Gears | [Chapter 16 - The Game of Gears.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2016%20-%20The%20Game%20of%20Gears.md) | 1260 | Pass |
 | Book 5 - The Silent Void | [Chapter 09 - The Vote.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2009%20-%20The%20Vote.md) | 1270 | Pass |
+| Book 5 - The Silent Void | [Chapter 12 - The Jungle.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2012%20-%20The%20Jungle.md) | 1273 | Pass |
+| Book 6 - The Architect of Time | [Chapter 40 - The Dream.md](Books/Book%206%20-%20The%20Architect%20of%20Time/Chapter%2040%20-%20The%20Dream.md) | 1278 | Pass |
 | Book 3 - The Game of Gears | [Chapter 27 - The Forging of Wrath.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2027%20-%20The%20Forging%20of%20Wrath.md) | 1282 | Pass |
 | Book 3 - The Game of Gears | [Chapter 31 - ARIA's Choice.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2031%20-%20ARIA%27s%20Choice.md) | 1292 | Pass |
 | Book 3 - The Game of Gears | [Chapter 19 - Echoes of Earth.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2019%20-%20Echoes%20of%20Earth.md) | 1293 | Pass |
@@ -245,12 +241,14 @@
 | Book 3 - The Game of Gears | [Chapter 12 - The Iron Heart.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2012%20-%20The%20Iron%20Heart.md) | 1333 | Pass |
 | Book 7 - The Final Resonance | [Chapter 07 - The Panic.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2007%20-%20The%20Panic.md) | 1333 | Pass |
 | Book 3 - The Game of Gears | [Chapter 20 - The Ascent.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2020%20-%20The%20Ascent.md) | 1341 | Pass |
+| Book 5 - The Silent Void | [Chapter 10 - The Breach.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2010%20-%20The%20Breach.md) | 1341 | Pass |
 | Book 3 - The Game of Gears | [Chapter 25 - Leo's End.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2025%20-%20Leo%27s%20End.md) | 1348 | Pass |
 | Book 3 - The Game of Gears | [Chapter 26 - The Scream.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2026%20-%20The%20Scream.md) | 1352 | Pass |
 | Book 3 - The Game of Gears | [Chapter 10 - The Gala of Ghosts.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2010%20-%20The%20Gala%20of%20Ghosts.md) | 1356 | Pass |
 | Book 3 - The Game of Gears | [Chapter 13 - Nightfall.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2013%20-%20Nightfall.md) | 1358 | Pass |
 | Book 7 - The Final Resonance | [Chapter 37 - The White Room.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2037%20-%20The%20White%20Room.md) | 1364 | Pass |
 | Book 5 - The Silent Void | [Chapter 32 - The Activation.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2032%20-%20The%20Activation.md) | 1367 | Pass |
+| Book 5 - The Silent Void | [Chapter 25 - Angelica's Decision.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2025%20-%20Angelica%27s%20Decision.md) | 1377 | Pass |
 | Book 7 - The Final Resonance | [Chapter 31 - Putting it on the Tab.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2031%20-%20Putting%20it%20on%20the%20Tab.md) | 1385 | Pass |
 | Book 7 - The Final Resonance | [Chapter 47 - The Bargain.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2047%20-%20The%20Bargain.md) | 1385 | Pass |
 | Book 3 - The Game of Gears | [Chapter 18 - The Wasteland.md](Books/Book%203%20-%20The%20Game%20of%20Gears/Chapter%2018%20-%20The%20Wasteland.md) | 1388 | Pass |
@@ -271,10 +269,12 @@
 | Book 7 - The Final Resonance | [Chapter 48 - The Offering.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2048%20-%20The%20Offering.md) | 1561 | Pass |
 | Book 7 - The Final Resonance | [Chapter 22 - The Entity Enter.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2022%20-%20The%20Entity%20Enter.md) | 1567 | Pass |
 | Book 7 - The Final Resonance | [Chapter 46 - The Glitch.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2046%20-%20The%20Glitch.md) | 1582 | Pass |
+| Book 5 - The Silent Void | [Chapter 01 - The Awakening.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2001%20-%20The%20Awakening.md) | 1610 | Pass |
 | Book 7 - The Final Resonance | [Chapter 30 - The Override.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2030%20-%20The%20Override.md) | 1670 | Pass |
 | Book 7 - The Final Resonance | [Chapter 38 - The First Test.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2038%20-%20The%20First%20Test.md) | 1678 | Pass |
 | Book 7 - The Final Resonance | [Chapter 32 - The Aftershock.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2032%20-%20The%20Aftershock.md) | 1682 | Pass |
 | Book 7 - The Final Resonance | [Chapter 43 - The Tea Party.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2043%20-%20The%20Tea%20Party.md) | 1725 | Pass |
+| Book 5 - The Silent Void | [Chapter 05 - The First Mutiny.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2005%20-%20The%20First%20Mutiny.md) | 1768 | Pass |
 | Book 5 - The Silent Void | [Chapter 27 - The Chair.md](Books/Book%205%20-%20The%20Silent%20Void/Chapter%2027%20-%20The%20Chair.md) | 2417 | Pass |
 
-**Total Word Count:** 197688
+**Total Word Count:** 215936
