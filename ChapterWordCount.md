@@ -2,7 +2,6 @@
 
 | Book | Chapter | Word Count | Status |
 |---|---|---|---|
-| Book 7 - The Final Resonance | [Chapter 22 - The Entity Enter.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2022%20-%20The%20Entity%20Enter.md) | 152 | Pass |
 | Book 7 - The Final Resonance | [Chapter 32 - The Aftershock.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2032%20-%20The%20Aftershock.md) | 152 | Pass |
 | Book 7 - The Final Resonance | [Chapter 38 - The First Test.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2038%20-%20The%20First%20Test.md) | 152 | Pass |
 | Book 7 - The Final Resonance | [Chapter 48 - The Offering.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2048%20-%20The%20Offering.md) | 153 | Pass |
@@ -191,6 +190,7 @@
 | Book 4 - The Stone Season | [Chapter 18 - Aris's Experiment.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2018%20-%20Aris%27s%20Experiment.md) | 322 | Pass |
 | Book 4 - The Stone Season | [Chapter 29 - Corinne's Temptation.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2029%20-%20Corinne%27s%20Temptation.md) | 322 | Pass |
 | Book 4 - The Stone Season | [Chapter 27 - The Clones.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2027%20-%20The%20Clones.md) | 323 | Pass |
+| Book 7 - The Final Resonance | [Chapter 22 - The Entity Enter.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2022%20-%20The%20Entity%20Enter.md) | 323 | Pass |
 | Book 2 - The Cipher of Sins | [Chapter 02 - The Gilded Leash.md](Books/Book%202%20-%20The%20Cipher%20of%20Sins/Chapter%2002%20-%20The%20Gilded%20Leash.md) | 325 | Pass |
 | Book 4 - The Stone Season | [Chapter 06 - The Horde.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2006%20-%20The%20Horde.md) | 327 | Pass |
 | Book 4 - The Stone Season | [Chapter 40 - Angelica's Vow.md](Books/Book%204%20-%20The%20Stone%20Season/Chapter%2040%20-%20Angelica%27s%20Vow.md) | 327 | Pass |
@@ -277,4 +277,4 @@
 | Book 7 - The Final Resonance | [Chapter 40 - The Acceptance.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2040%20-%20The%20Acceptance.md) | 1473 | Pass |
 | Book 7 - The Final Resonance | [Chapter 45 - The Proof.md](Books/Book%207%20-%20The%20Final%20Resonance/Chapter%2045%20-%20The%20Proof.md) | 1479 | Pass |
 
-**Total Word Count:** 90017
+**Total Word Count:** 90188
