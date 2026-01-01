@@ -35,7 +35,7 @@
 - **Internal Conflict:** Kaelen realizes the "Amplitude" refers to Life itself—specifically, the chaotic, magic-infused life force of the survivors. The "Noise" is their existence. The Entity is telling them they are too loud against the silence of the universe.
 
   - _Character Defining Moment:_ **Kaelen Night** — He slams his fist on the table, cracking the glass surface of the holomap. The sudden violence silences the room. The warrior in him wakes up, rejecting the idea of "quieting down."
-  - _Key Dialog:_ **Kaelen:** "It's not waiting for an answer. It's a Cease and Desist order. For existence. It wants us to stop *being*."
+  - _Key Dialog:_ **Kaelen:** "It's not waiting for an answer. It's a Cease and Desist order. For existence. It wants us to stop _being_."
 
 - **Key Event:** They realize the futility of negotiation.
 - **Detailed Description:** The team looks at the translation. "Cease Function" does not leave room for diplomacy. It is a binary command: 0 or 1. Life or Death. And the Entity has selected 0. The realization settles over the room like a shroud. They are not fighting a nation; they are fighting a cosmic janitor cleaning up a mess.
@@ -52,6 +52,7 @@
 
 - **Key Event:** Angelica dismisses the need to retrieve him.
 - **Detailed Description:** Someone suggests sending a squad to get him. Angelica shakes her head. She knows Vane. He is likely trying to cut his own deal or hiding in his delusions.
+
   - _Character Defining Moment:_ **Angelica Ward** — She shows her growth as a leader. She doesn't need Vane's permission or his presence. She steps into the power vacuum naturally.
   - _Key Dialog:_ **Angelica:** "Let him hide. Good. He would only try to sell us out or preach to the thing. We do this ourselves."
 
@@ -61,3 +62,15 @@
 
   - _Key Dialog:_ **Lisbet:** "He's transmitting. High-gain antenna."
   - _Key Dialog:_ **Kaelen:** "Let him talk to the void. The void won't talk back."
+
+### Scene 4: The Veteran's Watch
+
+- **Key Event:** Hatcher prepares for the inevitable.
+- **Detailed Description:** In a corner of the war room, **Hatcher (The Null)** leans against the wall, his shotgun cradled across his chest. He has been silent through the debate, watching the younger generation argue about cosmic philosophy. He doesn't need to understand the Entity's language; he understands what happens next. They will fight. They will probably die. That's been the story his whole life. He checks his ammunition—twelve shells left. He'll make each one count.
+
+  - _Key Dialog:_ **Hatcher (muttering):** "Cease function. Same message the galaxy's been sending since I was born. Hasn't stopped me yet."
+  - _Character Defining Moment:_ **Hatcher** — Shows his fatalism and resilience; for him, existence has always been a fight against forces trying to erase people like him.
+
+---
+
+_Summarized from Book 7 source material._

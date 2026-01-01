@@ -15,7 +15,7 @@
 
 ### Scene 1: The Landing Site
 
-- **Key Event:** The *Aeterna* rests in the ocean of the new world. It is no longer a ship; it is an island. The sun rises over a green horizon.
+- **Key Event:** The _Aeterna_ rests in the ocean of the new world. It is no longer a ship; it is an island. The sun rises over a green horizon.
 - **Detailed Description:** The morning light is soft and golden, filtering through the thick, oxygen-rich atmosphere. The ocean is calm, lapping against the scorched hull of the generation ship. Vines are already climbing the landing struts, accelerated by the residual time-magic of Aeon's sacrifice. Birds—or creatures that look like birds, evolved from the genetic stock of the terraforming wave—circle the bridge tower. The air smells of salt and wet earth. The survivors emerge from the airlocks. They are pale, thin, and battered. They blink in the sunlight. They touch the ground tentatively, as if expecting it to disappear.
 - **Internal Conflict:** Angelica stands on the bridge balcony. She is holding her own hands to stop them from shaking. She feels... useless. The war is over. The engine is dead. The magic is gone. She doesn't know who she is without the crisis. She looks at the people below—families reuniting, soldiers weeping, children running on the sand. She feels a profound sense of dislocation. She is the Captain of a ship that will never fly again.
 
@@ -31,8 +31,9 @@
   - _Key Dialog:_ **Ria:** "You're doing it wrong, Princess. Put your back into it."
 
 - **Key Event:** Ria and Kaelen work together. The animosity is gone, replaced by the camaraderie of survivors.
-- **Detailed Description:** Ria is carrying a massive steel beam on her shoulder. She is still strong, though her Titan-form is gone. Her metal skin is dull, scratching against the beam. She drops it next to Kaelen's ditch. She offers him a water skin. They sit on the beam, watching the sun set. They don't talk about the war. They talk about the soil. They talk about the rain.
+- **Detailed Description:** Ria is carrying a massive steel beam on her shoulder. She is still strong, though her Titan-form is gone. Her metal skin is dull, scratching against the beam. She drops it next to Kaelen's ditch. She offers him a water skin. They sit on the beam, watching the sun set. They don't talk about the war. They talk about the soil. They talk about the rain. Nearby, **Lady Corinne** is directing a group of former Highborn and Undercity refugees alike, pointing out where the latrines should go. She has traded her silk for homespun linen, and there is mud on her hem. She looks more vital, more alive, than she ever did on the Zenith.
 - **Internal Conflict:** Ria touches her arm. She can feel the heat of the sun on the metal. It's warm. She closes her eyes, savoring the sensation. She realizes she isn't hungry. The Envy is quiet. She has enough.
+  - _Key Dialog:_ **Lady Corinne:** "The latrines go _downhill_ from the water source, not _uphill_. Did you learn nothing in the Undercity? Honestly."
 
 ### Scene 3: The Porch
 

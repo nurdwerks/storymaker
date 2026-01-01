@@ -77,9 +77,18 @@
 - **Key Event:** The Pain.
 - **Detailed Description:** Pain returns. Her body is cramping. Her nose is bleeding. Her head feels like it is splitting open.
 - **Key Event:** The Awakening.
-- **Detailed Description:** She wakes up screaming in the pilot's chair, thrashing against the restraints. Blood runs from her nose and ears. She is back in the _Zenith_. She is back in the war.
+- **Detailed Description:** She wakes up screaming in the pilot's chair, thrashing against the restraints. Blood runs from her nose and ears. She is back in the _Zenith_. She is back in the war. **Lady Corinne** is there instantly, pressing a cold compress to Angelica's forehead, her voice a soft, grounding murmur amidst the chaos.
+- **Key Dialog:** **Lady Corinne:** "Breathe, darling. You're solids again. We're all solids. The nasty white room is gone."
   - _Key Dialog:_ **Kaelen Night:** "Angelica! Breathe! You're back!"
   - _Key Dialog:_ **Angelica Ward (Gasping):** "Turn off... that damn... alarm."
+
+### Scene 6: The Guard
+
+- **Key Event:** Ria holds the line.
+- **Detailed Description:** While Angelica drifted in the Bulk, **Ria (The Iron Vanguard)** stood guard over her catatonic body on the bridge. For the entire duration of the crisis—what felt like hours—Ria has been positioned beside the pilot's chair, plasma torch in hand, ready to fight anyone or anything that tried to touch the Captain. When Angelica wakes screaming, Ria is the first to move, cutting her restraints and shouting for a medic. Her face is haggard, but her hands are steady. She has not slept since the drive failed.
+
+  - _Key Dialog:_ **Ria (to a nearby ensign):** "Medic! Now! Not in ten seconds—now! She's bleeding from the ears!"
+  - _Character Defining Moment:_ **Ria** — Demonstrates her unwavering loyalty; while others panicked, she stood vigil, refusing to leave the Captain's side even when the alarms screamed that the ship was dying.
 
 ---
 

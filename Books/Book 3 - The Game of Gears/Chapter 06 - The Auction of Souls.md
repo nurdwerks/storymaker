@@ -38,15 +38,21 @@
 ### Scene 3: The Bidding War
 
 - **Key Event:** Angelica returns to the auction floor just as Lot 49—"The Mechanic's Guild Remnants"—is brought on stage.
-- **Detailed Description:** The Auctioneer, a man with a gold-plated microphone implanted in his throat, describes the lot. "Twenty skilled laborers. Grade B condition. Ideal for heavy industry or reactor maintenance." The bidding starts low. The Highborn don't want old mechanics; they want house servants.
+- **Detailed Description:** The Auctioneer, a man with a gold-plated microphone implanted in his throat, describes the lot. "Twenty skilled laborers. Grade B condition. Ideal for heavy industry or reactor maintenance." The bidding starts low. The Highborn don't want old mechanics; they want house servants. In the upper gallery, **Matriarch Lilith Night** observes the proceedings with cold detachment, her silver mask catching the stage lights. She is here not to bid, but to monitor House Night's investments and enemies.
 - **Key Event:** Duke Grey enters the bidding, intending to buy them for his mines.
-- **Detailed Description:** Grey raises his paddle lazily. He plans to send them to the helium extraction zones—a death sentence. He spots Angelica. He smiles. He bids just to annoy her.
+- **Detailed Description:** Grey raises his paddle lazily. He plans to send them to the helium extraction zones—a death sentence. He spots Angelica. He smiles. He bids just to annoy her. Near the back of the hall, **Baron Gilded** watches the exchange with calculating interest, his golden monocle gleaming as he makes notes on a datapad.
 - **Key Event:** Angelica engages in a bidding war.
 - **Detailed Description:** Angelica raises her paddle. The price climbs. 10,000 credits. 20,000. 50,000. The crowd murmurs. This is an exorbitant sum for "Grade B" labor. Angelica is spending the stipend Vane gave her to buy dresses. She is spending her future.
 - **Internal Conflict:** Angelica knows she is bankrupting herself. She will have no money for bribes, for equipment, for food. But she cannot let Miller die in the dark.
 - **Key Event:** Grey drops out.
 - **Detailed Description:** Grey laughs. He lets the paddle fall. He decides that bankrupting Angelica is more fun than owning the mechanics.
+
   - _Key Dialog:_ **Duke Valerius Grey:** "Too rich for my blood. Let the girl have her pets. She needs someone to fix her hair. Sold to the Lady in Grey!"
+
+- **Key Event:** Security presence.
+- **Detailed Description:** Standing at the perimeter of the auction floor, **Joyce (The Needle)** maintains her post as part of the Zenith's security detail. Her eyes sweep the crowd with professional efficiency, cataloging threats. She notes Angelica's unusual bidding behavior and Baron Gilded's intense observation, filing both details away for later analysis.
+
+- **Character Defining Moment:** **Matriarch Lilith Night** — She watches the Ward girl's reckless expenditure with quiet intrigue. The child is either foolish or visionary. Either way, she represents a variable that House Night must monitor closely.
 
 ### Scene 4: The Aftermath
 

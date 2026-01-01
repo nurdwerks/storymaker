@@ -33,6 +33,7 @@
 
   - _Key Dialog:_ **Hunter:** "She is small. Weak."
   - _Key Dialog:_ **Ragnar:** "Strength is not just muscle! She hunts with this!" (He taps his temple hard). "She hunted me. And she caught me."
+  - _Internal Monologue:_ Angelica stands straighter, unconsciously adopting the "Parade Rest" stance Ria drilled into her. _Strength isn't size, Angie. It's will. It's the refusal to break._ She looks at Ragnar, and for a second, she sees the same iron certainty she used to see in Ria's eyes.
 
 - **Key Event:** The Release.
 - **Detailed Description:** He looks at Angelica. There is a new light in his eyes. Not friendship, but respect. Peer to peer.

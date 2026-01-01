@@ -54,10 +54,11 @@
 ### Scene 3: The Command
 
 - **Key Event:** The Shift.
-- **Detailed Description:** On the _Aeterna_ bridge, Angelica spins her chair back to her console. Her hands fly across a holographic interface that is far more advanced than anything on the _Zenith_. The symbols are alien, geometric, and glowing rapid violet.
+- **Detailed Description:** On the _Aeterna_ bridge, Angelica spins her chair back to her console. Her hands fly across a holographic interface that is far more advanced than anything on the _Zenith_. The symbols are alien, geometric, and glowing rapid violet. Behind her stands **Lady Corinne**, her hands folded in her sleeves, watching the display with the calm detachment of someone who has seen civilizations fall. She nods to Angelica, a silent permission to unleash the storm.
 - **Key Event:** The Transfer.
 - **Detailed Description:** She types a rapid sequence.
   - _Key Dialog:_ **Angelica Ward:** "Transferring tactical command to _Aeterna_. Slaving your targeting computers to my AI. Do not fight the link."
+  - _Key Dialog:_ **Lady Corinne:** "Make it quick, Angel. Mercy is swift."
 - **Key Event:** The Protest.
 - **Detailed Description:** Ironwood bristles.
   - _Key Dialog:_ **General Ironwood:** "Now wait a minute, Captain. I am still the ranking officer in this sector."

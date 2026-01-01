@@ -35,7 +35,7 @@
 - **Detailed Description:** Cromwell stands up and walks to the window. He gestures to the city below. He explains that Vane may be the face of the Zenith, but Cromwell is the spine. He controls the food rations, the water cycles, the air scrubbers. He calculates the caloric needs of every citizen.
 - **Key Event:** Cromwell uses a holographic display to show Leo Ward.
 - **Detailed Description:** He waves his hand, and a section of the air turns into a screen. It shows a live feed of a detention cell. Leo is sitting on a cot, reading a book. He looks safe, but the cell is stark. Cromwell explains the arrangement. Leo is being kept in "protective custody." His medicine is being administered on a schedule set by Cromwell.
-- **Internal Conflict:** Angelica's heart stops. Seeing Leo alive is a relief, but seeing him in a cage is a torment. She realizes the depth of the leverage they have. They aren't just threatening to kill him; they are threatening to *manage* his death. They have turned his life into a line item in a ledger.
+- **Internal Conflict:** Angelica's heart stops. Seeing Leo alive is a relief, but seeing him in a cage is a torment. She realizes the depth of the leverage they have. They aren't just threatening to kill him; they are threatening to _manage_ his death. They have turned his life into a line item in a ledger.
   - _Key Dialog:_ **Lord Cromwell:** "I am the Steward. My job is to ensure the numbers balance. And right now, you are a deficit. You are noise in my system. I do not like noise."
   - _Key Dialog:_ **Lord Cromwell:** "The boy requires 40 milligrams of stablizers daily. Expensive. But manageable. If you are useful, the ledger balances. If you are not... I stop the shipment. You behave, he eats. You rebel, he starves. It is simple calculus."
 
@@ -48,6 +48,13 @@
   - _Key Dialog:_ **Angelica Ward:** "I understand the math, my Lord. I will balance your books."
   - _Key Dialog:_ **Lord Cromwell:** "Good. See that you do. You are dismissed."
   - _Key Dialog:_ **Angelica Ward:** (Whispering as she leaves) "I hear you. But sound travels both ways, my Lord. And even whispers can start avalanches."
+
+### Scene 5: The Rivalry
+
+- **Key Event:** General Ironwood intercepts Angelica.
+- **Detailed Description:** As Angelica leaves the office, she runs into **General Ironwood** in the waiting room. He is the opposite of Cromwell—tall, broad-shouldered, wearing a uniform adorned with medals. He looks at Angelica with critical appraisal, not as an accountant looks at a ledger, but as a butcher looks at a side of beef. He nods to Cromwell's door. The tension between the two men is palpable even through the closed door. Ironwood represents the brute force of the Zenith; Cromwell represents its secrets. They hate each other.
+  - _Key Dialog:_ **General Ironwood:** "Accountant's finished with you, recruit? Now the real work begins. He counts the bodies. I make them. Don't disappoint me on the field."
+  - _Character Defining Moment:_ **General Ironwood** — Establishes his direct, martial philosophy and his disdain for the bureaucratic manipulation of the Steward.
 
 ---
 

@@ -68,6 +68,13 @@
 - **Detailed Description:** Angelica stands panting, steam curling around her body. She looks at her hands, which are trembling with residual energy. She steps over the groaning boys. She realizes she has crossed a line. She has put a target on her back. In the Zenith, dangerous things are either controlled or destroyed. She has just proven she is dangerous.
   - _Key Dialog:_ **Angelica Ward:** "Physics is just a suggestion when you have enough energy."
 
+### Scene 5: The Analysis
+
+- **Key Event:** Medical review.
+- **Detailed Description:** In the Medical Archives, **Dr. Aris** downloads the sensor logs from the locker room incident. His cybernetic eye processes the kinetic displacement wave in slow motion, calculating the energy output. He cross-references the data with Ward's baseline readings. The discrepancy is significant—she released more joules in one burst than most cadets produce in a month of training. He flags the file with a red priority marker.
+
+  - _Key Dialog:_ **Dr. Aris (notation):** "Kinetic output exceeds all projections. Subject Ward's resonance potential is Category S. Recommend immediate escalation to Prelate Vane."
+
 ---
 
 _Summarized from Book 1 source material._

@@ -82,6 +82,13 @@
   - _Key Dialog:_ **Angelica Ward:** "It feels like losing. It feels like being Vane. Treating people like numbers."
   - _Key Dialog:_ **Hatcher:** "Leadership satisfies the ego. But it kills the sleep. Get used to the insomnia, Princess. You're the Captain now. And the Captain always goes down with the ship... or gets everyone else off it."
 
+### Scene 6: The Feedback
+
+- **Key Event:** Lady Vesper traces the signal.
+- **Detailed Description:** **Lady Vesper**, monitoring the ship's comms web from her private suite, catches the surge of binary code that flooded Section 4. She recognizes the signature. It isn't random static; it's the Emperor's "Voice."
+  - _Key Dialog:_ **Lady Vesper:** "So, the old fool didn't die. He just moved into the walls. Interesting. A ghost is harder to kill, but easier to delete."
+  - _Character Defining Moment:_ **Lady Vesper** — She is unfazed by the supernatural nature of the threat, viewing it merely as a technical problem to be solved.
+
 ---
 
 _Summarized from Book 4 source material._

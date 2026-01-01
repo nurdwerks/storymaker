@@ -29,7 +29,7 @@
 ### Scene 2: The Battery / Containment Field
 
 - **Key Event:** Angelica initiates the extraction sequence to retrieve the crystal.
-- **Detailed Description:** She activates the robotic manipulation arms, controlling them via a console. The mechanical claws reach into the magnetic field, grasping the crystal. As soon as the connection is made, the console screens glitch with static. The energy inside the crystal is not just power; it is *personality*. Vane's rage and madness are leaking out. The robotic arms tremble as if fighting a physical force. Angelica overrides the safety protocols, forcing the extraction. Sparks shower from the ceiling as the magnetic seals break. With a final, wrenching tear, the crystal is pulled free from the engine core and deposited into a lead-lined transport case.
+- **Detailed Description:** She activates the robotic manipulation arms, controlling them via a console. The mechanical claws reach into the magnetic field, grasping the crystal. As soon as the connection is made, the console screens glitch with static. The energy inside the crystal is not just power; it is _personality_. Vane's rage and madness are leaking out. The robotic arms tremble as if fighting a physical force. Angelica overrides the safety protocols, forcing the extraction. Sparks shower from the ceiling as the magnetic seals break. With a final, wrenching tear, the crystal is pulled free from the engine core and deposited into a lead-lined transport case.
 - **Internal Conflict:** Angelica can hear Vane's voice in her head—a distant, screaming whisper. It mocks her, tempts her, threatens her. She realizes that carrying this crystal is like carrying a piece of hell. She has to erect mental barriers, using the training the Mother gave her, to keep Vane's influence out.
 
   - _Key Dialog:_ **Angelica Ward:** "Quiet down, Vane. You're not a god anymore. You're a battery."
@@ -42,7 +42,7 @@
 
 - **Key Event:** Angelica takes the crystal to the lab for analysis.
 - **Detailed Description:** Under the scanning lasers of the lab, the true nature of the "Shard" is revealed. It is a "Psychic Nuke." The compression of Vane's consciousness combined with the chronal energy of Torin's sacrifice has created a singularity in a bottle. The energy density is off the charts. It is unstable, volatile, and capable of tearing a hole in reality if shattered. The red light from the crystal fills the lab, casting long, bloody shadows.
-- **Detailed Description:** Dr. Aris (or his automated proxy) runs the simulation. If detonated, the Shard would not create an explosion of heat, but an explosion of *will*. It would overwrite the reality of a localized area with Vane's madness, effectively deleting anything inside it. It is a weapon of absolute horror.
+- **Detailed Description:** Dr. Aris (or his automated proxy) runs the simulation. If detonated, the Shard would not create an explosion of heat, but an explosion of _will_. It would overwrite the reality of a localized area with Vane's madness, effectively deleting anything inside it. It is a weapon of absolute horror.
 - **Internal Conflict:** Angelica looks at the weapon and feels a grim satisfaction. It is poetic justice. Vane wanted to consume the world; now he will be used to save it. She weighs the morality of using such a thing. It is a war crime in a box. But against the Entity, against the end of all things, morality is a luxury she cannot afford.
 
 ---
@@ -50,14 +50,16 @@
 ### Scene 4: The Purpose / The Bridge
 
 - **Key Event:** Angelica brings the plan to the command crew.
-- **Detailed Description:** She places the case on the holo-table on the Bridge. The crew—Kaelen, Zephyr, Ria—stare at it. They can feel the wrongness of it. Angelica explains the plan. They are going to use the Shard as a kinetic kill vehicle. They will load it into a torpedo and fire it into the heart of the enemy fleet. It is a suicide run for the torpedo, and a gamble for the ship.
-- **Internal Conflict:** The crew is hesitant. Using "dark" technology, using the soul of their enemy, feels like crossing a line. Zephyr looks particularly disturbed, remembering what Vane did to the urchins. But they look at Angelica's face—hard, unyielding—and they see the logic.
+- **Detailed Description:** She places the case on the holo-table on the Bridge. The crew—Kaelen, Zephyr, Ria, and **Lady Corinne**—stare at it. They can feel the wrongness of it. Angelica explains the plan. They are going to use the Shard as a kinetic kill vehicle. They will load it into a torpedo and fire it into the heart of the enemy fleet. It is a suicide run for the torpedo, and a gamble for the ship.
+- **Internal Conflict:** The crew is hesitant. Using "dark" technology, using the soul of their enemy, feels like crossing a line. Zephyr looks particularly disturbed, remembering what Vane did to the urchins. But **Lady Corinne** steps forward, her face unreadable. She places her hand near the case, sensing the resonance.
+  - _Key Dialog:_ **Lady Corinne:** "It screams. But it screams for order. It is fitting, isn't it? He wanted to consume us. Now he will consume our enemies. It is... polite."
 - **Key Event:** Angelica finalizes the decision.
 - **Detailed Description:** She keys in the launch codes, arming the device. The case locks with a heavy thud. She places her hand on the lid, feeling the vibration of the scream inside.
 
   - _Character Defining Moment:_ **Angelica Ward** — She accepts the role of the "Monster" to defeat monsters. She takes the moral burden onto herself so her crew doesn't have to.
   - _Key Dialog:_ **Angelica Ward:** "Vane, you wanted to change the future? You wanted to be the architect of the new world? You're going to get your chance. You're going to clear the path for us."
   - _Key Dialog:_ **Ria:** "It's an abomination, Angelica."
+  - _Key Dialog:_ **Lady Corinne:** "It is a weapon, child. Morality is for the living. We are simply borrowing the dead."
   - _Key Dialog:_ **Angelica Ward:** "It's ammo. Load it."
 
 ---

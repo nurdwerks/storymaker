@@ -82,6 +82,15 @@
 
   - _Key Dialog:_ **Angelica Ward:** "I didn't predict the future, Kaelen. I just remembered it."
 
+### Scene 6: The Temporal Log
+
+- **Key Event:** Medical anomaly detected.
+- **Detailed Description:** In the remote monitoring station, **Dr. Aris** notices a discontinuity in the biometric feeds from Squad Iron. The timestamp shows a 10.2-second gap where all vitals appeared to "rewind" before continuing forward. He isolates the anomaly and runs a diagnostic. The results are impossible—the data suggests localized temporal displacement. He saves the file to his encrypted research archive.
+
+  - _Key Dialog:_ **Dr. Aris (murmured):** "Chrono-kinetic manifestation. The Ward subject can manipulate entropy itself. Prelate Vane must see this immediately."
+
+- **Character Defining Moment:** **Dr. Aris** — He recognizes that Angelica represents something beyond normal resonance—a fundamental anomaly in the laws of physics. His scientific curiosity wars with institutional loyalty.
+
 ---
 
 _Summarized from Book 1 source material._

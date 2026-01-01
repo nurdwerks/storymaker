@@ -77,6 +77,13 @@
   - _Character Defining Moment:_ **Angelica Ward** — The internal shift is palpable. The scavenger dies; the cadet is born. She is no longer surviving for herself; she is a weapon forged for a purpose.
   - _Key Dialog:_ **Angelica Ward:** "Ambition is just survival with a better haircut. If they want a monster... I'll build them one. And then I'll burn their house down."
 
+### Scene 5: The Sponsor
+
+- **Key Event:** Lady Corinne approves the candidate.
+- **Detailed Description:** High above in the Zenith, in a penthouse suite decorated with white marble and gold, **Lady Corinne (The Porcelain Doll)** watches the live feed from Vane's helmet. She sits on a velvet chaise lounge, sipping tea from a cup that costs more than the entire Silt sector. She watches Angelica's defiance, the way she negotiated for the boy's life. Corinne smiles, a cold, porcelain expression of satisfaction. She taps her comms-link.
+  - _Key Dialog:_ **Lady Corinne:** "You were right, Vane. She's feral. But she has good bones. And that defiance... that's marketable. The audience loves a rebel. I'll sponsor her entry fees. Put her on the primetime roster."
+  - _Character Defining Moment:_ **Lady Corinne** — Demonstrates her detachment and commodification of human life; she sees Angelica not as a person, but as a profitable entertainment asset.
+
 ---
 
 _Summarized from Book 1 source material._

@@ -36,3 +36,4 @@ Mrs. Gable is a sweet-faced old woman who knits alongside Joyce in the retiremen
 | Book 4 | Chapter 22 | Dialog | **Joyce:** "Gable, get away from the glass! They don't want your pity, they want your food! Get back!" |
 | Book 4 | Chapter 22 | Dialog | **Mrs. Gable:** "But look at them, Joyce. They're so hungry..." |
 | Book 4 | Chapter 22 | *Internal Conflict | Joyce is broken. She has lost her home, her friend Gable, her protector Timmy, and her illusion of peace. She is just a killer in the dark again. She looks at her hands, still stained with blood, and weeps silently. |
+| Book 4 | Chapter 22 | Dialog | **Joyce:** "Can't he? Words started this war. Words killed Gable." |

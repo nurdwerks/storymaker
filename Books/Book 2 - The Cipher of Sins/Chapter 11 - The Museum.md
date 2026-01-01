@@ -77,5 +77,13 @@
 
 ---
 
+### Scene 5: The Patron
+
+- **Key Event:** In the museum's private VIP viewing lounge, **Baron Gilded** sips champagne while watching the chaos unfold on security monitors.
+- **Detailed Description:** Baron Gilded is not surprised by the breach—he funded the museum's security systems and knows their weaknesses. He watches the Ward girl grab the Cylinder with calculating interest. The artifact's true value isn't in the vault; it's in who wants it badly enough to risk everything. He makes a note to investigate Ward's backers. Where there is desperation, there is opportunity.
+  - _Key Dialog:_ **Baron Gilded (to his assistant):** "Don't alert security. Let them take it. The Cylinder leads to something far more valuable. Track the girl. She'll lead us to the real treasure."
+
+---
+
 _Summarized from Book 2 source material._
 ```

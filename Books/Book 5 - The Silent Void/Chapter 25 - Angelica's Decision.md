@@ -18,6 +18,7 @@
 - **Key Event:** Kaelen Night physically blocks Angelica's path to the throne, his body language desperate and protective. He grabs her shoulders, shaking her slightly to break her trance.
 - **Detailed Description:** Kaelen is disheveled, his usually pristine uniform torn and stained with soot from the earlier battles. His eyes are wide with panic, a rare emotion for the stoic warrior. He places himself between her and the machine, using his body as a shield against her destiny. His grip is tight, almost painful, as if he can anchor her to humanity by force of will alone.
 - **Internal Conflict:** Kaelen is terrified of losing her. He has spent his life fighting physical enemies he could kill with a sword. He cannot fight this. He sees the throne not as a salvation, but as a maw that will swallow the woman he loves. He is willing to fight the alien fleet with his bare hands if it means keeping her out of that chair.
+
   - _Character Defining Moment:_ **Kaelen Night** — Shows his profound love for Angelica, preferring a doomed physical fight over losing the woman he loves to the machine. He rejects the logic of sacrifice for the selfish need to keep her.
   - _Key Dialog:_ **Kaelen Night:** "No. Absolutely not. We'll find another way. We can overload the reactor. We can fight them in the corridors. I don't care! I am not letting you plug your brain into that... that coffin!"
   - _Key Dialog:_ **Angelica Ward:** "There is no other way, Kaelen. Look at the tactical map. They will be here in ten minutes. We need the drive. The drive needs a mind."
@@ -41,9 +42,22 @@
 
 - **Key Event:** Angelica sits in the throne. The restraints snap into place automatically, locking her wrists and ankles. The "Crown" descends.
 - **Detailed Description:** The machine comes alive around her. Restraints of cold steel clamp down on her limbs. The neural array lowers from the ceiling with a hydraulic hiss. The needles gleam in the blue light. Angelica looks straight ahead, staring at the blank viewscreen. She takes a deep breath, steadying her heart rate. She does not close her eyes. She faces the needle with open eyes.
-- **Internal Conflict:** In the final second, panic flares. The lizard brain screams *run*. But she overrides it with pure will. She thinks of Leo. She thinks of the Undercity. She thinks of the promise she made to herself to never be helpless again. This is ultimate power, and ultimate sacrifice.
+- **Internal Conflict:** In the final second, panic flares. The lizard brain screams _run_. But she overrides it with pure will. She thinks of Leo. She thinks of the Undercity. She thinks of the promise she made to herself to never be helpless again. This is ultimate power, and ultimate sacrifice.
+
   - _Key Dialog:_ **Angelica Ward (Whispered):** "Ready."
 
 - **Key Event:** The needles pierce her skin. Angelica screams as the connection is made, her body arching against the restraints as her mind is ripped from her biology and uploaded into the ship's mainframe.
-- **Detailed Description:** The sound of the connection is a wet, mechanical *thunk*. Angelica's scream is raw and guttural, cutting through the silence of the bridge. Her back arches, her muscles seizing in a tetanic contraction. Golden light erupts from her eyes and mouth, blinding the onlookers. The ship's lights flicker and surge, the hum of the reactor rising to a deafening roar. The bridge vibrates as the *Zenith* accepts its new heart. Then, Angelica's body goes limp, slumping in the chair. But the lights on the console turn from red to green. The ship is awake.
+- **Detailed Description:** The sound of the connection is a wet, mechanical _thunk_. Angelica's scream is raw and guttural, cutting through the silence of the bridge. Her back arches, her muscles seizing in a tetanic contraction. Golden light erupts from her eyes and mouth, blinding the onlookers. The ship's lights flicker and surge, the hum of the reactor rising to a deafening roar. The bridge vibrates as the _Zenith_ accepts its new heart. Then, Angelica's body goes limp, slumping in the chair. But the lights on the console turn from red to green. The ship is awake.
 - **Internal Conflict:** Kaelen falls to his knees, watching the lifeless shell of the woman he loves. He feels a sudden, phantom touch in his mind—a cold, vast presence brushing against his consciousness. It is her. She is the ship. And she is watching him.
+
+### Scene 4: The Witnesses
+
+- **Key Event:** Other crew members watch the transformation.
+- **Detailed Description:** At the bridge entrance, **Lady Corinne (The Porcelain Doll)** stands frozen, her hand pressed against the doorframe for support. She has seen death before, but this is something else—a person becoming a machine, choosing to dissolve into something greater. For the first time in her life, she has no political angle to calculate, no power play to consider. She is simply witnessing a sacrifice that humbles her. Beside her, **Zephyr (The Gilded Rogue)** has stopped his usual running commentary. His cybernetic eye records the scene with clinical precision, but his organic eye glistens with moisture. The girl from the Silt just paid a debt no currency could cover.
+
+  - _Key Dialog:_ **Lady Corinne (whispering):** "She's gone. She actually did it. She gave up... everything."
+  - _Key Dialog:_ **Zephyr:** "No. She didn't give up anything. She bought us. All of us. And now... we gotta be worth the price."
+
+---
+
+_Summarized from Book 5 source material._

@@ -77,6 +77,13 @@
 - **Key Event:** They carry him.
 - **Detailed Description:** Ria sighs, a sound of heavy resignation, but she holsters her weapon. She grabs Kaelen's legs. Using her Titan strength, she lifts the bulk of his weight easily. Angelica supports his head. Together, they move out of the Slag-Heaps, heading for a safer cave system in Sector 6.
 
+### Scene 5: The Alert
+
+- **Key Event:** Medical telemetry detected.
+- **Detailed Description:** In the Academy's medical monitoring center, **Dr. Aris (The Sleepless Eye)** receives an alert on his console. Candidate Night's bio-signature shows critical toxicity levels and failing resonance. He cross-references the chemical signature with his database—Prima-Materia poisoning, fast-acting variant. He calculates survival probability at under 5%. He flags the file with academic interest, expecting to perform an autopsy. When the readings stabilize hours later, he makes a new note: "Candidate Ward performed field purification of magical corruption. Unprecedented. Requires further study."
+
+  - _Key Dialog:_ **Dr. Aris (murmuring):** "The Ward girl deleted the corruption manually? Impossible. Yet the data doesn't lie. Fascinating specimen."
+
 ---
 
 _Summarized from Book 1 source material._

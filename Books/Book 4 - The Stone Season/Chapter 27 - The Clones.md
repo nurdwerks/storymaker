@@ -36,6 +36,7 @@
 - **Key Event:** The Validation.
 - **Detailed Description:** Kaelen steps closer. He grabs her shoulders.
   - _Key Dialog:_ **Kaelen Night:** "The DNA doesn't make the Captain. The choices do. I follow the woman, not the template. You stood in the fire. They're just floating in soup. You chose to fight. They just exist."
+  - _Key Dialog:_ **Joyce:** (Patting Angelica's arm with a gloved hand) "If it helps, dear, most 'natural' births are accidental messes. Being 'manufactured' at least implies intent. Someone _wanted_ you to exist. That's more than most of us can say."
 
 ### Scene 2: The Malfunction
 
@@ -112,6 +113,13 @@
 - **Detailed Description:** Angelica walks to the door. She doesn't look back.
   - _Key Dialog:_ **Angelica Ward:** "No. I just changed the math. We survive on my terms, or not at all."
   - _Character Defining Moment:_ **Angelica Ward** — She rejects her pre-ordained destiny as a sacrificial tool, choosing free will and the difficult path of survival over the easy path of martyrdom.
+
+### Scene 5: The Counter
+
+- **Key Event:** Lady Vesper secures the asset.
+- **Detailed Description:** As Angelica and the team flee the lab, **Lady Vesper** (remote-piloting a stealth drone) descends from a ventilation duct. She doesn't care about the ideology. She cares about the code. The drone interfaces with the shattered terminal, skimming the residual buffer data before the system purges. It downloads the "Key" sequence Angelica refused to give.
+  - _Key Dialog:_ **Lady Vesper:** "Ideology is for the poor. Data is for the survivors. You threw away the crown, Princess. I'll catch it."
+  - _Character Defining Moment:_ **Lady Vesper** — She acts as the ultimate opportunist, scavenging value from the moral choices of others.
 
 ---
 

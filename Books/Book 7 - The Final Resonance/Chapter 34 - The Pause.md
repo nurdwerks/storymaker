@@ -34,8 +34,10 @@
 - **Key Event (Intermediate):** The "Pause" ripples through the rest of the ship, affecting the morale and physical state of the remaining crew.
 - **Detailed Description:** In the lower decks, the sound of the battle—the thundering of the hull under gravity-beams—stops. The sudden silence is described as being "heavier" than the noise. In the med-bay, Ria and Lisbet stop their preparations for the next wave of defense.
 - **Sensory Detail:** The ship’s internal lights pulse at 50% capacity. The only movement is the slow drift of dust in the flickering emergency beams. The lack of vibration from the engines makes the ship feel like a tomb.
-- **Psychological Effect:** The crew experiences a "Wait-State." Without the immediate threat of death, the weight of their losses—specifically Zephyr—begins to register. Lisbet remains at her console, her fingers hovering over the keys, paralyzed by the data-stream that confirms Zephyr's life-signs are gone.
+- **Psychological Effect:** The crew experiences a "Wait-State." Without the immediate threat of death, the weight of their losses—specifically Zephyr—begins to register. Lisbet remains at her console, her fingers hovering over the keys, paralyzed by the data-stream that confirms Zephyr's life-signs are gone. **Lady Corinne** moves through the med-bay, distributing blankets and water. She does not speak of hope or victory; she speaks of practical things—hydration, rest, the importance of keeping one's hands busy. Her presence is a calming anchor.
 - **Character Defining Moment:** **Lisbet (The Glitch)** — She looks at the screen, then at the frozen fleet outside. She realizes that Zephyr didn't just break the Sphere; he broke the Entity's brain. She begins to "Sync" her own hacking protocols with the Entity's confusion, looking for a back-door in the "Silence."
+- **Key Dialog:** **Lisbet:** "He's still hacking them. Even after... he's still making them do the math."
+- **Key Dialog:** **Lady Corinne:** "Then he died well. A rogue to the last. Drink your water, child. The dead need the living to be strong."
 - **Key Dialog:** **Lisbet:** "He’s still hacking them. Even after... he’s still making them do the math."
 
 ---

@@ -41,7 +41,7 @@
 - **Key Event:** They encounter a "Scrap-Stalker," a mutant rat the size of a dog, adapted to the toxic environment.
 - **Detailed Description:** A rustling in the debris alerts them. A creature emerges—a Scrap-Stalker. It has mange-ridden fur, red eyes that reflect the ambient light, and teeth capable of chewing through copper wire. It hisses, sensing their vulnerability. It is not alone; other eyes glow in the dark.
 - **Key Event:** Silas uses his sidearm to drive the creatures back, conserving ammo.
-- **Detailed Description:** Silas, despite his injury, draws his weapon with his good hand. He fires a warning shot into the metal near the creature. The loud *clang* echoes through the canyons. The Stalkers scatter, preferring easier prey. Silas grimaces, holstering the gun.
+- **Detailed Description:** Silas, despite his injury, draws his weapon with his good hand. He fires a warning shot into the metal near the creature. The loud _clang_ echoes through the canyons. The Stalkers scatter, preferring easier prey. Silas grimaces, holstering the gun.
   - _Key Dialog:_ **Silas:** "Even the rats are armored down here. I hate this planet. Let's move before they bring friends."
 
 ### Scene 4: The Old Ones
@@ -56,6 +56,14 @@
   - _Key Dialog:_ **Alpha:** "Scan complete. Genetic markers confirmed. The Maker returns. We have waited in the rust for three hundred cycles."
   - _Key Dialog:_ **Angelica:** "I'm not your Maker. I'm just a mechanic."
   - _Key Dialog:_ **Alpha:** "The hand that fixes is the hand that rules. Welcome home, Architect."
+
+### Scene 5: The Interested Parties
+
+- **Key Event:** Intelligence gathered.
+- **Detailed Description:** Miles above, in the gleaming towers of the Zenith, **Baron Gilded** reviews the pursuit drone footage in his private sanctum. The Ward girl's transport has vanished into the toxic fog of Sector 0—a death sentence for most. He calculates the odds of her survival and adjusts his investment portfolio accordingly. In House Night's war room, **Matriarch Lilith Night** studies the same footage with colder, more strategic eyes. The Ward girl is in territory that even Vane's enforcers fear to tread. If she survives, she will emerge harder, more dangerous, and potentially more useful.
+
+  - _Key Dialog:_ **Baron Gilded (to his aide):** "Write off the bounty on Ward. Sector 0 is a tomb. Even I won't send collectors into that meat grinder."
+  - _Key Dialog:_ **Matriarch Lilith Night:** "She fell into the rust. Interesting. The Wasteland breeds monsters... or kills them. We shall see which category the Ward girl fits."
 
 ---
 

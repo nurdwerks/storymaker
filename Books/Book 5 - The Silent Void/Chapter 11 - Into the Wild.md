@@ -15,7 +15,7 @@
 
 ### Scene 1: Sector X Entrance
 
-- **Key Event:** The survivors of the *Aeterna*, led by Angelica, Ironwood, and Hatcher, stand before the rusted, ivy-choked bulkhead of Sector X—the long-abandoned Bio-Dome.
+- **Key Event:** The survivors of the _Aeterna_, led by Angelica, Ironwood, and Hatcher, stand before the rusted, ivy-choked bulkhead of Sector X—the long-abandoned Bio-Dome.
 - **Detailed Description:** The door is massive, designed to seal off a catastrophic breach. It is covered in decades of grime and creeping vines that have worked their way into the seams. Ironwood's soldiers set up a thermal cutting rig. The sparks fly, illuminating the dark corridor. With a groan of tortured metal, the locks disengage. The door grinds open, revealing a wall of green.
 - **Key Event:** The group enters the Bio-Dome.
 - **Detailed Description:** The air that rushes out is hot, humid, and smells of wet earth and rotting vegetation. It is a shock to lungs accustomed to sterile recycled air. Inside, the lights are gone, but the jungle glows with its own bioluminescence—blue and purple fungi, glowing moss, and flowers that emit a soft, pulsing light. The trees have grown unchecked for five centuries, smashing through the upper gantries and twisting around the support pillars. It is a chaotic, vibrant explosion of life.
@@ -56,16 +56,13 @@
   - _Character Defining Moment:_ **Angelica Ward** — She pulls her sidearm. She realizes that the "Silent Void" of space isn't the only threat. The ship itself has evolved teeth.
   - _Key Dialog:_ **Angelica Ward:** "Eyes up. Watch the canopy. Watch the ground. If it's green, assume it wants to kill you."
 
----
+### Scene 5: The Botanist
 
-## Template Usage Notes
-
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Detailed Description:** This is the primary place to expand the word count. Describe the environment, the sensory details (smell, sound, temperature), and the specific physical actions of the characters.
-4. **Internal Conflict:** Add this section where characters are facing difficult choices or emotional turmoil.
-5. **Character Defining Moments:** Nest under the key event where the moment occurs.
-6. **Key Dialog:** Nest under the key event where the dialog is spoken.
-7. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies. You may add custom headers (e.g., **The Memory**, **The Calculation**) to better organize complex information.
+- **Key Event:** Lady Corinne identifies a familiar scent.
+- **Detailed Description:** While the others look for threats, **Lady Corinne** spots a cluster of small, white flowers near the base of a tree. She recognizes them from the old botanical texts in her father's library. "Star-Jasmine." A luxury plant. A sign that this wasn't just a jungle; it was a garden gone feral. She carefully clips a cutting and wraps it in a damp cloth.
+  - _Key Dialog:_ **Lady Corinne:** "It's not all poison, General. Some of it is just... forgotten. Beauty catches up eventually."
+  - _Character Defining Moment:_ **Lady Corinne** — She finds value and beauty where others see only tactical obstacles, preserving the culture of the old world.
 
 ---
+
+_Summarized from Book 5 source material._

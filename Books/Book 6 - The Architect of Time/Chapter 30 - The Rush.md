@@ -32,7 +32,9 @@
 ### Scene 2: The Loading
 
 - **Key Event:** The filter.
-- **Detailed Description:** The _Aeterna_ is humming, its ancient engines vibrating the ground. The loading ramp is down, bathed in harsh yellow work-lights. A line of civilians snakes up the ramp. It is moving too slowly. Angelica stands at the top of the ramp, acting as the filter. She checks ID chips. She checks weight.
+- **Detailed Description:** The _Aeterna_ is humming, its ancient engines vibrating the ground. The loading ramp is down, bathed in harsh yellow work-lights. A line of civilians snakes up the ramp. It is moving too slowly. Angelica stands at the top of the ramp, acting as the filter. **Corinne** stands beside her with a datasheet, ruthlessly checking names against the manifest.
+
+  - _Key Dialog:_ **Corinne:** "Name not found. Step aside. We are at capacity for Sector 4."
 
 - **Key Event:** The dowry.
 - **Detailed Description:** A woman tries to drag a heavy wooden chest up the ramp. It is reinforced with iron bands. She is struggling, blocking the line.

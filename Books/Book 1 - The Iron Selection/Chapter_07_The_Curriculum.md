@@ -34,9 +34,14 @@
 - **Key Event:** The challenge.
 - **Detailed Description:** Angelica raises her hand. Halloway pauses, annoyed by the interruption from a "Silt-Rat." He grants her permission to speak, expecting a simple question. Angelica stands up. She reads from her notes. Her voice is calm, factual, and devastatingly loud in the silent hall.
 
-  - _Key Dialog:_ **Angelica Ward:** "Professor, your timeline is off by three hundred years. The 'Founders' weren't chosen by stars. They were the flight crew assigned to the Engineering deck during the Core Breach."
-  - _Key Dialog:_ **Professor Halloway:** "Sit down, cadet. You speak heresy."
   - _Key Dialog:_ **Angelica Ward:** "I speak math. It's not divine selection, Professor. It's genetic compatibility with the focused radiation of the ship's engine core. We aren't gods. We're just mutants with good PR."
+
+### Scene 2.5: The Patron
+
+- **Key Event:** Lady Corinne observes the class.
+- **Detailed Description:** In the VIP observation box above the lecture hall, **Lady Corinne** watches the exchange. She is not horrified by the heresy; she is bored by the lecture. Angelica's interruption is the only interesting thing that has happened in an hour. Corinne taps her fan against the glass. She likes the girl's audacity. It will make for good television ratings during the games. The Highborn audience loves to hate a smart-mouth from the Silt.
+  - _Key Dialog:_ **Lady Corinne (to her aide):** "Make sure that clip makes it to the nightly news. 'The Heretic of Hall 1.' We'll brand her as the villain. Villains sell merchandise."
+  - _Character Defining Moment:_ **Lady Corinne** — She frames rebellion as entertainment, showing her power to twist any narrative into profit.
 
 ### Scene 3: The Silence
 
@@ -68,6 +73,13 @@
   - _Key Dialog:_ **Angelica Ward:** "I didn't do it for them. I did it for me. If I agree to the lie, I become part of the lie."
   - _Key Dialog:_ **Kaelen Night:** "Survival requires adaptation. Sometimes adaptation requires silence."
   - _Key Dialog:_ **Angelica Ward:** "The truth implies that your gods are just batteries, Night. I can see why you prefer the lie. It's much deeper. It's much safer. go back to your shadows. leave the light to me."
+
+### Scene 5: The Medical Log
+
+- **Key Event:** Biometric monitoring.
+- **Detailed Description:** In the medical wing, **Dr. Aris** reviews the real-time vital signs transmitted from the Hall of Penance. Angelica Ward's cortisol levels are extreme, her muscle fibers showing micro-tears, yet her neural patterns remain focused and coherent. He compares her readings to historical data—most candidates collapse within ninety minutes. Ward is approaching hour three. He makes a note in his research log.
+
+  - _Key Dialog:_ **Dr. Aris (dictating):** "Subject Ward continues to exceed baseline tolerance thresholds. Pain response appears compartmentalized. Possible candidate for advanced resonance studies."
 
 ---
 

@@ -56,6 +56,13 @@
   - _Key Dialog:_ **Hatcher:** "Love is a vampire, kid. Get used to it."
   - _Key Dialog:_ **Ria:** "Survival is a vampire. Love is just the vein. Don't romanticize it, Hatcher."
 
+### Scene 5: The Intelligence
+
+- **Key Event:** Lady Vesper records the weakness.
+- **Detailed Description:** A micro-drone, no larger than a fly, adheres to the ceiling of the Med-Bay. Through its lens, **Lady Vesper** watches the transfusion. She notes the biological cost of the Umbra bond.
+  - _Key Dialog:_ **Lady Vesper (voiceover):** "So, the Knight runs on blood. Good to know. If we bleed him first, the shadows can't rise. Update the tactical profile for Kaelen Night: Biological dependency confirmed."
+  - _Character Defining Moment:_ **Lady Vesper** — She exploits even the most intimate moments of the enemy, turning their sacrifice into tactical data.
+
 ---
 
 _Summarized from Book 4 source material._

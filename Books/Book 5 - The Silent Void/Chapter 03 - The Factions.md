@@ -57,6 +57,20 @@
 
   - _Key Dialog:_ **Dr. Aris (whispering to Nautilus):** "Subject A (Ironwood) displays classic alpha-male insecurity. Subject B (Angelica) attempts matriarchal bonding. Probability of internal conflict: 99%. Time to introduce a new variable."
 
+### Scene 5: The Technical Assessment
+
+- **Key Event:** Systems analysis.
+- **Detailed Description:** In the corner of the mess hall, **Lisbet (The Glitch)** reviews the ship's power grid on a cracked datapad. Her goggles flicker with scrolling code as Figment—still alive at this point—whispers calculations in her ear. She doesn't care about the political posturing; she cares about the hard numbers. When Angelica asks for a technical assessment, Lisbet gives it straight: they have enough power for life support OR weapons, not both. The General's "defensive posture" would require rerouting power from the cryo-bays, killing thousands of sleepers.
+
+  - _Key Dialog:_ **Lisbet:** "Pick your fight, Captain. You want guns, the sleepers die in their pods. You want them alive, we run dark. Physics doesn't negotiate."
+
+### Scene 5: The Mediator
+
+- **Key Event:** Lady Corinne bridges the gap.
+- **Detailed Description:** After the council breaks, **Lady Corinne** moves between the tables. She brings a cup of water to a shaking Silt-rat and a clean rag to a Praetorian. She doesn't take sides. She uses the etiquette of the High Court to enforce a temporary peace—manners as a weapon against chaos.
+  - _Key Dialog:_ **Lady Corinne:** "We may hate each other, gentlemen, but we all bleed the same color. Let's try not to spill any today. The decor is dreary enough as it is."
+  - _Character Defining Moment:_ **Lady Corinne** — She adapts her aristocratic skills to the new reality, becoming the social glue holding the fragile alliance together.
+
 ---
 
 _Summarized from Book 5 source material._

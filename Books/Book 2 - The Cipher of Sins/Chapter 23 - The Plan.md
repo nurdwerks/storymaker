@@ -78,6 +78,13 @@
   - _Key Dialog:_ **Angelica Ward:** "It pays in not dying, Zephyr."
   - _Key Dialog:_ **Zephyr:** "Fair enough. Let's go make a broadcast."
 
+### Scene 6: The Shadow
+
+- **Key Event:** Overwatch provided.
+- **Detailed Description:** What the team doesn't know is that they had backup. On the rooftop opposite The Gilded Cage, **Joyce (The Needle)** lies prone behind a thermal shroud, her long rifle trained on the club's entrance. She was hired by an anonymous benefactor to ensure the Ward girl survived this operation. When the guards failed to pursue into the sewers, she packed up her gear silently. The contract specified non-interference unless necessary—and the team proved capable. She files them all away in her mental ledger: the girl with the voice, the thief with the hand, the hacker with the goggles. Useful contacts, should she ever need them.
+
+  - _Key Dialog:_ **Joyce (whispering):** "Targets extracted clean. Contract complete. The Ward girl is becoming expensive to protect."
+
 ---
 
 _Summarized from Book 2 source material._

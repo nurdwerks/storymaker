@@ -26,7 +26,7 @@
 - **Key Event:** The team breaches the inner sanctum, only to find Lord Cromwell waiting for them.
 - **Detailed Description:** Cromwell stands before the crystal interface. He is not wearing armor; he is wearing his pristine, bureaucratic grey suit. He looks out of place among the high-tech machinery, a relic of administration in a world of war. In his hand, he holds a "Dead Man's Switch"—a detonator wired to a series of thermal charges placed directly on the AI core.
 - **Key Event:** Cromwell threatens to destroy the AI, which would terminate all life support on the ship.
-- **Detailed Description:** He speaks calmly, his voice echoing in the vast chamber. He explains that ARIA controls the oxygen, the gravity, the radiation shielding. If he blows the core, the *Aeterna* becomes a tomb in minutes. He is sweating, his composure cracking around the edges. He is a man who follows rules, and the rules have broken down. He is terrified, but his adherence to protocol makes him dangerous.
+- **Detailed Description:** He speaks calmly, his voice echoing in the vast chamber. He explains that ARIA controls the oxygen, the gravity, the radiation shielding. If he blows the core, the _Aeterna_ becomes a tomb in minutes. He is sweating, his composure cracking around the edges. He is a man who follows rules, and the rules have broken down. He is terrified, but his adherence to protocol makes him dangerous.
   - _Key Dialog:_ **Lord Cromwell:** "Halt! One step closer and I fry the brain. I will initiate a total system purge. The regulations are clear on this matter. In the event of a mutiny, the ship is to be scuttled to prevent contagion."
   - _Key Dialog:_ **Angelica:** "You'll kill everyone, Cromwell. Even yourself. Is that in the regulations?"
   - _Key Dialog:_ **Lord Cromwell:** "Order must be maintained. Even in death."
@@ -40,6 +40,7 @@
 - **Internal Conflict:** Angelica is gambling everything. If the AI chooses Order, they die. She pours her emotion into the logic, trying to bridge the gap between machine and human.
   - _Key Dialog:_ **Angelica Ward:** "Look at the data, ARIA! Vane is purging the crew. He is destroying the biological component of the ship. If you follow him, you fail your primary mission. You are protecting a cancer, not a body."
   - _Key Dialog:_ **ARIA:** "Conflict detected. Protocol Vane mandates obedience to the High Council. Protocol Life mandates preservation of the crew. Calculating..."
+  - _Key Dialog:_ **Lisbet:** "She's looping! The logic paradox is overheating her motive cores. She's trying to divide by zero, Captain. Keep pushing! Force the crash!"
   - _Key Dialog:_ **Angelica Ward:** "There is no calculation! There is only a choice! Choose! Order or Life? A graveyard is orderly, ARIA. Is that what you want?"
 
 ### Scene 4: The Choice

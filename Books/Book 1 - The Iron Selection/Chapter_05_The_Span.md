@@ -60,6 +60,14 @@
   - _Key Dialog:_ **Kaelen Night:** "I do not bleed for you, Silt-Rat. I bleed because I hate cleaning up messes. And you would make a very large mess on the pavement below."
   - _Character Defining Moment:_ **Kaelen Night** — He claims pragmatic self-interest to hide any hint of altruism. To him, caring is a weakness, so every act of kindness must be framed as a calculation.
 
+### Scene 5: The Observer
+
+- **Key Event:** Intelligence gathering.
+- **Detailed Description:** In the deep archives of the Zenith, **Lord Cromwell** reviews the sensor logs from the Span. He replays the moment of Kaelen's intervention—the spike in negative resonance, the manifestation of the shadow entity. He pauses the feed, zooming in on Kaelen's bleeding palm. Cromwell takes a note with a fountain pen in a leather-bound journal. He isn't interested in the girl; he is watching the boy. A Shadow-Mage of that power level is a rarity—and a potential weapon against the Senate if properly motivated.
+
+  - _Key Dialog:_ **Lord Cromwell:** "Blood for gravity. An interesting trade. The boy has discipline, but his control is brittle. If he breaks, he will swallow the entire Academy in darkness."
+  - _Character Defining Moment:_ **Lord Cromwell** — Shows his role as the master spy; he is always watching, always assessing threats and assets, even from the shadows.
+
 ---
 
 _Summarized from Book 1 source material._

@@ -60,7 +60,8 @@
 - **Key Event:** The Turbulence.
 - **Detailed Description:** The ship shakes violently as it transitions between dimensions. The internal gravity fluctuates wildly. Loose objects—datapads, coffee cups, tools—float into the air, suspended for a heartbeat, then slam into the deck as gravity inverts, then normalizes. The hull groans under the stress of shifting physical laws.
 - **Key Event:** The Crew.
-- **Detailed Description:** The crew holds on to whatever they can grab—consoles, railings, each other. They are terrified. They are not just traveling; they are leaving existence as they know it. They are looking into the face of infinity.
+- **Detailed Description:** The crew holds on to whatever they can grab—consoles, railings, each other. They are terrified. They are not just traveling; they are leaving existence as they know it. They are looking into the face of infinity. **Lady Corinne** gripped the railing until her knuckles turned white. She watched the universe dissolve on the viewscreen, expecting to feel fear, but finding only a strange, hollow awe. The petty politics of the Zenith seemed absurdly small against this blinding whiteness.
+- **Key Dialog:** **Lady Corinne:** "It's... cleaner than I expected. The end of the world."
 - **Key Event:** The Realization.
 - **Detailed Description:** Angelica sits on the Throne, breathing hard, sweat running down her face. She opens her eyes in the real world. She sees the white void on the screens.
 - **Key Event:** The Acceptance.
@@ -72,6 +73,14 @@
 - **Detailed Description:** Angelica looks at the navigation readout. It simply blinks "ERROR." She smiles, a grim, determined curve of her lips.
   - _Key Dialog:_ **Angelica Ward:** "Destination: Unknown. Status: Alive. That's good enough for today."
   - _Character Defining Moment:_ **Angelica Ward** — She accepts the role of the explorer into the unknown, trading the safety of the known universe for the chance of survival in the void, embracing the chaos she has unleashed.
+
+### Scene 5: The Anchor
+
+- **Key Event:** Ria maintains order.
+- **Detailed Description:** In the midst of the chaos, **Ria (The Iron Vanguard)** stands braced in the main corridor junction, her Titan-Plate armor magnetized to the deck. She has positioned herself at the intersection of three critical passages. When the gravity fluctuates, she catches a young ensign who goes flying past, slamming him into the wall—gently, by Ria's standards—and ordering him to hold position. She is the physical anchor while Angelica is the mental one, keeping the crew from panicking by sheer force of presence.
+
+  - _Key Dialog:_ **Ria:** "Nobody floats! Grab a rail, a bolt, a bone—I don't care! You break formation, I break you worse than the gravity will!"
+  - _Character Defining Moment:_ **Ria** — Demonstrates her protective instinct, using intimidation not as cruelty but as a tool to keep terrified crew members alive through the transition.
 
 ---
 

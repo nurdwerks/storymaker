@@ -120,6 +120,13 @@
 - **Key Event:** The Descent.
 - **Detailed Description:** The elevator drops into the dark, leaving the sanctuary behind.
 
+### Scene 5: The Shadow Guard
+
+- **Key Event:** The silent protector.
+- **Detailed Description:** Throughout the meeting, **Joyce (The Needle)** stands watch at the war room's entrance. Her eyes never stop scanning—cataloging every face, every hand position, every potential threat. Even in the Lifeboat, she trusts no one fully. When Angelica issues the order to move out, Joyce gives a barely perceptible nod of approval. The plan is sound, the risk manageable. She will follow the Ward girl into the dark.
+
+  - _Key Dialog:_ **Joyce (to herself):** "Into the abyss. Again. At least the young ones still believe in causes."
+
 ---
 
 _Summarized from Book 4 source material._

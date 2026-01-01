@@ -68,6 +68,21 @@
 - **Detailed Description:** Angelica wipes the tears from her face. She looks at the burning city. The sorrow hardens into cold resolve. She nods. She accepts the weight.
   - _Key Dialog:_ **Angelica Ward:** "The truth didn't set them free. It just armed them. Now we have to lead them. If Vane wants a war, let's give him one."
 
+### Scene 6: The Profiteer
+
+- **Key Event:** Opportunity in chaos.
+- **Detailed Description:** In his fortified penthouse, **Baron Gilded** watches the city burn through armored glass. He is already on his encrypted comm, shorting municipal bonds and buying futures on synthetic construction materials. Martial law is a fire sale. Property values plummet; he buys. Emergency contracts for Warden repairs go to companies he owns. Bodies in the street mean demand for grave-diggers—he has three shell corporations ready. While the city weeps, his ledger sings.
+
+  - _Key Dialog:_ **Baron Gilded (to his broker):** "Triple our positions on reconstruction. War is just urban renewal with extra steps. The blood dries, the credits flow."
+  - _Character Defining Moment:_ **Baron Gilded** — His complete moral detachment is revealed; he views mass casualty events purely through the lens of profit opportunity.
+
+### Scene 7: The Spin
+
+- **Key Event:** Lady Corinne controls the narrative.
+- **Detailed Description:** **Lady Corinne** sits in a studio suite, her makeup artist touching up her powder. The red "LIVE" light blinks on. She looks into the camera with practiced, sorrowful eyes. She speaks to the citizens of the Zenith. She doesn't scream like Vane or profit like Gilded; she lies. She tells them that the fires were started by the "Silt-Rats." She calls Angelica a "terrorist radicalized by jealousy."
+  - _Key Dialog:_ **Lady Corinne (on broadcast):** "It breaks my heart, truly. We gave them a chance to ascend. And how did they repay us? With fire. They hate us because we are beautiful. They hate us because we are chosen. Don't let their envy destroy our paradise. Trust the Wardens. Trust the process. Stay safe."
+  - _Character Defining Moment:_ **Lady Corinne** — She weaponizes empathy. She uses her influence to turn the victims into villains, ensuring that the middle class remains loyal to the regime out of fear.
+
 ---
 
 _Summarized from Book 2 source material._

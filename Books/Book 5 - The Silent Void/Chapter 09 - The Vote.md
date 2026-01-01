@@ -15,7 +15,7 @@
 
 ### Scene 1: The Grand Atrium
 
-- **Key Event:** The survivors of the *Zenith* gather in the Grand Atrium, a cavernous space originally designed as a public park, now filled with makeshift tents and supply crates.
+- **Key Event:** The survivors of the _Zenith_ gather in the Grand Atrium, a cavernous space originally designed as a public park, now filled with makeshift tents and supply crates.
 - **Detailed Description:** The Atrium is the heart of the civilian sector, a space of artificial sunlight and dying trees. Thousands of refugees are gathered here—Highborn in tattered silks, Silt-rats in grease-stained coveralls, and soldiers in scuffed armor. They sit on the floor, on benches, on the balconies overlooking the central plaza. The air is thick with the smell of unwashed bodies and fear. In the center, on a raised dais made of shipping pallets, stands Angelica Ward. To her right is General Ironwood, looming like a statue of war. To her left is Hatcher. The holographic projection of the "Ghost Signal" floats above them, a waveform that represents their only hope of contact with the outside universe.
 - **Internal Conflict:** Angelica looks out at the sea of faces. She feels the crushing weight of responsibility. She believes in the signal—it is a repeating mathematical sequence that indicates intelligence—but she also knows the danger. Answering it will reveal their position. The ship has been running silent for weeks to avoid the "Predators" Aris warned about. She is torn between the need for allies and the safety of invisibility. She decides that she cannot make this choice alone. She will not be a tyrant like Vane.
 - **Key Event:** Angelica addresses the crowd, proposing a democratic vote on whether to answer the signal.
@@ -44,7 +44,7 @@
 - **Key Event:** Ironwood refuses to accept the result.
 - **Detailed Description:** Ironwood does not step down. He looks at the tally with disgust. He grinds his metal jaw. To him, democracy is a failure if it chooses weakness. He signals his lieutenant, Ash, who is stationed at the communication console on the upper balcony.
 - **Key Event:** Lieutenant Ash overrides the lockout and broadcasts the signal.
-- **Detailed Description:** Ash types a command sequence. The main transmitter array on the hull powers up. A massive pulse of energy is released into the void—a high-gain, omnidirectional broadcast of the *Zenith*'s identification codes. The holoscreen in the Atrium flashes: "TRANSMISSION SENT. BEACON ACTIVE."
+- **Detailed Description:** Ash types a command sequence. The main transmitter array on the hull powers up. A massive pulse of energy is released into the void—a high-gain, omnidirectional broadcast of the _Zenith_'s identification codes. The holoscreen in the Atrium flashes: "TRANSMISSION SENT. BEACON ACTIVE."
 - **Key Event:** Panic erupts in the Atrium.
 - **Detailed Description:** The crowd screams. People realize what has happened. They have been exposed. The silence is broken. Angelica spins on Ironwood, her hand going to her weapon. Kaelen draws his sword. Ironwood does not flinch. He stands tall, his red optical sensors glowing.
 - **Internal Conflict:** Angelica is furious. Her authority has been undermined, her principles violated. But more than that, she is terrified. Ironwood has just rung the dinner bell for every monster in the sector.
@@ -53,16 +53,13 @@
   - _Key Dialog:_ **General Ironwood:** "Democracy is great until you vote on suicide. You chose a slow death in the dark. I have chosen a chance at life. I have saved you from your own cowardice! Now... we will meet them."
   - _Key Dialog:_ **Angelica Ward:** "No! You've killed us all!"
 
----
+### Scene 5: The Canvasser
 
-## Template Usage Notes
-
-1. **Scenes:** Break each chapter into component scenes based on location changes, time jumps, or POV shifts.
-2. **Key Events:** Bullet point all significant actions, revelations, or plot progressions.
-3. **Detailed Description:** This is the primary place to expand the word count. Describe the environment, the sensory details (smell, sound, temperature), and the specific physical actions of the characters.
-4. **Internal Conflict:** Add this section where characters are facing difficult choices or emotional turmoil.
-5. **Character Defining Moments:** Nest under the key event where the moment occurs.
-6. **Key Dialog:** Nest under the key event where the dialog is spoken.
-7. **Flexibility:** Not every key event requires both a defining moment and dialog—include what applies. You may add custom headers (e.g., **The Memory**, **The Calculation**) to better organize complex information.
+- **Key Event:** Lady Corinne manages the ballot.
+- **Detailed Description:** Before the betrayal, **Lady Corinne** organizes the voting lines. She ensures the scanners are clean, the people are calm, and the process is dignified. She treats the vote with the reverence of a coronation, giving the terrified refugees a sense of agency.
+  - _Key Dialog:_ **Lady Corinne:** "One voice, one vote. It is the only luxury we have left. Spend it wisely, citizens."
+  - _Character Defining Moment:_ **Lady Corinne** — She uplifts the mundane process of voting into a ritual of civilization, reinforcing the social order.
 
 ---
+
+_Summarized from Book 5 source material._

@@ -40,6 +40,7 @@
 
   - _Key Dialog:_ **Vane:** "Do you see it? Look at the efficiency! No waste! No blood! It is the ultimate Order! We should be grateful to be corrected!"
   - _Key Dialog:_ **Kaelen:** "He's gone. The madness has him."
+  - _Key Dialog:_ **Lady Corinne:** "It is not madness, Kaelen. It is envy. He wishes he had thought of it first."
   - _Key Dialog:_ **Ria:** "I'm going to go up there and correct his face."
 
 - **Key Event:** Kaelen orders the link cut.
@@ -59,3 +60,15 @@
 - **Detailed Description:** Kaelen enters, wearing his void-suit. He nods to her. He will not let her go alone. The two of them—the Knight and the Tank—stand ready. It is a callback to their partnership in previous books, a silent acknowledgment that they are the sword and shield of the ship.
   - _Key Dialog:_ **Kaelen:** "Watch my back, Iron Vanguard."
   - _Key Dialog:_ **Ria:** "Always, Shadow Prince."
+
+### Scene 4: The Old Guard
+
+- **Key Event:** Veterans assess the situation.
+- **Detailed Description:** **Hatcher (The Null)** appears in the armory doorway, his shotgun already loaded. He has heard the briefing through the intercom and made his own assessment—this fight needs experience, not just firepower. Behind him, **Zephyr (The Gilded Rogue)** runs diagnostics on his cybernetic arm, noting excessive drain from the ship's power fluctuations. His platinum eye scans the armory's inventory, calculating which equipment offers the best survival-to-cost ratio.
+
+  - _Key Dialog:_ **Hatcher:** "Geometry monsters. Perfect. Just when I thought I'd seen everything. I'm coming with you. Someone needs to keep you kids from getting flattened."
+  - _Key Dialog:_ **Zephyr:** "My arm's draining faster than usual. The Entity's pulling power from everywhere. But I can still aim. Put me on overwatch."
+
+---
+
+_Summarized from Book 7 source material._

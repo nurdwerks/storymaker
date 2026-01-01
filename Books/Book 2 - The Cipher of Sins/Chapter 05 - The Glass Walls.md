@@ -78,6 +78,19 @@
 
   - _Character Defining Moment:_ **Angelica Ward** — The compartmentalization of her trauma. She locks the memory of the sewers away, filing it under "necessary costs," and turns her face toward the next objective.
 
+### Scene 5: The Ripples Above
+
+- **Key Event:** News of the pursuit reaches the upper levels.
+- **Detailed Description:** In the sparkling observation deck of House Night, **Matriarch Lilith Night** receives coded intelligence about the hunt for the Ward girl. She considers the implications—the girl has evaded Praetorians, survived the sewer militia, and is now in the Smuggler's Ring. Either she dies and becomes a martyr, or she survives and becomes a problem. **Kaelen Night** stands at the window, his back to his mother, watching the city below with cold calculation.
+
+  - _Key Dialog:_ **Matriarch Lilith Night:** "The Ward girl has teeth. She may be useful... or she may need to be extracted before she bites the wrong hand."
+  - _Key Dialog:_ **Kaelen Night:** "She survives because she thinks like we do. That makes her dangerous."
+
+- **Key Event:** Rival intelligence arrives.
+- **Detailed Description:** Elsewhere in the Zenith, **Lady Corinne (The Porcelain Doll)** reviews the same reports from her private chambers. She notes the bounty, the route through the sewers, the connection to Zephyr. She files away the information—Angelica Ward is clearly a player worth watching. Meanwhile, **Ria (The Iron Vanguard)** trains in the Academy gymnasium, unaware that her future ally is crawling through filth below, but feeling a strange restlessness she cannot explain.
+
+  - _Key Dialog:_ **Lady Corinne (to herself):** "A Silt-rat in the sewers. How poetic. How predictable. How... potentially profitable."
+
 ---
 
 _Summarized from Book 2 source material._

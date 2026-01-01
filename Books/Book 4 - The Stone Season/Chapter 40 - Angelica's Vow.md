@@ -94,6 +94,13 @@
   - _Key Dialog:_ **Angelica Ward:** "Wherever the light takes us."
   - _Character Defining Moment:_ **Angelica Ward** — She makes the ultimate command decision, turning the _Zenith_ from a lifeboat into an exploration vessel, defining a new destiny for humanity.
 
+### Scene 5: The Stowaway
+
+- **Key Event:** Lady Vesper launches her escape pod.
+- **Detailed Description:** As the Zenith powers up, a small, sleek ship detaches from the Spire's upper atmosphere. It is unmarked. Inside, **Lady Vesper** sips a glass of vintage wine. She watches the ship's lights come on. She isn't cheering. She is plotting.
+  - _Key Dialog:_ **Lady Vesper:** "Let them have their light. I prefer the shadows they cast. Computor, initiate Protocol: Eclipse. We'll follow them. And when they stumble, we'll be there to catch them."
+  - _Character Defining Moment:_ **Lady Vesper** — She chooses survival over loyalty, positioning herself as the lingering threat that will haunt their new future.
+
 ---
 
 _Summarized from Book 4 source material._

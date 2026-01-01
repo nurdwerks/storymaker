@@ -41,6 +41,11 @@
 - **Key Event:** In a neighboring luxury holding cell, Corinne is being held by Lady Vesper.
 - **Detailed Description:** Corinne's cell is furnished like a guest room, with a velvet chaise and a tea service. It is a prison of politeness. **Sir Alistair** guards the door, leaning against the frame with a crystal glass of brandy in his hand. He winks at Corinne, treating her imprisonment as a amusing timeout. Lady Vesper sits opposite her, pouring tea. Vesper is trying to turn Corinne, to make her testify against Angelica. She appeals to Corinne's vanity and her status as a Highborn.
   - _Key Dialog:_ **Sir Alistair:** "Don't pout, Corinne. We're just culling the herd. You're too pretty for the chopping block."
+- **Key Event:** Joyce visits the cell.
+- **Detailed Description:** **Joyce** shuffles past the open door, leaning heavily on a walker. She looks lost and confused, muttering about her "missing spectacles." Sir Alistair steps aside, amused by the senile old woman. Joyce stumbles into the room and hugs Corinne, weeping dramatically about "my poor baby in a cage."
+  - _Character Defining Moment:_ **Joyce** — As she hugs Corinne, her grip is steel. She presses a tiny, needle-thin lockpick into Corinne's palm.
+  - _Key Dialog:_ **Joyce:** (Whispering) "The Knight takes the Queen, dear. Remember your lessons. Be the needle, not the thread."
+  - _Key Dialog:_ **Joyce:** (Loudly, pulling away) "And you look dreadful! Fix your hair, child!"
 - **Key Event:** Corinne insults Vesper, engaging in verbal combat.
 - **Detailed Description:** Corinne ignores Alistair. Vesper insinuates that Corinne is just a "pet" of the resistance, dragged into the mud by commoners. Corinne sips her tea. She looks Vesper in the eye and dismantles her. She points out that Vesper is merely Vane's lapdog, a "Gatekeeper" with no real power.
   - _Key Dialog:_ **Lady Corinne:** "You talk a lot about power, Vesper. But are you actually sitting at the table? Or are you just guarding the door while Vane makes the decisions? You always were a glorified doorman, Vesper. Even in school."
@@ -59,6 +64,23 @@
 - **Detailed Description:** She drops to the floor, gasping. Her hand is useless, swelling rapidly. She grabs her thumb with her other hand and snaps it back into place with a sickening _crunch_. She leans against the wall, trembling, sweat pooling at her feet. She looks at the magnetic lock.
   - _Character Defining Moment:_ **Angelica Ward** — She proves that her body is just another machine to her, one she is willing to break to get the job done.
   - _Key Dialog:_ **Angelica Ward:** "Calculus this."
+
+### Scene 5: The Power Players
+
+- **Key Event:** Political maneuvering.
+- **Detailed Description:** In a private cigar lounge three decks above the holding cells, **Baron Gilded** and **Matriarch Lilith Night** hold a quiet council. They have both heard about the capture of the Ward girl and her associates. Baron Gilded is calculating the profit potential—the resistance has disrupted his smuggling operations, but their removal would create a power vacuum he could fill. Matriarch Lilith has different concerns. Her son Kaelen was once allied with Ward; his reputation is now contaminated by association.
+
+  - _Key Dialog:_ **Baron Gilded:** "Vane will execute her publicly. The question is: do we buy her corpse for the spectacle value, or do we invest in her rescue for a favor?"
+  - _Key Dialog:_ **Matriarch Lilith Night:** "Neither. We observe. We wait. The girl has nine lives. If she escapes, we distance ourselves. If she dies, we auction our silence about Kaelen's involvement."
+  - _Character Defining Moment:_ **Matriarch Lilith Night** — Demonstrates her cold pragmatism, treating her own son as a political asset to be managed rather than a person to be protected.
+
+### Scene 6: The Commander's Warning
+
+- **Key Event:** Military assessment.
+- **Detailed Description:** In the Command Spire's war room, **General Ironwood** reviews the tactical fallout from the Engine Sector ambush on a holographic display. His officers stand at attention as he traces the resistance's movements. The capture of Ward and her cell is a victory, but Ironwood sees the bigger picture: for every rebel they catch, three more emerge. He dictates a memo to Vane expressing concern that public executions will create martyrs. His recommendation: quiet disappearances, not spectacle. Vane, of course, will ignore him.
+
+  - _Key Dialog:_ **General Ironwood (to his aide):** "Tell the Prelate that executing Ward publicly is tactically unsound. Dead rebels inspire. Missing rebels are forgotten. But he won't listen. He never does."
+  - _Character Defining Moment:_ **General Ironwood** — Shows his professional frustration; he is a soldier serving a government he privately knows is making strategic errors.
 
 ---
 

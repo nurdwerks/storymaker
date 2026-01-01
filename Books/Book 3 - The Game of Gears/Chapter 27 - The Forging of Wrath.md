@@ -33,7 +33,8 @@
 - **Key Event:** The Resistance shifts from a guerrilla cell to a standing army.
 - **Detailed Description:** The death of Leo has galvanized the Undercity. People who were once afraid are now angry. They flood into the safe house, demanding weapons. Kaelen takes charge of training, turning street brawlers into squads. Silas opens his secret armories, distributing kinetic rifles and grenades. Miller works on the drones, attaching explosives to repair bots.
 - **Key Event:** The population arms itself.
-- **Detailed Description:** It is a scene of industrial mobilization. Welders attach spikes to baseball bats. Chemists mix volatile compounds in glass jars. The "Army of Ghosts" is ragtag, dirty, and poorly equipped, but they have the numbers and the fury of the dispossessed.
+- **Detailed Description:** It is a scene of industrial mobilization. Welders attach spikes to baseball bats. Chemists mix volatile compounds in glass jars. The "Army of Ghosts" is ragtag, dirty, and poorly equipped, but they have the numbers and the fury of the dispossessed. **Joyce** sits in the corner, ostensibly knitting scarves for the "poor boys." But inside each rolled-up bundle of wool is a datapad containing override codes for the sector's security doors. She hands them out with a warm smile. "Wear it in good health, dear. Try not to catch a cold... or a bullet."
+  - _Character Defining Moment:_ **Joyce** — She weaponizes her harmless grandmother persona to distribute high-grade intel right under the noses of potential spies.
 
 ### Scene 4: The Titan
 

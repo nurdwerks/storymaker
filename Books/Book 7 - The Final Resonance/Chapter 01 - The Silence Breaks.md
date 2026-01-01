@@ -17,7 +17,7 @@
 
 - **Key Event:** Lisbet is monitoring the long-range scanners during a graveyard shift.
 - **Detailed Description:** The Sensor Array is a cold, circular room filled with the hum of cooling fans and the soft blue glow of monitors. Lisbet sits in the center, surrounded by holographic star charts. She is bored. The ship has been drifting for months since the events of Book 6, moving through deep space away from the Architect's realm. She spins in her chair, drinking lukewarm coffee. Suddenly, the data on her screens changes. It doesn't glitch; it vanishes. A sector of the star-field simply goes black. The stars are deleted from the map, one by one, in a perfect grid pattern.
-- **Internal Conflict:** Lisbet assumes it is a hardware failure. She runs diagnostics. She checks the code. Everything is green. The sensors are working perfectly; they are just seeing *nothing*. Her logical mind struggles to process the concept of "deletion." To her, data cannot be destroyed, only moved or corrupted. This is absolute negation.
+- **Internal Conflict:** Lisbet assumes it is a hardware failure. She runs diagnostics. She checks the code. Everything is green. The sensors are working perfectly; they are just seeing _nothing_. Her logical mind struggles to process the concept of "deletion." To her, data cannot be destroyed, only moved or corrupted. This is absolute negation.
 
   - _Character Defining Moment:_ **Lisbet** — She types furiously, her "Glitch" persona taking over as she dives into the raw code. She realizes the data isn't corrupted; it's being erased by an external source. She feels a chill that has nothing to do with the room's temperature.
   - _Key Dialog:_ **Lisbet:** "Sensors aren't offline. They're just... seeing nothing. The stars are gone. Not blocked. Gone. It's eating the sky."
@@ -28,11 +28,12 @@
 ### Scene 2: The High Council Chamber
 
 - **Key Event:** Lisbet presents her report to the Council (Vane, Kaelen, Angelica).
-- **Detailed Description:** In the council chamber, the atmosphere is tense. Vane sits at the head of the table, wearing his ceremonial robes, trying to maintain the illusion of control. He looks tired, his robes fraying slightly at the cuffs—a symbol of the ship's decay. Lisbet projects the sensor data onto the central table. The black void is stark against the star map. "The silence is approaching," she says.
+- **Detailed Description:** In the council chamber, the atmosphere is tense. Vane sits at the head of the table, wearing his ceremonial robes, trying to maintain the illusion of control. He looks tired, his robes fraying slightly at the cuffs—a symbol of the ship's decay. Lisbet projects the sensor data onto the central table. The black void is stark against the star map. "The silence is approaching," she says. **Lady Corinne** sits to Vane's right, sipping tea from a chipped porcelain cup. She is the only one who looks composed, though her knuckles are white as she grips the saucer.
 - **Internal Conflict:** Vane dismisses the report. He claims it is a calibration error caused by the ship's aging systems. He refuses to accept a new crisis. He wants stability. He wants to be the leader who brought peace, not the one who presided over the end. He is in deep denial.
 
   - _Character Defining Moment:_ **Prelate Vane** — He visibly hides a tremor in his hand by gripping a gold stylus until it bends. His dismissal is too quick, too loud. He knows what it is. He fears his time is up, that his "godhood" is being challenged by a greater power.
   - _Key Dialog:_ **Vane:** "The Aeterna is old. Ghosts in the machine, Lisbet. Nothing more. Recalibrate the sensors and stop scaring the council. We have real problems, like food rationing."
+  - _Key Dialog:_ **Lady Corinne:** "Denial is a poor strategy, Prelate. If the sensors are wrong, we are fools. If they are right, we are dead. I prefer to be a prepared fool."
 
 - **Key Event:** Kaelen challenges Vane.
 - **Detailed Description:** Kaelen stands up. He looks thinner than in previous books, the burden of leadership weighing on him. He notes that the "glitch" coincides with a drop in ambient Resonance levels. The magic in the air is thinning. He can feel it in his blood.

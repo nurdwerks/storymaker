@@ -15,7 +15,7 @@
 
 ### Scene 1: The Climber
 
-- **Key Event:** Angelica, Silas, and the group construct a makeshift "Climber" to scale the central spine of the *Aeterna*.
+- **Key Event:** Angelica, Silas, and the group construct a makeshift "Climber" to scale the central spine of the _Aeterna_.
 - **Detailed Description:** In the depths of the Undercity scrapyard, the air is filled with the sparks of welding torches and the screech of grinding metal. Angelica directs the construction of the Climber. It is an ugly, functional beast—a platform of reinforced deck plating welded onto the chassis of a heavy-lift cargo drone. It has no walls, only roll cages and handholds. The engine is a jury-rigged fusion cell salvaged from a crashed shuttle, dangerously overpowered for the frame. Silas secures the magnetic clamps that will grip the central elevator rail. He tests the tension, kicking the struts to ensure they hold. The androids, remnants of the "Iron Legion" who have gained sentience, assist with superhuman strength and precision. They weld plates with their fingers, their eyes glowing softly in the gloom.
 - **Internal Conflict:** Angelica wipes grease from her forehead. She is terrified of the height. The Undercity has a ceiling; the shaft goes up for miles. But she focuses on the machine. If the math holds, they live. If it fails, they fall. She checks the fuel lines one last time.
 - **Key Event:** The Androids, led by Unit Alpha, insist on joining the mission to the Zenith.
@@ -28,7 +28,7 @@
 ### Scene 2: The Vertical Road
 
 - **Key Event:** The Climber launches up the central elevator shaft, leaving the Silt behind.
-- **Detailed Description:** The engine roars to life, spitting blue flame. The magnetic clamps engage the rail with a bone-jarring *thud*. The Climber shoots upward. The acceleration forces everyone to their knees. The scenery blurs. The rust and grime of the Silt recede, replaced by the endless grey durasteel of the shaft walls. Wind whips through the open cage, cold and smelling of old grease. They pass the Mid-Levels—flashes of neon light and crowded walkways seen through maintenance grates. They are moving at over 100 miles per hour, riding a bomb up a vertical track.
+- **Detailed Description:** The engine roars to life, spitting blue flame. The magnetic clamps engage the rail with a bone-jarring _thud_. The Climber shoots upward. The acceleration forces everyone to their knees. The scenery blurs. The rust and grime of the Silt recede, replaced by the endless grey durasteel of the shaft walls. Wind whips through the open cage, cold and smelling of old grease. They pass the Mid-Levels—flashes of neon light and crowded walkways seen through maintenance grates. They are moving at over 100 miles per hour, riding a bomb up a vertical track.
 - **Internal Conflict:** Silas clings to the roll bar, his knuckles white. He hates heights. He hates going fast in things he didn't build. He watches the temperature gauge on the clamps. It is climbing into the red. Friction is heating the magnets to critical levels.
   - _Key Dialog:_ **Silas:** "The clamps are overheating! The friction is cooking the magnets! If they fail, we don't just stop, we peel off the wall and fall three miles!"
   - _Key Dialog:_ **Angelica:** "Don't slow down! The heat helps seal the connection! Just keep the coolant flowing!"
@@ -36,7 +36,7 @@
 ### Scene 3: The Gauntlet
 
 - **Key Event:** The Climber enters the defensive perimeter of the Zenith, triggering automated turret defenses.
-- **Detailed Description:** As they cross the threshold into the Upper Levels, the shaft widens. Defense turrets, dormant for decades, swivel out from the walls. They track the heat signature of the Climber's engine. Red laser sights paint the platform. The turrets open fire. Tracers streak through the shaft. Bullets spark off the Climber's hull, punching holes in the floor plating. The noise is deafening—the roar of the engine, the wind, the *ping-ping-ping* of impacts.
+- **Detailed Description:** As they cross the threshold into the Upper Levels, the shaft widens. Defense turrets, dormant for decades, swivel out from the walls. They track the heat signature of the Climber's engine. Red laser sights paint the platform. The turrets open fire. Tracers streak through the shaft. Bullets spark off the Climber's hull, punching holes in the floor plating. The noise is deafening—the roar of the engine, the wind, the _ping-ping-ping_ of impacts.
 - **Key Event:** The Androids sacrifice themselves to protect the biological crew.
 - **Detailed Description:** Unit Alpha and his squad do not take cover. They stand up. They form a living wall of metal around Angelica, Silas, and Corinne. They use their own bodies as shields. Bullets tear through their synthetic flesh, shattering servos and processing cores. Blue hydraulic fluid sprays across the deck. One android takes a round to the head and topples off the edge, falling silently into the dark. Another loses an arm but keeps firing his rifle one-handed.
 - **Key Event:** Unit Alpha is critically damaged while shielding Angelica.
@@ -51,6 +51,16 @@
 - **Key Event:** The survivors emerge from the wreckage.
 - **Detailed Description:** Smoke pours from the ruined engine. Angelica coughs, waving away the fumes. She crawls out from under Alpha's inert chassis. She looks around. Only three androids remain operational, and they are heavily damaged. Silas is bleeding from a cut on his head. Corinne is in shock. They are alive. They are in the Zenith. The air here smells sweet, like artificial flowers. It is silent, pristine, and terrifyingly clean compared to the hell they just climbed out of.
   - _Key Dialog:_ **Angelica:** "We're here. Check your weapons. The easy part is over."
+
+### Scene 5: Ground Support
+
+- **Key Event:** The watchers below.
+- **Detailed Description:** In the scrapyard below, **Hatcher (The Null)** lowers his binoculars. He has been watching the Climber's ascent until it disappeared into the upper reaches of the shaft. **Lisbet (The Glitch)** sits beside him at a jury-rigged comm station, her fingers dancing across salvaged equipment. She's tracking the Climber's signal, watching the telemetry spike when the turrets opened fire. Hatcher's jaw tightens. He can't help them from here. All he can do is keep the escape route clear and pray the kid survives.
+
+  - _Key Dialog:_ **Hatcher:** "They hit the garrison perimeter. The turrets are live."
+  - _Key Dialog:_ **Lisbet:** "Signal's still transmitting. They're through. They made it to Level 10."
+  - _Key Dialog:_ **Hatcher:** "Then we hold the exit and wait. That's all we can do."
+  - _Character Defining Moment:_ **Hatcher** — Shows his protective instinct and the frustration of a soldier who can't be in the fight, forced to trust others with the mission.
 
 ---
 

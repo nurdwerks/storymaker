@@ -67,6 +67,14 @@
 - **Key Event:** Ria checks her weapon again, her hands steadying as Angelica's voice gives her a new "Combat Parameter." A target—even a reactor—is something she understands.
 - **Key Event:** The fear recedes, replaced by a grim determination. They are still terrified, but they have orders.
 
+### Scene 5: The Changed Men
+
+- **Key Event:** Unlikely witnesses.
+- **Detailed Description:** At the back of the observation deck, two figures stand apart from the main group. **Hatcher (The Null)** leans against the doorframe, his shotgun forgotten at his feet. He has seen horrors in his years as a detective, but nothing prepared him for this—the vast, uncaring void that reduces all his cynicism to dust. Next to him, **Baron Gilded** stands in borrowed rags, a shell of his former self. The man who once commanded fortunes now stares at infinity with hollow eyes. For the first time in his life, he understands that wealth means nothing in the dark between stars.
+
+  - _Key Dialog:_ **Hatcher:** "All those cases. All those criminals I chased. We were just rats fighting over scraps in a jar. And the jar's floating in... that."
+  - _Key Dialog:_ **Baron Gilded:** "I owned half the Zenith. Now I can't even own my next breath. The void doesn't accept credit."
+
 ---
 
 _Summarized from Book 4 source material._

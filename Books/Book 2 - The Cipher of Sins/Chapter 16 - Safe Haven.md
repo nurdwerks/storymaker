@@ -129,6 +129,15 @@
   - _Key Dialog:_ **Joyce:** "But until then... have a biscuit. It's ginger. And just a hint of cyanide for flavor. Good for the digestion."
   - _Character Defining Moment:_ **Joyce** — Reveals her dual nature as a deadly spy and a comforting caretaker, providing a sanctuary that acts as the emotional anchor for the team.
 
+### Scene 5: The Perimeter
+
+- **Key Event:** Ria secures the safehouse.
+- **Detailed Description:** While the team debriefs inside, **Ria (The Iron Vanguard)** takes up position outside, watching the street through the lace curtains. Her Titan armor is dented and scorched, but she keeps her hand on her weapon. Joyce's flower shop may be a clever disguise, but Ria trusts steel more than secrets. She notes the patrol patterns of the City Watch drones, counts the seconds between sweeps, and prepares contingencies. If the Zenith forces find them here, she will buy the others time to escape through whatever back exit Joyce surely has.
+
+  - _Key Dialog:_ **Ria (to the room):** "Two-minute gaps between drone sweeps. If we need to run, we go on my signal. Joyce, I assume you have a tunnel?"
+  - _Key Dialog:_ **Joyce:** "Behind the root cellar, dear. It leads to the sewers. I keep it stocked with oxygen masks. The smell is dreadful."
+  - _Character Defining Moment:_ **Ria** — Demonstrates her protective instincts and tactical thinking, always preparing for the worst while others focus on the immediate.
+
 ---
 
 _Summarized from Book 2 source material._

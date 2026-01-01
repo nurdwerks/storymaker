@@ -42,6 +42,7 @@
   - _Character Defining Moment:_ **Lisbet** — Sobbing, she thanks Ria for her sacrifice, promising to rebuild her yet again. She immediately plugs a diagnostic cable into Ria's port, searching for a faint signal.
   - _Key Dialog:_ **Lisbet:** "You did it, Ria. You're the strongest thing on this ship. Don't you dare leave me."
   - _Key Dialog:_ **Ria (Static-filled whisper):** "Logic... satisfied... stars... pending..."
+  - _Key Dialog:_ **Joyce:** (Holding Lisbet's trembling shoulders) "Don't look away, child. She's buying you the sky. You owe her the courage to watch."
 
 ### Scene 4: The Revelation
 

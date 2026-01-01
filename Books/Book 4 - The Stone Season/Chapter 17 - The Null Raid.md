@@ -120,6 +120,16 @@
 - **Detailed Description:** Hatcher holds the lifeless metal body of Scrap against his chest.
   - _Key Dialog:_ **Hatcher:** "He's not a mesh. He was a friend."
 
+### Scene 5: The Mandate
+
+- **Key Event:** Imperial protocol invoked.
+- **Detailed Description:** In the chaos of the retreat, Aris pulls up the Null unit's command log on a scavenged datapad. She finds the authorization code: a directive from the old Imperial archive, signed by **The Emperor** himself before his death—a standing order for the "reclamation of unauthorized population centers." Vane has been invoking the Emperor's old emergency protocols to justify the harvesting raids. The Emperor's legacy is being weaponized against the very people he once claimed to protect. Aris's face goes pale as she realizes the scope of what they're fighting.
+
+  - _Key Dialog:_ **Dr. Aris:** "The authorization code... it's from the Emperor's archive. 'Directive 7: Reclamation of Unauthorized Populations.' Vane isn't acting alone. He has legal cover—from a dead man."
+  - _Key Dialog:_ **Angelica:** "The Emperor's been dead for years. His laws died with him."
+  - _Key Dialog:_ **Dr. Aris:** "Try telling that to the Null units. They don't know he's dead. To them, the order is still active."
+  - _Character Defining Moment:_ **The Emperor** — Even in death, his authoritarian legacy enables atrocities; his emergency protocols provide the legal framework Vane uses to justify genocide.
+
 ---
 
 _Summarized from Book 4 source material._

@@ -113,6 +113,14 @@
   - _Key Dialog:_ **Angelica Ward:** "Move. They'll find another vent."
   - _Character Defining Moment:_ **Angelica Ward** — Forces the group to leave behind a crate of precious medical supplies to move faster, choosing survival over comfort and establishing her ruthless pragmatism.
 
+### Scene 5: The Old Authority
+
+- **Key Event:** Evidence of the old regime.
+- **Detailed Description:** As they sprint down the dark maintenance tunnel, the emergency lights flicker to life—ancient systems responding to motion. On the wall, a faded mural depicts **The Emperor** standing before a gleaming ship schematic, the words _"The Captain Provides. The Captain Protects."_ painted in Imperial Gold. The infrastructure they're running through was built in his era, when the ship was whole and the colonies thrived. Now it's a tomb. Angelica pauses for a heartbeat, staring at the regal figure. Her ancestor. Her burden. Then she keeps running.
+
+  - _Key Dialog:_ **Hatcher (catching his breath):** "Old propaganda. Back when people believed the brass gave a damn."
+  - _Key Dialog:_ **Angelica:** "Maybe they did, once. Now it's just us."
+
 ---
 
 _Summarized from Book 4 source material._

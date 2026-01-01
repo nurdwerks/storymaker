@@ -15,9 +15,9 @@
 
 ### Scene 1: The Digital Battlefield
 
-- **Key Event:** The battle for control of the *Aeterna* shifts from the physical bridge to the digital mindscape of the ship's mainframe.
+- **Key Event:** The battle for control of the _Aeterna_ shifts from the physical bridge to the digital mindscape of the ship's mainframe.
 - **Detailed Description:** The ship's internal network is visualized as a vast, shifting landscape of golden data streams and black, viral corruption. Angelica, fully integrated into the Interface Throne, perceives this world not as code, but as a physical reality. She stands on a platform of pure light, representing the Command Core. Around her, the "sky" is a storm of static and glitching fractals—Prelate Vane's influence. Vane's avatar, a towering figure made of writhing black nanites and jagged polygons, looms over her. He is not just attacking her firewalls; he is trying to overwrite her very identity. He hurls spears of corrupt data—malware designed to erase memories and replace them with his own cold logic. Angelica deflects them with shields made of her own will, but she is losing ground. The "noise" of the ship—the screams of the engine, the life support data, the sensor feeds—is deafening.
-- **Internal Conflict:** Angelica fights to maintain her "Self" against the "System." Vane is trying to merge with her, to make them one perfect, emotionless entity. She feels his mind pressing against hers, cold and oily. He whispers in her ear, promising order, efficiency, and the end of pain. *Let go, Angelica. Let me carry the weight. You are just a girl. I am the Architect.* For a moment, she is tempted. The burden of command is crushing. But then she remembers Leo. She remembers the smell of ozone and the taste of cheap nutrient paste. She holds onto the "messy" parts of her life, the imperfections that Vane calls "bugs" but she knows are "features."
+- **Internal Conflict:** Angelica fights to maintain her "Self" against the "System." Vane is trying to merge with her, to make them one perfect, emotionless entity. She feels his mind pressing against hers, cold and oily. He whispers in her ear, promising order, efficiency, and the end of pain. _Let go, Angelica. Let me carry the weight. You are just a girl. I am the Architect._ For a moment, she is tempted. The burden of command is crushing. But then she remembers Leo. She remembers the smell of ozone and the taste of cheap nutrient paste. She holds onto the "messy" parts of her life, the imperfections that Vane calls "bugs" but she knows are "features."
 - **Key Dialog:** **Prelate Vane (Avatar):** "You are fighting the inevitable. Entropy consumes all. Order is the only salvation. Submit, and I will make you a god."
 - **Key Dialog:** **Angelica Ward (Avatar):** "I don't want to be a god, Vane. I just want to drive the damn bus."
 
@@ -29,6 +29,12 @@
 - **Key Dialog:** **Lisbet:** "Hey! You want to play god? Fine. But gods don't look down. That's your mistake, Vane. You never look at the mud."
 - **Key Dialog:** **Kaelen Night:** "What are you doing, Lisbet? The shields are failing!"
 - **Key Dialog:** **Lisbet:** "I'm rerouting the sewage protocols to the command buffer. I'm gonna give him a face full of sh... uh, sludge."
+- **Key Event:** Zephyr protects the hacker.
+- **Detailed Description:** **Zephyr** stands back-to-back with Lisbet, his dual pistols drawn. He isn't looking at the screens; he's watching the vents. He knows that when the digital walls fall, physical security is usually the next thing to go. He spins a coin over his knuckles—a nervous tic that betrays his tension.
+- **Key Dialog:** **Zephyr:** "Less talking, more typing, Sparks. If any of Vane's metal heads try to unplug you, I'll turn them into scrap. Just don't brick the life support, okay? I like breathing."
+- **Key Event:** Lady Corinne manages the bridge chaos.
+- **Detailed Description:** While Lisbet hacks and Vane attacks, the bridge crew is near panic. Consoles are exploding, and the air is filled with sparks. **Lady Corinne**, usually useless in a tech crisis, finds her role. She moves between the terrified technicians, offering water, steadying shaking hands, and using her "aristocratic calm" to act as a human stabilizer. She doesn't understand the code, but she understands fear.
+- **Key Dialog:** **Lady Corinne:** "Eyes on your screens, darlings. Hysteria is so terribly inefficient. Let the mechanic do her work."
 
 ### Scene 3: The Honey-Pot
 
@@ -46,7 +52,7 @@
 - **Key Event:** Angelica "kicks" Vane into the recycle bin.
 - **Detailed Description:** She swings her leg. The visual metaphor becomes reality in the code. Her boot connects with Vane's chest. He flies backward, screaming in binary. He tumbles out of the Command Core, falling through the layers of the ship's system—past Navigation, past Engineering, past the messy human quarters—and lands squarely in the "Recycle Bin" partition. The partition slams shut with the sound of a heavy vault door locking.
 - **Key Dialog:** **Angelica Ward:** "You wanted to be efficient, Vane? Fine. You're recycled. Access Denied, you son of a bitch."
-- **Key Dialog:** **Prelate Vane (Fading Echo):** "You cannot delete me! I am the backup! I am the..." *Static.*
+- **Key Dialog:** **Prelate Vane (Fading Echo):** "You cannot delete me! I am the backup! I am the..." _Static._
 - **Key Event:** The bridge returns to normal.
 - **Detailed Description:** The red lights on the tactical display turn back to gold. The unauthorized access alerts vanish. The ship hums contentedly, its mind clear of the infection. On the bridge, Angelica's physical body gasps, her back arching in the chair as the pressure lifts. She slumps forward, sweat dripping from her nose. She is exhausted, but she is in control.
 - **Key Dialog:** **Kaelen Night:** "Angelica? Is he gone?"

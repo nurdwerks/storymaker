@@ -61,6 +61,16 @@
   - _Key Dialog:_ **Joyce:** "I just wanted to knit. I just wanted to be normal. Why won't they let me be normal?"
   - _Key Dialog:_ **Angelica Ward:** "Because the world is broken, Joyce. And it needs people who know how to break it back. The illusion was ash. You're awake now. Walk."
 
+### Scene 5: The Ghost's Laughter
+
+- **Key Event:** The Emperor's presence.
+- **Detailed Description:** As the group flees through the tunnels, the facility's emergency broadcast system crackles to life. The screens embedded in the maintenance corridor flicker—and **The Emperor's** distorted face appears. His digital ghost has followed them even here, into the wreckage of Joyce's sanctuary. His hollow laughter echoes off the metal walls. He does not threaten; he mocks. He calls Joyce a "broken weapon" and Angelica a "pretender queen." His presence is a reminder that they are never truly hidden, never truly safe. The ship itself is watching them.
+
+  - _Key Dialog:_ **The Emperor (broadcast):** "Run, run, little toys. I see you in my walls. Every corridor is my throat. Every vent is my breath. You think you escaped? You are inside me. Forever."
+  - _Key Dialog:_ **Angelica Ward:** "Keep moving. He's just static. He can't hurt us with words."
+  - _Key Dialog:_ **Joyce:** "Can't he? Words started this war. Words killed Gable."
+  - _Character Defining Moment:_ **The Emperor** — Even as a digital ghost, his psychological warfare continues; he cannot directly attack, but he can erode hope and sanity.
+
 ---
 
 _Summarized from Book 4 source material._

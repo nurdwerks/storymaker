@@ -12,7 +12,10 @@
 ### Scene 1: The Flora
 
 - **Key Event:** The Awakening.
-- **Detailed Description:** Angelica stumbles away from the smoking wreckage of the escape pod. The metal hull is ticking as it cools, the heat radiating off it in waves that warp the air. Her flight suit is torn at the shoulder, revealing bruised skin. Her head is pounding with a rhythmic, sickening throb—the aftereffect of a high-G deceleration that should have killed her.
+- **Detailed Description:** Angelica attempts to access her technology. She taps the wrist-comp on her left arm. The screen is cracked; it flickers once and dies. She taps her earpiece, trying to hail the _Zenith_ or any orbital relay. "Ward to Command. Status report." Heavy static is the only reply. The silence is absolute and terrifying. She is cut off.
+  - _Key Dialog:_ **Wrist-Comp:** (Garbled Audio) "...ngie... run... diag... nos... tic... Lisbet... offline..."
+  - _Key Dialog:_ **Angelica Ward:** "Lisbet? Is that you? Are you in the buffer?"
+  - _Key Dialog:_ **Wrist-Comp:** (Static hiss, then silence)
 - **Key Event:** The Sensory Overload.
 - **Detailed Description:** She rips off her helmet. The air hits her like a physical weight. It is thick, wet, and heavy. It tastes of loam, rot, and aggressive growth. It is 90% humidity and saturated with oxygen.
 - **Key Event:** The Physical Reaction.

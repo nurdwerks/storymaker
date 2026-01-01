@@ -16,8 +16,8 @@
 ### Scene 1: The Realization / The Flower Shop
 
 - **Key Event:** Angelica faces execution.
-- **Detailed Description:** The back room of Joyce's flower shop has become a killing floor. Joyce, her grandmotherly mask gone, stands with a poisoned needle in one hand and a silenced pistol in the other. The "Sleeper" programming has taken full control. She moves mechanically, her eyes empty of the warmth that usually defines her. Angelica backs away, hitting the wall. She can smell the bitter almonds of the cyanide. Her heart hammers against her ribs. In this moment of pure terror, something unlocks in her blood. The "Cylinder"—the artifact she retrieved from the museum—vibrates in her pocket, harmonizing with her pulse. A sensation of heat spreads from her chest, flooding her limbs. It is not adrenaline; it is *authority*. It is the genetic memory of her ancestors, the original Captains of the Zenith, waking up.
-- **Internal Conflict:** Angelica realizes she is not just a victim. She is the daughter of the Captain. The ship *knows* her. The systems in the walls, the lights, the air scrubbers—they are all waiting for a command. The "Gene-Key" encoded in her DNA by her mother activates. She feels a connection to the ship that is deeper than wires or code; it is biological.
+- **Detailed Description:** The back room of Joyce's flower shop has become a killing floor. Joyce, her grandmotherly mask gone, stands with a poisoned needle in one hand and a silenced pistol in the other. The "Sleeper" programming has taken full control. She moves mechanically, her eyes empty of the warmth that usually defines her. Angelica backs away, hitting the wall. She can smell the bitter almonds of the cyanide. Her heart hammers against her ribs. In this moment of pure terror, something unlocks in her blood. The "Cylinder"—the artifact she retrieved from the museum—vibrates in her pocket, harmonizing with her pulse. A sensation of heat spreads from her chest, flooding her limbs. It is not adrenaline; it is _authority_. It is the genetic memory of her ancestors, the original Captains of the Zenith, waking up.
+- **Internal Conflict:** Angelica realizes she is not just a victim. She is the daughter of the Captain. The ship _knows_ her. The systems in the walls, the lights, the air scrubbers—they are all waiting for a command. The "Gene-Key" encoded in her DNA by her mother activates. She feels a connection to the ship that is deeper than wires or code; it is biological.
 
   - _Character Defining Moment:_ **Angelica Ward** — She stops trembling. She straightens her spine. She transitions from a frightened girl to an Empress in waiting. She looks at the gun not with fear, but with disdain.
   - _Key Dialog:_ **Joyce (monotone):** "Target acquired. Terminating. Compliance is mandatory."
@@ -28,7 +28,7 @@
 - **Key Event:** Angelica speaks with the "Imperial Voice."
 - **Detailed Description:** Angelica opens her mouth, but the voice that comes out is not hers. It is amplified, resonant, layered with a sub-vocal frequency that hits the listener in the brain stem. It is the voice used by the original Captains to quell mutinies. The sound waves ripple the air, shattering a vase of flowers on the counter. The glass explodes outward, but Angelica doesn't flinch. The sound is physical, a pressure wave of command.
 - **Detailed Description:** "JOYCE. SIT. RELEASE WEAPON. SUBMIT." The command is absolute. It bypasses Joyce's conscious mind and strikes her sleeper programming directly. Joyce freezes. Her muscles lock. The pistol falls from her hand with a clatter. She drops to her knees, her body obeying the biological override despite her mind's confusion. She tries to fight it, her face twitching, but the Resonance locks her joints.
-- **Internal Conflict:** Angelica is terrified by her own voice. It felt good. It felt *right*. That scares her more than the gun. She realizes she has the power to enslave, just like Vane. She wonders if this power makes her a monster, or just a survivor.
+- **Internal Conflict:** Angelica is terrified by her own voice. It felt good. It felt _right_. That scares her more than the gun. She realizes she has the power to enslave, just like Vane. She wonders if this power makes her a monster, or just a survivor.
 
   - _Character Defining Moment:_ **Angelica Ward** — She discovers the weapon in her blood. She uses it not with hesitation, but with lethal focus. She realizes that her voice is a loaded gun.
   - _Key Dialog:_ **Angelica:** "I said, submit. Do you know who I am? I am the Zenith."
@@ -53,6 +53,14 @@
 
   - _Character Defining Moment:_ **Angelica Ward** — She begins to embrace the dangerous possibility of her own power. She is not a pawn; she is the Queen. She decides to stop running and start conquering.
   - _Key Dialog:_ **Angelica:** "I spoke. And the world obeyed. I think I like this. Vesper made a mistake. She tried to break the key. She should have hidden it. Now, the key is going to turn."
+
+### Scene 5: The Observer
+
+- **Key Event:** Intelligence received.
+- **Detailed Description:** Across the city, in a private salon lit by candles, **Lady Corinne (The Porcelain Doll)** receives word from one of her informants embedded in Joyce's network. The flower shop assassination failed. More importantly, Ward used something—a voice, a power—that paralyzed a trained assassin. Corinne sets down her teacup with deliberate precision. The Ward girl has the Sangreal bloodline. She has the power to command. This changes the calculus entirely. Vesper is now a threat to be eliminated; Ward is an asset to be cultivated.
+
+  - _Key Dialog:_ **Lady Corinne (to her spy):** "The girl used the Voice? Confirmed? Then she's not a piece—she's the player. We need to be on the winning side when this ends. Find out where she's hiding. Send flowers. The kind that don't explode."
+  - _Character Defining Moment:_ **Lady Corinne** — Demonstrates her political agility, instantly recalculating alliances based on new power dynamics.
 
 ---
 

@@ -68,7 +68,11 @@
 - **Key Event:** The Salvage.
 - **Detailed Description:** She grabs a stack of books from the shelves near the "Technical" section. She shoves them into her pack until the straps groan.
   - _Key Dialog:_ **Angelica Ward:** "Burn the fiction. Burn the philosophy. But save the science. Burn the medical texts last. We might need the diagrams to stitch us back together."
+  - _Key Dialog:_ **Angelica Ward:** "Burn the fiction. Burn the philosophy. But save the science. Burn the medical texts last. We might need the diagrams to stitch us back together."
   - _Character Defining Moment:_ **Ria** — Views the books purely as "cellulose fuel," dismissing the sentimental value in favor of brutal survivalism.
+- **Key Event:** Joyce's selection.
+- **Detailed Description:** While the others argue over philosophy versus science, **Joyce** quietly pulls three specific books from the "Genealogy" section. They look like boring lists of names. She slips them into her coat. They are actually the cipher keys for the old Aristocracy's communication channels.
+  - _Key Dialog:_ **Joyce:** (To herself) "Let them burn the poetry. I'll keep the phone book."
 
 ### Scene 4: The Revelation
 
@@ -90,6 +94,13 @@
 - **Key Event:** The Knowledge.
 - **Detailed Description:** Kaelen watches the truth turn to ash. He doesn't say anything. He doesn't argue. But he knows. They all know. The doubt has been planted.
   - _Character Defining Moment:_ **Dr. Aris** — He actively suppresses uncomfortable truth to maintain the "order" and sanity of the group, showing his willingness to curate reality.
+
+### Scene 5: The Erasure
+
+- **Key Event:** Lady Vesper sanitizes the archives.
+- **Detailed Description:** Simultaneous to the events in the library, **Lady Vesper** is in the Zenith's restricted physical archives. She is not freezing; she is wearing a thermal-regulation suit of white velvet. She holds a matching leather-bound journal—the Captain's Log. She doesn't read it. She drops it into a molecular incinerator.
+  - _Key Dialog:_ **Lady Vesper:** "History is mutable. If it isn't written down, it didn't happen. The ship isn't drifting, because I say it isn't."
+  - _Character Defining Moment:_ **Lady Vesper** — She is the active agent of disinformation, destroying the truth at its source while Aris suppresses it at the bottom.
 
 ---
 

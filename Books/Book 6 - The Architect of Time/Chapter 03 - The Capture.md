@@ -35,7 +35,7 @@
 - **Key Event:** The Tactics.
 - **Detailed Description:** They don't rush in screaming. They encircle her silently. Spears out. Shields of woven bark up. They move as a unit.
 
-  - _Internal Monologue:_ Angelica stops struggling. She analyzes them. This isn't a mob. This is a squad.
+  - _Internal Monologue:_ Angelica stops struggling. She analyzes them. This isn't a mob. This is a squad. It reminds her of Ria's training simulations—the "Wolf Pack" protocol. Synchronized movement. Overlapping fields of fire (or spears, in this case).
   - _Key Dialog:_ **Angelica Ward:** "Pack tactics. Disciplined. Hierarchy. You're not random scavengers, are you?"
 
 - **Key Event:** The Examination.

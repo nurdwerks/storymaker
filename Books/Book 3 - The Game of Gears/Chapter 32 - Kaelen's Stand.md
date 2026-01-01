@@ -16,7 +16,7 @@
 ### Scene 1: The Lab Assault
 
 - **Key Event:** The Resistance team, led by Angelica and Kaelen, breaches the perimeter of Vane's secret Research Wing on Level 12.
-- **Detailed Description:** The Research Wing is a sterile, white-tiled nightmare. The air is thick with the chemical smell of preservatives and ozone. The blast doors give way under Silas's charges, blowing inward with a deafening *crump*. The team surges in. Ria takes point, her heavy cannon shredding the automated turrets hanging from the ceiling. Silas provides cover fire. Angelica moves in the center, hacking door panels as they go. They are met by Vane's personal science-guard—men in clean bio-hazard suits armed with needle-rifles.
+- **Detailed Description:** The Research Wing is a sterile, white-tiled nightmare. The air is thick with the chemical smell of preservatives and ozone. The blast doors give way under Silas's charges, blowing inward with a deafening _crump_. The team surges in. Ria takes point, her heavy cannon shredding the automated turrets hanging from the ceiling. Silas provides cover fire. Angelica moves in the center, hacking door panels as they go. They are met by Vane's personal science-guard—men in clean bio-hazard suits armed with needle-rifles.
 - **Key Event:** Dr. Splicer, Vane's head of genetic research, attempts to purge the databases before the team can reach them.
 - **Detailed Description:** Splicer is a thin, nervous man with cybernetic implants in his skull. He stands behind a wall of reinforced glass, typing frantically. He shouts orders to his assistant, Igor, a hulking, lobotomized brute.
   - _Key Dialog:_ **Dr. Splicer:** "Hold them back! The data must not be compromised! Upload to the secure server! Delete local files!"
@@ -53,6 +53,7 @@
 - **Key Event:** Kaelen decides to hold the door alone.
 - **Detailed Description:** Kaelen looks at the narrow doorway. It is a choke point. If he stays, he can hold them off. If they all stay, they get overrun. He checks his sword. He looks at Angelica. He doesn't make a speech. He just steps into the frame.
 - **Internal Conflict:** Angelica wants to stay. She wants to fight beside him. But she knows the mission is the data. The data brings down Vane. Kaelen is buying her that victory.
+
   - _Character Defining Moment:_ **Kaelen Night** — He accepts his role. He is the shield. He finds a moment of perfect calm before the violence.
   - _Key Dialog:_ **Kaelen:** "Go. Take the back exit. I'll hold them."
   - _Key Dialog:_ **Angelica Ward:** "There's twenty of them, Kaelen."
@@ -62,6 +63,14 @@
 
 - **Key Event:** The battle begins.
 - **Detailed Description:** Kaelen engages the Null-Squad. He moves like liquid shadow. He uses the narrow corridor against them, preventing them from bringing their numbers to bear. He is a whirlwind of steel and kinetic magic. He takes a hit, then another, but he doesn't fall. The team escapes down the service chute, the sound of Kaelen's sword ringing against armor fading behind them.
+
+### Scene 5: The Rearguard
+
+- **Key Event:** Zephyr covers the retreat.
+- **Detailed Description:** At the service chute entrance, **Zephyr (The Gilded Rogue)** lingers a moment longer than the others. His cybernetic eye whirs, recording the scene—Kaelen, alone, facing the Null-Squad. He calculates the odds: twenty to one. The math says Kaelen dies. Zephyr hates the math. He pulls a pair of smoke grenades from his belt and hurls them down the corridor, buying Kaelen precious seconds of concealment. Then he drops into the chute, the last one through.
+
+  - _Key Dialog:_ **Zephyr (whispering):** "Smoke's on the house, Shadow Prince. Don't waste it."
+  - _Character Defining Moment:_ **Zephyr** — Shows that beneath the mercenary exterior, he values his allies' lives over a clean escape.
 
 ---
 

@@ -40,6 +40,10 @@ Medic "Stitch" is the squad medic who patches Ria up after every fight. He repre
 | Book 4 | Chapter 11 | Moment | **Medic Stitch** — His guilt is absolute, but he knows he would make the same choice again. He is a pragmatist in hell. |
 | Book 4 | Chapter 11 | Dialog | **Medic Stitch:** "Shut up. Just... survive. That's the payment. You owe that kid a life. Make it count." |
 | Book 4 | Chapter 12 | Dialog | **Angelica Ward:** "Burn the fiction. Burn the philosophy. But save the science. Burn the medical texts last. We might need the diagrams to stitch us back together." |
+| Book 4 | Chapter 12 | Dialog | **Angelica Ward:** "Burn the fiction. Burn the philosophy. But save the science. Burn the medical texts last. We might need the diagrams to stitch us back together." |
+| Book 4 | Chapter 28 | Dialog | **Joyce:** (Staring at the pulsing cables) "It's a weave. Look at the patterns. Arteries knit into fiber-optics. It's not distinct; it's a tapestry. A horrible, bloody tapestry. I've never seen stitch-work like this." |
+| Book 5 | Chapter 40 | Detailed Description | While Angelica drifted in the Bulk, **Ria (The Iron Vanguard)** stood guard over her catatonic body on the bridge. For the entire duration of the crisis—what felt like hours—Ria has been positioned beside the pilot's chair, plasma torch in hand, ready to fight anyone or anything that tried to touch the Captain. When Angelica wakes screaming, Ria is the first to move, cutting her restraints and shouting for a medic. Her face is haggard, but her hands are steady. She has not slept since the drive failed. |
+| Book 5 | Chapter 40 | Dialog | **Ria (to a nearby ensign):** "Medic! Now! Not in ten seconds—now! She's bleeding from the ears!" |
 | Book 6 | Chapter 26 | Dialog | **Angelica Ward:** "Get a medic! And get a backup seal on that valve! We are not losing this ship! Not after this! No more mistakes!" |
 | Book 6 | Chapter 28 | Dialog | **Miner:** "Chief! You're hurt! We need a medic!" |
 | Book 6 | Chapter 32 | Dialog | **Angelica Ward:** "Medic! Get a medic up here!" |

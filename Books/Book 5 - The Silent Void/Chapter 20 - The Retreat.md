@@ -94,6 +94,15 @@
 - **Key Event:** The Move.
 - **Detailed Description:** They move out, heading toward the lift that leads to the Command Deck. Behind them, the patch on the wall groans, but holds.
 
+### Scene 5: The Reinforcements
+
+- **Key Event:** Allies arrive.
+- **Detailed Description:** As the group approaches the lift junction, two figures emerge from a side corridor. **Lady Corinne (The Porcelain Doll)** is uncharacteristically disheveled, her silk gown torn and stained with hydraulic fluid. She has been running logistics from the supply depot when the alarms hit. Beside her, **Zephyr (The Gilded Rogue)** limps along, his cybernetic arm sparking intermittently—the gravity fluctuations have damaged his internal systems. Despite his condition, his eyes are still calculating, already running cost-benefit analyses on their escape routes.
+
+  - _Key Dialog:_ **Lady Corinne:** "The supply depot is gone. The gravity wave crushed it. But I managed to save the medical kit and the emergency rations. We won't starve before the aliens kill us."
+  - _Key Dialog:_ **Zephyr:** "My arm's at 30% capacity. Can't aim worth a damn. But I can still pick locks. Point me at the bridge access, I'll get us in."
+  - _Key Dialog:_ **Angelica Ward:** "Good. We need everyone. Fall in. We're taking back this ship."
+
 ---
 
 _Summarized from Book 5 source material._

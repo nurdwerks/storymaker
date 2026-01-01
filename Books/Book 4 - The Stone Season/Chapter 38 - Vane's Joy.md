@@ -53,6 +53,15 @@
   - _Key Dialog:_ **Zephyr:** "Then we’d better find some shadows. Kaelen, you’re up! Make us some shade, spooky! Drop the ceiling if you have to!"
   - _Key Dialog:_ **Angelica Ward:** "Focus fire on the joints! They bleed coolant just like anything else! Hold the line!"
 
+  - _Key Dialog:_ **Angelica Ward:** "Focus fire on the joints! They bleed coolant just like anything else! Hold the line!"
+
+### Scene 5: The Succession
+
+- **Key Event:** Lady Vesper observes Vane's breakdown.
+- **Detailed Description:** **Lady Vesper** watches the live feed from the Solar Gate control room. She sees Vane wired into the machine, raving about light and gods. She shakes her head. He has lost the ability to govern. She opens a secure channel to the High Council.
+  - _Key Dialog:_ **Lady Vesper:** "The Prelate is compromised. He is hallucinating. Prepare the transition of power. I will assume temporary command of the Spire when he burns out."
+  - _Character Defining Moment:_ **Lady Vesper** — She is the ultimate survivor, preparing to step over Vane's corpse before he has even fallen.
+
 ---
 
 _Summarized from Book 4 source material._

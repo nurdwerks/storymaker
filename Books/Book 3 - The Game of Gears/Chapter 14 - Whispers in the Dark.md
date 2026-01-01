@@ -16,12 +16,14 @@
 ### Scene 1: The Last Supper
 
 - **Key Event:** The night before the planned assault on the Engine Room, the resistance leaders gather in the mess hall of the Iron Heart.
-- **Detailed Description:** The mess hall is a converted storage bay, the walls lined with pipes that drip condensation. The lighting is dim, provided by string lights scavenged from holiday decorations. The air smells of recycled air and the faint, savory scent of protein mash. Angelica, Silas, Miller, and Corinne sit at a metal table. They are eating from tin bowls. The mood is heavy with the knowledge that many of them will likely be dead by tomorrow.
+- **Detailed Description:** The mess hall is a converted storage bay, the walls lined with pipes that drip condensation. The lighting is dim, provided by string lights scavenged from holiday decorations. The air smells of recycled air and the faint, savory scent of protein mash. Angelica, Silas, Miller, and Corinne sit at a metal table. They are eating from tin bowls. **Joyce**, Corinne's grandmother, sits in a rocking chair fashioned from pipes, knitting furiously. She hums a nursery rhyme that Miller slowly realizes is actually a Morse code frequency for the guard rotation.
 - **Key Event:** Corinne attempts to bond with the group.
 - **Detailed Description:** Corinne, still wearing her ruined silk dress, eats the grey sludge with a silver spoon she pulled from her pocket. She looks around at the rough mechanics and soldiers. She forces a smile. She compliments the "texture" of the food. It is a pathetic attempt, but it is sincere. She is trying to bridge the gap between her world and theirs.
+
   - _Character Defining Moment:_ **Corinne** — She swallows her pride along with the mash. She realizes that survival is a great equalizer.
   - _Key Dialog:_ **Corinne:** "It has a certain... rustic charm. Like a deconstructed paté. I suppose hunger is the best seasoning."
   - _Key Dialog:_ **Silas:** "It's rat, princess. High-grade, lab-grown rat. Enjoy."
+  - _Key Dialog:_ **Joyce:** (Without looking up from her knitting) "Rat has more protein than peacock, dear. Eat up. You'll need the energy for the running."
 
 - **Key Event:** Angelica reflects on Vane's motivations.
 - **Detailed Description:** Angelica pushes her food around the bowl. She talks about Vane's obsession with control. He doesn't just want power; he wants to rewrite the narrative. He destroyed the history books because he wants to be the Creator.

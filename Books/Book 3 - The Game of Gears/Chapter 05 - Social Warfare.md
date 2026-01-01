@@ -24,10 +24,14 @@
 - **Key Event:** **Adjunct Professor Kroll** is present as a curiosity.
 - **Detailed Description:** **Professor Kroll**, a minor academic invited to explain the science of the tea leaves, is arguing loudly about atmospheric pressure with a bored noble. **Madame Velour**, the head of the Textile Guild, watches Angelica's dress with a critical eye, whispering to Marcel.
 - **Internal Conflict:** Angelica is suffocating. The corset Corinne forced her into restricts her breathing. She despises the frivolity. She watches Joyce, knowing the "old woman" is actually a lethal sleeper agent.
+
   - _Character Defining Moment:_ **Angelica Ward** — She unconsciously taps a rhythmic code on the table.
   - _Key Dialog:_ **Lady Corinne:** (Hissing behind her fan) "Stop tapping. You sound like a leaky pipe. Drink your tea. And for heaven's sake, smile at Aunt Joyce. She's the only one here who isn't trying to poison you."
   - _Key Dialog:_ **Joyce (The Needle):** (Loudly, appearing senile) "Did you say poison, dear? I thought we were having Earl Grey. You know I can't digest poison after noon."
   - _Key Dialog:_ **Lady Corinne:** "It's a metaphor, Auntie. Eat your scone."
+
+- **Key Event:** The silent observer.
+- **Detailed Description:** Above the Solarium, on a shadowed walkway concealed behind frosted glass panels, **Lord Cromwell** watches the gathering through a discrete surveillance feed. His Black Ledger is open on his lap, his fountain pen scratching notes about the social dynamics below. He observes Lady Vesper's entrance, Corinne's protective maneuvering, and the Ward girl's barely contained contempt for the proceedings. All of it is data. All of it will be filed.
 
 ### Scene 2: The Shark
 
@@ -55,6 +59,14 @@
   - _Key Dialog:_ **Angelica Ward:** "I'd rather face a riot in Sector 4. At least there I know who the enemy is."
   - _Key Dialog:_ **Lady Corinne:** "Knives leave scars on the skin. Those heal. Etiquette leaves scars on the soul. The wounds are much deeper. They bleed forever. Welcome to the Zenith, Angie."
   - _Key Dialog:_ **Angelica Ward:** "I need a wrench. I have a lot of things to break."
+
+### Scene 5: The Security Review
+
+- **Key Event:** Military assessment of the event.
+- **Detailed Description:** In the garrison command center adjacent to the Spire, **General Ironwood** reviews the security footage from the Solarium tea party. He watches the Ward girl's body language—the suppressed aggression, the trained awareness of exits. She is no debutante. He flags her file for enhanced surveillance. Vane wants this girl alive, but Ironwood knows a soldier when he sees one, even one dressed in silver silk. He assigns two additional undercover operatives to shadow Lady Corinne's estate.
+
+  - _Key Dialog:_ **General Ironwood (to his aide):** "The Ward girl is tactically aware. She was mapping the room within thirty seconds of entry. Put eyes on Corinne's residence. Something is being planned under that perfume."
+  - _Character Defining Moment:_ **General Ironwood** — Demonstrates his professional competence, recognizing the threat beneath the social theater even when his civilian superiors dismiss it.
 
 ---
 

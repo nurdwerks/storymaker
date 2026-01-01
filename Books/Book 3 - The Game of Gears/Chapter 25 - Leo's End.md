@@ -50,6 +50,8 @@
 - **Detailed Description:** Angelica stares at the body. The sound of the world fades away—the shouting of the guards, the laughter of Grey, the roar of the fire. All she hears is the silence where Leo's heartbeat used to be. Something inside her snaps. It is not a mental break; it is a metaphysical one. The barriers she built to control her Resonance—the discipline, the math, the fear—shatter.
 - **Key Event:** Angelica unleashes "The Carving."
 - **Detailed Description:** She screams. It is not a human sound. It is a resonant frequency that cracks the crystal glasses on the tables. A wave of golden light erupts from her body. It doesn't just push; it unmakes. The marble floor liquefies, turning into molten slag. The stone pillars supporting the roof twist and buckle like wet clay. The air pressure drops as the room becomes a vacuum of raw energy.
+  - _Character Defining Moment:_ **Lisbet** — She watches the destruction not with fear, but with awe, her goggles recording the cascading data of reality unravelling. To her, Angelica isn't destroying the room; she's rewriting the source code.
+  - _Key Dialog:_ **Lisbet:** "It's beautiful. She's deleting the physics engine. Zero-point edit."
 - **Key Event:** Duke Grey is destroyed.
 - **Detailed Description:** Grey realizes too late that he has made a mistake. He tries to run, but the floor grabs his legs, the stone hardening around his ankles. He screams as the ceiling begins to fall. A massive slab of marble crushes him, ending the line of House Grey in a cloud of dust.
 - **Key Event:** The Palace begins to collapse.

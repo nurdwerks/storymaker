@@ -37,7 +37,9 @@
 
 - **Key Event:** Angelica reveals the design.
 - **Detailed Description:** She sketches on the datapad, overlaying a new design onto the frame of the _Vanguard_. It is not a colony ship. It is not a luxury liner like the Zenith. It is a spear. Sleek, armored, built around a massive central gun. It is a ship designed for one purpose: to punch a hole through a blockade.
-- **Detailed Description:** She names it. She writes the letters in the air with her finger. _Aeterna_.
+- **Detailed Description:** She names it. She writes the letters in the air with her finger. _Aeterna_. A phantom voice whispers in her ear—a memory of Lisbet's constant critiques.
+  - _Key Dialog:_ **Lisbet (Memory):** "That structural stress load is garbage, Angie. You need triangular bracing on the keel or the torque will snap it like a twig."
+  - _Key Dialog:_ **Angelica Ward:** (Whispering to empty air) "I know, Glitch. I'm adding the bracing. Happy?"
 - **Internal Conflict:** She thinks of the irony. They are mortal, fragile creatures building something eternal. They are building their own coffin, or their own chariot.
 
   - _Key Dialog:_ **Angelica Ward:** "The Aeterna. The Eternal. Because this time, we are going to last. We aren't just surviving the winter, Torin. We are surviving forever. We are leaving a mark."
@@ -49,7 +51,12 @@
 - **Detailed Description:** Then, she offers them a purpose. She points to the wreck. She tells them that inside that metal mountain lies their salvation. She asks for twenty years of labor. Twenty years of mining, welding, starving, and freezing. She asks for their lives, in exchange for their species.
 - **Internal Conflict:** She feels like a cult leader. She is selling them a dream that she isn't sure she can deliver. But when she looks at Ragnar, she sees a spark. The barbarian loves a challenge. He loves the impossible.
 
+  - _Internal Monologue:_ _Sell the sizzle, not the steak,_ Zephyr used to say. _If you're selling a heist, don't tell them they might die. Tell them they're going to live forever._
+
   - _Character Defining Moment:_ **Angelica Ward** — She displays the charisma of a true Commander. She sells the hardship, not the reward. She challenges their pride.
+  - **Key Event:** The Weaver's Support.
+  - **Detailed Description:** **Elder Corinne**, the tribe's matriarch of weaving and lore, steps forward. She has watched silently until now. She touches the fabric of Angelica's flight suit, appreciating the weave. She turns to the women of the tribe.
+  - _Key Dialog:_ **Elder Corinne:** "The weave she offers is tight, sisters. It will hold water. It will hold us. We follow."
   - _Key Dialog:_ **Angelica Ward:** "We have the steel. You have the strength. I have the blueprints. We are going to build a way out. It will take twenty years. It will take every ounce of sweat and blood you have. It will be harder than any hunt, colder than any winter. But if you follow me, I promise you: we will never die. We will become the stars."
   - _Key Dialog:_ **Ragnar:** "Twenty years of heavy lifting? Sounds better than farming. I'm in."
 

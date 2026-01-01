@@ -60,6 +60,8 @@
 
 - **Key Event:** The Celebration.
 - **Detailed Description:** That night, the fires in the village are piled high. The flames lick the sky. Ragnar declares a feast to celebrate the "Raising of the Spine."
+- **Key Event:** The Hostess.
+- **Detailed Description:** **Elder Corinne** moves through the celebration with surprising agility for her age. She directs the distribution of the food, ensuring that the heavy lifters get the prime cuts and the mothers get the extra fruit. She maintains the social cohesion of the tribe with a glance here and a whisper there, the primitive equivalent of a salon hostess.
 - **Key Event:** The Food.
 - **Detailed Description:** There is roasted boar turning on spits, huge gourds of fermented fruit juice that smells like jet fuel, and the thumping of hollow-log drums.
 - **Key Event:** The Outsider.
@@ -73,7 +75,8 @@
 - **Key Event:** The Realization.
 - **Detailed Description:** But they are also builders now. _Her_ builders. They moved a mountain today because she asked them to.
 - **Key Event:** The Shift.
-- **Detailed Description:** She realizes she isn't just using them. She is part of them. For the first time since the Fall, since the crash, she doesn't feel like a castaway. She feels like a Queen.
+- **Detailed Description:** She realizes she isn't just using them. She is part of them. For the first time since the Fall, since the crash, she doesn't feel like a castaway. She feels like a Queen. She smiles, raising her leaf-plate in a silent toast to an absent friend. _Not quite a High Society gala on the Zenith, Zephyr. The wine tastes like kerosene and the music is just screaming, but... I think you'd like it. No guards, no rules._
+  - _Internal Monologue:_ She imagines Zephyr sitting there, stealing the gold rings off the elders while they clap. He'd hate the mud, but he'd love the chaos.
 
 ### Scene 4: The Toast
 

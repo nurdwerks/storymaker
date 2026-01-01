@@ -67,6 +67,21 @@
   - _Key Dialog:_ **Angelica:** "Can you walk?"
   - _Key Dialog:_ **Zephyr:** "Walk? Princess, I can fly. Let's go punch god in the face."
 
+### Scene 5: The Overwatch
+
+- **Key Event:** External support.
+- **Detailed Description:** On the rooftop of an adjacent residential tower, **Joyce (The Needle)** tracks the Warden pursuit team through her scope. She's been shadowing the group since they entered the broadcast tower—her contract requires she ensure delivery of the package, and the package travels with Ward. When the Wardens reach Floor 82, she puts two of them down with silent, precise shots through the stairwell windows. The others take cover, their advance stalled. She buys the team the three minutes they need.
+
+  - _Key Dialog:_ **Joyce (whispering):** "Two down. Six remaining. Buying you time, Ward. Earn it."
+
+### Scene 6: The Investor's Interest
+
+- **Key Event:** Opportunity assessment.
+- **Detailed Description:** In a private suite overlooking the broadcast tower, **Baron Gilded** watches the assault unfold through encrypted surveillance feeds purchased from corrupt Wardens. The Ward girl and her crew are attempting the impossible—seizing control of the city's primary propaganda network. If they succeed, they will own the narrative. If they fail, Vane will purge them. Either outcome presents opportunity. Baron Gilded already has contingency contracts with three black-market news syndicates ready to bid for exclusive footage.
+
+  - _Key Dialog:_ **Baron Gilded (to his accountant):** "Double the insurance on my tower holdings. If they broadcast, the markets riot. If they die, martyrs sell better than heroes. Either way, we profit."
+  - _Character Defining Moment:_ **Baron Gilded** — Demonstrates his amoral pragmatism, treating revolutionary violence as just another investment vehicle.
+
 ---
 
 _Summarized from Book 2 source material._

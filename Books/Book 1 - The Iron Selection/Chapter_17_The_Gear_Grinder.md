@@ -75,6 +75,13 @@
   - _Key Dialog:_ **Kaelen Night:** "Navigation confirmed. We proceed."
   - _Key Dialog:_ **Angelica Ward:** "Math saves lives. Ignorance burns. And I am done burning."
 
+### Scene 5: The Audience
+
+- **Key Event:** The broadcast reaches the Zenith elite.
+- **Detailed Description:** In her lavish penthouse overlooking the Selection arena, **Lady Corinne (The Porcelain Doll)** watches the broadcast on a floating holographic display. Her perfect features remain composed, but her fingers tighten on her wine glass as Squad Iron vanishes into the smoke below. She sees the Ward girl's desperate calculation, the impossible jump. Corinne marks Angelica Ward in her mental ledger—a potential ally or rival from the gutters who has survived where Highborn cadets perished.
+
+  - _Key Dialog:_ **Lady Corinne (murmuring):** "The Silt-rat computes faster than the Highborn run. Interesting. Very interesting indeed."
+
 ---
 
 _Summarized from Book 1 source material._

@@ -28,7 +28,7 @@
 - **Key Event:** Corinne identifies the poison.
 - **Detailed Description:** As the wine is poured into Angelica's glass, Corinne notes the subtle, oily sheen on the surface. It reflects light differently. She recognizes it from her alchemy lessons—"Nightshade Tint," a slow-acting neurotoxin favored by House Envy.
 - **Key Event:** Corinne intervenes.
-- **Detailed Description:** Corinne stands up, pretending to stumble in her heels. She "accidentally" bumps the table, creating a diversion. In the confusion, she deftly swaps Angelica's glass with the one intended for Lady Vesper, who is seated opposite. The movement is so fast, so fluid, it looks like a clumsy accident. She apologizes profusely, dabbing at a spill with her napkin.
+- **Detailed Description:** **Joyce**, seated nearby and seemingly asleep, suddenly knocks over a heavy silver candelabra with a "startled" twitch. The massive crash draws every eye in the room. In that split second of distraction, Corinne stands up, pretending to stumble in her heels to mask the movement further. She deftly swaps Angelica's glass with the one intended for Lady Vesper, who is seated opposite. The movement is so fast, so fluid, it looks like a clumsy accident. She apologizes profusely, dabbing at a spill with her napkin.
   - _Character Defining Moment:_ **Lady Corinne** — She saves Angelica's life through quiet, deadly efficiency, maintaining her "harmless" facade. She proves that the ballroom is as dangerous as the battlefield.
   - _Key Dialog:_ **Corinne:** (Whispering to Angelica as she cleans the spill) "Wrong color. They always use the Nightshade tint. Amateurs."
   - _Key Dialog:_ **Angelica:** (Barely moving lips) "Who?"

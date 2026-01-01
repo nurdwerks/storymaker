@@ -1,5 +1,12 @@
 ## Chapter 7: Corinne's Fall
 
+### Scene 0: The Cut / The Zenith Spire
+
+- **Key Event:** Lady Vesper advises the purge.
+- **Detailed Description:** In the tactical war room of the Zenith, **Lady Vesper** stands beside Vane's chair. The holographic map of the city shows blinking red lights where House Silver's estate used to be. The structural supports have failed. Vane hesitates, considering a rescue mission for his wealthiest donors. Vesper steps forward, her voice like cool silk. She points to the instability graph.
+  - _Key Dialog:_ **Lady Vesper:** "They are dead weight, Prelate. Gold drags us down. If we try to save the Silver district, the stress fractures will compromise the Temple. Let them fall. Gravity is the only judge that matters now."
+  - _Character Defining Moment:_ **Lady Vesper** — She demonstrates her ruthless pragmatism, sacrificing her own social peers to ensure the survival of the power structure she serves.
+
 ### Scene 1: The Refinement / Sector 4, The Crash Site
 
 - **Key Event:** The group stumbles upon a luxury "Gilded-Class" escape pod embedded in a pile of rubble. It didn't launch correctly; it just fell off the side of the Spire like a dropped diamond.

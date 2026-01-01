@@ -72,6 +72,18 @@
 
   - _Key Dialog:_ **Kaelen Night:** "Three chairs. Two musical notes left. The music stops now. Play."
 
+### Scene 5: The Watchers
+
+- **Key Event:** Imperial observation.
+- **Detailed Description:** In the sacred viewing chamber of the Imperial Palace, **The Emperor** watches the finale on a massive crystal display. His withered face shows no emotion, but his cybernetic eye tracks every micro-expression of the candidates. He has seen a thousand Iron Selections, and each reveals the true face of humanity under pressure. The Ward girl interests him—she stands between two killers with nothing but words.
+
+  - _Key Dialog:_ **The Emperor (to himself):** "The girl from the Silt. She positions herself as the shield. Interesting. Prelate Vane... what have you found?"
+
+- **Key Event:** Bureaucratic notation.
+- **Detailed Description:** In a monitoring station far below, **Lord Cromwell** records the final chapter of this year's Selection. His Black Ledger fills with observations: Squad Iron's survival odds, the exploitable friction between Night and the Titan-user, and the Ward girl's political potential. Every weakness is cataloged. Every loyalty is questioned. The Selection doesn't just choose warriors—it reveals assets to be leveraged.
+
+  - _Key Dialog:_ **Lord Cromwell (dictating):** "Candidate Ward demonstrates mediating instincts—potential leverage point. Candidate Night shows sociopathic risk factors. File for enhanced monitoring."
+
 ---
 
 _Summarized from Book 1 source material._

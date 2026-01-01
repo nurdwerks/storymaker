@@ -15,7 +15,9 @@
 
   - _Key Dialog:_ **Dr. Aris:** "Vane called it the 'Cure'. He believed it would rewrite the human genome to survive the Void. He wanted to strip us down to our most efficient parts. No waste. No hesitation. Just function."
   - _Key Dialog:_ **Angelica Ward:** "It looks like oil. It looks dead. Put it down, Aris."
+  - _Key Dialog:_ **Angelica Ward:** "It looks like oil. It looks dead. Put it down, Aris."
   - _Key Dialog:_ **Dr. Aris:** "Oh, no. It is very, very alive. It is aggressive life. It consumes entropy."
+  - _Key Dialog:_ **Joyce:** (Peering through her lorgnette) "It has a fascinating lattice structure, doesn't it? Like a diamond with a pulse. Be a dear and don't drop it, Doctor. I'd hate to have to shoot you."
 
 ---
 
@@ -23,7 +25,7 @@
 
 - **Key Event:** Aris explains the biological mechanism of the virus.
 - **Detailed Description:** Aris activates a portable holoprojector, displaying a rotating simulation of a human brain. As he speaks, the simulation highlights the frontal cortex in blue. The virus, represented by red tendrils, attacks the cortex, causing it to wither and turn grey. The cortex—the seat of personality, memory, empathy, and inhibition—is dissolved. The virus then stimulates the basal ganglia and the brainstem—the "Lizard Brain." These areas glow an angry, pulsing red. The simulation shows the subject's adrenaline production spiking by 400%, turning the body into a biological engine of destruction.
-- **Internal Conflict:** Kaelen watches the simulation with growing horror. To him, the mind is sacred. The Night House taught him that discipline and control were the highest virtues. The idea of being reduced to a mindless animal is a fate worse than death. He grips the hilt of his sword, his knuckles white. He imagines fighting opponents who look like people—who might *be* people he knows—but act like rabid beasts. He questions whether he can kill them.
+- **Internal Conflict:** Kaelen watches the simulation with growing horror. To him, the mind is sacred. The Night House taught him that discipline and control were the highest virtues. The idea of being reduced to a mindless animal is a fate worse than death. He grips the hilt of his sword, his knuckles white. He imagines fighting opponents who look like people—who might _be_ people he knows—but act like rabid beasts. He questions whether he can kill them.
 
   - _Character Defining Moment:_ **Kaelen Night** — Identifies the loss of personality/humanity as murder. He realizes that killing a "Blighted" is not killing a person, but ending a desecration.
   - _Key Dialog:_ **Dr. Aris:** "What is left when you remove the soul? The Lizard Brain. The basal ganglia. Hunger. Rage. Speed. It removes the hesitation of morality. It solves the caloric equation of 'conscience'."
@@ -58,7 +60,7 @@
 ### Scene 5: The First Contact (The Ventilation Shaft)
 
 - **Key Event:** A scratching sound is heard in the vents.
-- **Detailed Description:** As Angelica orders the heaters off, a sound echoes from the metal ductwork overhead. *Scritch. Scritch.* It sounds like claws on steel. The group freezes. Zephyr raises his blaster, the hum of its capacitor the only sound in the room. A vent cover rattles. Then, silence. The silence is heavy, predatory. Aris checks his thermal scanner. "Contact," he whispers. "Multiple contacts. They're in the walls."
+- **Detailed Description:** As Angelica orders the heaters off, a sound echoes from the metal ductwork overhead. _Scritch. Scritch._ It sounds like claws on steel. The group freezes. Zephyr raises his blaster, the hum of its capacitor the only sound in the room. A vent cover rattles. Then, silence. The silence is heavy, predatory. Aris checks his thermal scanner. "Contact," he whispers. "Multiple contacts. They're in the walls."
 - **Internal Conflict:** Fear ripples through the group. They are trapped in a small room with monsters in the walls. Angelica forces herself to breathe. She cannot panic. If she panics, they die. She signals Kaelen to take the door.
 
   - _Key Dialog:_ **Zephyr:** "They're in the walls? I hate when they're in the walls."

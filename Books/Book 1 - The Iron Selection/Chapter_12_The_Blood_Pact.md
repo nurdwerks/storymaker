@@ -70,6 +70,18 @@
   - _Key Dialog:_ **Angelica Ward:** "You didn't have to cut me. You could have just asked."
   - _Key Dialog:_ **Kaelen Night:** "You are a chaotic variable. I am containing you. Be grateful I didn't simply erase you. Now, get out. You smell of the Silt."
 
+### Scene 5: The Ledger Entry
+
+- **Key Event:** The report.
+- **Detailed Description:** In a dim alcove overlooking the courtyard, **Lord Cromwell** receives a coded message from one of his informants. He reads the contents: "House Night has claimed the Ward asset. Blood pact confirmed. Kaelen marks her as his property." Cromwell's expression does not change. He pulls out his Black Ledger and writes a new entry with his fountain pen. The scratching of the nib is deliberate, methodical.
+
+- **Character Defining Moment:** **Lord Cromwell** — He does not interfere with the blood pact. He simply records it. The information is currency, to be spent at the optimal moment. He files Ward's status as a piece on his board, neither ally nor enemy—merely an asset to be tracked.
+
+- **Key Event:** The notation.
+- **Detailed Description:** Cromwell closes the Ledger and tucks it into his voluminous sleeve. He glances toward House Night's tower, his watery eyes calculating. If the Ward girl proves useful, she becomes valuable leverage against Kaelen. If she proves dangerous, she is Kaelen's liability. Either outcome serves the Realm.
+
+  - _Key Dialog:_ **Lord Cromwell (murmured):** "Another variable enters the equation. How... untidy."
+
 ---
 
 _Summarized from Book 1 source material._

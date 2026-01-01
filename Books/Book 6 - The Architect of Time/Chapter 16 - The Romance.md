@@ -61,7 +61,8 @@
 - **Detailed Description:** She steps in close. She rises on her toes. She kisses him.
 - **Key Event:** The Experience.
 - **Detailed Description:** It isn't a desperate, movie-star kiss. It isn't a goodbye. It is slow. Gentle. Tentative. It tastes like tea and ink. Torin freezes for a second, then he melts. His arms go around her, pulling her close, holding her as if she were made of glass.
-  - _Internal Monologue:_ For twenty years, she has been running. Running from Vane. Running from her past. Running toward a mission. Here, in his arms, inside a hut made of mud and sticks, she stops.
+  - _Internal Monologue:_ For twenty years, she has been running. Running from Vane. Running from her past. Running toward a mission. Here, in his arms, inside a hut made of mud and sticks, she stops. She remembers Ria telling her once, _Duty is the armor, Angie. But you can't wear armor in bed. You have to take it off sometime, or you'll forget what skin feels like._
+  - _Internal Monologue:_ _She was right,_ Angelica thinks. _God, Ria, you were always right._
 
 ### Scene 4: The Confession
 

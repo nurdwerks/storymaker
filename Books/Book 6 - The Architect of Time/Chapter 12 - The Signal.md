@@ -32,7 +32,9 @@
 - **Key Event:** The Expectation vs. Reality.
 - **Detailed Description:** She expects a crisp digital handshake. A beacon ping. A friendly voice saying, "We read you, Ward. Hang tight."
 - **Key Event:** The Noise.
-- **Detailed Description:** Instead, she hears the universe screaming. _Hiss. Pop. Whine._ It is a wall of white noise. Cosmic background radiation left over from the Big Bang. The scream of the local sun. The atmospheric electrical discharges of a chaotic, young world.
+- **Detailed Description:** Instead, she hears the universe screaming. _Hiss. Pop. Whine._ It is a wall of white noise. Cosmic background radiation left over from the Big Bang. The scream of the local sun. The atmospheric electrical discharges of a chaotic, young world. For a microsecond, the static on the tiny screen resolves into a face—Lisbet's face, screaming a silent warning—before dissolving back into snow.
+
+  - _Key Dialog:_ **Angelica Ward:** "I saw you. I know you're there. Just hang on. I'm coming back for all of you."
 
   - _Key Dialog:_ **Angelica Ward:** "Come on. Cut through it. Just one ping."
 

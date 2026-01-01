@@ -38,6 +38,7 @@
 - **Key Event:** The heroism.
 - **Detailed Description:** Ragnar doesn't hesitate. He doesn't think. He dives. He moves with a speed that belies his size. He tackles the boy, shielding him with his own massive back, covering him completely.
 
+  - _Internal Monologue:_ Angelica watches from the ridge. _That's it,_ she thinks. _That's what Ria meant._ _The Vanguard is the wall. The wall doesn't ask who it's protecting. It just takes the hit._
   - _Character Defining Moment:_ **Ragnar** — Demonstrates his leadership. He puts himself between his men and the fire. He is the shield.
 
 - **Key Event:** The burn.

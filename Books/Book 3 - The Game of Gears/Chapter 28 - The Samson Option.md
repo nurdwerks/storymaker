@@ -49,6 +49,16 @@
   - _Key Dialog:_ **Angelica Ward:** "Fine. We do it the hard way. We cut the North Tether. We tilt the board. And when they slide... we catch them."
   - _Key Dialog:_ **Angelica Ward:** "Prepare the demo charges. We leave in ten minutes. Do it."
 
+### Scene 5: The Logistics
+
+- **Key Event:** Zephyr calculates costs.
+- **Detailed Description:** **Zephyr (The Gilded Rogue)** leans against the far wall, his cybernetic eye flickering as he runs cost-benefit analyses on the modified plan. The demo charges needed for the North Tether are expensive—military-grade plasma cutters aren't available on the black market, but he knows three smugglers who owe him favors. He flips his coin, catches it, and pushes off the wall. If they're going to do this suicide run, at least the accounting will be impeccable.
+
+  - _Key Dialog:_ **Zephyr:** "I can get the charges. Gonna cost us, though. Three favors and my emergency stash. But if we're tilting a skyscraper, might as well do it with the good stuff."
+  - _Key Dialog:_ **Angelica:** "Make it happen, Zephyr. Whatever it costs."
+  - _Key Dialog:_ **Zephyr:** "Put it on my tab, Princess. Add it to the rest."
+  - _Key Dialog:_ **Joyce:** (From the shadows, polishing a monocle) "Don't worry about the favors, Mr. Zephyr. I've already called in the debts. The smugglers owe _me_, and by extension, they owe you. Just make sure the explosives are fresh."
+
 ---
 
 ## Template Usage Notes

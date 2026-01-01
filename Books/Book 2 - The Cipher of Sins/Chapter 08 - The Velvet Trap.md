@@ -60,3 +60,16 @@
 
   - _Key Dialog:_ **Zephyr:** "Big metal ugly. I can distract it. Midas can annoy anything."
   - _Key Dialog:_ **Angelica:** "We don't need to destroy it. We just need to get past it. We're thieves, not an army."
+
+### Scene 5: The Watchers
+
+- **Key Event:** The handlers observe.
+- **Detailed Description:** On a rooftop overlooking the Rusty Gear, **Joyce (The Needle)** adjusts her parabolic microphone. She has been listening to fragments of the conversation inside—enough to know they're planning a heist at the Museum. Her comm buzzes. **Lady Vesper's** voice crackles through, cold and precise: _"Update."_ Joyce reports the target: Exhibit 404. The Cylinder. Vesper's pause is telling. She knows what the Cylinder is. "Let them take it," Vesper orders. "Then take it from them. Much cleaner than vault security." Joyce smiles. She always preferred working smarter, not harder.
+
+  - _Key Dialog:_ **Joyce (comm):** "They're going for the Museum. Vault 404. The girl knows something."
+  - _Key Dialog:_ **Lady Vesper:** "The Cylinder. Interesting. Let them do the hard work. Then collect."
+  - _Character Defining Moment:_ **Lady Vesper** — Demonstrates her strategic patience, using the resistance as unwitting tools to retrieve something she couldn't easily steal herself.
+
+---
+
+_Summarized from Book 2 source material._

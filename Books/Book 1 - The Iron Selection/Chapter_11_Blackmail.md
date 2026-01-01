@@ -78,6 +78,13 @@
   - _Key Dialog:_ **Angelica Ward:** "I'll keep them off your back. You keep me in the class. We survive together."
   - _Key Dialog:_ **Ria:** "Don't get sentimental, Silt-Rat. It's just business."
 
+### Scene 5: The Anomaly Report
+
+- **Key Event:** Data flagged for review.
+- **Detailed Description:** In the Academy's medical monitoring center, **Dr. Aris (The Sleepless Eye)** reviews the sensor logs from the dojo incident. The kinetic displacement readings are off the charts—three standard deviations beyond normal combat parameters. He cross-references with Candidate Ward's Resonance profile: officially listed as "negligible." He runs the numbers twice. The discrepancy is undeniable. He creates a sealed file, encrypting it with his personal cipher. The Ward girl is far more than she appears.
+
+  - _Key Dialog:_ **Dr. Aris (dictating notes):** "Candidate Ward exhibited unregistered kinetic Resonance. Magnitude: combat-lethal. Origin: endogenous. Recommend discrete observation protocol. Do not alert Headmaster. Yet."
+
 ---
 
 _Summarized from Book 1 source material._

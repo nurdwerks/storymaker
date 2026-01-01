@@ -64,6 +64,15 @@
   - _Key Dialog:_ **Angelica Ward:** "I am not a player. And I am definitely not the ball. I am the landslide. And I’m about to bury them both. Vane. Vesper. All of them."
   - _Key Dialog:_ **Zephyr:** "Long live the Queen. God help us all."
 
+### Scene 5: The Watch
+
+- **Key Event:** Ria maintains the perimeter.
+- **Detailed Description:** While the interrogation unfolds inside, **Ria (The Iron Vanguard)** stands guard at the safehouse's rear entrance, her armor powered down to conserve energy but her weapon ready. She can hear fragments of Joyce's confession through the thin walls—the body-hopping, the breeding program, the horror of what they planned for Angelica. Her hands tighten on her rifle. She has fought in riots and put down murderers, but this systematic evil is something different. When Angelica emerges with the declaration of war, Ria is ready. She doesn't need convincing. She needs a target.
+
+  - _Key Dialog:_ **Ria (to Angelica as she exits):** "I heard. The breeding program. If you're going to war, I'm your heavy cavalry. Point me at something."
+  - _Key Dialog:_ **Angelica Ward:** "Welcome to the revolution, Ria. You're promoted to siege engine."
+  - _Character Defining Moment:_ **Ria** — Her commitment to justice transforms into commitment to revolution; she cannot serve a system that would do this.
+
 ---
 
 _Summarized from Book 2 source material._

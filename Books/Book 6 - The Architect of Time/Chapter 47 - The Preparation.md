@@ -16,19 +16,20 @@
 ### Scene 1: The War Room / The Aeterna Bridge
 
 - **Key Event:** Angelica convenes the final strategic council before the assault on the Alien Armada.
-- **Detailed Description:** The briefing room of the *Aeterna* is a stark contrast to the makeshift war rooms of the past. It is clean, lit by the cool blue of the tactical hololith. The table displays a 3D rendering of the enemy fleet—a swirling, organic mass of green bio-ships. Around the table stand the veterans of twenty years of war: General Ria, scarred and cybernetic; Zephyr, grey-haired but still wearing his rogue's grin; Kaelen, the silent shadow; and the hologram of Dr. Aris (or his AI proxy). Angelica stands at the head. She is no longer the young girl from the Silt. She is an Admiral, wearing a uniform that is practical and severe. She outlines the enemy's weakness: they are a hive mind. They react instantly to threats, but they lack individual creativity. They predict logical patterns.
+- **Detailed Description:** The briefing room of the _Aeterna_ is a stark contrast to the makeshift war rooms of the past. It is clean, lit by the cool blue of the tactical hololith. The table displays a 3D rendering of the enemy fleet—a swirling, organic mass of green bio-ships. Around the table stand the veterans of twenty years of war: General Ria, scarred and cybernetic; Zephyr, grey-haired but still wearing his rogue's grin; Kaelen, the silent shadow; **Lady Corinne**, the Ancient Matriarch; and the hologram of Dr. Aris (or his AI proxy). Angelica stands at the head. She is no longer the young girl from the Silt. She is an Admiral, wearing a uniform that is practical and severe. She outlines the enemy's weakness: they are a hive mind. They react instantly to threats, but they lack individual creativity. They predict logical patterns.
 - **Internal Conflict:** Angelica knows that to win, she has to be irrational. She has to do something so insane that a computer mind cannot predict it. She feels the weight of every life on her ship. She knows that 90% of them will not survive the next hour. She pushes the guilt down, locking it away in the same place she keeps her grief for Torin.
 
   - _Character Defining Moment:_ **Angelica Ward** — She reveals the depth of her strategic evolution. She is not just reacting; she is dictating the flow of the battle. She commands with absolute authority.
   - _Key Dialog:_ **Angelica Ward:** "They are a machine. Machines are predictable. We are chaos. That is our advantage."
   - _Key Dialog:_ **Ria:** "Chaos usually gets you killed, Commander."
+  - _Key Dialog:_ **Lady Corinne:** "Or it gets you noticed. The etiquette of war requires us to be rude, my dear. We must break their rules."
   - _Key Dialog:_ **Angelica Ward:** "Order gets you enslaved. I prefer the risk."
 
 ### Scene 2: The Plans / The Deflection Strategy
 
 - **Key Event:** Angelica reveals the "Deflection Strategy."
-- **Detailed Description:** She manipulates the hologram. She shows the *Aeterna* acting not as a flagship, but as a distraction. She plans to drive the *Aeterna* deep into the enemy formation, drawing their fire and their sensors. While the hive mind focuses on the "Big Gun," Zephyr's stealth squadron will slip through the blind spot created by the *Aeterna*'s sensor-jamming wake. They will deliver the payload—the Vane-Shard—directly to the Mothership.
-- **Detailed Description:** The plan is met with silence. It uses the *Aeterna*—their home, their only sanctuary—as a shield. It puts Angelica directly in the line of fire. It relies on split-second timing and the suicidal bravery of the fighter pilots.
+- **Detailed Description:** She manipulates the hologram. She shows the _Aeterna_ acting not as a flagship, but as a distraction. She plans to drive the _Aeterna_ deep into the enemy formation, drawing their fire and their sensors. While the hive mind focuses on the "Big Gun," Zephyr's stealth squadron will slip through the blind spot created by the _Aeterna_'s sensor-jamming wake. They will deliver the payload—the Vane-Shard—directly to the Mothership.
+- **Detailed Description:** The plan is met with silence. It uses the _Aeterna_—their home, their only sanctuary—as a shield. It puts Angelica directly in the line of fire. It relies on split-second timing and the suicidal bravery of the fighter pilots.
 - **Internal Conflict:** Zephyr looks at the plan. He sees what she is doing. She is making herself the target so he can be the hero. He hates it. He wants to argue, but he sees the logic. It is the only way to bypass the shield grid.
 
   - _Character Defining Moment:_ **Angelica Ward** — She proves she is willing to sacrifice herself. She is not sending them to die; she is leading the charge.

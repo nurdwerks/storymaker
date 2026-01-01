@@ -9,6 +9,13 @@
 
 ## Chapter 19: The Trial
 
+### Scene 0: The Whisper
+
+- **Key Event:** Lady Vesper incites the riot.
+- **Detailed Description:** Hours before the riot, **Lady Vesper** (disguised in drab grey rags) walks through the water filtration sector. She stops by a group of grieving mothers. She doesn't shout; she whispers. She drops a piece of data—a fabricated log showing Aris's "deliberate" failure rate. She hands it to Mara's sister.
+  - _Key Dialog:_ **Lady Vesper:** "Accidents happen. But calculation? That's murder. If you don't stop him, he'll test the next one on your daughter."
+  - _Character Defining Moment:_ **Lady Vesper** — She acts as an agent of chaos, using the grief of the survivors to destabilize Angelica's coalition without ever showing her true face.
+
 ### Scene 1: The Mob
 
 - **Key Event:** The location is the Central Plaza of the Survivor Camp, a repurposed water filtration chamber. The atmosphere is toxic with rage.

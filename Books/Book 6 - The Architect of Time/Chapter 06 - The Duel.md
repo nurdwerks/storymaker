@@ -47,6 +47,7 @@
 - **Key Event:** The Self-Reflection.
 - **Detailed Description:** She looks at herself. Five-eight. Malnutritioned from weeks of travel. Exhausted.
   - _Internal Monologue:_ Physical mismatch confirmed. Strength differential: 4 to 1. Reach advantage: 12 inches. Probability of winning a direct engagement: Zero.
+  - _Internal Monologue:_ She hears Zephyr's voice in her head, smooth and cynical. _The only fair fight is the one you lose, Angie. If he's bigger than you, don't hit him with your fist. Hit him with the planet._
 - **Key Event:** The Taunt.
 - **Detailed Description:** Ragnar cracks his knuckles. He grins. It is a wolf's grin—all teeth and appetite.
   - _Key Dialog:_ **Ragnar:** "Fight, little demon."
@@ -54,7 +55,7 @@
 - **Detailed Description:** Angelica takes a breath. She shifts her stance. She widens her feet. Lowers her center of gravity.
 - **Key Event:** The Strategy.
 - **Detailed Description:** She isn't a warrior. She is an engineer. And in engineering, every problem has a leverage point.
-  - _Internal Monologue:_ He's not a monster. He's a mass. A heavy object in motion. Heavy objects have inertia. Newton's First Law. An object in motion tends to stay in motion unless acted upon by an outside force. I just need to be that force.
+  - _Internal Monologue:_ He's not a monster. He's a mass. A heavy object in motion. Heavy objects have inertia. Newton's First Law. An object in motion tends to stay in motion unless acted upon by an outside force. I just need to be that force. Thanks for the tip, Zephyr.
 
 ### Scene 3: The Fight
 

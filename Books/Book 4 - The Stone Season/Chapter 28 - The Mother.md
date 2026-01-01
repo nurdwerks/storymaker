@@ -15,7 +15,9 @@
 
   - _Key Dialog:_ **The Mother (Through Speakers):** "Welcome home, Daughter. I have been waiting for the cycle to complete. You are late."
   - _Key Dialog:_ **Angelica Ward:** "What are you? You aren't a computer."
+  - _Key Dialog:_ **Angelica Ward:** "What are you? You aren't a computer."
   - _Key Dialog:_ **The Mother:** "I am the Architect. I am the Gardener. I am You."
+  - _Key Dialog:_ **Joyce:** (Staring at the pulsing cables) "It's a weave. Look at the patterns. Arteries knit into fiber-optics. It's not distinct; it's a tapestry. A horrible, bloody tapestry. I've never seen stitch-work like this."
 
 ---
 

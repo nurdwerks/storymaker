@@ -85,6 +85,14 @@
 - **Key Event:** The Exit.
 - **Detailed Description:** He walks away down the dark corridor, whistling a tune, leaving the fortune behind in the dark.
 
+### Scene 6: The Confessor
+
+- **Key Event:** Lady Corinne intercepts Zephyr.
+- **Detailed Description:** As Zephyr turns the corner, he runs into **Lady Corinne**. She is holding an old, tarnished candelabra she scavenged. She sees the gold bar outline in his pocket. She sees the dust on his knees. She says nothing about the treasure. She just smiles, a genuine, sad smile.
+  - _Key Dialog:_ **Lady Corinne:** "Heavy burdens, thief? Or just heavy pockets?"
+  - _Key Dialog:_ **Zephyr:** "Just ballast, Princess. Just keeping my feet on the deck."
+  - _Key Dialog:_ **Lady Corinne:** "A good policy. Gravity is the only thing we can rely on. Walk with me? I believe I found some synthetic tea that isn't entirely poisonous."
+
 ---
 
 _Summarized from Book 5 source material._

@@ -59,3 +59,15 @@
 - **Key Event:** The Crash Landing.
 - **Detailed Description:** The drone's course takes it over a waste-processing plant in the Mid-Levels. Angelica cuts the line. She falls the last fifty feet, crashing through a rot-canvas awning and landing in a massive dumpster filled with bio-waste and shredded paper. The impact knocks the wind out of her. She lies there, staring up at the distant, glittering Spire she just escaped. She is covered in garbage, bleeding, and bruised, but she is alive.
 - **Internal Conflict:** She feels a strange, hysterical joy. She beat the odds. She beat Vane. She spits out a piece of packing foam and checks her pocket. The data-chip is still there. The game is on.
+
+### Scene 5: The Shadow
+
+- **Key Event:** Joyce tracks the target.
+- **Detailed Description:** On a maintenance gantry overlooking the waste-processing plant, **Joyce (The Needle)** lowers her rifle scope. She watched the entire descent—the shattered window, the grappling hook catch, the crash landing. Her contract from Lady Vesper said to observe and report, not eliminate. Not yet. The Ward girl has skills. That complicates the price. She activates her encrypted comm and sends a single-word assessment: _"Survived."_ Then she melts into the industrial steam, her presence never detected.
+
+  - _Key Dialog:_ **Joyce (to her comm):** "Target survived the fall. Tracking to Mid-Levels. Contract status: observation phase continues."
+  - _Character Defining Moment:_ **Joyce** — Her professional detachment is absolute; she watches a potential victim escape death with the same interest as a scientist observing an experiment.
+
+---
+
+_Summarized from Book 2 source material._

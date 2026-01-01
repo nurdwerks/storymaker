@@ -63,6 +63,8 @@
 - **Key Event:** The Counter.
 - **Detailed Description:** Zephyr shouts back, his voice echoing.
   - _Key Dialog:_ **Zephyr:** "Or enslaved! I'd rather die free with the Rot than live forever as a puppet!"
+  - _Key Dialog:_ **Zephyr:** "Or enslaved! I'd rather die free with the Rot than live forever as a puppet!"
+  - _Key Dialog:_ **Joyce:** (Quietly, cleaning her monocle) "I have to agree with the loud gentleman. Some secrets don't decay, Doctor. They fester. Best to lance the boil."
   - _Character Defining Moment:_ **Zephyr** — He fiercely advocates for "The Great Reset," willing to sacrifice a potential cure to prevent the possibility of eternal tyranny, showing his deep-seated distrust of authority and technology.
 
 ### Scene 3: The Verdict
@@ -120,6 +122,22 @@
 - **Key Event:** The Answer.
 - **Detailed Description:** Angelica looks at the stars. Somewhere out there is Earth. Or what's left of it.
   - _Key Dialog:_ **Angelica Ward:** "Up. To the glass. I want to see if the stars are still there. And then... we go home."
+
+### Scene 5: The Witnesses
+
+- **Key Event:** Other survivors join the vigil.
+- **Detailed Description:** As Squad Iron stares at the stars, others emerge from the airlock behind them. **Lisbet (The Glitch)** climbs up, Figment's fading hologram on her shoulder. She finds a spot near Zephyr, her goggles reflecting the nebula's glow. **Hatcher (The Null)** steps onto the observation deck, shotgun slung over his shoulder. He says nothing, just lights a cigarette and watches the void. Even **Baron Gilded**—reduced now to a shivering wreck in borrowed clothes, his wealth meaningless—has followed them. He stares at the stars with hollow, traumatized eyes. Out there, in the infinite dark, his gold means nothing.
+
+  - _Key Dialog:_ **Lisbet:** "The stars are still there. Figment says they haven't moved. That's... that's something, right?"
+  - _Key Dialog:_ **Hatcher:** "Stars don't judge. They just burn. Makes them better company than most."
+  - _Key Dialog:_ **Baron Gilded (whispering):** "I had everything. Now I have this. The view." (He laughs bitterly) "Maybe it's enough."
+
+### Scene 6: The Spy
+
+- **Key Event:** Lady Vesper records the dissent.
+- **Detailed Description:** **Lady Vesper** is not in the room, but her audio bug is stuck to the underside of the console. She listens to the argument in her private quarters. She smiles.
+  - _Key Dialog:_ **Lady Vesper:** "Fractures in the foundation. The mechanic hates the history, and the doctor loves the disease. I can work with this. Divide and conquer is so much easier when they do the dividing for you."
+  - _Character Defining Moment:_ **Lady Vesper** — She identifies the group's internal ideological conflict as their greatest weakness and prepares to exploit it.
 
 ---
 

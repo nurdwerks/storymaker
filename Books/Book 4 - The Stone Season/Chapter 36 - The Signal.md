@@ -68,6 +68,13 @@
   - _Key Dialog:_ **Dr. Aris:** "Target lock broken. The drone has returned to sleep mode. We are... effectively invisible."
   - _Key Dialog:_ **Angelica Ward:** "And we stay that way. No more signals. We're on our own."
 
+### Scene 5: The Echo
+
+- **Key Event:** Lady Vesper monitors the comms web.
+- **Detailed Description:** In the Spire, **Lady Vesper** watches the signal spike on her private monitor. She sees the "Life Sign" pulse. She doesn't report it to Vane. Instead, she shunts it into a dead-end server, hiding it from the official Palace logs.
+  - _Key Dialog:_ **Lady Vesper:** "Screaming into the void, are we? Let's keep that between us. If Vane hears you, he'll just get sentimental."
+  - _Character Defining Moment:_ **Lady Vesper** — She hoards the knowledge of the survivors' existence, keeping them as a wildcard she can play later.
+
 ---
 
 _Summarized from Book 4 source material._

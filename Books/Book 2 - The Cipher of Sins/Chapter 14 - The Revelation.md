@@ -81,6 +81,14 @@
   - _Character Defining Moment:_ **Prelate Vane** — His religious mania is revealed as he reconciles his worship of the "Captain" as a god with his intent to murder the living heir to preserve his own power.
   - _Key Dialog:_ **Prelate Vane:** "You are the truth, Angelica. And the truth is too dangerous to live."
 
+### Scene 5: The Perimeter
+
+- **Key Event:** Ria holds the line.
+- **Detailed Description:** Outside the Gallery, in the corridors of the Museum, **Ria (The Iron Vanguard)** holds position at a choke point. While Angelica confronted the Cylinder, Ria has been fighting a desperate rearguard action against Vane's security response. Her Titan armor is scored with plasma burns. She can hear the golden hum through the walls, feel the vibration in her teeth. When the light fades and the nano-swarm reforms, she knows the situation inside has gone critical. She keys her comm, shouting for extraction as more guards pour into the wing.
+
+  - _Key Dialog:_ **Ria (comm):** "Something's happening in there! Light show, ground shaking—and Vane is still moving! Angelica, report! We need to extract NOW!"
+  - _Character Defining Moment:_ **Ria** — Demonstrates her tactical awareness and loyalty, holding the escape route open even as the mission spirals beyond her comprehension.
+
 ---
 
 _Summarized from Book 2 source material._

@@ -62,10 +62,16 @@
 - **Detailed Description:** A Hunter leaps at him. Kaelen doesn't block; he flows. He sidesteps the pike and slashes upward. The magic blade cleaves through the silicon carapace. The Hunter dissolves into black dust.
 - **Key Event:** The Fear.
 - **Detailed Description:** Kaelen glances back. He sees Angelica seizing in the chair, vulnerable, lost in the machine. He knows he can't fight them all. There are too many.
+- **Key Event:** The Dirty Trick.
+- **Detailed Description:** **Zephyr** slides into the fray, moving under the reach of the larger Hunters. He isn't using a sword; he's using a bandolier of illegal flash-bangs and magnetic bolas. He tangles the legs of a Hunter, tripping it.
+- **Key Dialog:** **Zephyr:** "Hey, ugly! Catch!" (He jams a thermal charge into the creature's joint). "Never bring a pike to a bomb fight."
 - **Key Event:** The Resolve.
 - **Detailed Description:** But he decides that he will be the wall. He will pile the bodies so high they can't climb over.
   - _Key Dialog:_ **Kaelen Night:** "Nobody touches her. Not while I breathe. Come and get it, you ugly bastards."
   - _Character Defining Moment:_ **Kaelen Night** — He fights with the grace of a dancer and the brutality of a butcher, severing limbs and deflecting energy bolts, proving his devotion is stronger than his fear.
+- **Key Event:** The Witness.
+- **Detailed Description:** Behind Kaelen, **Lady Corinne** refuses to cower. She stands near the medical kit, clutching a scalpel she swiped from the infirmary. Her face is pale, but her eyes are locked on the monsters. She is the witness to their last stand, refusing to die with her eyes closed.
+- **Key Dialog:** **Lady Corinne:** "Try not to ruin the carpet, Kaelen. It's difficult to get alien ichor out of synthetic wool."
 
 ### Scene 3: The Mind
 

@@ -55,6 +55,14 @@
   - _Character Defining Moment:_ **Angelica Ward** — She realizes that Vane’s psychological victory is as dangerous as his physical one, as he now has her blood and knows her ultimate goals.
   - _Key Dialog:_ **Angelica:** "He's already won the first round. And he wants us to know it."
 
+### Scene 5: The Handler
+
+- **Key Event:** A coded message arrives.
+- **Detailed Description:** As Hatcher's hover-car screams through the rain-slicked lower levels, a coded transmission crackles through the static on the emergency frequency. It is **Lady Corinne (The Porcelain Doll)**, using a scrambled line from a Highborn safe house. She has been monitoring Vane's movements and recognized the chaos at the Museum. She provides Hatcher with a route through the maintenance tunnels—a path her family controls that bypasses Vane's checkpoints. It is not charity; it is an investment in a potential ally.
+
+  - _Key Dialog:_ **Lady Corinne (via comm):** "Take the next left into Maintenance Shaft 7-C. My people control the gates. I'll clear your path. You owe me, Detective."
+  - _Key Dialog:_ **Hatcher:** "Everyone wants a piece of us tonight. Fine. You want a favor, Porcelain? Get in line."
+
 ---
 
 _Summarized from Book 2 source material._

@@ -30,6 +30,8 @@
 
   - _Character Defining Moment:_ **Angelica Ward** — She walks out from cover. She doesn't shout. She doesn't celebrate. She simply walks to the center of the room, stepping over the discarded plasma cutter. She looks at the empty robes. She feels... nothing. No triumph. Just the exhaustion of a long, ugly job finally finished.
   - _Key Dialog:_ **Angelica:** "It's over. Drop the weapons. Sit down. Breathe."
+  - _Key Dialog:_ **Zealot Soldier:** "Process... failed. Objective... void."
+  - _Key Dialog:_ **Lady Corinne:** (Stepping out from cover) "You are not void, soldier. You are unemployed. There is a difference. Put the gun down before you hurt yourself."
 
 - **Key Event:** Angelica addresses the Entity. She realizes it is still watching.
 - **Detailed Description:** The Cube is silent, but the pressure in the room remains. Angelica turns to face it. She is small compared to the alien artifact, her flight suit torn, her face smeared with grime. But she stands straight. She looks into the void of the black surface. She understands now. The Entity isn't evil. It isn't good. It is a cosmic operating system. It saw Vane as malware and removed him. Now, it is scanning her.
@@ -40,12 +42,12 @@
 ### Scene 3: The Withdrawal
 
 - **Key Event:** The Entity responds to Angelica's challenge.
-- **Detailed Description:** The Cube does not speak. It rotates, presenting a new face to her. For a split second, the black surface becomes a mirror. Angelica sees herself—not as she is, but as a being of pure white fire. The Entity is showing her how it sees her: dangerous, chaotic, but *structured*. It recognizes her pattern. It does not delete her. It makes a sound—a low, harmonic chime, like a bell rung underwater. Then, the Cube folds in on itself. It collapses into a single point of light, infinitely dense, and vanishes. The displacement creates a small shockwave of air that ruffles Angelica's hair.
+- **Detailed Description:** The Cube does not speak. It rotates, presenting a new face to her. For a split second, the black surface becomes a mirror. Angelica sees herself—not as she is, but as a being of pure white fire. The Entity is showing her how it sees her: dangerous, chaotic, but _structured_. It recognizes her pattern. It does not delete her. It makes a sound—a low, harmonic chime, like a bell rung underwater. Then, the Cube folds in on itself. It collapses into a single point of light, infinitely dense, and vanishes. The displacement creates a small shockwave of air that ruffles Angelica's hair.
 - **Internal Conflict:** Angelica lets out a breath she didn't know she was holding. She trembles, the adrenaline crashing. She realizes she just stared down God and lived. She looks at Kaelen and Ria. They are staring at the space where the Cube was, their faces pale.
 
   - _Character Defining Moment:_ **Ria** — She lowers her weapon. She walks over to Vane's robes and kicks them. There is nothing inside. She spits on the fabric. It is a gesture of supreme disrespect, but also of closure. The monster is gone.
   - _Key Dialog:_ **Ria:** "He didn't even leave a corpse. Stingy bastard."
 
 - **Key Event:** The ship's alarms return. The "God" has left, but the war is not over.
-- **Detailed Description:** The silence is broken by the red alert klaxon. "HULL BREACH SECTOR 4. CRITICAL POWER FAILURE. ENEMY FLEET CLOSING." The reality of their situation crashes back in. Vane is dead, but the Entropy Fleet is still outside, and the *Aeterna* is bleeding to death. Angelica shakes her head, clearing the awe. She turns back to the tactical table. She is the Captain again.
+- **Detailed Description:** The silence is broken by the red alert klaxon. "HULL BREACH SECTOR 4. CRITICAL POWER FAILURE. ENEMY FLEET CLOSING." The reality of their situation crashes back in. Vane is dead, but the Entropy Fleet is still outside, and the _Aeterna_ is bleeding to death. Angelica shakes her head, clearing the awe. She turns back to the tactical table. She is the Captain again.
   - _Key Dialog:_ **Angelica:** "Lisbet, get the comms up. Kaelen, secure the prisoners. Ria, get a repair crew to the breach. We're not dead yet."

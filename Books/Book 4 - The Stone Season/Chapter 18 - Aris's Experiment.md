@@ -122,6 +122,13 @@
 - **Detailed Description:** Angelica watches him go. She looks at Lisbet weeping over the body. She realizes she has just made a deal with the devil.
   - _Character Defining Moment:_ **Angelica Ward** — She makes the pragmatic, ruthless decision to value a monster’s utility over immediate justice, proving she is becoming more like Vane than she wants to admit.
 
+### Scene 5: The Witness
+
+- **Key Event:** Aristocratic observation.
+- **Detailed Description:** From the shadows near the medical tent, **Lady Corinne (The Porcelain Doll)** watches the confrontation unfold. She had retreated to the camp's perimeter when Aris arrived with his "specimen"—she knew trouble would follow. Now she catalogs everything: Angelica's ruthless pragmatism, Ria's barely-controlled rage, Aris's clinical detachment. She files it all away in her mental ledger. These are the people who will determine whether she survives the Stone Season. She must learn to manipulate them all.
+
+  - _Key Dialog:_ **Lady Corinne (whispering to herself):** "The child paid the price for the good doctor's curiosity. Ward paid the price for her conscience. And I... I will make sure I never pay anyone's price but my own."
+
 ---
 
 _Summarized from Book 4 source material._

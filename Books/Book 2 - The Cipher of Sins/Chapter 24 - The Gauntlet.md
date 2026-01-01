@@ -109,6 +109,13 @@
 - **Detailed Description:** They are inside. Safe for now. But Hatcher is out there alone.
   - _Key Dialog:_ **Angelica Ward:** "We make it count. We make sure he didn't waste his ammo."
 
+### Scene 6: The Audience
+
+- **Key Event:** Lady Corinne monitors the breach.
+- **Detailed Description:** In her private viewing room, **Lady Corinne** is not watching the official news feeds; she is watching a pirated uplink from a surveillance drone she personally commissioned. On her screen, four thermal signatures sprint toward the tower. She sips her tea. She sees the "Null" stay behind. She sees the breach. She could call Vane. She could end it with a single phone call. But she doesn't. She leans forward, her eyes glittering.
+  - _Key Dialog:_ **Lady Corinne:** "The plot thickens. The underdog makes a move. Let them in. Let's see if they have anything worth saying. If they bore me... then I'll call the exterminators."
+  - _Character Defining Moment:_ **Lady Corinne** — She chooses drama over duty, risking the stability of the entire Zenith for the sake of her own amusement.
+
 ---
 
 _Summarized from Book 2 source material._

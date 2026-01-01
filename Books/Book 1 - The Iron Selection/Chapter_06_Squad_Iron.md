@@ -74,8 +74,14 @@
   - _Key Dialog:_ **Angelica Ward:** "The rent was too high. I'm moving out."
   - _Key Dialog:_ **Ria (wheezing):** "Okay... You have teeth. I like teeth."
 
-- **Character Defining Moment:** **Angelica Ward** — She establishes herself dangerously.
   - _Key Dialog:_ **Angelica Ward:** "You assume I'm prey because I'm quiet. A landmine is quiet until you step on it. Do not step on me again."
+
+### Scene 6: The Audit
+
+- **Key Event:** Lord Cromwell reviews the incident.
+- **Detailed Description:** In his office, **Lord Cromwell** watches the security feed from Sector G-4. He sees the spark, the impact, and the calmness with which Angelica claims the boots. He does not intervene to punish the unauthorized use of electricity. Instead, he smiles, a dry, cracking expression. He appreciates efficiency. She didn't brawl; she engineered a solution. He marks her file with a specific code: _Asset Potential: High._
+  - _Key Dialog:_ **Lord Cromwell:** "Brutal. Efficient. Silent. The girl is not a tank; she is a tripwire. I can use a tripwire."
+  - _Character Defining Moment:_ **Lord Cromwell** — Shows his pragmatic amoralism; he values results over rules, seeing Angelica's violence as a useful trait to be exploited.
 
 ---
 

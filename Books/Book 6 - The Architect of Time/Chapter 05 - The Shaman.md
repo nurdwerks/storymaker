@@ -55,7 +55,8 @@
 ### Scene 3: The Connection
 
 - **Key Event:** The Immersion.
-- **Detailed Description:** For an hour, the jungle fades away. The guard, the cage, the fear—it all disappears. There is only the dirt and the math. The ground is covered in equations, diagrams of leverage, and sketches of pulleys.
+- **Detailed Description:** For an hour, the jungle fades away. The guard, the cage, the fear—it all disappears. There is only the dirt and the math. The ground is covered in equations, diagrams of leverage, and sketches of pulleys. For a split second, Angelica hallucinates neon green code overlaying the crude scratches in the dirt—Lisbet's interface ghosting over reality, correcting a decimal point.
+  - _Internal Monologue:_ _Get out of my head, Glitch. I don't need an autocorrect in the Stone Age._
 - **Key Event:** The Emotion.
 - **Detailed Description:** Angelica feels a lump in her throat. Since the Fall, since the crash, she has been surrounded by chaos. By noise. By survival. This—this is order. This is truth.
 

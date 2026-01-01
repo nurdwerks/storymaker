@@ -18,8 +18,10 @@
 - **Key Event:** Silas leads a distraction force of smugglers and Undercity irregulars against the main gate of the Command Spire.
 - **Detailed Description:** The plaza in front of the Command Spire is a kill-zone of polished marble and automated turret fire. Silas, wearing scavenged riot armor painted with the neon symbols of the Undercity gangs, rallies his troops behind a makeshift barricade of overturned hover-cars. The air is thick with smoke and the staccato roar of kinetic rifles. Silas is loud, brash, and visibly fearless, firing his heavy bolter over the hood of a burning transport. He orders his men to make noise—flares, flash-bangs, and relentless suppressive fire—drawing the attention of Vane's elite Peacekeepers. The goal is not to breach the gate, but to pull every sensor eye and gun turret toward the ground level.
 - **Internal Conflict:** Silas checks his ammunition counter. He is burning through credits with every trigger pull. He hates waste. But he looks at the kids fighting next to him—street rats he recruited from Sector 12—and feels a protective rage he didn't know he possessed. He isn't fighting for profit today; he is fighting to buy Angelica time.
-  - _Character Defining Moment:_ **Silas** — He takes a hit to his shoulder plate, the impact spinning him around. He laughs, spitting blood and dust. He realizes he enjoys being on the right side of a bad fight.
+  - _Character Defining Moment:_ **Silas** — He takes a hit to the shoulder plate, the impact spinning him around. He laughs, spitting blood and dust. He realizes he enjoys being on the right side of a bad fight.
   - _Key Dialog:_ **Silas:** "Make them look at us! I want every camera on my ugly mug! Keep firing until the barrels melt!"
+- **Key Event:** Joyce disrupts the sensor grid.
+- **Detailed Description:** While Silas makes noise, **Joyce** is two blocks away, "hiding" in a maintenance alcove. She connects a specialized needle-probe into the fiber-optic trunk line. With a few precise taps, she feeds a loop into the Spire's external sensors, blinding the automated defenses to the climbers above. She pats the console like a good child. "Sleep now, darling. The grownups are talking."
 
 ### Scene 2: The Ascent
 
@@ -34,7 +36,7 @@
 - **Key Event:** Vane watches the battle from his office at the pinnacle of the Spire, unaware of the threat above him.
 - **Detailed Description:** Inside the Spire, Prelate Vane stands at his panoramic window, looking down at the ants fighting in the plaza. He swirls a glass of wine, sneering at the primitive tactics of the rebellion. He believes his fortress is impregnable. He checks the shield status: 100%. He orders his commander to deploy the heavy mechs to crush Silas's force. He feels invincible, isolated in his tower of glass and light.
 - **Key Event:** Angelica detonates the charges.
-- **Detailed Description:** On the hull, Angelica hits the switch. There is no loud explosion in the thin atmosphere, just a dull *thump* that vibrates through the building's skeleton. The thermal paste ignites, burning white-hot. It cuts through the titanium tether in seconds. The metal groans—a sound like a dying whale that reverberates through the entire city. The cable snaps with the force of a whip-crack, lashing out and slicing through a nearby communications array.
+- **Detailed Description:** On the hull, Angelica hits the switch. There is no loud explosion in the thin atmosphere, just a dull _thump_ that vibrates through the building's skeleton. The thermal paste ignites, burning white-hot. It cuts through the titanium tether in seconds. The metal groans—a sound like a dying whale that reverberates through the entire city. The cable snaps with the force of a whip-crack, lashing out and slicing through a nearby communications array.
 
 ### Scene 4: The Tilt
 

@@ -59,6 +59,19 @@
   - _Key Dialog:_ **Zephyr:** "Well then. Let's turn off the lights. We've got a heist to plan. And I assume the Museum has good loot?"
   - _Key Dialog:_ **Hatcher:** "It has the truth, kid. That's worth more than gold. And it's harder to fence."
 
+### Scene 5: The Ripples
+
+- **Key Event:** Across the city, forces converge.
+- **Detailed Description:** In House Night's shadowed war room, **Matriarch Lilith Night** watches a different feed—an encrypted channel showing Angelica's real location. She drums her fingers on the obsidian table. Beside her, **Kaelen Night** studies the tactical map, calculating the Wardens' response patterns. In her private chambers, **Lady Corinne (The Porcelain Doll)** receives encrypted reports from her network of informants. The Ward girl has escaped the initial dragnet. Interesting.
+
+  - _Key Dialog:_ **Matriarch Lilith Night:** "The girl has allies. Competent ones. That changes her value proposition."
+  - _Key Dialog:_ **Kaelen Night:** "The Null is protecting her. Hatcher knows every blind spot in the grid."
+
+- **Key Event:** Academy awareness.
+- **Detailed Description:** Meanwhile, in the Iron Academy barracks, **Ria (The Iron Vanguard)** watches the public broadcast on a communal screen. She doesn't know Angelica yet, but something about the Silt-rat's defiance resonates with her. The commentators call her a traitor, but Ria sees something else—a fighter who refuses to stay down.
+
+  - _Key Dialog:_ **Ria (muttering):** "She fights like she's already lost everything. That's either stupid or dangerous."
+
 ---
 
 _Summarized from Book 2 source material._

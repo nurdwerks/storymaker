@@ -46,7 +46,7 @@
 - **Detailed Description:** **Torin** sees her go.
   - _Key Dialog:_ **Torin:** "Angelica!"
 - **Key Event:** The Pursuit.
-- **Detailed Description:** He chases her into the gale. The rain is horizontal, stinging like hail.
+- **Detailed Description:** He chases her into the gale. The rain is horizontal, stinging like hail. **Corinne**, watching from the shelter of the wheel well, screams a warning as a branch comes loose, but the wind tears her voice away.
 - **Key Event:** The Snap.
 - **Detailed Description:** She reaches the ship. The cable is singing—a high-pitched whine of metal stress. _PING._ One strand snaps. _WHIP._ The loose wire slices through a nearby tree trunk, felling it instantly.
 - **Key Event:** The Panic.
@@ -147,6 +147,7 @@
   - _Key Dialog:_ **Ragnar:** "Incorrect. Family is a variable. The Mission is a constant. You have introduced inefficiency."
 - **Key Event:** The Execution.
 - **Detailed Description:** He squeezes. _CRACK._ He snaps her neck with clinical efficiency. The **Shield-Sisters** are broken.
+  - _Internal Monologue (Angelica):_ She watches from the shadows, hand over her mouth. She feels physically sick. _Ria... her Shield-Sisters were her family._ This wasn't just a murder; it was the desecration of an ideal. The "Vanguard" protects. This thing... Vane... it just consumes.
 - **Key Event:** The Silence.
 - **Detailed Description:** He drops the body. The tribe screams, then falls into a terrified silence.
 - **Key Event:** The Doctrine.

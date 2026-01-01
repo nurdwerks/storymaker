@@ -103,9 +103,12 @@
   - _Key Dialog:_ **General:** "Sir? That's civilian territory. The collateral damage..."
   - _Key Dialog:_ **Prelate Vane:** (Screaming) "There are no civilians! There are only believers and heretics! And she is the Greatest Heretic in History!"
 
-- **Key Event:** The Composure.
-- **Detailed Description:** Vane takes a breath. He smooths his robes. He forces the mask of sanity back onto his face.
   - _Key Dialog:_ **Prelate Vane:** "Heresy, children, is the greatest sin of all. It is a contagion. Cleanse it. Bring me her head, or I will take yours."
+
+- **Key Event:** The Critique.
+- **Detailed Description:** **Lady Corinne** stands in the corner of the war room, swirling a glass of wine. She is the only person not terrified. She looks at the static on the screen.
+  - _Key Dialog:_ **Lady Corinne:** "Stop screaming, Vane. It's bad for morale. And honestly? The girl has charisma. 'Cargo.' That's a sticky line. You're going to need better writers if you want to win the PR war."
+  - _Character Defining Moment:_ **Lady Corinne** — She treats the ideological crisis as a marketing problem, completely detached from the spiritual outrage Vane feels.
 
 ---
 

@@ -37,9 +37,20 @@
 
 - **Key Event:** Zephyr engages the drones in a running firefight while trying to reach the junction.
 - **Detailed Description:** The crawlspace erupts in laser fire. Zephyr slides under a pipe, firing his blaster over his shoulder. He hits a drone, blowing it into shrapnel. A laser grazes his shoulder, burning through his leather duster and scorching the skin. He grunts but keeps moving. He uses his cybernetic arm to rip a steam pipe loose, spraying high-pressure steam at the drones to blind their sensors. He reaches the junction box. It's a mess of cut wires. He has to hot-wire it manually.
-- **Internal Conflict:** Zephyr works with frantic precision. His organic hand holds the wires; his cybernetic hand strips the insulation. He is exposed. A drone hovers behind him, charging its weapon. He can hear the whine of the capacitor. He knows he can't turn around in time. He focuses on the wire. *Red to Blue. Ground the Green.* He twists the wires together. Sparks fly.
+- **Internal Conflict:** Zephyr works with frantic precision. His organic hand holds the wires; his cybernetic hand strips the insulation. He is exposed. A drone hovers behind him, charging its weapon. He can hear the whine of the capacitor. He knows he can't turn around in time. He focuses on the wire. _Red to Blue. Ground the Green._ He twists the wires together. Sparks fly.
 
   - _Character Defining Moment:_ **Zephyr** — He connects the circuit just as the drone fires. The sudden surge of power to the junction creates an electrical arc that fries the drone instantly. Zephyr is thrown back by the shock, his hair standing on end, his cybernetic arm twitching. He laughs, a breathless, pained wheeze. The lights in the crawlspace flicker from red to white. He did it.
   - _Key Dialog:_ **Zephyr:** "Lights on, Princess. You can thank me later. Put it on my tab."
   - _Key Dialog:_ **Lisbet (over comms):** "Zephyr! Are you okay? Your vitals spiked!"
   - _Key Dialog:_ **Zephyr:** "Just a little jump-start, Sparky. Keeps the heart beating."
+
+### Scene 4: The Matriarch's Vigil
+
+- **Key Event:** A hidden observer.
+- **Detailed Description:** In a fortified bunker deep within the civilian sectors, **Matriarch Lilith Night** monitors the power failure through a private terminal powered by an independent generator. She has been tracking Vane's coup attempt and Ward's resistance since it began. The loss of main power to the bridge is concerning—Ward is her investment, the linchpin of her long-term plans. She studies the grid schematic, noting that the auxiliary power is still functional. When the lights on her display shift from red to green, she allows herself a thin smile. The Ward girl is resourceful. Kaelen chose well, even if he never admitted it.
+
+  - _Key Dialog:_ **Matriarch Lilith Night:** "The Rogue restored auxiliary power. Impressive. Perhaps House Night should acquire his debt. A useful asset."
+
+---
+
+_Summarized from Book 7 source material._

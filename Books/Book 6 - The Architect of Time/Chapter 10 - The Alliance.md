@@ -27,8 +27,11 @@
   - _Key Dialog:_ **Elder:** (Spitting into the fire) "You are offering us death! The Hunters will see us. The noise of your machines will draw them like blood in the water."
   - _Key Dialog:_ **Angelica Ward:** "They are coming anyway! Do you think hiding in the mud will save you forever? They are hunting you to extinction. It’s just a matter of time before they find this valley. And when they do, your spears won't stop them."
 
+- **Key Event:** The Mediation.
+- **Detailed Description:** Ragnar growls low in his throat, his hand drifting to his axe. **Elder Corinne** leans forward from her mat, tapping her cane sharply on the packed earth. The sound cuts through the tension like a knife.
+  - _Key Dialog:_ **Elder Corinne:** "Peace, Wolf. Let the bird sing before you snap its neck. Her song has strange notes, but the rhythm is true."
 - **Key Event:** The Perspective.
-- **Detailed Description:** Ragnar growls low in his throat.
+- **Detailed Description:** Ragnar glances at the Elder, his respect for her evident. He unhands his weapon but keeps his glare fixed on Angelica.
 
   - _Key Dialog:_ **Ragnar:** "We have survived for ten generations. We know the jungle. We know silence. Silence keeps us safe."
   - _Key Dialog:_ **Angelica Ward:** "Silence is slow death. I am offering you a voice."
@@ -54,6 +57,7 @@
 - **Key Event:** The Consideration.
 - **Detailed Description:** Ragnar stares at the fire, watching the new flames lick at the wood. He looks up at Angelica. He doesn't see a demon anymore. He sees a predator. He sees someone who is willing to burn the world to get what she wants. And as a warrior, he respects that.
 
+  - _Internal Monologue:_ _He's looking for the weak point,_ Angelica thinks. _The tell. The bluff._ She holds his gaze, keeping her breathing steady. It's high-stakes poker with a caveman. _Never blink first,_ Zephyr taught her. _The moment you blink, you're just another mark._
   - _Internal Monologue:_ Ragnar weighs the risks. To stay is to die slowly, picked off one by one by the Hunters. To follow her is to die quickly, perhaps. But to die fighting.
 
 - **Key Event:** The Question.
@@ -94,6 +98,13 @@
   - _Internal Monologue:_ She realizes she is founding the civilization that will one day—thousands of years from now—build the _Zenith_. She is creating her own history. She is the origin of the myths she grew up with.
   - _Character Defining Moment:_ **Angelica Ward** — She accepts the paradox. She accepts the responsibility. She commits to a new destiny.
   - _Key Dialog:_ **Angelica Ward:** "Alright. Meeting adjourned. Get some sleep. Tomorrow, we start the Industrial Revolution."
+
+### Scene 4: The Warning
+
+- **Key Event:** The memory of evil.
+- **Detailed Description:** As the Elders disperse, Angelica lingers by the dying fire. She thinks of the threats they face—not just the Hunters, but a far worse danger. Somewhere in the timeline, **Prelate Vane** still exists, engineering plagues and creating Nulls. Every advancement she builds here might one day fall into his hands. She knows she must leave behind warnings, safeguards encoded in the mythology of this new civilization. The monster who tore humanity apart must never be allowed to do so again.
+
+  - _Key Dialog:_ **Angelica Ward (whispering):** "We build the future, Vane. But we also build the cage that will hold you."
 
 ---
 

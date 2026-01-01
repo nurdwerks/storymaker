@@ -45,11 +45,14 @@
 
 - **Key Event:** The group finds Gilded's emergency stash behind a false wall in the bedroom.
 - **Detailed Description:** The vault is not filled with money, but with survival. Floor-to-ceiling shelves are stocked with military-grade ration bars, self-heating soup cans, water purification tablets, and thermal blankets. There are medical kits and boxes of power cells. It is a prepper's paradise. The sight of it—the sheer abundance—is overwhelming to the starving survivors.
-- **Internal Conflict:** Angelica feels a surge of rage. This one man hoarded enough supplies to keep the entire Undercity orphanage alive for a year. He died sitting on top of it rather than sharing a single crumb. It solidifies her resolve that the old world *deserved* to burn.
+- **Internal Conflict:** Angelica feels a surge of rage. This one man hoarded enough supplies to keep the entire Undercity orphanage alive for a year. He died sitting on top of it rather than sharing a single crumb. It solidifies her resolve that the old world _deserved_ to burn.
 
   - _Key Dialog:_ **Angelica Ward:** "He had enough here to save a hundred people. He saved none."
   - _Key Dialog:_ **Zephyr:** "He died hungry anyway. Irony has a sick sense of humor."
+  - _Key Dialog:_ **Angelica Ward:** "He had enough here to save a hundred people. He saved none."
+  - _Key Dialog:_ **Zephyr:** "He died hungry anyway. Irony has a sick sense of humor."
   - _Key Dialog:_ **Ria:** "Grab everything. We leave nothing for the rats."
+  - _Key Dialog:_ **Joyce:** (Already organizing cans by expiration date) "Tuna... 2099. Peaches... 2101. Excellent vintage. Zephyr, dear, do be careful with those power cells. Use the padded bag."
 
 - **Key Event:** Loading the supplies.
 - **Detailed Description:** They fill their packs to the bursting point. Zephyr prioritizes the high-calorie nutrient paste and the power cells for his arm. Ria takes the water filters. Angelica loads the medical supplies. They work in silence, driven by the primal need to secure the resources.
@@ -75,3 +78,15 @@
 - **Key Event:** Returning to the camp.
 - **Detailed Description:** They stumble back into the survivor camp, exhausted and covered in frost and alien gore. But they drop the packs, and the sound of heavy cans hitting the floor is the most beautiful sound in the world. The survivors gather around, eyes wide at the bounty.
   - _Character Defining Moment:_ **Angelica Ward** — She distributes the food herself, ensuring equal portions, contrasting directly with Gilded's hoarding.
+
+### Scene 5: The Architect's Sin
+
+- **Key Event:** Blame assigned.
+- **Detailed Description:** As Angelica oversees the food distribution, Dr. Aris approaches with a data-slate. He has analyzed the pathogen's genetic markers and confirms what they suspected: the virus was engineered. Not by alien hands, but by human ones. The biosignature matches classified records from the Zenith's bioweapon program. The architect of this nightmare, the creator of the Blight that turned civilized beings into ravening monsters, was **Prelate Vane**. He designed this horror years ago as a failsafe—a way to purge the population if they ever threatened his control.
+
+  - _Key Dialog:_ **Angelica Ward:** "Vane. It's always Vane. He doesn't just rule us—he engineered ways to murder us wholesale."
+  - _Key Dialog:_ **Dr. Aris:** "A contingency plan. Elegant, in its way. Horrifying, but elegant."
+
+---
+
+_Summarized from Book 4 source material._

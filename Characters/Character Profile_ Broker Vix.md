@@ -18,6 +18,7 @@ Broker Vix is a high-speed information trader who whispers secrets directly into
 
 | Book | Chapter | Type | Event Description |
 |---|---|---|---|
+| Book 2 | Chapter 28 | Dialog | **Baron Gilded (to his broker):** "Triple our positions on reconstruction. War is just urban renewal with extra steps. The blood dries, the credits flow." |
 | Book 3 | Chapter 16 | Detailed Description | The side chamber is darker, the air thick with smoke. Here, the real power brokers of the Zenith gather. Angelica leans against a pillar, trying to be invisible. A woman approaches her—Broker Vix. Vix is small, unassuming, dressed in the neutral tones of a clerk. But her eyes are sharp. She is Baron Gilded's information dealer, a woman who knows every secret on the ship. |
 | Book 3 | Chapter 16 | Key Event | Vix offers Angelica information. |
 | Book 3 | Chapter 16 | Detailed Description | Vix stands next to Angelica, not looking at her. She speaks into her wine glass. She offers details on Vane's troop movements—information that could save the Resistance. |
@@ -25,3 +26,4 @@ Broker Vix is a high-speed information trader who whispers secrets directly into
 | Book 3 | Chapter 16 | Moment | **Broker Vix** — She reveals her lack of loyalty to her current master. She is a true survivor, willing to sell out the powerful to ensure her own future. |
 | Book 3 | Chapter 16 | Dialog | **Broker Vix:** "Gilded thinks he owns me. He rents me. And I'm always taking new clients. Vane is moving troops to Sector 4 tonight. A purge." |
 | Book 3 | Chapter 16 | Dialog | **Broker Vix:** "Survival. When you tear this place down—and you will, I've seen the math—I want safe passage. I want a seat on the lifeboat." |
+| Book 3 | Chapter 30 | Dialog | **Baron Gilded (to his broker):** "The Palace falls. Buy everything adjacent. Water rights, power grid shares, reconstruction contracts. When Ward plants her flag, we'll own the ground she's standing on." |

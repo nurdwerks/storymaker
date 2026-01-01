@@ -30,6 +30,7 @@
 - **Detailed Description:** The interior of the club is dark, lit only by the glowing table surfaces and the bioluminescent tattoos of the patrons. Smugglers, thieves, and off-duty mercenaries drink and gamble. In the center, on a raised platform, sits Silas. He is a large man, flamboyant in a coat made of real (synthesized) leopard fur. He is laughing, shuffling a deck of cards with a dexterity that belies his size. A pile of credits and contraband sits before him. He looks like a king holding court in hell.
 - **Key Event:** Angelica interrupts the game and challenges Silas.
 - **Detailed Description:** She walks up to the table. The other players go quiet. Silas looks up, his smile not reaching his calculating eyes. He recognizes her. He remembers the girl he found in the dumpster in Book 2.
+
   - _Key Dialog:_ **Silas:** "Well, well. The Silt-Princess returns. Come to pay your tab?"
   - _Key Dialog:_ **Angelica Ward:** "I've come to make a bet. I need your fleet, Silas. I need every rust-bucket, skiff, and hauler you have. We're moving an army."
   - _Key Dialog:_ **Silas:** "My fleet? Darling, you couldn't afford a lug-nut. What are you putting on the table?"
@@ -63,6 +64,29 @@
 - **Key Event:** They escape through the back tunnels.
 - **Detailed Description:** They reach the service tunnels. Silas seals the blast door behind them. He looks at Angelica, breathing hard, his leopard coat singed. He looks at the key-card she still holds. He grins, a shark-like baring of teeth.
   - _Key Dialog:_ **Silas:** "Fine. You win. I'm in. But this war better be good for business, Princess. Or I'll sell you out myself."
+
+### Scene 5: The Extraction Team
+
+- **Key Event:** Backup arrives.
+- **Detailed Description:** At the far end of the service tunnels, a maintenance hatch grinds open. **Ria (The Iron Vanguard)** drops down first, her heavy armor clanging against the deck plates. Behind her comes **Kaelen Night**, melting from the shadows, blades already drawn. **Hatcher (The Null)** follows, shotgun sweeping the corridor. **Lisbet (The Glitch)** scrambles in last, her goggles flickering with tactical overlay data.
+
+  - _Key Dialog:_ **Ria:** "Took you long enough. We had to fight through three checkpoints."
+  - _Key Dialog:_ **Kaelen Night:** "We heard the explosion. Extraction point is compromised. Secondary route through Sector 49."
+  - _Key Dialog:_ **Hatcher:** "Stay low, move fast. Vane's boys are sealing the district."
+
+- **Key Event:** Zephyr appears from a side vent.
+- **Detailed Description:** **Zephyr (The Gilded Rogue)** drops from an overhead vent, landing with theatrical grace. He's carrying a satchel of stolen credits from the casino's back vault—couldn't resist the opportunity.
+
+  - _Key Dialog:_ **Zephyr:** "Sorry I'm late. Had to make a withdrawal. Consider it an operational expense."
+  - _Key Dialog:_ **Angelica Ward:** "Everyone's here. Move out. We have a fleet to steal."
+
+### Scene 6: The Command Response
+
+- **Key Event:** Military coordination.
+- **Detailed Description:** In the Zenith Command Center, **General Ironwood** receives real-time reports from the Neon District operation. His tactical display shows the chaos at The Black Gear—casualties mounting, targets escaping through the service tunnels. He watches his elite strike team get outmaneuvered by a group of smugglers and a girl from the Silt. He clenches his jaw. Vane ordered this purge without proper intelligence—a political decision, not a tactical one. Now his troops are dying in a nightclub while the real targets slip away. He orders a sector-wide lockdown, but he knows it's too late.
+
+  - _Key Dialog:_ **General Ironwood (to his aide):** "Seal Sector 49 transit points. Deploy drones to the maintenance tunnels. And draft a memo to the Prelate: this is what happens when political considerations override military planning."
+  - _Character Defining Moment:_ **General Ironwood** — His professional frustration deepens; he is a competent soldier serving incompetent leadership, forced to watch good troops die for bad decisions.
 
 ---
 

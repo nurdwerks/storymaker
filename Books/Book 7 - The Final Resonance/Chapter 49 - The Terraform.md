@@ -22,7 +22,7 @@
   - _Character Defining Moment:_ **Angelica Ward** — She forces her eyes open. She doesn't regret the trade. She feels the loss, but she accepts it as the price of doing business with a god. She unclenches her hand, revealing the empty space where she used to hold power.
 
 - **Key Event:** A wave of White Light erupts from the ship's external hull, expanding outward into the void.
-- **Detailed Description:** The *Aeterna*, which has been a dark, battered hulk for centuries, suddenly shines like a star. The energy Angelica released—the entirety of the Source, the Prima-Materia, and the ship's core reserves—is purged in a single, omni-directional pulse. It is not a weapon; it is a signal. It is a massive release of "Flavor," of data, of life-essence. The light washes over the hull, vaporizing the carbon scoring, the rust, and the battle damage.
+- **Detailed Description:** The _Aeterna_, which has been a dark, battered hulk for centuries, suddenly shines like a star. The energy Angelica released—the entirety of the Source, the Prima-Materia, and the ship's core reserves—is purged in a single, omni-directional pulse. It is not a weapon; it is a signal. It is a massive release of "Flavor," of data, of life-essence. The light washes over the hull, vaporizing the carbon scoring, the rust, and the battle damage.
 
 ### Scene 2: The Transformation
 
@@ -36,14 +36,15 @@
 
 ### Scene 3: The Landing
 
-- **Key Event:** The *Aeterna*, now powerless and drifting, is caught by the planet's new gravity.
+- **Key Event:** The _Aeterna_, now powerless and drifting, is caught by the planet's new gravity.
 - **Detailed Description:** The ship tilts. The artificial gravity fails for the last time. Objects on the bridge—datapads, coffee cups, Vane's empty robe—begin to float, then fall toward the forward viewport. The ship enters the atmosphere. It is a burning meteor of metal. The hull heats up, glowing cherry red. The inertial dampeners are dead. The crew has to strap in and pray. The roar of atmospheric entry is deafening, shaking the fillings out of teeth.
 - **Internal Conflict:** Angelica watches the flames lick the viewport. She has no control. She is a passenger. She holds onto the arms of the Chair, not steering, just enduring. She realizes this is the final test of faith. She built the boat; now she has to trust it to float.
 
   - _Character Defining Moment:_ **Angelica Ward** — She closes her eyes. She doesn't pray to the Entity. She speaks to the ship. "Hold together, old girl. Just one more landing."
 
 - **Key Event:** The ship descends. It is a controlled crash. The ship lands in a newly formed ocean.
-- **Detailed Description:** The *Aeterna* does not land on a runway. It belly-flops into the Pacific-sized ocean near the equator. The impact sends a tsunami of steam and water miles into the air. The ship groans, metal screaming as it hits the water. It sinks for a moment, submerging the bridge, before buoyancy tanks blow and it bobs back to the surface. It floats there, hissing, steaming, a massive metal island in a brand new world.
+- **Detailed Description:** The _Aeterna_ does not land on a runway. It belly-flops into the Pacific-sized ocean near the equator. The impact sends a tsunami of steam and water miles into the air. The ship groans, metal screaming as it hits the water. It sinks for a moment, submerging the bridge, before buoyancy tanks blow and it bobs back to the surface. It floats there, hissing, steaming, a massive metal island in a brand new world.
 - **Key Event:** The lights go out forever.
-- **Detailed Description:** The red emergency lights flicker and die. The hum of the ventilation stops. The vibration of the engine, which has been the heartbeat of their lives for generations, silences. The ship is dead. It is no longer a starship; it is a building. Sunlight, real sunlight, filters through the water covering the viewport, turning the bridge a soft, aquatic blue.
+- **Detailed Description:** The red emergency lights flicker and die. The hum of the ventilation stops. The vibration of the engine, which has been the heartbeat of their lives for generations, silences. The ship is dead. It is no longer a starship; it is a building. Sunlight, real sunlight, filters through the water covering the viewport, turning the bridge a soft, aquatic blue. **Lady Corinne**, strapped into a secondary seat, is soaked from the wave that crashed through a breached seam. Her hair is plastered to her face. Her dress is ruined. She looks at the sunlight and, for the first time in the narrative, she laughs—a genuine, startled sound of pure, disbelieving joy.
   - _Key Dialog:_ **Angelica:** "Engine off. Systems down. Welcome home."
+  - _Key Dialog:_ **Lady Corinne:** "My dear, I do believe my ancestors would be _livid_. We traded an empire for a mud puddle. It is... absolutely perfect."

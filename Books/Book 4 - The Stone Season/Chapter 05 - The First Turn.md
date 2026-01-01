@@ -38,6 +38,7 @@
 - **Key Event:** A refugee, a young man from Sector 4 who had been hiding in a maintenance alcove, attempts to sneak past the creature. Vermillion attacks with explosive speed.
 - **Detailed Description:** The refugee moves silently, but Vermillion spins instantly. The creature that was once a sluggish noble launches itself across the landing. It tackles the man, driving him to the concrete. Vermillion does not punch; he bites. He tears the man's throat out with a savagery that sprays blood across the lens of the camera. The refugee thrashes for seconds, then goes still. Vermillion begins to feed, tearing strips of flesh to consume the calories immediately.
 - **Internal Conflict:** Angelica forces herself to watch. She needs to know what they are dealing with. She notes the strength, the speed, the lack of hesitation. This is not a mindless zombie; it is a hyper-efficient predator. She feels a cold rage at Vane for creating this.
+
   - _Key Dialog:_ **Dr. Aris:** "Fuel. High-calorie intake required for the metabolic surge. The virus burns energy at 500% the normal rate. If they don't eat, they digest their own organs. They are starving from the moment they wake up."
   - _Key Dialog:_ **Angelica Ward:** "Death is just a pause. Just a pause before the hunger starts."
 
@@ -45,3 +46,19 @@
 - **Detailed Description:** The scream is multi-tonal, sounding like metal scraping on glass. It echoes up and down the stairwell. In the distance, other screams answer. It is a signal. A dinner bell. The pack is forming.
   - _Key Dialog:_ **Ria:** "He's calling them. He's telling them where the food is."
   - _Key Dialog:_ **Angelica Ward:** "Seal the vents. Weld the door. They're coming."
+
+### Scene 5: The Refugees
+
+- **Key Event:** High-value survivors arrive.
+- **Detailed Description:** As they work to reinforce the barricades, **Lady Corinne (The Porcelain Doll)** emerges from the emergency stairwell, her once-pristine gown torn and bloodied. Behind her stumbles **Baron Gilded**, his golden monocle cracked, his arrogant demeanor replaced by naked fear. Both survived the initial outbreak by hiding in Corinne's panic room, but the power failure forced them to flee.
+
+  - _Key Dialog:_ **Lady Corinne:** "Don't just stand there gaping—help us! The lower levels are overrun!"
+  - _Key Dialog:_ **Lady Corinne:** "Don't just stand there gaping—help us! The lower levels are overrun!"
+  - _Key Dialog:_ **Baron Gilded (shaking):** "They ate Lord Vance. They ATE him. Right in front of me. My credits mean nothing to them."
+  - _Key Dialog:_ **Joyce:** (Shuffling in behind them, clutching her knitting bag) "It was dreadful, truly. Poor Vance. He always was a bit tough, I imagine. Not much marbling."
+
+- **Character Defining Moment:** **Lady Corinne** — Even in crisis, she maintains command presence, immediately assessing Angelica's group as the best chance for survival.
+
+---
+
+_Summarized from Book 4 source material._

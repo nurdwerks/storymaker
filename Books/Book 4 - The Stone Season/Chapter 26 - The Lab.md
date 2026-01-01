@@ -62,3 +62,14 @@
   - _Key Dialog:_ **Angelica Ward:** "I don't care what I was made from. I care what I do with it. We're leaving."
   - _Key Dialog:_ **Zephyr:** "Everything okay in there, Princess? You look like you saw a ghost."
   - _Key Dialog:_ **Angelica Ward:** "No ghosts. Just dust."
+
+### Scene 5: The Archive
+
+- **Key Event:** Lady Vesper receives an alert.
+- **Detailed Description:** In her office, a single light blinks on **Lady Vesper's** private console. "File Access: Subject Zero. Status: Deleted." Vesper smiles. She taps a key, opening a secure backup server. The file is still there. Angelica deleted the terminal copy, but Vesper owns the network.
+  - _Key Dialog:_ **Lady Vesper:** "Delete the past all you want, darling. I keep backups. Leverage is the only thing that doesn't burn."
+  - _Character Defining Moment:_ **Lady Vesper** — She reveals her ultimate power is information; she allows others to believe they have agency while secretly retaining control over their secrets.
+
+---
+
+_Summarized from Book 4 source material._

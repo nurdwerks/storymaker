@@ -60,6 +60,15 @@
 - **Key Event:** The holographic announcement begins.
 - **Detailed Description:** The air in the courtyard shimmers. A giant hologram of Headmaster Vane projects into the center of the cage. His voice is amplified, booming from hidden speakers. "Welcome, candidates. Look to your left. Look to your right. By sunset, one of you will be dead. By tomorrow, forty of you will be gone. Begin." The floor of the cage drops away.
 
+### Scene 4: The Observer
+
+- **Key Event:** Medical monitoring.
+- **Detailed Description:** High above the Holding Pen, in a sterile observation booth lined with holographic medical displays, **Dr. Aris (The Sleepless Eye)** watches the candidates through a bank of biometric scanners. His cybernetic eye whirs softly as it cycles through thermal, resonance, and neural readouts. He flags several candidates for "enhanced observation"—including the small girl from Sector 12 who keeps scanning the crowd with a hidden datapad.
+
+- **Character Defining Moment:** **Dr. Aris** — He notes Angelica Ward's anomalous readings with clinical interest. Her stress response is elevated, but her cortisol levels suggest calculation rather than panic. He adds a note to her file: "Subject exhibits unusual cognitive adaptation under pressure. Recommend baseline neural mapping."
+
+  - _Key Dialog:_ **Dr. Aris (into recorder):** "Subject Ward demonstrates atypical resilience metrics. Further study required."
+
 ---
 
 _Summarized from Book 1 source material._

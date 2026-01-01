@@ -43,10 +43,10 @@
   - _Key Dialog:_ **Hunter:** "Big Flux today. Gud Eet."
   - _Internal Monologue:_ _Flux. Change? Movement? Good Eat._
 
-- **Key Event:** The Elder.
-- **Detailed Description:** An older man points to the sky where the clouds are gathering.
+- **Key Event:** The Teacher.
+- **Detailed Description:** **Elder Corinne** (simply **Corinne** to these children), the Keeper of the Weave, points to the sky where the clouds are gathering. She is teaching a group of children, her voice raspy but clear.
 
-  - _Key Dialog:_ **Elder:** "Ops watching. Make Comms."
+  - _Key Dialog:_ **Elder Corinne:** "Ops watching. Make Comms."
   - _Internal Monologue:_ _Ops. Operations? Comms. Communications?_
 
 - **Key Event:** The Realization.

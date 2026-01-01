@@ -76,3 +76,15 @@
 - **Physical Aftermath:** She is alone in the room. The Entity's voice has gone silent for the moment, the system rebooting after the catastrophic failure of its psychological gambit.
 - **Character Defining Moment:** **Angelica Ward** — She reaches up, wipes a drop of clear fluid from her eye, and immediately begins checking her physical diagnostics. She is "broken," but her internal "Clock" is now synchronized with reality.
 - **Key Dialog:** **Angelica Ward:** "Ballroom dissolved. Illusion terminated. I’m coming for you now, you hollow thing."
+
+### Scene 8: External Monitoring
+
+- **Key Event:** The tech team monitors the crisis.
+- **Detailed Description:** In the adjacent control room, **Lisbet (The Glitch)** watches Angelica's neural signature spike and crash on the monitoring display. Her goggles are pushed up on her forehead, and her hands are shaking—Angelica's brainwave patterns briefly flatlined before spiking into the red zone. The burst of raw Resonance that shattered the simulation registered as a localized EMP, frying three backup consoles. Lisbet runs a diagnostic, confirming that Angelica is still alive, still fighting. Beside her, **Lady Corinne** stands with a hand on the girl's shoulder, her grip firm. She does not understand the readouts, but she understands people. She keeps Lisbet from panicking.
+
+  - _Key Dialog:_ **Lisbet:** "She's back. Neural patterns stabilizing. She broke the Entity's attack routine from the inside. That's... that's not supposed to be possible."
+  - _Key Dialog:_ **Lady Corinne:** "The girl has never done what was 'supposed' to be possible. That is rather the point. Keep watching."
+
+---
+
+_Summarized from Book 7 source material._

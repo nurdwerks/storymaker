@@ -64,6 +64,14 @@
 - **Key Event:** "I've trusted worse," Ria says, checking her weapons. "Usually people who were already dead."
 - **Key Event:** They step through the door. Following the Drifter into the dark.
 
+### Scene 5: The Old Orders
+
+- **Key Event:** Evidence of the old regime.
+- **Detailed Description:** On the other side of the bulkhead, faded propaganda posters line the walls—relics from the time before the Collapse. One depicts **The Emperor** in full regalia, his mechanized throne gleaming, with the words: _"Order Through Unity. Prosperity Through Obedience."_ Hatcher pauses in front of it, his expression unreadable. His Gold-Tier ID chip—the one he just used—bears the Imperial seal. Whatever he was before the darkness, he served the old order. The poster is a ghost from a world that no longer exists, but its shadow still shapes everything.
+
+  - _Key Dialog:_ **Angelica (noticing Hatcher's reaction):** "You knew him? The Emperor?"
+  - _Key Dialog:_ **Hatcher:** "Everyone knew him. He was on every wall, every screen, every prayer. Knowing him and _knowing_ him are different things. Keep walking."
+
 ---
 
 _Summarized from Book 4 source material._

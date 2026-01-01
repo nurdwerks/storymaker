@@ -72,6 +72,15 @@
   - _Key Dialog:_ **Angelica Ward:** "It's time to sober up, Hatcher. We have a government to overthrow."
   - _Key Dialog:_ **Hatcher:** (Smiling grimly) "Maybe it's time I remembered."
 
+### Scene 7: The Patrons
+
+- **Key Event:** Surveillance continues.
+- **Detailed Description:** In a private booth of the Rusty Gear's upper balcony, obscured by synth-smoke, **Joyce (The Needle)** nurses a glass of something transparent and poisonous. She tracked the Ward girl here through infrared residue on the Mid-Levels corridors. Her encrypted comm vibrates—a message from **Lady Vesper** demanding an update. Joyce replies with coordinates and an assessment: _"Target has made contact with local assets. Hatcher—former detective. Lisbet—tech specialist. The girl is building a network. Price increases."_ Vesper's reply is curt: _"Approved. Continue observation. Do not engage."_
+
+  - _Key Dialog:_ **Joyce (comm message):** "Target is recruiting. She has protectors now. Engagement will be messy. Awaiting authorization."
+  - _Key Dialog:_ **Lady Vesper (reply):** "Patience. Let them trust each other. Then we eliminate them efficiently."
+  - _Character Defining Moment:_ **Joyce** — Shows her mercenary professionalism, treating each new development as a renegotiation rather than a complication.
+
 ---
 
 _Summarized from Book 2 source material._

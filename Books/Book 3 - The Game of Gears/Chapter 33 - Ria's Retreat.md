@@ -23,6 +23,7 @@
 - **Detailed Description:** Ria doesn't panic. She looks at the floor. It is marble, but beneath it is the ship's steel skeleton. She activates her pile-bunker. "Clear!" She drives the explosive spike into the floor. The blast blows a hole into the maintenance sub-level below.
   - _Character Defining Moment:_ **Ria** — Her combat expertise shines not in killing, but in engineering an escape. She turns the architecture against the enemy.
   - _Key Dialog:_ **Ria:** "Going down! Watch your legs!"
+  - _Key Dialog:_ **Joyce:** (Herding the group with her cane) "Single file, children! No pushing! Corinne, mind your hem. Silas, stop shooting and jump!"
 
 ### Scene 2: The Sacrifice
 
@@ -63,6 +64,14 @@
 - **Key Event:** Angelica declares the end of the Civil War and the beginning of the War for Survival.
 - **Detailed Description:** She explains that with the Palace gone, the chain of command is broken. The life support systems are failing. The reactor is unstable. The political squabbles of the Houses are irrelevant now. They are all just passengers on a sinking life raft.
   - _Key Dialog:_ **Angelica Ward:** "The Zenith is dead. The King is dead. There is no more Highborn or Lowborn. There is only the Crew. The ship is dying. We either fix it together, or we die with it. The war is over. The work begins."
+
+### Scene 6: The Ledger
+
+- **Key Event:** Baron Gilded records the end of an era.
+- **Detailed Description:** From his observation post, **Baron Gilded** watches the Palace dome collapse through a high-powered scope. His datapad is already updating—insurance claims filed, reconstruction bonds purchased, property titles for collapsed districts acquired at fire-sale prices. The civil war was expensive, but the aftermath will be profitable. Ward's speech about "crew" and "work" plays over the public comms. He pauses. If she means it, if she can stabilize the ship, his investments will compound. If she fails, he owns the salvage rights. Either way, Baron Gilded wins.
+
+  - _Key Dialog:_ **Baron Gilded (dictating to his recorder):** "Palace asset: destroyed. Reconstruction timeline: eighteen months. Investment strategy: pivot to infrastructure. Ward is talking about unity. Buy cement futures."
+  - _Character Defining Moment:_ **Baron Gilded** — His complete detachment from ideology is confirmed; he sees regime change as a market correction, not a moral event.
 
 ---
 

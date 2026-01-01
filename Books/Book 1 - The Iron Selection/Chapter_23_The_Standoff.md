@@ -80,6 +80,16 @@
   - _Key Dialog:_ **Ria:** "Let's break some stuff."
   - _Key Dialog:_ **Angelica Ward:** "We have two minutes before Vane realizes what we're doing. Let's make some noise."
 
+### Scene 6: The Audience
+
+- **Key Event:** The Highborn react.
+- **Detailed Description:** In the Imperial Viewing Chamber, **The Emperor** watches the standoff on a massive holographic display. His expression is unreadable, but his fingers tap the armrest with unusual intensity. Beside him, **Lord Cromwell** has stopped writing in his ledger—the first time in decades. What he is witnessing is unprecedented: candidates refusing to play the game. In a private viewing box, **Lady Corinne (The Porcelain Doll)** sets down her opera glasses. She recognizes what the Ward girl is doing. It isn't rebellion—it's a hostile takeover. And it's brilliant.
+
+  - _Key Dialog:_ **The Emperor:** "Interesting. The Silt-rat is attempting to rewrite the rules mid-game. Either she is a fool, or she understands power better than most nobles."
+  - _Key Dialog:_ **Lord Cromwell:** "Shall I order Vane to terminate the candidates, Majesty?"
+  - _Key Dialog:_ **The Emperor:** "No. Let it play out. I want to see if she can actually do it."
+  - _Key Dialog:_ **Lady Corinne (to herself):** "This changes everything. The girl is either about to die spectacularly... or become the most dangerous piece on the board."
+
 ---
 
 _Summarized from Book 1 source material._

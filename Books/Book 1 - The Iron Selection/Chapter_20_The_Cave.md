@@ -66,6 +66,15 @@
   - _Key Dialog:_ **Angelica Ward:** "Don't die on me again, Night. I don't do resurrections on a budget. That cost me a lot of calories."
   - _Key Dialog:_ **Kaelen Night:** "Understood, Ward. Your bill is noted. Processing payment options."
 
+### Scene 5: The Watchers Above
+
+- **Key Event:** Noble observers track the Selection.
+- **Detailed Description:** In the Zenith's Observation Deck, **The Emperor** watches a projection matrix showing real-time telemetry from all surviving candidates. Squad Iron's vitals have just stabilized after the near-death event. He notes the anomaly—the Ward girl performed an unregistered psychic intervention. Interesting. Behind him, **Lord Cromwell** logs the event in his meticulous records, cross-referencing it with previous Selection incidents. **Lady Corinne (The Porcelain Doll)** observes from the shadowed alcove, her glass of wine untouched. She recognizes political opportunity when she sees it—whoever sponsored the Ward girl made an excellent investment.
+
+  - _Key Dialog:_ **The Emperor:** "The Silt-rat saved the Night heir. Soul-linking without formal training. Either she is a prodigy, or the rumors about her bloodline are true."
+  - _Key Dialog:_ **Lord Cromwell:** "I have updated the incident log, Majesty. The girl's value assessment requires... recalculation."
+  - _Key Dialog:_ **Lady Corinne (whispering):** "A debt between the wards and the Nights. How deliciously exploitable."
+
 ---
 
 _Summarized from Book 1 source material._

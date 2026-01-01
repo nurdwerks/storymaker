@@ -110,6 +110,9 @@ def scan_chapters(books_dir, profiles):
                 elif line.startswith("- _Character Defining Moment:_"):
                     event_type = "Moment"
                     content = line.replace("- _Character Defining Moment:_ ", "").strip()
+                elif line.startswith("- _Internal Monologue:_"):
+                    event_type = "Internal Monologue"
+                    content = line.replace("- _Internal Monologue:_ ", "").strip()
                 elif "_Key Dialog:_" in line:
                     event_type = "Dialog"
                     # Clean up dialog line to be readable

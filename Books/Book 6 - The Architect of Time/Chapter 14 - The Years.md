@@ -22,9 +22,12 @@
 - **Key Event:** **Year 10.**
 - **Detailed Description:** The engines are mounted. Massive, distinct shapes that promise fire. They are hoisted by a complex system of pulleys and counterweights designed by Angelica.
 - **Key Event:** The Constant.
-- **Detailed Description:** Through it all, Angelica is there. Pointing. Yelling. Drawing in the dirt. She is a blur of motion. She sleeps in short bursts, naps taken on piles of lumber. She eats while walking. She is possessed.
+- **Detailed Description:** Through it all, Angelica is there. Pointing. Yelling. Drawing in the dirt. She is a blur of motion. She sleeps in short bursts, naps taken on piles of lumber. She eats while walking. She is possessed. Whenever the fatigue threatens to crush her, she whispers Ria's old mantra.
+  - _Internal Monologue:_ _The watch doesn't end when you're tired, Commander. It ends when the relief arrives. Twenty years? That's just a long shift._
 - **Key Event:** The Cycle.
 - **Detailed Description:** The seasons change. The jungle grows back, and they cut it down. The rains come, turning the site into a quagmire, and they work in the mud. The sun burns, baking the clay, and they work in the heat.
+- **Key Event:** The Passing.
+- **Detailed Description:** **Elder Corinne** does not see the ship finished. In the seventh winter, she passes peacefully in her sleep, wrapped in the finest furs the tribe could hunt. Her funeral pyre is the first fire lit in the ship's massive forge—a symbolic transfer of warmth from the old world to the new engine. Ragnar and Angelica stand together as the smoke rises, acknowledging the end of an era.
 
 ### Scene 2: The Broken Brother
 

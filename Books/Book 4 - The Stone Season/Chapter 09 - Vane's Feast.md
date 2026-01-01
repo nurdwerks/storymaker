@@ -61,6 +61,13 @@
   - _Key Dialog:_ **Ria:** "Monsters die like men. We just need more bullets. Mark the location. We come back when we have the heavy ordnance."
   - _Key Dialog:_ **Zephyr:** "And maybe a flamethrower. Or two. Just to be sure."
 
+### Scene 5: The Spider's Assessment
+
+- **Key Event:** Lady Vesper observes from the shadows.
+- **Detailed Description:** **Lady Vesper** is not in the vents, but she is watching. From a secured balcony behind one-way glass, she observes the "Sacrament." She sips a synthetic nutrient pouch—clean, sterile. She watches Vane peeling his own skin. She does not feel awe; she feels calculation. She taps a note into her datapad. Vane has transitioned from a political asset to a biological hazard. A leader who eats himself cannot govern. She begins to draft the contingency protocols.
+  - _Key Dialog:_ **Lady Vesper:** "Passion is inefficient. He is burning his candle at both ends. I must ensure I am not holding it when it goes out."
+  - _Character Defining Moment:_ **Lady Vesper** — She shows her lack of loyalty; she serves the hierarchy, not the man. When the man breaks, she prepares to replace him.
+
 ---
 
 _Summarized from Book 4 source material._

@@ -76,6 +76,13 @@
 - **Key Event:** The Collapse.
 - **Detailed Description:** Angelica slides down the door, defeated. She clutches the datapad to her chest. She has the future in her hands, but she has lost her heart. The corridor begins to shake as the reality wave hits. She forces herself to stand. She turns and runs.
 
+### Scene 6: The Witness
+
+- **Key Event:** The silent observer.
+- **Detailed Description:** **Zephyr (The Gilded Rogue)** stands at the far end of the corridor, frozen in place. He came to help, to do something—anything. But he arrived too late. He saw the kiss through the glass, the lever, the light. He sees Angelica running toward him now, her face a mask of devastation. He has no words. For once in his life, the silver-tongued thief has nothing to say. He simply falls into step beside her, matching her pace, his presence the only comfort he can offer.
+
+  - _Key Dialog:_ **Zephyr (quietly):** "I'm here, Boss. Whatever you need. I'm here."
+
 ---
 
 _Summarized from Book 6 source material._

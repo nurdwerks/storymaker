@@ -15,7 +15,7 @@
 
 ### Scene 1: The Invasion
 
-- **Key Event:** The "Shards" penetrate the outer hull of the *Aeterna*. The invasion moves from the void into the corridors of the ship.
+- **Key Event:** The "Shards" penetrate the outer hull of the _Aeterna_. The invasion moves from the void into the corridors of the ship.
 - **Detailed Description:** The first breach occurs in Sector 7, the hydroponics bay. A triangular Shard melts through the ceiling, dripping molten tritanium onto the plants below. It hovers for a moment, spinning silently, scanning the room. Then it expands, flattening itself into a razor-thin plane that slices through the air. It moves with terrifying speed, a blur of black motion. It cuts through a row of corn stalks, leaving them perfectly bisected. It cuts through a watering drone, sparking as the electronics are severed. It cuts through a crewman who tries to run. The violence is silent and antiseptic. There is no blood spray, only a clean separation of matter. The crewman falls in two pieces, cauterized instantly. The air fills with the smell of ozone and burnt vegetation.
 - **Internal Conflict:** The surviving crew members in the bay freeze. They have never seen death like this. It isn't messy. It's delete-key violence. They scramble for the exits, trampling the crops they spent months growing. The panic is absolute. They jam the doors, clawing at each other to get out. The Shard ignores them, moving to the next row of crops. It is harvesting.
 
@@ -33,7 +33,7 @@
 
 - **Key Event:** Ria leads Squad Iron in a zero-G counter-assault. They use magnetic grapnels and physical pile-bunkers (explosive spikes).
 - **Detailed Description:** Ria and her squad drop from the ventilation shafts into the hydroponics bay. They are wearing heavy exo-suits, clumsy but protected. The artificial gravity is offline in this sector, so they float, anchored by magnetic tethers. Ria doesn't use a gun. She uses a hydraulic ram—a massive piston attached to her arm. She charges a Shard, catching it mid-spin. The ram slams into the flat surface. The impact sends a shockwave through the room, scattering floating debris. The Shard cracks. It tries to reform, vibrating wildly, but Ria hits it again, and again, screaming with every blow. The black glass shatters, dissolving into dust.
-- **Internal Conflict:** Ria feels the impact in her bones. It feels *good*. It feels real. Fighting Vane's magic was frustrating; fighting ghosts was terrifying. But this? This is metal on metal. This is something she can break. She laughs, a harsh, metallic sound. The numbness in her hands is forgotten, replaced by the jarring feedback of the ram. She feels alive for the first time since the invasion started.
+- **Internal Conflict:** Ria feels the impact in her bones. It feels _good_. It feels real. Fighting Vane's magic was frustrating; fighting ghosts was terrifying. But this? This is metal on metal. This is something she can break. She laughs, a harsh, metallic sound. The numbness in her hands is forgotten, replaced by the jarring feedback of the ram. She feels alive for the first time since the invasion started.
 
   - _Character Defining Moment:_ **Ria** — She stands over the shattered remains of the Shard. She kicks the pieces. "They break!" she yells into the comms. "They're glass! Hit them hard and they break! Stop shooting and start swinging!"
   - _Key Dialog:_ **Kaelen:** "Ria, watch your six! There are three more!"
@@ -42,3 +42,16 @@
 - **Key Event:** The crew rallies. The realization that the enemy can be hurt changes the dynamic.
 - **Detailed Description:** Across the ship, the crew fights back. A welder uses his torch to blind a Shard's sensors, melting its optics. A group of engineers drop a heavy crate on one, crushing it under tons of steel. It is messy, desperate, and chaotic, but they are holding the line. The invasion slows. The ship is bleeding, but it is biting back. The corridors are filled with the sounds of improvised warfare—the hiss of torches, the clang of metal, the shouts of defiant men and women.
 - **Internal Conflict:** Vane watches the battle from his lab. He is disgusted by the crudeness of it. "Brutes," he sneers. "Fighting geometry with hammers. It is like watching monkeys smash a computer." He turns back to his data. He is looking for a way to communicate with the Shards, convinced he can negotiate a truce for himself. He believes he is the only one who understands the "elegance" of the enemy. He starts broadcasting a mathematical sequence, hoping to attract their attention.
+
+### Scene 4: The Quartermaster
+
+- **Key Event:** Zephyr coordinates supply lines.
+- **Detailed Description:** In the chaos of the counterattack, **Zephyr (The Gilded Rogue)** has found his role—not as a fighter, but as the man who makes sure fighters have what they need. His cybernetic eye tracks inventory across the ship's surviving storage lockers. He works in tandem with **Lady Corinne**, who manages the personnel. While Zephyr moves crates, Corinne moves people, her sharp voice cutting through the panic to direct runner teams. She wears a welding apron over her dress, her hands covered in grease—a stark departure from her usual image.
+  - _Key Dialog:_ **Zephyr (over comms):** "Runner three, skip the main corridor—Shards took it out. Use maintenance shaft C-7. Welding kit's waiting at junction B. Go, go, go!"
+  - _Key Dialog:_ **Lady Corinne:** "Team Gold, stop dawdling! That oxygen is for the triage center, not for your personal amusement! Move!"
+  - _Key Dialog:_ **Angelica (over comms):** "Good work, Zeph. You're keeping us alive."
+  - _Key Dialog:_ **Zephyr:** "Just paying my debts, Princess. Every breath you take costs credits. I'm making sure you're profitable."
+
+---
+
+_Summarized from Book 7 source material._

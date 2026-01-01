@@ -51,6 +51,8 @@
 - **Detailed Description:** She grabs the bread. She works feverishly, ignoring her own exhaustion. She scrapes the mold into a sterile dish. She mixes it with distilled water. She filters it through her own silk undershirt.
 - **Key Event:** The Science.
 - **Detailed Description:** It is crude. It is dirty. It violates every safety protocol of the 24th Century. But it is science.
+  - _Internal Monologue:_ Ria would have hated this. She despised biological warfare, even the cures. _If you have to fight on the cellular level,_ she used to say, _you've already lost the moral high ground._
+  - _Internal Monologue:_ _Well, sorry, Ria,_ Angelica mutters, scraping green fuzz into a bowl. _High ground doesn't stop pneumonia._
   - _Key Dialog:_ **Angelica Ward:** "Thank you, Fleming. I am cheating death with a sandwich crust."
 
 ### Scene 3: The Result
@@ -81,7 +83,7 @@
 - **Key Event:** The Demand.
 - **Detailed Description:** Lines form outside her lab cave. Mothers carrying babies. Warriors carried by their brothers.
 - **Key Event:** The Production.
-- **Detailed Description:** Angelica turns the cave into a factory. She recruits Torin and the healthier children to scrape mold, mix solution, and fill gourds.
+- **Detailed Description:** Angelica turns the cave into a factory. She recruits Torin and the healthier children to scrape mold, mix solution, and fill gourds. **Corinne**, a serious-faced girl of ten, takes charge of the queue. She organizes the sick by severity, showing a natural aptitude for triage and order that borders on coldness.
 - **Key Event:** The Worship.
 - **Detailed Description:** As she walks through the village, administering the cure, people fall to their knees. They try to kiss her boots. They touch the hem of her flight suit.
 - **Key Event:** The Denial.
