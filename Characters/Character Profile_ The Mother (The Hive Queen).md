@@ -69,6 +69,7 @@ Her "Children" are the Virals. They are extensions of her will.
 | Book 4 | Chapter 30 | Key Event | Ria manages to find the primary coolant line feeding the Mother's central processor. With a final, agonizing heave, she rips the pipe free. |
 | Book 4 | Chapter 30 | Detailed Description | A geyser of liquid nitrogen erupts into the tank, instantly freezing the biological mass. The Mother screams—a psychic shriek that shatters the remaining screens. The flesh turns grey and necrotic as the thermal shock kills the tissue. The pulsating heart of the core stops. The room goes silent, save for the hiss of escaping gas. |
 | Book 4 | Chapter 31 | Key Event | The Elena-Avatar speaks. She explains the origin of The Mother. |
+| Book 4 | Chapter 31 | Moment | **Angelica Ward** — She stops hating the AI. She feels pity. This change in emotional state alters her code-avatar from "Red (Aggressive)" to "Blue (Receptive)." She ignores the Emperor's fire, focusing on the Mother. |
 | Book 4 | Chapter 31 | Key Event | Angelica leaves the Ghost Path and locates the Core Processor. It manifests as a colossal, weeping statue made of grey stone—The Mother. |
 | Book 4 | Chapter 31 | Key Event | The Mother attacks. Not with weapons, but with "Logic Spikes." She floods Angelica's mind with calculations proving that the human crew is a parasite and must be purged to save the ship. |
 | Book 4 | Chapter 31 | Key Event | she channels the collective physical sensation of the 2,000 survivors directly into the Mother's core. |

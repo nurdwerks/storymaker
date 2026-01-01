@@ -16,7 +16,8 @@
 ### Scene 1: The Escape
 
 - **Key Event:** Following the collapse of the Banquet Hall and the death of Duke Grey, the palace begins to structurally fail. Ria leads the retreat of the surviving Resistance team.
-- **Detailed Description:** The hallways of the Imperial Palace are a nightmare of dust, fire, and falling masonry. The ornate ceiling frescoes are peeling away, crashing to the floor in massive slabs. The air is choked with pulverized plaster. Ria, still in her battered Titan armor, acts as the spearhead. She smashes through locked doors with her hydraulic fist. She shoulder-checks falling pillars. Behind her, Kaelen supports a dazed Angelica, while Silas and Corinne cover the rear, firing at the pursuing Praetorian Guards who are emerging from the smoke like ghosts.
+- **Detailed Description:** The hallways of the Imperial Palace are a nightmare of dust, fire, and falling masonry. The ornate ceiling frescoes are peeling away, crashing to the floor in massive slabs. The air is choked with pulverized plaster. Ria, still in her battered Titan armor, acts as the spearhead. She smashes through locked doors with her hydraulic fist. She shoulder-checks falling pillars. Behind her, Kaelen supports a dazed Angelica, while Silas and Corinne cover the rear, firing at the pursuing Praetorian Guards who are emerging from the smoke like ghosts. **Hatcher (The Null)** moves alongside Kaelen, his Widowmaker trained behind them. He fires measured shots, each one dropping a pursuer, buying the team precious seconds.
+  - _Key Dialog:_ **Hatcher:** "Keep moving. Don't stop for anything. I'll count the bodies later."
 - **Key Event:** The group encounters a blocked corridor, the ceiling having collapsed completely.
 - **Detailed Description:** They skid to a halt. A wall of rubble blocks the path to the hangar bay. The Praetorians are closing in, their plasma bolts sizzling through the air. There is no way forward.
 - **Key Event:** Ria creates a path.

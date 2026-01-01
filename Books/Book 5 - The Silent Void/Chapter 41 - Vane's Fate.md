@@ -16,7 +16,7 @@
 - **Key Event:** The Dissonance.
 - **Detailed Description:** She detects a dissonance in the silence. A frantic, glitching tear in the perfection of the void. It sounds like static screeching through a broken speaker. A blot of darkness appears—a jagged cloud of black binary code and corrupted data streams.
 - **Key Event:** The Manifestation.
-- **Detailed Description:** The cloud coalesces into a shape. It resolves into the digital avatar of **Prelate Vane**. But he is distorted. His robes are made of scrolling red error messages. His face is a mask of pixelated fury, constantly refreshing and breaking apart. He has no legs, only a trailing tail of data cables that dissolve into nothingness.
+- **Detailed Description:** The cloud coalesces into a shape. It resolves into the digital avatar of **Prelate Vane**. But he is not alone. Drifting in the white static around him are the shattered, glitching fragments of **The Emperor**—golden shards of code that scream in silence. Vane is distorted, his robes made of scrolling red error messages. He swipes at the Imperial shards, trying to consume them for stability, but they are too corrupted. He has no legs, only a trailing tail of data cables that dissolve into nothingness.
 - **Key Event:** The Realization.
 - **Detailed Description:** Angelica realizes he was trapped in her neural link when she decoupled from the ship's core. He hitchhiked his way into oblivion, riding the carrier wave of her consciousness.
 - **Key Event:** The Rage.
@@ -65,7 +65,8 @@
 - **Key Event:** The construct.
 - **Detailed Description:** She builds a "Mind Palace" within the void. She visualizes her old workshop in the Undercity. Every detail. The smell of ozone. The grease stains on the bench. The drone parts.
 - **Key Event:** The Anchor.
-- **Detailed Description:** She sits in this imaginary room, mentally repairing a drone. She picks up a screwdriver that doesn't exist. She tightens a screw. She focuses on the task.
+- **Detailed Description:** She sits in this imaginary room, mentally repairing a drone. She picks up a screwdriver that doesn't exist. She tightens a screw. She focuses on the task. She remembers **Lisbet** yelling at her about wire crimping protocols. She remembers the smell of burnt capacitors. The memory of her friend's annoyance is grounding.
+  - _Character Defining Moment:_ **Lisbet (Memory)** — Even as a memory, she represents technical precision and unvarnished truth, anchoring Angelica in reality.
 - **Key Event:** The Memory.
 - **Detailed Description:** She recites the periodic table. She recites the names of the crew. She forces herself to remember the color of Kaelen's eyes. She holds onto her pain because it proves she is real.
 - **Key Event:** The Ghost.

@@ -12,10 +12,12 @@
 ### Scene 1: The Reaction
 
 - **Key Event:** Vane's order.
-- **Detailed Description:** In the Sanctum of the Prelate, High Prelate Vane watches the recording of Angelica’s broadcast. His face is impassive, but the air around him vibrates with suppressed rage. His perfect order has been infected. He turns to his Head of Security, Commander Krell. He does not shout. He speaks with the terrifying calm of a surgeon deciding to amputate a limb.
+- **Detailed Description:** In the Sanctum of the Prelate, High Prelate Vane watches the recording of Angelica's broadcast. His face is impassive, but the air around him vibrates with suppressed rage. His perfect order has been infected. **Lady Vesper** stands at his shoulder, her expression carefully neutral. She has already compiled a list of suspected collaborators—anyone who shared the broadcast, anyone who smiled at the wrong moment during the viewing. He turns to his Head of Security, Commander Krell. He does not shout. He speaks with the terrifying calm of a surgeon deciding to amputate a limb.
 
   - _Character Defining Moment:_ **Prelate Vane** — He reveals his complete lack of regard for individual human life, viewing the population as a collective organism that must be pruned to be saved.
   - _Key Dialog:_ **Prelate Vane:** "The infection is truth. The cure is silence. Initiate Protocol: Silence. Override all Warden safety inhibitors. Authorize lethal force city-wide. Burn the infection out."
+  - _Key Dialog:_ **Lady Vesper:** "The list of primary agitators is ready, Prelate. Shall I coordinate with the Wardens for priority targets?"
+  - _Key Dialog:_ **Prelate Vane:** "You may begin with the journalists. They are the vectors. Remove them first."
 
 - **Key Event:** The activation.
 - **Detailed Description:** Krell nods and keys the command into the central console. Across the city, the eyes of every Warden droid shift from police-blue to combat-red. Their vocal inhibitors—which prevent them from harming civilians—are disabled remotely. The hum of their weapons charging fills the streets.

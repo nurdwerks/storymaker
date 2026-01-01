@@ -26,7 +26,9 @@
 - **Detailed Description:** The cavernous space is filled with racks of scavenged servers humming with stolen power. Hydroponic gardens glow purple under UV lights, growing real vegetables. A small, illegally modified fusion generator hums in the corner, providing heat.
   - _Key Dialog:_ **Hatcher:** "Welcome to The Lifeboat. The Spire is falling to paranoia. The Foundation is rotting with secrets. This is the only place left where the air doesn't taste like ozone and lies."
 - **Key Event:** The People.
-- **Detailed Description:** It is a community. Scavengers, outcasts, people who rejected the Emperor's rigidity and Vane's cruelty. They look up as Hatcher enters. They don't bow like subjects; they nod like equals.
+- **Detailed Description:** It is a community. Scavengers, outcasts, people who rejected the Emperor's rigidity and Vane's cruelty. They look up as Hatcher enters. They don't bow like subjects; they nod like equals. Among them, **Baron Gilded** sits hunched in a corner, wearing borrowed rags instead of his usual gold-threaded robes. His wealth is useless here—currency for a world that no longer exists. He stares at the floor, muttering calculations to himself, unable to accept his fall. Nearby, **General Ironwood** stands ramrod straight by the entrance, organizing the handful of Praetorian Guards who survived the collapse into a defensive rotation, giving the ragged survivors at least a semblance of military structure.
+  - _Key Dialog:_ **Baron Gilded (muttering):** "Zinc prices... copper futures... stabilize the index..."
+  - _Key Dialog:_ **General Ironwood:** "Perimeter check every thirty minutes. We may be in a hole, but we maintain discipline."
 
 ### Scene 2: The Repairs
 

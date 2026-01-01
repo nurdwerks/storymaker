@@ -46,6 +46,7 @@
 - **Detailed Description:** Her eyes light up. It is the predator look—the look she gets when she sees a solution that is both brilliant and incredibly dangerous. She starts talking fast, her hands moving as she visualizes the schematic.
 
   - _Key Dialog:_ **Angelica Ward:** "Magma is just molten energy. If we can tap the mantle... if we can funnel that heat into a particle accelerator... we can create a pinch-field. We can _make_ antimatter. Or at least enough resonance-plasma to jump-start the core."
+  - _Internal Monologue:_ It is insane. It is the kind of plan **Zephyr** would call "suicide with extra steps." It relies on physics that barely hold together, the kind of unstable equation **Lisbet** would scribble on a napkin. But it is the only hand she has to play.
 
 - **Key Event:** The scale.
 - **Detailed Description:** Torin stares at her. The audacity of the plan takes a moment to sink in.

@@ -37,12 +37,14 @@
 ### Scene 3: The Ecology of Rust
 
 - **Key Event:** The group extracts themselves from the wreckage and navigates the hostile environment of Sector 0.
-- **Detailed Description:** They climb out of the broken hull into the dim, toxic twilight of the Undercity's lowest level. The air is thick with the smell of rust, decay, and old chemicals. The "ground" is a shifting surface of sharp metal and slick sludge. Towering piles of refuse create canyons and valleys, blocking any line of sight. Strange, bioluminescent fungi grow in the shadows of the trash mountains.
+- **Detailed Description:** They climb out of the broken hull into the dim, toxic twilight of the Undercity's lowest level. The air is thick with the smell of rust, decay, and old chemicals. The "ground" is a shifting surface of sharp metal and slick sludge. Towering piles of refuse create canyons and valleys, blocking any line of sight. Strange, bioluminescent fungi grow in the shadows of the trash mountains. **Hatcher (The Null)** is the first out, scanning the perimeter with practiced efficiency. His years as a detective taught him to read environments—and this one screams "ambush territory."
+  - _Key Dialog:_ **Hatcher:** "Eyes sharp. This is the kind of place where evidence goes to die. And so do witnesses."
 - **Key Event:** They encounter a "Scrap-Stalker," a mutant rat the size of a dog, adapted to the toxic environment.
 - **Detailed Description:** A rustling in the debris alerts them. A creature emerges—a Scrap-Stalker. It has mange-ridden fur, red eyes that reflect the ambient light, and teeth capable of chewing through copper wire. It hisses, sensing their vulnerability. It is not alone; other eyes glow in the dark.
 - **Key Event:** Silas uses his sidearm to drive the creatures back, conserving ammo.
-- **Detailed Description:** Silas, despite his injury, draws his weapon with his good hand. He fires a warning shot into the metal near the creature. The loud _clang_ echoes through the canyons. The Stalkers scatter, preferring easier prey. Silas grimaces, holstering the gun.
+- **Detailed Description:** Silas, despite his injury, draws his weapon with his good hand. He fires a warning shot into the metal near the creature. The loud _clang_ echoes through the canyons. The Stalkers scatter, preferring easier prey. Silas grimaces, holstering the gun. Hatcher nods approvingly—wasting ammo on rats would be foolish.
   - _Key Dialog:_ **Silas:** "Even the rats are armored down here. I hate this planet. Let's move before they bring friends."
+  - _Key Dialog:_ **Hatcher:** "Save your bullets. Rats learn. They won't come back until we're sleeping."
 
 ### Scene 4: The Old Ones
 

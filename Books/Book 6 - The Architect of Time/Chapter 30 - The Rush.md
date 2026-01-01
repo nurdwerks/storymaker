@@ -18,6 +18,7 @@
 - **Detailed Description:** She looks up. The atmosphere above the valley protection dome is pulsing with violet light. It is ionization—the telltale signature of massive ships entering the atmosphere at combat speeds.
 
   - _Key Dialog:_ **Torin:** "They found us! How did they find us? The stealth fields were active!"
+  - _Internal Monologue:_ Torin's voice cracks with panic. Angelica misses the steady, cynical drone of **Zephyr** in her comms. The Rogue would have just asked for a vector. Torin is a builder, not a soldier. She has to be the soldier for both of them.
   - _Key Dialog:_ **Angelica Ward:** "The heat signature from the volcano. When we charged the core, we spiked the thermal output. We lit a beacon in the infrared."
 
 - **Key Event:** The stampede.

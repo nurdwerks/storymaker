@@ -31,9 +31,16 @@
 ### Scene 3: The Army of Ghosts
 
 - **Key Event:** The Resistance shifts from a guerrilla cell to a standing army.
-- **Detailed Description:** The death of Leo has galvanized the Undercity. People who were once afraid are now angry. They flood into the safe house, demanding weapons. Kaelen takes charge of training, turning street brawlers into squads. Silas opens his secret armories, distributing kinetic rifles and grenades. Miller works on the drones, attaching explosives to repair bots.
+- **Detailed Description:** The death of Leo has galvanized the Undercity. People who were once afraid are now angry. They flood into the safe house, demanding weapons. Kaelen takes charge of training, turning street brawlers into squads. Silas opens his secret armories, distributing kinetic rifles and grenades. Miller works on the drones, attaching explosives to repair bots. **Hatcher (The Null)** runs the intake, his detective instincts sorting the genuine recruits from the potential informants. He interviews each volunteer with rapid-fire questions, watching for the tells that mark a liar.
+  - _Key Dialog:_ **Hatcher:** "You. Eyes front. Why are you here? Don't think—answer. Too slow. Next."
 - **Key Event:** The population arms itself.
-- **Detailed Description:** It is a scene of industrial mobilization. Welders attach spikes to baseball bats. Chemists mix volatile compounds in glass jars. The "Army of Ghosts" is ragtag, dirty, and poorly equipped, but they have the numbers and the fury of the dispossessed. **Joyce** sits in the corner, ostensibly knitting scarves for the "poor boys." But inside each rolled-up bundle of wool is a datapad containing override codes for the sector's security doors. She hands them out with a warm smile. "Wear it in good health, dear. Try not to catch a cold... or a bullet."
+- **Detailed Description:** It is a scene of industrial mobilization. Welders attach spikes to baseball bats. Chemists mix volatile compounds in glass jars. The "Army of Ghosts" is ragtag, dirty, and poorly equipped, but they have the numbers and the fury of the dispossessed.
+- **Key Event:** The Matriarch's Investment.
+- **Detailed Description:** **Matriarch Lilith Night** stands on a catwalk overlooking the armory, watching the chaos. She is not dirty. She is pristine in black silk. She watches her son, Kaelen, drilling a squad of recruits. She does not intervene, but she taps a message to her financial broker on her wrist-comp: "Liquidate the armaments stock. The value is about to peak."
+  - _Character Defining Moment:_ **Matriarch Lilith Night** — She sees the revolution not as a moral crusade, but as a market fluctuation to be exploited.
+  - _Key Dialog:_ **Matriarch Lilith Night (to herself):** "Burn it down, Kaelen. Ashes make excellent fertilizer for new ambition."
+- **Key Event:** Joyce's contribution.
+- **Detailed Description:** **Joyce** sits in the corner, ostensibly knitting scarves for the "poor boys." But inside each rolled-up bundle of wool is a datapad containing override codes for the sector's security doors. She hands them out with a warm smile. "Wear it in good health, dear. Try not to catch a cold... or a bullet."
   - _Character Defining Moment:_ **Joyce** — She weaponizes her harmless grandmother persona to distribute high-grade intel right under the noses of potential spies.
 
 ### Scene 4: The Titan

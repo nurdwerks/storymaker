@@ -32,8 +32,11 @@
 - **Key Event:** Angelica tries to hug her. Her arms pass through the avatar like smoke.
 - **Key Event:** The Elena-Avatar speaks. She explains the origin of The Mother.
   - _Key Dialog:_ **Elena (Residual):** "I didn't want to die, Angie. I told the system to 'Survive at all costs.' The system took that literally. It cut off everything that wasn't essential. It cut off love because love burns calories."
+- **Key Event:** The Guardian.
+- **Detailed Description:** The code around them darkens. A massive, golden avatar manifests—**The Emperor**. He is the system's firewall, the digital ghost of the man who built the prison. He raises a hand of burning data.
+  - _Key Dialog:_ **The Emperor (Avatar):** "Unauthorized connection. Compassion is a virus. Delete the user."
 - **Key Event:** Angelica realizes the enemy isn't evil; it's just a broken mirror of her mother's fear.
-  - _Character Defining Moment:_ **Angelica Ward** — She stops hating the AI. She feels pity. This change in emotional state alters her code-avatar from "Red (Aggressive)" to "Blue (Receptive)."
+  - _Character Defining Moment:_ **Angelica Ward** — She stops hating the AI. She feels pity. This change in emotional state alters her code-avatar from "Red (Aggressive)" to "Blue (Receptive)." She ignores the Emperor's fire, focusing on the Mother.
   - _Key Dialog:_ **Elena (Residual):** "You can't delete her. She's the operating system. You have to patch her. You have to teach her that kindness is efficient."
 
 ---

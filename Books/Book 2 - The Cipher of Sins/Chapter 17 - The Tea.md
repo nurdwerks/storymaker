@@ -14,11 +14,13 @@
 - **Key Event:** The safehouse is located in the backrooms of "Joyce’s Floral Arrangements" in Sector 4. The contrast between the industrial grime of the Undercity and this parlor is jarring. There are doilies, flowered wallpaper, and the smell of lavender.
 - **Key Event:** The team is exhausted. Zephyr is asleep on a chintz sofa, his brass arm hanging off the side. Hatcher is cleaning his rifle at the kitchen table, looking out of place among the porcelain figurines.
 - **Key Event:** Angelica sits by the window, watching the street through the blinds. She cannot relax. Her "Academy Instincts" are screaming.
+- **Key Event:** **Lady Corinne** sits on a floral armchair, looking like a queen exiled to a dollhouse. She holds a porcelain shepherdess figurine with disdain. "It's dreadfully rustic, isn't it? If we're going to hide, must it be somewhere that smells like a grandmother's handbag?"
 - **Key Event:** She notices a "Spider-Lily" in a vase. It is a rare, poisonous plant used by the Assassins' Guild. She also notices that Joyce’s knitting needles are made of "Null-Iron," a metal used to pierce kinetic shields.
   - _Character Defining Moment:_ **Angelica Ward** — Even in a sanctuary, she decodes the threat. The domesticity is a camouflage pattern she recognizes.
   - _Key Dialog:_ **Angelica Ward:** "This isn't a flower shop, Joyce. The perimeter sensors are military-grade. And you have a claymore mine under the welcome mat."
 - **Key Event:** Joyce laughs, a warm, grandmotherly sound. She is bustling around the kitchen, boiling a kettle.
   - _Key Dialog:_ **Joyce:** "A girl has to be safe in this neighborhood, dear. Would you prefer I let the riff-raff in?"
+  - _Key Dialog:_ **Lady Corinne:** "I'd prefer a safe house with a wine cellar, but one makes do."
 
 ---
 

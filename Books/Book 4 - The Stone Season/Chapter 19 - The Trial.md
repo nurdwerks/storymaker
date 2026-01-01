@@ -62,13 +62,17 @@
 ### Scene 4: The Result
 
 - **Key Event:** The mob disperses efficiently, their bloodlust sated by the social demotion of the Doctor. They return to their hovels.
-- **Key Event:** Angelica is left standing alone in the plaza with Ria, who had been watching from the shadows with her rifle, ready to intervene if the speech failed.
+- **Key Event:** Angelica is left standing alone in the plaza with Ria, who had been watching from the shadows with her rifle, ready to intervene if the speech failed. **General Ironwood** stands at parade rest near the filtration machinery, his face unreadable. He watched the entire proceeding without intervening, allowing the civilian leadership to handle civilian matters. But his hand never left his sidearm.
 - **Key Event:** Ria approaches, looking at Angelica with a mix of respect and disgust.
   - _Key Dialog:_ **Ria:** "That was cold, Ward. You sold him. You saved his neck, but you sold him."
 - **Key Event:** Angelica wipes sweat from her brow. She is shaking slightly—the adrenaline dump of facing down a mob.
   - _Key Dialog:_ **Angelica Ward:** "I didn't sell him, Ria. I secured an asset. We need the recycler fixed."
 - **Key Event:** Ria spits on the spot where Aris was kneeling.
   - _Key Dialog:_ **Ria:** "You're becoming one of them. You're becoming Vane. Just moving pieces on a board. Careful you don't forget which ones are people."
+- **Key Event:** **General Ironwood** approaches, his boots crunching on the metal grating.
+  - _Key Dialog:_ **General Ironwood:** "The crowd needed blood. You gave them humiliation instead. Efficient. The Emperor would have approved of the pragmatism, if not the mercy."
+  - _Key Dialog:_ **Angelica Ward:** "I'm not the Emperor, General."
+  - _Key Dialog:_ **General Ironwood:** "No. You're learning to be something worse. Someone who makes hard calls and has to keep living with them."
 - **Key Event:** Angelica watches Ria walk away. She looks at her own hands. They are steady.
   - _Character Defining Moment:_ **Angelica Ward** — She accepts the burden. If being a monster is what it takes to keep them alive, she will wear the monster's face.
   - _Key Dialog:_ **Angelica Ward:** "I need his brain. I don't need his soul to fix the pipes."

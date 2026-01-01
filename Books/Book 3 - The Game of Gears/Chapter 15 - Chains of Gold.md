@@ -64,6 +64,16 @@
 - **Detailed Description:** She drops to the floor, gasping. Her hand is useless, swelling rapidly. She grabs her thumb with her other hand and snaps it back into place with a sickening _crunch_. She leans against the wall, trembling, sweat pooling at her feet. She looks at the magnetic lock.
   - _Character Defining Moment:_ **Angelica Ward** — She proves that her body is just another machine to her, one she is willing to break to get the job done.
   - _Key Dialog:_ **Angelica Ward:** "Calculus this."
+- **Key Event:** **Hatcher (The Null)** arrives with the rescue team.
+- **Detailed Description:** The wall behind Angelica explodes inward—a shaped charge, precise and professional. **Hatcher** steps through the smoke, his Widowmaker revolver sweeping the room. Behind him is **Ria**, carrying a heavy shield generator, and **Zephyr**, who is already looting the guard's pockets.
+  - _Key Dialog:_ **Hatcher:** "Figures. We blow a hole in the wall and you've already freed yourself. Stubborn runs in the Ward blood."
+- **Key Event:** The Tech Support.
+- **Detailed Description:** A holographic projection of **Lisbet** flickers into existence from a node Zephyr slaps onto the wall. She is frantically typing in her remote bunker.
+  - _Key Dialog:_ **Lisbet (Hologram):** "I've looped the camera feeds, but Vane's algorithms are adapting! We have three minutes before the alarms override my patch! Move!"
+  - _Key Dialog:_ **Ria:** "Three minutes means plenty of time for carnage. Let's go."
+  - _Key Dialog:_ **Zephyr:** " Speak for yourself. I'm allergic to plasma fire."
+  - _Key Dialog:_ **Angelica Ward:** "You're late."
+  - _Key Dialog:_ **Hatcher:** "Traffic was hell. Let's move before Vane's pets wake up."
 
 ### Scene 5: The Power Players
 

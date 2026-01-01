@@ -51,9 +51,12 @@
 - **Key Event:** The Support.
 - **Detailed Description:** **Kaelen Night** leans against a pillar, his sword resting on his shoulder. He nods slowly.
   - _Key Dialog:_ **Kaelen Night:** "Zephyr is right. This technology... it’s slave-making. It strips will. It shouldn't exist. Some doors should stay closed."
+- **Key Event:** The General's Vote.
+- **Detailed Description:** **General Ironwood** steps forward. His metal legs clang on the deck plating. He looks at the console with the cold eye of a strategist.
+  - _Key Dialog:_ **General Ironwood:** "I've seen what Vane does with 'better soldiers'. Burn it, Ward. It's a weapon we can't control, and if we can't control it, we deny it to the enemy. Scorched earth."
 - **Key Event:** The Sneer.
 - **Detailed Description:** Aris looks at them with disdain.
-  - _Key Dialog:_ **Dr. Aris:** "Spoken like a brute. You destroy what you don't understand because it frightens you."
+  - _Key Dialog:_ **Dr. Aris:** "Spoken like brutes. You destroy what you don't understand because it frightens you."
 - **Key Event:** The Rebuttal.
 - **Detailed Description:** Zephyr growls, a deep rumble from his chest speakers.
   - _Key Dialog:_ **Zephyr:** "I understand enough. Every time 'history' shows up on this ship, somebody gets a boot to the neck. I say we melt the keys. The Great Reset. Start over. Clean slate."
@@ -126,7 +129,7 @@
 ### Scene 5: The Witnesses
 
 - **Key Event:** Other survivors join the vigil.
-- **Detailed Description:** As Squad Iron stares at the stars, others emerge from the airlock behind them. **Lisbet (The Glitch)** climbs up, Figment's fading hologram on her shoulder. She finds a spot near Zephyr, her goggles reflecting the nebula's glow. **Hatcher (The Null)** steps onto the observation deck, shotgun slung over his shoulder. He says nothing, just lights a cigarette and watches the void. Even **Baron Gilded**—reduced now to a shivering wreck in borrowed clothes, his wealth meaningless—has followed them. He stares at the stars with hollow, traumatized eyes. Out there, in the infinite dark, his gold means nothing.
+- **Detailed Description:** As Squad Iron stares at the stars, others emerge from the airlock behind them. **Lady Corinne** shivers, pulling her tattered shawl closer. She refuses to look at the stars; the infinity terrifies her. **Joyce** stands silently behind her, blocking the draft from the vent, a human shield against the cold. **Lisbet (The Glitch)** climbs up, Figment's fading hologram on her shoulder. She finds a spot near Zephyr, her goggles reflecting the nebula's glow. **Hatcher (The Null)** steps onto the observation deck, shotgun slung over his shoulder. He says nothing, just lights a cigarette and watches the void. Even **Baron Gilded**—reduced now to a shivering wreck in borrowed clothes, his wealth meaningless—has followed them. He stares at the stars with hollow, traumatized eyes. Out there, in the infinite dark, his gold means nothing.
 
   - _Key Dialog:_ **Lisbet:** "The stars are still there. Figment says they haven't moved. That's... that's something, right?"
   - _Key Dialog:_ **Hatcher:** "Stars don't judge. They just burn. Makes them better company than most."

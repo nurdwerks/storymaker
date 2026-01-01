@@ -14,14 +14,14 @@
 - **Key Event:** The Setting.
 - **Detailed Description:** The cloning facility in Sector 9 is a stark contrast to the rest of the ship. It is sterile, bright white, and freezing cold. Row upon row of cylindrical glass tanks stretch into the darkness, lit by internal UV lights.
 - **Key Event:** The Contents.
-- **Detailed Description:** Inside the tanks are bodies. Suspended in amber nutrient fluid. Tubes connect to their spines and navels.
+- **Detailed Description:** Inside the tanks are bodies. Suspended in amber nutrient fluid. Tubes connect to their spines and navels. Etched into the glass of every tank is the golden eagle crest of **The Emperor**. These aren't just scientific experiments; they are His property.
 - **Key Event:** The Discovery.
 - **Detailed Description:** Angelica walks down the aisle, her boots clicking on the metal grate. She looks into the glass. Her reflection stares back. And behind the reflection, the same face stares out.
 - **Key Event:** The clones.
 - **Detailed Description:** They are all her. Dozens of them. Some are younger—children, teenagers. Some are her age. Some are half-formed, muscle tissue growing over synthetic bone.
 - **Key Event:** The Data.
 - **Detailed Description:** Dr. Aris reads from a nearby console. His face is pale.
-  - _Key Dialog:_ **Dr. Aris:** "Subject: Alpha-One. Batch 42. Purpose: Command and Control redundacy. Genetic Template: Captain Elena Valerius."
+  - _Key Dialog:_ **Dr. Aris:** "Subject: Alpha-One. Batch 42. Purpose: Command and Control redundacy. Property of The Imperial Throne. Genetic Template: Captain Elena Valerius."
 - **Key Event:** The Identity Crisis.
 - **Detailed Description:** Angelica stares at a tank. The clone inside floats peacefully. It has the same hairline. The same chin. Even the same birthmark on the shoulder.
 - **Key Event:** The Horror.

@@ -33,18 +33,17 @@
 - **Detailed Description:** Vane steps up to a control console. He inputs a sequence. The Throne lights up. Monitors flicker to life, displaying complex neurological graphs.
 - **Key Event:** The Display.
 - **Detailed Description:** A holographic brain appears in the air. It is pulsing with red light.
-- **Key Event:** The Explanation.
 - **Detailed Description:** Vane points to the display.
-  - _Key Dialog:_ **Prelate Vane:** "This is the neural load required to pilot the Star-Tear Drive. A standard human brain operates at 15 terahertz. The Drive requires 400. In a normal human, the synapses would fire so rapidly they would physically burn out. The brain would liquefy."
+  - _Key Dialog:_ **Prelate Vane:** "This is the neural load required to pilot the Star-Tear Drive. It was designed for **The Emperor**. He intended to upload his consciousness into the ship to become an eternal, digital god. But the biological transfer failed. His body died, and his mind trapped in the buffer became the 'Ghost' we all fear. The Chair is the only way to override him."
 - **Key Event:** The Mutation.
 - **Detailed Description:** He overlays Angelica's genetic scan onto the hologram. Her neural pathways glow blue.
-  - _Key Dialog:_ **Prelate Vane:** "But you... the Sangreal gene acts as a superconductor. Your neurons can handle the surge. You won't melt. You will integrate."
+  - _Key Dialog:_ **Prelate Vane:** "But you... the Sangreal gene acts as a superconductor. Your neurons can handle the surge. You can displace The Emperor's code. You won't melt. You will integrate."
 - **Key Event:** The Volunteer.
 - **Detailed Description:** General Ironwood steps forward. His mechanical eye whirs loudly, focusing on the chair. He sees the trap enclosing Angelica.
   - _Key Dialog:_ **General Ironwood:** "I'll do it. I'm already half machine. Plug me in. My neurallace is military-grade. Let me die doing something useful."
 - **Key Event:** The Rejection.
 - **Detailed Description:** Vane dismisses him without looking up.
-  - _Key Dialog:_ **Prelate Vane:** "You are a hammer, Ironwood. We need a scalpel. Your brain is scarred by war and rigid with discipline. The Drive requires the flexibility of youth and the specific resonance of her blood. You would last three seconds before you stroked out."
+  - _Key Dialog:_ **Prelate Vane:** "You are a hammer, Ironwood. We need a scalpel. The Emperor's logic virus would crush your military firewall in micro-seconds. The Drive requires the flexibility of youth and the specific resonance of her blood. You would last three seconds before you stroked out."
   - _Character Defining Moment:_ **General Ironwood** — He demonstrates his willingness to sacrifice himself to save a "civilian," adhering to his old-world code of honor even in the face of futile odds.
 
 ### Scene 3: The Preparation
@@ -55,7 +54,7 @@
 - **Detailed Description:** She turns to them.
   - _Key Dialog:_ **Angelica Ward:** "Everyone out. Except Vane. And Kaelen."
 - **Key Event:** The Departure.
-- **Detailed Description:** The crew filters out. **Ria** lingers, looking at the chair with hatred, tears streaming down her face, but Angelica nods to her firmly. Ria leaves. The blast doors seal shut.
+- **Detailed Description:** The crew filters out. **Ria** lingers, looking at the chair with hatred, tears streaming down her face, but Angelica nods to her firmly. **Hatcher** stops at the doorway, racking his shotgun, ready to stand guard outside for eternity. **Lady Corinne**, her face pale, touches Angelica's hand briefly—a silent apology for all the times she doubted. **Lisbet**, realizing she can't hack this, lets out a frustrated sob. **Zephyr** looks at the chair, then at Angelica, and for once, he has no clever remark. He just nods, a solemn salute from a thief to a queen. Ria guides them out. The blast doors seal shut.
 - **Key Event:** The Undressing.
 - **Detailed Description:** Angelica begins to strip off her heavy outer armor—the symbol of her rebellion. She is left in her thin, white flight suit. She shivers, not from cold, but from adrenaline.
 - **Key Event:** The Internal Conflict.

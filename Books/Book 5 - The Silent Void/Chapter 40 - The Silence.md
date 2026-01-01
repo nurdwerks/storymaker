@@ -77,8 +77,9 @@
 - **Key Event:** The Pain.
 - **Detailed Description:** Pain returns. Her body is cramping. Her nose is bleeding. Her head feels like it is splitting open.
 - **Key Event:** The Awakening.
-- **Detailed Description:** She wakes up screaming in the pilot's chair, thrashing against the restraints. Blood runs from her nose and ears. She is back in the _Zenith_. She is back in the war. **Lady Corinne** is there instantly, pressing a cold compress to Angelica's forehead, her voice a soft, grounding murmur amidst the chaos.
+- **Detailed Description:** She wakes up screaming in the pilot's chair, thrashing against the restraints. Blood runs from her nose and ears. She is back in the _Zenith_. She is back in the war. **Lady Corinne** is there instantly, pressing a cold compress to Angelica's forehead, her voice a soft, grounding murmur amidst the chaos. **Hatcher (The Null)** stands by the door, his shotgun lowered but ready. He has been keeping watch, ensuring no one disturbed the Captain's vigil. When Angelica screams, he doesn't flinch—he just nods, confirming she is alive.
 - **Key Dialog:** **Lady Corinne:** "Breathe, darling. You're solids again. We're all solids. The nasty white room is gone."
+- **Key Dialog:** **Hatcher:** "She's back. Get the medic. And someone get her some water—real water, not that recycled garbage."
   - _Key Dialog:_ **Kaelen Night:** "Angelica! Breathe! You're back!"
   - _Key Dialog:_ **Angelica Ward (Gasping):** "Turn off... that damn... alarm."
 

@@ -11,15 +11,14 @@
 
 - **Key Event:** Zephyr leads a scavenging mission into the frozen upper sectors, targeting the abandoned penthouse of Baron Gilded.
 - **Detailed Description:** The upper sectors of the Zenith are a tomb of crystal and ice. What was once the pinnacle of luxury is now a frozen mausoleum. The temperature is forty degrees below zero. Zephyr, Ria, and Angelica move through the corridors wrapped in layers of scavenged thermal insulation. Their breath mists in the air, instantly freezing into crystals on their facemasks. The penthouse door, a slab of reinforced mahogany and gold filigree, is breached by Ria using a pry-bar and brute force. Inside, the opulence is untouched by the chaos below. Silk tapestries hang stiff with frost. The floor is a sheet of black ice reflecting the flashlight beams.
-- **Internal Conflict:** Zephyr fights a war between his old instincts and his new reality. His cyber-eye scans the room, automatically appraising the value of the crystal vases and gold-leaf furniture—millions of credits worth of loot. But his stomach cramps with hunger, reminding him that in this new world, a can of beans is worth more than a diamond. He feels a bitter resentment walking through the home of the man who owned his debt for so long.
-
-  - _Key Dialog:_ **Zephyr:** "Look at this place. Millions in art on the walls, and I bet he didn't have a single can of peaches."
-  - _Key Dialog:_ **Ria:** "Check the pantry. Ignore the shiny stuff."
-  - _Key Dialog:_ **Zephyr:** "If anyone had hoarded food and batteries, it was this golden bastard."
-
+- **Internal Conflict:** Zephyr fights a war between his old instincts and his new reality. His cyber-eye scans the room, automatically appraising the value of the crystal vases and gold-leaf furniture—millions of credits worth of loot. But his stomach cramps with hunger, reminding him that in this new world, a can of beans is worth more than a diamond. He also has a specific shopping list: **General Ironwood** needs mobility. Zephyr is looking for servos, heavy-duty pistons, or anything that can replace the General's lost legs.
+  - _Key Dialog:_ **Zephyr:** "Look at this place. Millions in art on the walls, and I bet he didn't have a single can of peaches. Or a spare pair of legs for the General."
+  - _Key Dialog:_ **Ria:** "Check the pantry. Ignore the shiny stuff. Ironwood is tough, he can wait."
+  - _Key Dialog:_ **Zephyr:** "He can't patrol from a chair, Ria. I promised him I'd find some wheels."
 - **Key Event:** The group navigates the traps left by Gilded's paranoia.
-- **Detailed Description:** As they move deeper into the penthouse, Zephyr's cyber-eye highlights tripwires made of monofilament and pressure plates hidden under the rugs. Gilded protected his hoard even from the grave. Zephyr disarms them with practiced ease, his brass fingers manipulating the delicate mechanisms.
-- **Internal Conflict:** Angelica watches Zephyr work, realizing how much of his "criminal" skill set is actually high-level engineering. She feels a pang of guilt for dismissing him as just a thief in the past.
+- **Detailed Description:** As they move deeper into the penthouse, Zephyr's cyber-eye highlights tripwires made of monofilament and pressure plates hidden under the rugs. Gilded protected his hoard even from the grave. Zephyr disarms them, salvaging a servo-motor from a hidden turret.
+  - _Key Dialog:_ **Zephyr:** "Jackpot. High-torque servo. This'll lift a tank. Ironwood's gonna love it."
+- **Internal Conflict:** Angelica watches Zephyr work, realizing how much of his "criminal" skill set is actually high-level engineering. She feels a pang of guilt for dismissing him as just a thief in the past. He is literally building their General back together.
 
 ---
 

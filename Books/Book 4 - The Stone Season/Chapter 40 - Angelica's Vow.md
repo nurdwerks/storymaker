@@ -80,9 +80,14 @@
 - **Key Event:** The Question.
 - **Detailed Description:** Kaelen joins her. He stands at parade rest, his hand on his sword.
   - _Key Dialog:_ **Kaelen Night:** "Where to now, Captain? Back home? We have the power to return."
-- **Key Event:** The Rejection.
-- **Detailed Description:** Angelica stares at the blue dot. She shakes her head slowly.
-  - _Key Dialog:_ **Angelica Ward:** "No. There's nothing for us there. We aren't refugees anymore. We aren't ghosts haunting a graveyard."
+- **Key Event:** The Speech.
+- **Detailed Description:** Angelica stands before her "crew"—a ragtag mix of nobles, mechanics, and soldiers.
+  - _Key Dialog:_ **Angelica Ward:** "We aren't colonists anymore. We are invaders. We are taking that station. We are turning the power back on. Or we burn."
+- **Key Event:** The Commander.
+- **Detailed Description:** **General Ironwood**, now fitted with makeshift prosthetic struts bolted to his exo-suit, salutes.
+  - _Key Dialog:_ **General Ironwood:** "Company... ready! Weapons check! Green across the board, Commander."
+- **Key Event:** The Launch.
+- **Detailed Description:** The airlock cycles. The roar of the vacuum fills the bay. They step out into the void.
 - **Key Event:** The Future.
 - **Detailed Description:** She turns her back on Earth. She looks out at the star field. At the infinite possibilities.
   - _Key Dialog:_ **Angelica Ward:** "We aren't going back. We’re going forward. We are the masters of the Stone Season now. We survived the dark. And we’re never going to let the sun go out again."

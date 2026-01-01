@@ -16,10 +16,10 @@
 ### Scene 1: The Brain
 
 - **Key Event:** Angelica, Kaelen, Silas, and Corinne infiltrate the ship's Cyber-Core to access the AI Mainframe, "ARIA."
-- **Detailed Description:** The Cyber-Core is a cold, sterile environment located deep within the Command Spire. The walls are lined with banks of servers, their lights blinking in a hypnotic rhythm. The air is frigid, kept at near-absolute zero to cool the processors. The team moves cautiously across the suspended glass walkways. Below them, a chasm of data cables plunges into the darkness. In the center of the room floats a massive, crystalline structure—the physical housing of ARIA, the ship's Artificial Intelligence. It pulses with a soft blue light.
+- **Detailed Description:** The Cyber-Core is a cold, sterile environment located deep within the Command Spire. The walls are lined with banks of servers, their lights blinking in a hypnotic rhythm. The air is frigid, kept at near-absolute zero to cool the processors. The team moves cautiously across the suspended glass walkways. Below them, a chasm of data cables plunges into the darkness. In the center of the room floats a massive, crystalline structure—the physical housing of ARIA, the ship's Artificial Intelligence, merged centuries ago with **The Emperor's** consciousness. It pulses with a soft blue light, the digital heartbeat of their dying god-king.
 - **Key Event:** The team encounters resistance from automated security droids.
-- **Detailed Description:** As they approach the central platform, defense turrets drop from the ceiling. Silas takes point, firing EMP rounds to disable the droids without damaging the sensitive equipment. Kaelen uses his sword to deflect laser fire, protecting Angelica as she hacks the door panel.
-- **Internal Conflict:** Angelica feels a strange connection to the place. It is the brain of the ship. She wonders if the AI is a prisoner like the rest of them, or a jailer.
+- **Detailed Description:** As they approach the central platform, defense turrets drop from the ceiling—activated by The Emperor's territorial instinct, protecting the core of his extended self. Silas takes point, firing EMP rounds to disable the droids without damaging the sensitive equipment. Kaelen uses his sword to deflect laser fire, protecting Angelica as she hacks the door panel.
+- **Internal Conflict:** Angelica feels a strange connection to the place. It is the brain of the ship—and the prison of The Emperor. She wonders if the AI is a prisoner like the rest of them, or a jailer.
 
 ### Scene 2: The Shackle
 

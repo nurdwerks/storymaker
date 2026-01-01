@@ -19,9 +19,9 @@
 - **Detailed Description:** The Solar Gates are massive blast doors located at the zenith of the ship's hull. They control the mirrors that channel starlight into the Bio-Core. Currently, they are sealed, keeping the ship in eternal night. Angelica and her team approach the control console. The room is vast, silent, and cold. Suddenly, the main viewscreen flickers to life. The static clears to reveal a face they know too well.
 - **Detailed Description:** It is **Prelate Vane**. But he is changed. He is no longer just a man in robes. He is wired into the ship's mainframe. Cables run into his spine. His eyes glow with the same blue light as the core. He is not angry; he is ecstatic. He smiles, a beatific, terrifying expression of pure joy. He has achieved what he always wanted: unity with the machine. He sees them not as enemies, but as lost children.
 - **Internal Conflict:** Angelica feels a chill. Vane isn't just a villain; he's a believer. He genuinely thinks he is saving them. This makes him far more dangerous than a sadist. He has the conviction of a prophet.
-
   - _Character Defining Moment:_ **Prelate Vane** — He displays his "Joy." He believes he has solved the equation of suffering by removing free will.
-  - _Key Dialog:_ **Prelate Vane:** "Don't you see, Angelica? The season is over! The light is returning! And I am the one who will harvest it for us! I am the lens! I am the conduit!"
+  - _Key Dialog:_ **Prelate Vane:** "Don't you see, Angelica? The season is over! The light is returning! I have spoken to **The Emperor** in the code! He was right. The flesh is weak. The machine is eternal!"
+  - _Key Dialog:_ **Prelate Vane:** "I am the lens! I am the conduit! I am the Son who finishes the Father's work!"
 
 ### Scene 2: The Offer / The Negotiation
 

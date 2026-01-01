@@ -107,6 +107,10 @@
   - _Key Dialog:_ **Duke Grey (Amplified):** "Night! Open this door! Deliver the package! Do not make me come in there!"
 - **Key Event:** The Silence.
 - **Detailed Description:** Kaelen doesn't answer. He stacks chairs. He moves shelves. He creates a "kill-box"—a funnel of death at the entryway.
+- **Key Event:** The Observer.
+- **Detailed Description:** From the rooftop of the adjacent habitation block, **Lady Vesper** watches through a long-range scope. She is not here for the girl—that's Duke Grey's obsession. She is here to witness Kaelen's choice. When he barricades the door instead of opening it, she smiles. A traitor in the Night house is valuable intelligence. She opens a secure channel to the Prelate.
+  - _Key Dialog:_ **Lady Vesper (encrypted comm):** "The Shadow of Night has turned, Prelate. He's protecting the Ward girl. Duke Grey has lost his dog."
+  - _Key Dialog:_ **Prelate Vane (comm response):** "Interesting. Let the Duke clean up his own mess. When Night survives—and he will—he becomes our asset. A traitor once is a traitor always."
 - **Key Event:** The Parting.
 - **Detailed Description:** Angelica stops at the bottom of the basement stairs. She looks up at him one last time.
   - _Key Dialog:_ **Angelica Ward:** "Why?"

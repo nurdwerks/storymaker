@@ -20,15 +20,16 @@
 - **Internal Conflict:** Angelica's mind is fracturing. For three books, she has been the "Architect," the "Captain," the one with the plan. Now, she is just a sister who failed. She feels the weight of every decision that led to this moment. She recruited him. She brought him to the Zenith. She put him in the line of fire. The logic of her mission collapses under the weight of her grief. She feels like she is drowning in dry air.
   - _Key Dialog:_ **Angelica:** (Whispering) "I fixed the drone. I fixed the lock. Why couldn't I fix this? Why didn't the math work?"
 
-### Scene 2: The Safe House
+### Scene 2: The Silent Eulogy
 
-- **Key Event:** The tram arrives at the safe house in the Industrial District—a disused water filtration plant.
-- **Detailed Description:** The doors hiss open. The air is damp and smells of rust and chemicals. Silas carries Angelica out. She is catatonic now, her limbs limp. He lays her on a cot in the corner of the main control room. The room is filled with pipes and old dials. Corinne starts boiling water—a useless, domestic instinct kicking in amidst the horror. Kaelen stands by the window, watching the skyline for pursuit drones. The silence in the room is heavy, suffocating.
-- **Key Event:** Silas and Corinne discuss the tactical and emotional impact of Leo's death.
-- **Detailed Description:** They step away from Angelica, speaking in hushed tones near the bubbling kettle. Silas looks old. He cleans his gun mechanically, stripping it down and reassembling it. Corinne is pacing, her high-heeled boots clicking on the metal grating.
-  - _Character Defining Moment:_ **Corinne** — She drops her mask of the vapid socialite. She looks terrified, not for herself, but for Angelica. She realizes that Leo was Angelica's "anchor"—the thing that kept her human. Without him, she fears what Angelica will become.
-  - _Key Dialog:_ **Silas:** "The kid was good. He didn't deserve a hole in his chest. This war... it eats the best parts first."
-  - _Key Dialog:_ **Corinne:** "It's not just the war, Silas. It's her. Leo was her conscience. Without him... I don't know who she is. I don't think she knows either."
+- **Key Event:** The core group of the Resistance gathers in the main room for a makeshift memorial service for Leo.
+- **Detailed Description:** There is no body to bury; Vane kept it. Instead, they gather around a small fire built in an oil drum. On a crate, they have placed Leo's few possessions: his favorite deck of cards, a half-eaten protein bar he was saving, and a small wooden toy he carved. The mood is somber. Silas stands in the shadows, hat in hand. Corinne weeps openly. Kaelen stands at attention, a soldier honoring a fallen comrade.
+- **Key Event:** Angelica enters the room. She does not look at the shrine.
+- **Detailed Description:** She is covered in grease and soot. She walks to the center of the room. She picks up the deck of cards. She looks at them for a long moment, then throws them into the fire. The cards curl and blacken.
+  - _Key Dialog:_ **Angelica Ward:** "We don't mourn him today. We avenge him tomorrow. No more hiding. No more negotiating. We are the storm."
+- **Key Event:** **Lady Vesper** watches through a hidden surveillance feed.
+- **Detailed Description:** Across the sector, in a monitoring station controlled by Vane's intelligence network, **Lady Vesper** observes the memorial through a microscopic camera planted in the safe house's ventilation system. She notes Angelica's transformation—the cold eyes, the mechanical movements. She records everything. The Ward girl is no longer a distressed idealist; she is becoming something harder. More dangerous. And more useful.
+  - _Key Dialog:_ **Lady Vesper (to herself):** "Grief breaks the weak. It forges the strong. You're becoming interesting, Ward."
 
 ### Scene 3: The Void
 

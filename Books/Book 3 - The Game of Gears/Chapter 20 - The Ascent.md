@@ -36,7 +36,12 @@
 ### Scene 3: The Gauntlet
 
 - **Key Event:** The Climber enters the defensive perimeter of the Zenith, triggering automated turret defenses.
-- **Detailed Description:** As they cross the threshold into the Upper Levels, the shaft widens. Defense turrets, dormant for decades, swivel out from the walls. They track the heat signature of the Climber's engine. Red laser sights paint the platform. The turrets open fire. Tracers streak through the shaft. Bullets spark off the Climber's hull, punching holes in the floor plating. The noise is deafening—the roar of the engine, the wind, the _ping-ping-ping_ of impacts.
+- **Detailed Description:** As they cross the threshold into the Upper Levels, the shaft widens. Defense turrets, dormant for decades, swivel out from the walls—ancient guardians. In the Command Center above, **General Ironwood** watches the radar. He sees the unauthorized movement in the shaft. He assumes it's a Silt-Rat bomb. He authorizes lethal force.
+  - _Key Dialog:_ **General Ironwood:** "Intruder in Shaft 4. Engage. Clear the tube."
+- **Key Event:** Lord Cromwell panics.
+- **Detailed Description:** Standing next to Ironwood, **Lord Cromwell** watches the monitors. He sees the tracers chewing up the shaft walls—walls that belong to his industrial sector.
+  - _Key Dialog:_ **Lord Cromwell:** "Careful, General! Those are Grade-A Durasteel panels! You're damaging my assets! Shoot the trespassers, not the real estate!"
+- **Detailed Description:** The turrets open fire. Tracers streak through the shaft. Bullets spark off the Climber's hull, punching holes in the floor plating. The noise is deafening—the roar of the engine, the wind, the _ping-ping-ping_ of impacts.
 - **Key Event:** The Androids sacrifice themselves to protect the biological crew.
 - **Detailed Description:** Unit Alpha and his squad do not take cover. They stand up. They form a living wall of metal around Angelica, Silas, and Corinne. They use their own bodies as shields. Bullets tear through their synthetic flesh, shattering servos and processing cores. Blue hydraulic fluid sprays across the deck. One android takes a round to the head and topples off the edge, falling silently into the dark. Another loses an arm but keeps firing his rifle one-handed.
 - **Key Event:** Unit Alpha is critically damaged while shielding Angelica.

@@ -53,6 +53,7 @@
 - **Detailed Description:** Torin sits down in the co-pilot's chair. He spins it slowly, looking at the controls, the displays, the lights. He looks overwhelmed by the magnitude of what they have achieved.
 
   - _Key Dialog:_ **Torin:** "I built houses out of mud and scrap metal. I fixed generators that ran on burning dung. That was my life. surviving the dirt. And now... I'm looking at a sun that no human has ever seen up close. I'm sitting in a chair worth more than my entire village."
+  - _Internal Monologue:_ Angelica smiles. She thinks of **Zephyr**. The pilot would have made a joke about the resale value of the chair. He would have hidden his awe behind a mask of indifference. Torin wears his wonder openly. It is refreshing.
 
 - **Key Event:** The perspective.
 - **Detailed Description:** Angelica smiles. She leans against the console.

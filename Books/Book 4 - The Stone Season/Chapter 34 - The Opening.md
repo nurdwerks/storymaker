@@ -11,8 +11,11 @@
 
 - **Key Event:** The survivors crowd into the final airlock chamber.
 - **Detailed Description:** The chamber is a massive, cylindrical room lined with ribbed padding and handholds. The air smells sterile and recycled, a sharp contrast to the rot and smoke of the lower levels. As the heavy inner door seals with a hydraulic hiss, the pressure in the room drops. The ambient noise of the ship—the hum of ventilation, the vibration of the engines—fades away, leaving a thick, heavy silence. The lighting shifts from white to red emergency strobes.
-- **Internal Conflict:** The group is terrified. They have spent their entire lives under a stone sky. The concept of "outside" is theoretical and terrifying. Kaelen grips his sword hilt, his knuckles white, seeking comfort in a weapon that is useless against a vacuum.
+- **Internal Conflict:** The group is terrified. They have spent their entire lives under a stone sky. The concept of "outside" is theoretical and terrifying. Kaelen grips his sword hilt.
+- **Key Event:** The Check.
+- **Detailed Description:** **General Ironwood** moves down the line, checking flight suits and magnetic boots. He treats this not as an exploration, but as a deployment. He slaps Kaelen on the shoulder.
 
+  - _Key Dialog:_ **General Ironwood:** "Check your seals, Night. Space doesn't care if you're brave, only if you're airtight."
   - _Key Dialog:_ **Kaelen Night:** "My ears are popping. The air is getting thin."
   - _Key Dialog:_ **Dr. Aris:** "Equalizing pressure. Don't swallow. Yawn."
   - _Key Dialog:_ **Ria:** "If this door opens and there's nothing there, I'm going to kill you, Aris."

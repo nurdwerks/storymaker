@@ -15,7 +15,7 @@
 
 ### Scene 1: The Key
 
-- **Key Event:** Angelica Ward stands before the Master Navigation Console on the bridge of the *Aeterna*, preparing to unlock the restricted coordinates.
+- **Key Event:** Angelica Ward stands before the Master Navigation Console on the bridge of the _Aeterna_, preparing to unlock the restricted coordinates.
 - **Detailed Description:** The console is a monolith of black glass and ancient brass, untouched for centuries. It sits in the center of the bridge, elevated on a dais like an altar. Angelica approaches it slowly. Her hands are shaking slightly, not from fear, but from the residual adrenaline of the battle for the Spire. The room is silent; the crew watches her with bated breath. She places her hand on the biometric scanner. A needle pricks her palm, drawing a drop of blood. The machine hums, a deep, resonant sound that vibrates through the deck. Lights flicker on across the console, shifting from dormant red to active green. The screen flares to life, displaying a complex star chart that has been locked away since the ship left Earth.
 - **Internal Conflict:** Angelica feels the weight of her bloodline. This moment is what she was bred for, what her mother died for. But she also feels a crushing sense of impostor syndrome. Is she really the Captain, or just the girl with the right DNA? She pushes the doubt aside. The ship needs a pilot, not a philosopher.
 - **Key Event:** The console reveals the "True Path" back to Earth, a route that leads directly through a hazardous nebula known as "The Darkness."
@@ -31,9 +31,12 @@
 
 ### Scene 3: The Departure
 
-- **Key Event:** The main drive of the *Aeterna* fires for the first time in centuries, initiating the journey.
-- **Detailed Description:** Deep in the engineering hull, the reactor core pulses. The main thrusters, massive cones of titanium the size of cathedrals, ignite. A blue flame, hotter than a star, erupts into the vacuum. The ship shudders as the inertia dampeners fight to compensate for the sudden acceleration. The groan of metal is deafening, a chorus of awakening giants. The *Aeterna* begins to turn. Slowly, majestically, the massive vessel pivots away from the Zenith station and points its nose toward the Nebula. Dust and debris are blown away by the exhaust plume.
-- **Internal Conflict:** Angelica feels the thrust through the soles of her boots. It feels like the ship is alive, waking up from a long coma. She feels a connection to it—the "Interface" tingling at the base of her skull. She is not just piloting the ship; she *is* the ship.
+- **Key Event:** The main drive of the _Aeterna_ fires for the first time in centuries, initiating the journey.
+- **Detailed Description:** Deep in the engineering hull, the reactor core pulses. The main thrusters, massive cones of titanium the size of cathedrals, ignite. A blue flame, hotter than a star, erupts into the vacuum. The ship shudders as the inertia dampeners fight to compensate for the sudden acceleration. The groan of metal is deafening, a chorus of awakening giants. The _Aeterna_ begins to turn. Slowly, majestically, the massive vessel pivots away from the Zenith station and points its nose toward the Nebula. Dust and debris are blown away by the exhaust plume.
+- **Key Event:** **Lady Vesper** watches from the ruins of the Command Spire.
+- **Detailed Description:** In the rubble of Vane's shattered office, **Lady Vesper** stands at a broken viewport, one arm hanging limp from her injuries. She watches the ship begin its turn toward the Nebula. Her face is unreadable—neither rage nor grief, but calculation. Vane is gone, escaped through a private shuttle. The old order is ash. But Lady Vesper has always survived by reading the currents. She opens a comm channel to a neutral frequency—a pre-arranged signal to unknown contacts.
+  - _Key Dialog:_ **Lady Vesper (into comms):** "The ship is underway. Ward has the helm. The Prelate has retreated. Awaiting instructions."
+- **Internal Conflict:** Angelica feels the thrust through the soles of her boots. It feels like the ship is alive, waking up from a long coma. She feels a connection to it—the "Interface" tingling at the base of her skull. She is not just piloting the ship; she _is_ the ship.
 
 ### Scene 4: Into the Unknown
 

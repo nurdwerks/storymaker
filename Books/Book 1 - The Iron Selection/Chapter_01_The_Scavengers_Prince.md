@@ -100,9 +100,12 @@
 
   - _Drone Voice:_ "Warning. Leaving designated zone. Trespassing in automated sectors is dangerous."
 
+- **Key Event:** The Image of Authority.
+- **Detailed Description:** As looking up at the Spire, a massive holographic projection flickers to life against the smog. It is **The Emperor**, his golden mask flawless, his eyes benevolent and cold. The projection loops a silent benediction, his hands raised as if shielding the city from the sky he despises.
 - **Key Event:** The philosophy.
-- **Detailed Description:** Angelica pauses at a rusted hatch. She looks down at the sprawling, broken city below her—the flickering lights, the smoke, the misery. Then she looks up at the gleaming spire of the Zenith.
+- **Detailed Description:** Angelica pauses at a rusted hatch. She stares at the hologram.
   - _Character Defining Moment:_ **Angelica Ward** — Articulates her worldview. She is not a mechanic who restores things to their original state; she is a re-creator. She fixes things by breaking them in new ways.
+  - _Key Dialog:_ **Angelica Ward:** "Nice mask, old man. But we all know there's just wires underneath."
   - _Key Dialog:_ **Angelica Ward:** "I don't fix things to make them work, metal-head. I fix things to prove they're broken. And this whole city? It's broken. It's running on bad code."
   - _Key Dialog:_ **Angelica Ward:** "Let's go void the warranty. Let's show them what a couple of rats can do to their shiny machine."
 

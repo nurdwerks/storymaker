@@ -55,18 +55,23 @@
 ### Scene 4: The Goodbye
 
 - **Key Event:** The group fractures.
-- **Detailed Description:** The airlock incident proves that the ship is actively hostile. Panic wins out over logic. Torque uses the fear to rally his followers. "Stay here and get vented into space, or come with me to the garden!" Half the survivors—twenty people—begin packing their meager belongings. They choose the hope of the Hydroponics Bay over the terror of the Emperor's haunting.
+- **Detailed Description:** The airlock incident proves that the ship is actively hostile. Panic wins out over logic. Torque uses the fear to rally his followers. "Stay here and get vented into space, or come with me to the garden!" Half the survivors—twenty people—begin packing their meager belongings. They choose the hope of the Hydroponics Bay over the terror of the Emperor's haunting. **Baron Gilded** stands frozen between the two groups, his instinct for self-preservation warring with his fear of the unknown. He clutches his empty coin purse—a habit from when it meant something.
+
+  - _Key Dialog:_ **Baron Gilded:** "What's the exchange rate? Someone tell me the variables. I can't calculate without variables..."
 
 - **Key Event:** Angelica's choice.
-- **Detailed Description:** Hatcher, Angelica's second-in-command, puts a hand on his weapon. "We can't let them go, Ward. They'll die. We have to stop them." Angelica watches them pack. She runs the probability curves in her head. Stopping them by force would result in 40% casualties. Letting them go results in 100% casualties for them, but 0% for her group.
+- **Detailed Description:** Hatcher, Angelica's second-in-command, puts a hand on his weapon. "We can't let them go, Ward. They'll die. We have to stop them." Angelica watches them pack. She runs the probability curves in her head. Stopping them by force would result in 40% casualties. Letting them go results in 100% casualties for them, but 0% for her group. **General Ironwood** steps forward, hand on his sidearm.
+
+  - _Key Dialog:_ **General Ironwood:** "I can stop them. Declare martial law. Force them to stay."
+  - _Key Dialog:_ **Angelica Ward:** "No. Put the gun away, General. Hatcher. We aren't jailers. If they want to walk into the dark, that's their choice."
 
   - _Character Defining Moment:_ **Angelica Ward** — She chooses to let them go, acknowledging their right to choose their own "exit," even if that exit is death. She refuses to be a tyrant who forces compliance.
-  - _Key Dialog:_ **Angelica Ward:** "No. Put the gun away, Hatcher. We aren't jailers. If they want to walk into the dark, that's their choice."
   - _Key Dialog:_ **Torque:** "Better dead than lab rats. Better free than led by Zenith trash."
   - _Key Dialog:_ **Angelica Ward (softly):** "Goodbye, Torque. Try to hold your breath."
 
 - **Key Event:** The departure.
-- **Detailed Description:** The group of twenty leaves. The blast doors seal behind them. The silence in the cargo bay is heavy. The remaining twenty-two survivors look to Angelica. They are the ones who chose logic over hope.
+- **Detailed Description:** The group of twenty leaves. The blast doors seal behind them. The silence in the cargo bay is heavy. The remaining twenty-two survivors look to Angelica. They are the ones who chose logic over hope. **Baron Gilded** is still there, having stayed. He sinks to the floor, staring at the sealed door.
+  - _Key Dialog:_ **Baron Gilded:** "I stayed because I can't walk that far. Not because I believe. I want that noted."
 
 ### Scene 5: The Burden
 

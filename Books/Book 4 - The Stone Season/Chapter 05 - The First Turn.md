@@ -27,8 +27,15 @@
 
 ### Scene 3: The Eyes
 
-- **Key Event:** The transformed Vermillion stands up and looks directly at the security camera. His eyes have changed—the sclera and iris are gone, replaced by a solid, pitch-black void that leaks a black, tar-like ichor.
-- **Detailed Description:** The face of Lord Vermillion is slack, the jaw hanging open. His fine silk clothes are torn and stained. But the eyes are the focus. They do not blink. They do not scan. They simply stare. The black fluid ("The Blight") weeps from his tear ducts, staining his cheeks like mascara. He tilts his head, sniffing the air, sensing something the camera cannot pick up.
+- **Key Event:** The confrontation.
+- **Detailed Description:** Hatcher steps forward. He doesn't draw his weapon. He just looks at the gang leader with bored, tired eyes.
+  - _Key Dialog:_ **Hatcher:** "Three seconds. That's how long you have to decide if this is worth dying for."
+- **Key Event:** The Iron Wall.
+- **Detailed Description:** **General Ironwood** (carried by Zephyr) raises his pistol. Even crippled, his aim is steady.
+  - _Key Dialog:_ **General Ironwood:** "Flank left, Night. Hatcher, center. I have the high ground. Drop them."
+- **Key Event:** The hesitation.
+- **Detailed Description:** The gang leader looks at Hatcher's confidence. He looks at Ironwood's discipline. He realizes this isn't a group of refugees. It's a squad. He lowers his rusty pipe.
+  - _Key Dialog:_ **Gang Leader:** "Not worth the ammo. Keep the trash." They do not blink. They do not scan. They simply stare. The black fluid ("The Blight") weeps from his tear ducts, staining his cheeks like mascara. He tilts his head, sniffing the air, sensing something the camera cannot pick up.
 - **Internal Conflict:** Angelica feels a profound sadness seeing the ruin of a man she once saw at court. It is the ultimate erasure of identity. The "person" is gone, replaced by a biological imperative. She realizes that if she dies out there, she won't just end; she will become this.
   - _Character Defining Moment:_ **Angelica Ward** — Observes the loss of humanity in a man she previously knew as a noble, steeling herself against the horror to analyze the threat.
   - _Key Dialog:_ **Dr. Aris:** "They don't see. They sense. Pheromones. Heat. Resonance. They are hunting dogs. And we are the fox."

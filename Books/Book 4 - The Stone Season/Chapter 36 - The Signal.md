@@ -35,7 +35,7 @@
 - **Internal Conflict:** Dr. Aris feels a chill in his logic circuits. He recognizes the encryption protocol. It is an archaic version of the Imperial code, dating back to the Founding Era. This implies that whatever is out there was put there by their ancestors—not to save them, but to watch them.
 
   - _Character Defining Moment:_ **Dr. Aris (The Sleepless Eye)** — He prioritizes the data over the emotional impact, instantly categorizing the threat level. He identifies the signature as a "Vane-Protocol" remnant—a containment system designed by Prelate Vane's lineage.
-  - _Key Dialog:_ **Dr. Aris:** "The signal is an echo of the quarantine. We weren't lost; we were locked away. This isn't a rescue boat. It's a prison guard."
+  - _Key Dialog:_ **Dr. Aris:** "The signal is an echo of the quarantine. We weren't lost; we were locked away. The underlying carrier wave... it's **The Emperor's** personal frequency. He didn't just abandon us; He locked the door."
   - _Key Dialog:_ **Zephyr:** "So, we rang the doorbell, and the security system woke up? Fantastic."
 
 ---

@@ -70,10 +70,10 @@
 ### Scene 5: The Changed Men
 
 - **Key Event:** Unlikely witnesses.
-- **Detailed Description:** At the back of the observation deck, two figures stand apart from the main group. **Hatcher (The Null)** leans against the doorframe, his shotgun forgotten at his feet. He has seen horrors in his years as a detective, but nothing prepared him for this—the vast, uncaring void that reduces all his cynicism to dust. Next to him, **Baron Gilded** stands in borrowed rags, a shell of his former self. The man who once commanded fortunes now stares at infinity with hollow eyes. For the first time in his life, he understands that wealth means nothing in the dark between stars.
-
+- **Detailed Description:** At the back of the observation deck, three figures stand apart from the main group. **Hatcher (The Null)** leans against the doorframe, smoking. **Baron Gilded** stands in borrowed rags. And **General Ironwood** stands at rigid attention, leaning lightly on a metal cane. He stares at the stars with the look of a man facing a firing squad—unafraid, but respectful of the magnitude.
   - _Key Dialog:_ **Hatcher:** "All those cases. All those criminals I chased. We were just rats fighting over scraps in a jar. And the jar's floating in... that."
   - _Key Dialog:_ **Baron Gilded:** "I owned half the Zenith. Now I can't even own my next breath. The void doesn't accept credit."
+  - _Key Dialog:_ **General Ironwood:** "It's clean. No mud. No ruins. Just... room to move. It's a strategic nightmare, but it's beautiful."
 
 ---
 

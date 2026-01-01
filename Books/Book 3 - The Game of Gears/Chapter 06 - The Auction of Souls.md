@@ -16,9 +16,9 @@
 ### Scene 1: The Descent into the Pit
 
 - **Key Event:** Angelica Ward and Lady Corinne travel from the Zenith down to the Auction Hall on Level 30.
-- **Detailed Description:** The Auction Hall is a massive, circular arena carved into the ship's superstructure. It was originally a cargo bay, but now it serves as the marketplace for human labor. The air is thick with the smell of unwashed bodies and expensive cologne—the scent of the rich buying the poor. The lighting is harsh and theatrical, spotlighting the central stage while leaving the tiers of seats in shadow. Angelica wears her grey dress like armor. Corinne holds a scented handkerchief to her nose.
+- **Detailed Description:** The Auction Hall is a massive, circular arena carved into the ship's superstructure. It was originally a cargo bay, but now it serves as the marketplace for human labor. The air is thick with the smell of unwashed bodies and expensive cologne—the scent of the rich buying the poor. The lighting is harsh and theatrical, spotlighting the central stage while leaving the tiers of seats in shadow. Above the stage, a hologram of **The Emperor** delivers a pre-recorded address about "The Sacred Duty of Labor" and "The Honor of Service"—propaganda designed to legitimize the sale of human beings. Angelica wears her grey dress like armor. Corinne holds a scented handkerchief to her nose.
 - **Key Event:** Angelica comments on the nature of the auction.
-- **Detailed Description:** As they walk down the aisle, Angelica notes the faces of the bidders. They are bored. Buying people is a mundane chore to them, like grocery shopping.
+- **Detailed Description:** As they walk down the aisle, Angelica notes the faces of the bidders. They are bored. Buying people is a mundane chore to them, like grocery shopping. Above, the Emperor's hologram speaks of "Shared Sacrifice"—a phrase that makes Angelica's teeth grind.
   - _Key Dialog:_ **Lady Corinne:** "It's necessary, Angie. The ship needs labor. Contracts are the only way to manage the population."
   - _Key Dialog:_ **Angelica Ward:** "It's not management, Corinne. It's salvage. You're stripping them for parts. Slavery just makes the collapse profitable."
 

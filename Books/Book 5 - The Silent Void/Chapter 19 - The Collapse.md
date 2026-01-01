@@ -12,7 +12,8 @@
 ### Scene 1: The White Hole
 
 - **Key Event:** The Inversion.
-- **Detailed Description:** The black dot of the singularity, having consumed **Dr. Aris** and his equipment, reaches critical mass. It cannot sustain its infinite density in the unstable environment of Sector X. It inverts. In a fraction of a second, it shifts from absorbing all light to expelling all energy.
+- **Detailed Description:** The black dot of the singularity, having consumed **Dr. Aris** and his equipment, reaches critical mass. Before he vanishes, Aris screams one last discovery into the comms.
+  - _Key Dialog:_ **Dr. Aris (Comms):** "It's not a natural phenomenon! It's a containment breach! **The Emperor** built this! It's a garbage disposal for timelines he didn't like! He's erasing us!"
 - **Key Event:** The Light.
 - **Detailed Description:** A blinding flash of white light erupts from the center of the clearing. It is brighter than a star, searing the retinas of anyone looking directly at it. **Angelica Ward** shields her faceplate, but the light is so intense she can see the bones in her hands through her gloves.
 - **Key Event:** The Shockwave.
@@ -22,7 +23,7 @@
 - **Key Event:** The Freeze.
 - **Detailed Description:** Clouds form instantly as the pressure drops and the temperature plummets. The moisture in the air turns into ice crystals, creating a chaotic blizzard. The once humid jungle becomes a frozen wasteland in seconds.
 - **Key Event:** The Anchor.
-- **Detailed Description:** Angelica instinctively grabs a railing near the observation deck, locking her mag-boots to the floor. The wind pulls at her legs, threatening to tear her grip loose.
+- **Detailed Description:** Angelica instinctively grabs a railing near the observation deck, locking her mag-boots to the floor.
   - _Character Defining Moment:_ **Angelica Ward** — She acts as the anchor for the team, her voice cutting through the panic even as she cleans the ice from her visor.
   - _Key Dialog:_ **AI (Emergency Broadcast):** "Hull integrity compromised. Atmospheric venting in progress. Seal bulkheads immediately. Warning: Biological containment failed. Sector purge imminent."
   - _Key Dialog:_ **Hatcher:** "The sky is breaking! Run for the airlock! Move or die! Don't let go of the line!"

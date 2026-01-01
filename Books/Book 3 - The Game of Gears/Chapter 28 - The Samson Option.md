@@ -16,9 +16,9 @@
 ### Scene 1: The Impossible Choice
 
 - **Key Event:** In the cramped strategy room of the safe house, Angelica Ward outlines her plan to breach the impregnable defenses of the Command Spire.
-- **Detailed Description:** The strategy room is a repurposed pump station, the air thick with humidity and the smell of algae. A holographic map of the Spire floats above the central table, flickering in the damp air. The Spire is a fortress—shielded, armed with automated turrets, and guarded by Vane's Elite Peacekeepers. Angelica points to the massive gravity tethers that anchor the floating structure to the main hull of the ship. She proposes the "Samson Option": cutting the tethers. The physics are simple. Without the anchors, the Spire's artificial gravity will conflict with the ship's rotation. The structure will sheer off, crashing into the plaza below. It will destroy the Spire, kill Vane, and end the war in one stroke. It will also kill everyone inside and thousands in the impact zone.
+- **Detailed Description:** The strategy room is a repurposed pump station, the air thick with humidity and the smell of algae. A holographic map of the Spire floats above the central table, flickering in the damp air. The Spire is a fortress—shielded, armed with automated turrets controlled by **The Emperor's** integrated defense grid, and guarded by Vane's Elite Peacekeepers. The Emperor's AI consciousness monitors every approach, every heat signature, every unauthorized transmission. Angelica points to the massive gravity tethers that anchor the floating structure to the main hull of the ship. She proposes the "Samson Option": cutting the tethers. The physics are simple. Without the anchors, the Spire's artificial gravity will conflict with the ship's rotation. The structure will sheer off, crashing into the plaza below. It will destroy the Spire, kill Vane, and end the war in one stroke. It will also kill everyone inside and thousands in the impact zone.
 - **Internal Conflict:** Angelica looks at the red simulation lines showing the collapse. She feels a cold detachment. The people in the Spire—the nobles, the bureaucrats, the sycophants—have lived off the suffering of the Silt for generations. To her, they are not civilians; they are parasites. She justifies the carnage as a surgical excision of a tumor. But a small part of her, the part that remembers Leo's laugh, recoils at the scale of the death. She silences that voice. Leo is dead. Mercy is dead.
-  - _Key Dialog:_ **Angelica Ward:** "We can't storm the gates. They have the high ground, the weapons, and the shields. So we don't climb the mountain. We bring the mountain down. We cut the tethers. Gravity does the rest."
+  - _Key Dialog:_ **Angelica Ward:** "We can't storm the gates. They have the high ground, the weapons, and the shields. The Emperor's systems watch everything. So we don't climb the mountain. We bring the mountain down. We cut the tethers. Gravity does the rest."
   - _Key Dialog:_ **Angelica Ward:** "No more hiding. No more negotiating. We are the storm."
 
 ### Scene 2: The Debate
@@ -57,7 +57,18 @@
   - _Key Dialog:_ **Zephyr:** "I can get the charges. Gonna cost us, though. Three favors and my emergency stash. But if we're tilting a skyscraper, might as well do it with the good stuff."
   - _Key Dialog:_ **Angelica:** "Make it happen, Zephyr. Whatever it costs."
   - _Key Dialog:_ **Zephyr:** "Put it on my tab, Princess. Add it to the rest."
+  - _Key Dialog:_ **Zephyr:** "Put it on my tab, Princess. Add it to the rest."
   - _Key Dialog:_ **Joyce:** (From the shadows, polishing a monocle) "Don't worry about the favors, Mr. Zephyr. I've already called in the debts. The smugglers owe _me_, and by extension, they owe you. Just make sure the explosives are fresh."
+
+### Scene 6: The Watchers
+
+- **Key Event:** The Establishment reacts to the spike in Resistance chatter.
+- **Detailed Description:** In his command bunker, **General Ironwood** watches the heat signatures flare in the lower sectors. He knows something big is coming. He checks the readiness of his personal regiment. He has already decided: if Vane orders a massacre, his men will stand down.
+  - _Key Dialog:_ **General Ironwood:** "They're moving. Prepare the riot squads. But set phasers to stun. I won't have a bloodbath on my watch."
+  - _Key Dialog:_ **Lord Cromwell:** "Sell the Spire bonds! All of them! If Ironwood is nervous, I'm terrified. Liquidate everything above Level 50!"
+- **Key Event:** The Matriarch's Wager.
+- **Detailed Description:** **Matriarch Lilith Night** sits in her garden, pruning a black rose. She receives the notification of Cromwell's panic sell. She smiles. She does not sell; she buys. She knows her son is involved. She knows he won't let the Spire fall, but he will make it bleed.
+  - _Key Dialog:_ **Matriarch Lilith Night:** "Panic is such a clumsy instrument, Cromwell. True power is knowing exactly how far the tower will tilt before it rights itself."
 
 ---
 

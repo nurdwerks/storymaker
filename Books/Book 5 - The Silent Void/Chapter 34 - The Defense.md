@@ -28,6 +28,9 @@
 
 - **Key Event:** Kaelen holds the line against the swarm.
 - **Detailed Description:** More Hunters flood in through the breach, climbing over the bodies of the first wave. Kaelen steps forward to fill the gap left by a fallen Vanguard trooper. He draws his ceremonial dagger and slices his own palm, a quick, practiced motion. The blood wells up, dark and rich. He flicks it onto the deck, using it as a catalyst to fuel a massive Shadow Construct. The shadows on the floor writhe and rise up, forming a physical wall of black spikes. The Hunters run into it, their momentum impaling them on the solidified darkness. The shadows wrap around their legs like tar, pinning them to the deck. Kaelen's magic is precise, lethal. He moves like a dancer in the strobe light of the plasma fire, his sword flickering out to hamstring any alien that breaks through the barrier.
+- **Key Event:** **Hatcher (The Null)** provides covering fire from the tactical station.
+- **Detailed Description:** **Hatcher** crouches behind a console, his massive Widowmaker revolver booming in the chaos. He cannot see the shadow magic—he is a Null, blind to Resonance—but he can see the gaps in Kaelen's defense. Every time a Hunter slips past the shadow wall, Hatcher puts a slug through its head. His shots are slow, deliberate, and devastatingly accurate. He reloads with the calm efficiency of a man who has been doing this his whole life.
+  - _Key Dialog:_ **Hatcher:** "On your left, Night! One got through! I've got it—BOOM—scratch one."
 - **Internal Conflict:** Kaelen is exhausted. The magic drains his life force directly. His vision is blurring at the edges, tunneling down to the enemies in front of him. He can feel the "Umbra"—the dark source of his power—whispering to him, urging him to let go, to stop fighting and become a true shadow. It promises peace. It promises an end to the pain. He refuses. He looks back at Angelica's unconscious form on the throne. He will burn his soul to ash before he lets them touch her.
 
   - _Character Defining Moment:_ **Kaelen Night** — He takes a plasma hit to the shoulder. The armor melts, searing his skin. He doesn't falter. He grunts, converting the pain into anger, using it to sharpen his focus.
@@ -39,8 +42,9 @@
 - **Key Event:** Angelica completes the calculations.
 - **Detailed Description:** On the throne, Angelica convulses. Her back arches, and a scream tears from her throat—a sound of pure psychic strain. The lights on the bridge turn from the emergency red to a blinding, sterile white. The Star-Tear Drive engages deep in the bowels of the ship. A low frequency thrum builds until it vibrates the very atoms of the air. The ship screams as reality is torn open. The Hunters freeze, their sensors confused by the sudden shift in physics. Gravity twists sideways.
 - **Internal Conflict:** Inside the interface, Angelica is fighting a war of her own. She is navigating a maze of infinite variables. She sees the destination—a pinprick of light in a storm of math. She grabs it. She locks the coordinates. She feels her mind fracturing under the load, but she holds on.
+
   - _Character Defining Moment:_ **Angelica Ward** — She sacrifices a part of her memory—the memory of her childhood home—to fuel the final calculation. She burns her past to save their future.
   - _Key Dialog:_ **Angelica (Neural broadcast):** "Found it. Hold on. We're leaving."
 
 - **Key Event:** The ship jumps.
-- **Detailed Description:** The *Zenith* vanishes from normal space. The bridge dissolves into a tunnel of light. The Hunters are left behind, or torn apart by the shear forces of the jump. For a moment, there is only the light, and the silence.
+- **Detailed Description:** The _Zenith_ vanishes from normal space. The bridge dissolves into a tunnel of light. The Hunters are left behind, or torn apart by the shear forces of the jump. For a moment, there is only the light, and the silence.

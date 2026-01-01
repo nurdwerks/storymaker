@@ -11,7 +11,7 @@
 
 - **Key Event:** Dr. Aris, driven by his obsession to understand the "ultimate variable," crosses the safety line and crawls toward the singularity's event horizon.
 - **Detailed Description:** The containment field protecting the observation deck from the singularity is a shimmering, transparent wall of hard-light. Beyond it, the black hole hangs like a tear in the fabric of the universe, surrounded by an accretion disk of glowing, superheated gas. The gravity is palpable here—a physical weight that presses on the chest and makes the blood sluggish. Dr. Aris, his eyes bloodshot from days of sleepless observation, moves with a jerky, manic energy. He deactivates the safety protocols on his mag-boots, allowing him to slide closer to the edge. The light from the singularity reflects in his unblinking eyes, turning them into pools of swirling darkness. He ignores the blaring radiation alarms, his entire focus narrowed to the point where physics breaks down.
-- **Internal Conflict:** Aris is consumed by **Pride** and **Gluttony** for knowledge. He has spent his life studying the shadows of the universe; now, he wants to look directly at the light source. The fear of death is suppressed by the overwhelming need to *know*. He rationalizes his suicide as the ultimate experiment—the only way to get data that cannot be transmitted is to experience it.
+- **Internal Conflict:** Aris is consumed by **Pride** and **Gluttony** for knowledge. He has spent his life studying the shadows of the universe; now, he wants to look directly at the light source. The fear of death is suppressed by the overwhelming need to _know_. He rationalizes his suicide as the ultimate experiment—the only way to get data that cannot be transmitted is to experience it.
 
   - _Character Defining Moment:_ **Dr. Aris** — Chooses knowledge over survival, trading his life for a moment of absolute understanding of the universe's source code.
   - _Key Dialog:_ **Dr. Aris:** "I have to know what's on the other side! I have to see! I have spent my whole life looking at the shadows on the cave wall! Let me see the fire!"
@@ -38,11 +38,11 @@
   - _Key Dialog:_ **Dr. Aris:** "It's full of stars... it's all... math..."
 
 - **Key Event:** In his final moment, Aris throws his datapad back toward the safety line.
-- **Detailed Description:** Just before his torso is pulled into the stream, Aris’s arm snaps back. With a final burst of will, he flings his heavy, reinforced datapad backward. It tumbles through the air, fighting the gravity, and skids across the floor plates, stopping just inches from Angelica’s boots. The screen is cracked but still glowing, displaying a frantic stream of final calculations and a map of the singularity's internal structure. Then, Aris is gone—wiped from existence in a flash of gamma radiation.
-- **Internal Conflict:** Angelica stares at the datapad. It is a gift and a curse. Aris died to get this data, and now she is burdened with the responsibility of using it. She feels a mix of grief, anger, and begrudging respect for his absolute dedication to his craft.
+- **Detailed Description:** Just before his torso is pulled into the stream, Aris’s arm snaps back. With a final burst of will, he flings his heavy, reinforced datapad backward. It tumbles through the air, fighting the gravity, and skids across the floor plates, stopping just inches from Angelica’s boots. The screen is cracked but still glowing, displaying a frantic stream of final calculations. At the top of the file, blinking in warning red, is the file name: **PROJECT DEIFIC - EMPEROR ACCESS GRANTED**. Aris had finally unlocked the Emperor's secret physics engine. Then, Aris is gone—wiped from existence in a flash of gamma radiation.
+- **Internal Conflict:** Angelica stares at the datapad. It is a gift and a curse. Aris died to get this data, and now she is burdened with the responsibility of using the Emperor's own math to save them. She feels a mix of grief, anger, and begrudging respect for his absolute dedication to his craft.
 
   - _Character Defining Moment:_ **Angelica Ward** — Picks up the datapad, accepting the burden of Aris's sacrifice. She chooses to honor his work by using it to save the ship, even as she condemns his recklessness.
-  - _Key Dialog:_ **Angelica Ward:** "Recorded. End of line."
+  - _Key Dialog:_ **Angelica Ward:** "Recorded. The Emperor kept this hidden for a reason. But we're going to use it."
 
 ---
 
@@ -56,7 +56,7 @@
   - _Key Dialog:_ **Angelica Ward:** "Move! Seal the blast doors! If we don't lock this sector down, the whole ship goes dark!"
 
 - **Key Event:** The group retreats, sealing the heavy blast doors just as the observation deck is torn apart.
-- **Detailed Description:** They scramble through the corridor, fighting the pull of the gravity that tries to drag them backward. Kaelen and Ria haul the heavy blast doors shut, their muscles straining against the hydraulic resistance. With a final, thunderous *clang*, the doors lock into place. Through the thick quartz window, they watch as the observation deck—the consoles, the railings, the empty space where Aris stood—is crumpled like paper and sucked into the void. Then, the view goes black as the emergency shutters slam down. Silence returns to the corridor, broken only by the ragged breathing of the survivors.
+- **Detailed Description:** They scramble through the corridor, fighting the pull of the gravity that tries to drag them backward. Kaelen and Ria haul the heavy blast doors shut, their muscles straining against the hydraulic resistance. With a final, thunderous _clang_, the doors lock into place. Through the thick quartz window, they watch as the observation deck—the consoles, the railings, the empty space where Aris stood—is crumpled like paper and sucked into the void. Then, the view goes black as the emergency shutters slam down. Silence returns to the corridor, broken only by the ragged breathing of the survivors.
 - **Internal Conflict:** The silence is heavy with the absence of Aris. The team is smaller now. The reality of their mission—that they are expendable parts in a machine they don't understand—has never been clearer.
   - _Key Dialog:_ **Kaelen Night:** "He got what he wanted. I hope it was worth it."
   - _Key Dialog:_ **Angelica Ward:** "It has to be. Or else he just died for nothing."

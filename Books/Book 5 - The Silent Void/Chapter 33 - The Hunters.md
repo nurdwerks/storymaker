@@ -98,7 +98,8 @@
 ### Scene 4: The Retreat
 
 - **Key Event:** The Tides Turn.
-- **Detailed Description:** The localized gravity attacks disrupt the swarm. Hunters are pinned to the floor or flung into the ceiling as Angelica creates chaotic gravity wells.
+- **Detailed Description:** The localized gravity attacks disrupt the swarm. Hunters are pinned to the floor or flung into the ceiling as Angelica creates chaotic gravity wells. **Lisbet** is screaming coordinates over the tactical channel, her hands flying across her deck.
+  - _Key Dialog:_ **Lisbet:** "Grid 4-Alpha! Crunch them! Now, Boss! Gravity spike in 3... 2... 1!"
 - **Key Event:** The Counter-Attack.
 - **Detailed Description:** Ironwood sees the opening.
   - _Key Dialog:_ **General Ironwood:** "They're suppressed! Push them back! Use the heavy grenades!"

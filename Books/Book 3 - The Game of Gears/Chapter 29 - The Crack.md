@@ -34,14 +34,19 @@
 ### Scene 3: The Charge
 
 - **Key Event:** Vane watches the battle from his office at the pinnacle of the Spire, unaware of the threat above him.
-- **Detailed Description:** Inside the Spire, Prelate Vane stands at his panoramic window, looking down at the ants fighting in the plaza. He swirls a glass of wine, sneering at the primitive tactics of the rebellion. He believes his fortress is impregnable. He checks the shield status: 100%. He orders his commander to deploy the heavy mechs to crush Silas's force. He feels invincible, isolated in his tower of glass and light.
+- **Detailed Description:** Inside the Spire, Prelate Vane stands at his panoramic window, looking down at the ants fighting in the plaza. He swirls a glass of wine, sneering at the primitive tactics of the rebellion. He believes his fortress is impregnable. He checks the shield status: 100%. He orders his commander to deploy the heavy mechs to crush Silas's force. He feels invincible, isolated in his tower of glass and light. Behind him, **Lady Vesper** reviews tactical reports on a datapad, her heels clicking softly as she paces.
+  - _Key Dialog:_ **Lady Vesper:** "The distraction is too obvious, Prelate. They want us to look down."
+  - _Key Dialog:_ **Prelate Vane:** "Let them throw themselves at our walls. They have nowhere else to go."
+  - _Key Dialog:_ **Lady Vesper:** "Ward is not in the plaza. Neither is Night. If this is a diversion..."
 - **Key Event:** Angelica detonates the charges.
 - **Detailed Description:** On the hull, Angelica hits the switch. There is no loud explosion in the thin atmosphere, just a dull _thump_ that vibrates through the building's skeleton. The thermal paste ignites, burning white-hot. It cuts through the titanium tether in seconds. The metal groans—a sound like a dying whale that reverberates through the entire city. The cable snaps with the force of a whip-crack, lashing out and slicing through a nearby communications array.
 
 ### Scene 4: The Tilt
 
 - **Key Event:** The Spire loses its structural integrity and lists 15 degrees to the north.
-- **Detailed Description:** The effect is immediate and catastrophic. The floor of Vane's office tilts violently. His desk slides across the room and smashes through the window. Vane is thrown against the wall, his wine glass shattering. Throughout the Spire, gravity shifts. Furniture, equipment, and unanchored personnel slide toward the north wall. Elevators jam in their shafts. The lights flicker and die, replaced by emergency strobes. The perfect order of the Zenith is turned on its side.
+- **Detailed Description:** The effect is immediate and catastrophic. The floor of Vane's office tilts violently. His desk slides across the room and smashes through the window. Vane is thrown against the wall, his wine glass shattering. **Lady Vesper** is hurled across the room, her datapad shattering against the marble as she slams into a pillar. Throughout the Spire, gravity shifts. Furniture, equipment, and unanchored personnel slide toward the north wall. Elevators jam in their shafts. The lights flicker and die, replaced by emergency strobes. The perfect order of the Zenith is turned on its side.
+  - _Key Dialog:_ **Lady Vesper (picking herself up, blood on her lip):** "Told you. The diversion."
+  - _Key Dialog:_ **Prelate Vane:** "Find Ward. Kill her. NOW."
 - **Key Event:** The shield generators, misaligned by the tilt, fail.
 - **Detailed Description:** The deflector shields require precise alignment to maintain cohesion. As the emitter dishes twist out of sync, the energy bubble flickers and collapses. The blue shimmer protecting the Spire vanishes, leaving the glass skin exposed to the raw atmosphere.
 

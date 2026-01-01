@@ -54,12 +54,18 @@
 ### Scene 3: The Stand
 
 - **Key Event:** The Position.
-- **Detailed Description:** They retreat to the narrow doorway of the Hub, using the bottleneck to limit the enemy's numbers.
+- **Detailed Description:** They retreat to the narrow doorway of the Hub. But the doorway is already occupied.
+- **Key Event:** The General.
+- **Detailed Description:** Behind a makeshift barricade of crates and scrap metal sits **General Ironwood**. He is propped up against a wall, his legs ending in bloody, bandaged stumps just below the knee—crushed in the crash. Despite the horrific injury, he is holding the line. He wields a heavy repeating rifle propped on a sandbag. He is barking orders to a terrified group of civilian survivors who are reloading magazines for him.
+  - _Key Dialog:_ **General Ironwood:** "Hold the line! Aim for the joints! They don't have armor!"
+  - _Key Dialog:_ **Angelica Ward:** "Ironwood! You're alive!"
+  - _Key Dialog:_ **General Ironwood:** "Ward? Grab a rifle. The cavalry is late."
 - **Key Event:** The Weapon.
-- **Detailed Description:** Ria steps to the front. She is holding a heavy-industrial plasma welder she scavenged from the engineering bay. It's connected to a heavy fuel tank on her back.
+- **Detailed Description:** Ria steps to the front, next to Ironwood. She is holding a heavy-industrial plasma welder she scavenged from the engineering bay.
 - **Key Event:** The Warning.
 - **Detailed Description:** She kicks a dead Blighted out of the way.
   - _Key Dialog:_ **Ria:** "Clear the line! Nobody stands in front of the nozzle!"
+  - _Key Dialog:_ **General Ironwood:** "Burn them, girl. Light 'em up."
 - **Key Event:** The Flame.
 - **Detailed Description:** She pulls the trigger. A jet of blue flame, three thousand degrees hot, roars into the tunnel. It sucks the oxygen out of the air instantly.
 - **Key Event:** The Incineration.

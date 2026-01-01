@@ -17,11 +17,10 @@
   - _Key Dialog:_ **Lisbet:** "It's in a coma. I have to wake it up. But it might scream when I do."
 
 - **Key Event:** Lisbet jacks directly into the terminal.
-- **Detailed Description:** Lisbet connects her neural cable to the universal port. She doesn't use a keyboard; she uses her mind. As the connection establishes, a spark of blue electricity arcs from the console to her neck. She convulses, her back arching as raw, unregulated voltage floods her system. Her eyes roll back, glowing with internal light. The turbines begin to spin up with a low, bone-shaking groan. Lights flicker on sequentially down the length of the hall, revealing the immense scale of the engine room.
-- **Internal Conflict:** Lisbet rides the lightning. The pain is exquisite—a burning cold that sharpens her senses. She feels the ship's architecture mapping itself onto her brain. She sees the fuel lines, the air ducts, the gravity plating. For a moment, she is the ship. She feels the immense power of the reactor coming online, a sun igniting in her chest.
-
-  - _Character Defining Moment:_ **Lisbet** — Displays a high tolerance for pain and a deep connection to technology, enjoying the "raw" voltage of the ancient ship. She treats the electric shock like a drug.
-  - _Key Dialog:_ **Lisbet:** "The voltage is raw. No regulators. It kicks like a mule. It tastes like... aluminum and thunderstorms."
+- **Detailed Description:** Lisbet connects her neural cable to the universal port. She doesn't use a keyboard; she uses her mind. As the connection establishes, a spark of blue electricity arcs from the console to her neck. She convulses, her back arching as raw, unregulated voltage floods her system. For a millisecond, her eyes don't just glow; they project a flicker of a golden face—**The Emperor's** face—screaming in silence. Then it vanishes, replaced by the ship's diagnostic scrolling. The turbines begin to spin up with a low, bone-shaking groan. Lights flicker on sequentially down the length of the hall, revealing the immense scale of the engine room.
+- **Internal Conflict:** Lisbet rides the lightning. The pain is exquisite—a burning cold that sharpens her senses. She feels the ship's architecture mapping itself onto her brain. But beneath the schematic, she feels something else—a watching presence, ancient and angry, lurking in the root code. She pushes it down, focusing on the power grid.
+  - _Character Defining Moment:_ **Lisbet** — Displays a high tolerance for pain and a deep connection to technology. She senses the ghost in the machine but proceeds anyway.
+  - _Key Dialog:_ **Lisbet:** "The voltage is raw. No regulators. And... there's an echo. Someone else is in here. It tastes like... Old Earth gold and blood."
   - _Key Dialog:_ **AI (system voice):** "Main Bus B active. Life Support at 12%. Atmospheric scrubbers engaged. Gravity localized. Welcome back, Crew."
 
 ---

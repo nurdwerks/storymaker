@@ -34,16 +34,20 @@
 ### Scene 2: The Triage / The Safe Room
 
 - **Key Event:** The group retreats to a reinforced pump room.
-- **Detailed Description:** They barricade the door. The room is small, filled with pipes and the sound of rushing water. **Medic Stitch** sets up a triage station on a workbench. Ria is pale, her breath coming in shallow rasps. The impact broke ribs and likely ruptured her spleen. She is bleeding internally.
+- **Detailed Description:** They retreat to the reinforced pump room, which has been converted into a forward command post. **General Ironwood** stands at the tactical table, testing the weight of his new, crudely welded cybernetic legs. They clang against the deck with every step. He looks at the retreating group.
+- **Detailed Description:** **Medic Stitch** sets up a triage station on a workbench. Ria is pale, her breath coming in shallow rasps. The impact broke ribs and likely ruptured her spleen. She is bleeding internally.
 - **Detailed Description:** In the corner, a civilian woman is weeping. Her child, a boy named Leo (no relation to Angelica's brother), was also injured in the scuffle—a deep laceration on his leg that has nicked an artery. He is pale and cold.
 - **Key Event:** Stitch makes an assessment.
-- **Detailed Description:** He checks his supplies. He has one coagulant stim left. One. He looks at Ria, the group's best fighter. He looks at the child. He does the math.
-- **Internal Conflict:** Stitch hates himself. He took an oath to do no harm. But in the Stone Season, the oath is a suicide pact. If Ria dies, the group loses its shield. They will all die. If the kid dies, they lose... innocence.
-
-  - _Character Defining Moment:_ **Medic Stitch** — He faces his moral failure. He chooses utility over morality. He chooses the soldier.
-  - _Key Dialog:_ **Medic Stitch:** "I can't save both. I have one shot of Clot-X. She fights. The kid doesn't."
-  - _Key Dialog:_ **Angelica Ward:** "You're choosing who lives? You're playing God, Stitch."
-  - _Key Dialog:_ **Medic Stitch:** "That's what medicine is now. Math. God left this ship a long time ago."
+- **Detailed Description:** He checks his supplies. He has one coagulant stim left. One.
+- **Key Event:** The Command.
+- **Detailed Description:** Stitch freezes. Ironwood limps over, the servos in his new legs whining. He looks at the tactical map, then at the two patients. He doesn't hesitate.
+  - _Key Dialog:_ **General Ironwood:** "Stitch. Report."
+  - _Key Dialog:_ **Medic Stitch:** "One stim. Two patients. The kid is critical. Ria is critical."
+  - _Key Dialog:_ **General Ironwood:** "Save the soldier. That is an order."
+  - _Key Dialog:_ **Angelica Ward:** "You can't decide that! The boy is innocent!"
+  - _Key Dialog:_ **General Ironwood:** "Finality is my job, Ward. Innocence doesn't hold a rifle. We need the Vanguard. Stitch, inject her. Now."
+- **Internal Conflict:** Stitch hates himself, but he obeys the chain of command. He chooses utility over morality. He chooses the soldier.
+  - _Key Dialog:_ **Medic Stitch:** "Sorry, kid. Orders."
 
 ### Scene 3: The Consequence / The Night
 

@@ -54,7 +54,10 @@
 
 - **Key Event:** Angelica and the team arrive to extract Joyce.
 - **Detailed Description:** Angelica kicks the door in. She sees the standoff. Ratched turns, firing the syringe gun. Angelica deflects it with her armored gauntlet. She knocks Ratched unconscious (or kills her, depending on the heat of the moment). The facility is burning around them. The mob is looting the upper floors. Angelica grabs Joyce, who is standing over Ratched's body, catatonic.
-- **Detailed Description:** They flee into the maintenance tunnels beneath the facility. The heat of the fire chases them. Joyce stumbles, dropping her knitting bag. She tries to go back for it, for the memory of the life she just lost. Angelica holds her back, forcing her to move.
+- **Detailed Description:** They flee into the maintenance tunnels beneath the facility. The heat of the fire chases them. Joyce stumbles, dropping her knitting bag. She tries to go back for it, for the memory of the life she just lost. Angelica holds her back, forcing her to move. **Baron Gilded** is with them, having been sheltering in the facility when the attack began. He trips over debris, his borrowed shoes too large for his feet. He mutters about fire insurance and liability as he runs, his mind retreating into familiar patterns to avoid processing the horror. **Lady Corinne** runs beside him, having kicked off her heels kilometers ago. She is barefoot in the muck, but her head is high.
+  - _Key Dialog:_ **Baron Gilded:** "The structural damage—the liability—who will pay for this? There must be insurance. There must be contracts..."
+  - _Key Dialog:_ **Lady Corinne:** "Oh, shut up, Gilded. If I can run in silk without complaining, you can manage in borrowed loafers."
+  - _Key Dialog:_ **Angelica Ward:** "Move, Baron! Your contracts are kindling now!"
 - **Internal Conflict:** Joyce is broken. She has lost her home, her friend Gable, her protector Timmy, and her illusion of peace. She is just a killer in the dark again. She looks at her hands, still stained with blood, and weeps silently.
 
   - _Character Defining Moment:_ **Joyce** — She accepts her exile. She leaves the grandmother behind in the ashes. She takes the needles, wipes them clean, and puts them back in her hair. The Needle is back.

@@ -18,8 +18,14 @@
 - **Key Event:** The ancient androids, known as "The Forgotten," lead Angelica, Silas, Corinne, and Crash deeper into the crashed fuselage of the colony ship.
 - **Detailed Description:** The interior of the fuselage is a cathedral of rust and shadows. The only light comes from the glowing eyes of the androids and the bioluminescent mold growing on the ceiling. The air is dry and smells of ozone and dead electronics. Alpha leads the way, his heavy steps echoing on the metal grating. They pass rows of empty cryo-pods, their glass fronts shattered. They reach the cockpit, which has been converted into a shrine. In the center is a massive, antiquated server node, encrusted with decades of grime but still humming with faint power.
 - **Key Event:** Alpha indicates that the server is bio-locked.
-- **Detailed Description:** Alpha points a metal finger at the console. A red light pulses on the biometric scanner. He explains that the "Old Ones" locked the data away to protect it from the "Usurpers" (the current Zenith leadership). Only a direct blood descendant of the original command crew can open it.
-- **Internal Conflict:** Angelica steps forward. She feels the weight of her name. She has spent her life hiding her lineage to survive. Now, it is the key. She looks at her hand, scarred from her work as a mechanic. Is she worthy of the legacy? She places her palm on the scanner. A needle pricks her skin.
+- **Key Event:** Alpha indicates that the server is bio-locked.
+- **Detailed Description:** Alpha points a metal finger at the console. A red light pulses on the biometric scanner. **Lisbet**, who has been scanning the node with her wrist-comp, shakes her head.
+  - _Key Dialog:_ **Lisbet:** "It's using a localized gene-key. I can't bypass it without melting the drive."
+- **Key Event:** The Perimeter.
+- **Detailed Description:** **Ria** stands at the cockpit door, facing out into the wreckage. Her heavy cannon is braced on the frame. She is nervous; the shadows of Sector 0 are deep. **Zephyr** crawls out from under a console, holding a handful of ancient memory chips. He looks disappointed.
+  - _Key Dialog:_ **Ria:** "Eyes up, rat-boy. Something is moving in the vents."
+  - _Key Dialog:_ **Zephyr:** "Just rats. Big rats. Metal rats? I hate this place."
+- **Internal Conflict:** Angelica steps forward. She feels the weight of her name.
   - _Key Dialog:_ **Alpha:** "The makers return. Access required. Blood required."
   - _Key Dialog:_ **Angelica:** "Let's see if ghosts can talk."
 
@@ -28,7 +34,7 @@
 - **Key Event:** The server unlocks, projecting a holographic recording of Captain A.R. Ward, dated 2145.
 - **Detailed Description:** The air shimmers as the hologram forms. It is grainy, flickering with static. A man in a flight suit appears. He looks exhausted, his eyes haunted. He is speaking to the camera in a rushed whisper, looking over his shoulder. The background noise suggests a battle—alarms, shouting, gunfire.
 - **Key Event:** The log reveals the truth about the Zenith's history.
-- **Detailed Description:** Captain Ward explains that the "Council of Seven" (the ancestors of Vane and the other Houses) staged a mutiny. They didn't want to complete the mission to find a new home; they wanted to rule the ship as kings. They sabotaged the navigation computer, locking the ship in a perpetual drift, and deleted the star charts. They created the myth of the "lost world" to control the population through fear and scarcity.
+- **Detailed Description:** Captain Ward explains that the "Council of Seven" (the ancestors of Vane and the other Houses) staged a mutiny led by his own First Officer, **Valoris**—the man history now knows as **The Emperor**. They didn't want to complete the mission to find a new home; they wanted to rule the ship as kings. They sabotaged the navigation computer, locking the ship in a perpetual drift, and deleted the star charts. They created the myth of the "lost world" to control the population through fear and scarcity. Angelica watches the grainy footage of Valoris standing in the background—he wears the same golden armor, but his face is human, twisted with early ambition.
 - **Key Event:** Captain Ward reveals a failsafe.
 - **Detailed Description:** He explains that he hid the true coordinates of Earth and a "Backdoor" into the ship's navigation system inside this server, protected by his DNA.
   - _Key Dialog:_ **Captain A.R. Ward:** "They think they own the future. But they only own the cage. I have locked the sky away where they can't touch it. Only my descendants can unlock the path home. If you are watching this... don't let them win. Break the loop. Bring them home."
@@ -36,7 +42,7 @@
 ### Scene 3: The Signal
 
 - **Key Event:** The server begins to play a live audio feed—a signal the androids have been amplifying for centuries.
-- **Detailed Description:** The hologram fades, replaced by a rhythmic, high-pitched beeping. *Dot-dot-dot. Dash-dash-dash. Dot-dot-dot.* It repeats endlessly. Silas recognizes it instantly; it's an old smuggler's code, but simpler. Angelica recognizes it from her history books. Morse Code. SOS.
+- **Detailed Description:** The hologram fades, replaced by a rhythmic, high-pitched beeping. _Dot-dot-dot. Dash-dash-dash. Dot-dot-dot._ It repeats endlessly. Silas recognizes it instantly; it's an old smuggler's code, but simpler. Angelica recognizes it from her history books. Morse Code. SOS.
 - **Key Event:** The signal is traced to the Sol System.
 - **Detailed Description:** The computer displays the origin point. It is not a random echo. It is a directed transmission from Earth. It means Earth is not a radioactive cinder as Vane claims. Someone is there. Someone is calling for them.
 - **Internal Conflict:** Corinne stares at the screen. Her entire worldview—that the Zenith is the only bastion of civilization—crumbles. She feels a mix of betrayal and overwhelming hope. She realizes her life of luxury was built on a lie.

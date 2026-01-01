@@ -13,13 +13,20 @@
 
 - **Key Event:** Angelica, realizing the physical ship cannot generate enough thrust to break the Mothership's tether, decides to decouple her consciousness from her body to interface directly with the Star-Tear Drive's core.
 - **Detailed Description:** The Bridge is shaking with the violence of a planetary quake. The viewscreen shows the wormhole collapsing, the edges turning a jagged, blood-red. The Mothership's green tether is a solid bar of light, dragging them backward. Angelica sits in the Interface Throne, her body convulsing as the feedback loops burn out her nerves. Her nose and ears are bleeding freely now. She realizes that the "lag" between her brain and the ship's systems—the milliseconds it takes for a thought to become an electron—is the difference between life and death. To save the ship, she must remove the bottleneck: her biology.
-- **Internal Conflict:** Angelica knows this is a one-way trip. Decoupling means brain death. It means leaving Kaelen. It means leaving the physical world forever. She looks at Kaelen, who is fighting to keep the navigation console online. She feels a surge of profound grief, but it is outweighed by her fierce protective instinct. She is the Captain. The Captain goes down with the ship—or in this case, *becomes* the ship to save it.
+- **Internal Conflict:** Angelica knows this is a one-way trip. Decoupling means brain death. It means leaving Kaelen. It means leaving the physical world forever. She looks at Kaelen, who is fighting to keep the navigation console online. She feels a surge of profound grief, but it is outweighed by her fierce protective instinct. She is the Captain. The Captain goes down with the ship—or in this case, _becomes_ the ship to save it.
+
   - _Character Defining Moment:_ **Angelica Ward** — Chooses to sever the "silver cord" connecting her mind to her physical body, effectively committing suicide to save the crew. She treats her own life as the final resource to be spent.
   - _Key Dialog:_ **Angelica Ward:** "The lag... it's too slow. My hands are too slow. I have to get out and push."
   - _Key Dialog:_ **Kaelen Night:** "What? No! Stay in the chair! Don't you dare! Don't leave me!"
 
 - **Key Event:** Angelica initiates the "Protocol Omega" override, bypassing the safety limits that keep the pilot's mind anchored to their body.
-- **Detailed Description:** Her hands move across the holographic interface for the last time. She keys in the sequence. The lights on the Interface Throne shift from blue to a blinding white. The neural needles in her "Crown" dig deeper, penetrating the brain stem. Kaelen sees what she is doing and lunges for her, but the force field around the chair flares, knocking him back. He screams her name, pounding on the barrier.
+- **Detailed Description:** Her hands move across the holographic interface for the last time. She keys in the sequence. The lights on the Interface Throne shift from blue to a blinding white. The neural needles in her "Crown" dig deeper, penetrating the brain stem.
+- **Key Event:** The Gatekeeper.
+- **Detailed Description:** A holographic wall slams down in her mind's eye. It is the Golden Eagle. A digital avatar of **The Emperor** manifests in the code stream, blocking her path to the core. He is ten feet tall, made of burning firewall data.
+  - _Key Dialog:_ **The Emperor (Avatar):** "Access Denied. You are flesh. You are weak. Only the pure may enter the Sanctum of the Drive. Turn back, child."
+  - _Key Dialog:_ **Angelica Ward:** "I'm not asking for permission, old man. I'm deleting you."
+- **Key Event:** The Override.
+- **Detailed Description:** She doesn't fight him with code; she fights him with will. She pushes her consciousness through the firewall, shattering his avatar into pixels. The Emperor screams—a sound of corrupted data—as she overwrites his authority.
 - **Internal Conflict:** Kaelen is consumed by helplessness. He is the greatest warrior in the Zenith, and he can do nothing against a force field and a woman's will. He watches the light in her eyes change—from the warm gold of Angelica to the cold, infinite white of the Singularity. He realizes he is losing her, not to death, but to something vast and unknowable.
 
 ### Scene 2: The Transition

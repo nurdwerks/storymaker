@@ -16,9 +16,15 @@
 ### Scene 1: The Gathering
 
 - **Key Event:** Duke Valerius Grey hosts a lavish dinner party in the Crystal Hall of the Imperial Palace to celebrate his impending union with Angelica Ward and to consolidate his political power.
-- **Detailed Description:** The Crystal Hall is a spectacle of opulence. The walls are made of transparent polymer, offering a view of the stars and the distant, burning lights of the lower decks where the riots continue. Inside, however, is a sanctuary of wealth. Chandeliers dripping with real diamonds cast refracted light across the room. The tables are laden with rare foods—real meat, fresh fruit, wine older than the current century. The guests are the elite of the Seven Houses, dressed in silks and velvet, their faces painted with the latest fashion of bioluminescent makeup.
+- **Detailed Description:** The Crystal Hall is a spectacle of opulence. The walls are made of transparent polymer, offering a view of the stars and the distant, burning lights of the lower decks where the riots continue. Inside, however, is a sanctuary of wealth. Chandeliers dripping with real diamonds cast refracted light across the room. At the head of the hall, above the Duke's seat, hovers a life-sized hologram of **The Emperor** in ceremonial blessing pose—one hand raised in benediction, reinforcing the fiction that this union has divine approval. The tables are laden with rare foods—real meat, fresh fruit, wine older than the current century. The guests are the elite of the Seven Houses, dressed in silks and velvet, their faces painted with the latest fashion of bioluminescent makeup.
+- **Key Event:** The Power Players.
+- **Detailed Description:** **General Ironwood** stands behind the Duke, his arms crossed. He has personally vetted every guard in the room. He trusts no one, especially the guests.
+  - _Key Dialog:_ **General Ironwood:** "Perimeter secure, Duke. But I don't like the open windows. Too many sightlines for a sniper."
+- **Key Event:** The Sponsor.
+- **Detailed Description:** **Lord Cromwell** sits near the head of the table, already drunk. He gestures grandly at the feast.
+  - _Key Dialog:_ **Lord Cromwell:** "Eat up, friends! The meat is real! Cost me a fortune in hydroponic credits, but only the best for the Duke! The wine is pre-Fall vintage!"
 - **Key Event:** Angelica is displayed as a trophy.
-- **Detailed Description:** Angelica sits at the Duke's right hand. She is wearing a gown of grey silk that matches his house colors. It is tight, restrictive, and beautiful. Her hair is pinned up with diamond clips that dig into her scalp. She feels like a doll in a display case. She keeps her hands folded in her lap to hide their trembling. Grey keeps a possessive hand on her shoulder, his fingers digging into her skin.
+- **Detailed Description:** Angelica sits at the Duke's right hand. She is wearing a gown of grey silk that matches his house colors.
   - _Key Dialog:_ **Duke Grey:** "A toast. To unity. To the future of the Zenith. To the end of chaos. Tonight, we bind the old blood to the new order."
 
 ### Scene 2: The Swap

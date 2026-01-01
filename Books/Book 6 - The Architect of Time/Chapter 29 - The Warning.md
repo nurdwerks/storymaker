@@ -14,6 +14,8 @@
 - **Key Event:** The setting (Past).
 - **Detailed Description:** It is the 29th day of continuous charging for the Hyper-Core. The tribals of the Hidden Valley are celebrating the harvest, oblivious to the technology hum under their feet. Bonfires burn bright orange in the village square, casting long, dancing shadows against the huts. The air is thick with the smell of roasting meat, pine resin, and woodsmoke. Angelica stands alone on the high ridge overlooking the settlement, keeping a vigil she hopes is unnecessary. The sky above is a deep, bruised blue, the stars hidden by the swirling veil of the nebula that protects—and traps—them.
 
+  - _Internal Monologue:_ She scans the horizon purely on instinct. She wishes she had **Lisbet** here with her sensor array. Human eyes are too slow, too limited for the threats that live in the dark.
+
 - **Key Event:** The anomaly.
 - **Detailed Description:** Suddenly, the stillness is broken. A streak of fire tears across the heavens. It is not the white flash of a falling meteor. It burns with a violent, unnatural purple hue—the unmistakable signature of high-energy plasma ionization during a controlled atmospheric re-entry. Another streak follows it, parallel and precise. Then another. Six in total. They score the sky like glowing claws, ripping open the night.
 

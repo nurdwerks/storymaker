@@ -15,9 +15,10 @@
 - **Detailed Description:** Lecture Hall 1 is a cavernous amphitheater built of polished marble and acoustic stone. It is designed to make the speaker sound like a god and the students feel like insects. The air is cold, conditioned to a sterile dryness. Professor Halloway stands at the podium. He is a relic of the old regime—skin as thin as parchment, milky eyes that see only what they want to see, dressed in the gold-threaded robes of a High Archivist. He taps a cane against the floor for silence.
 
 - **Key Event:** The official history.
-- **Detailed Description:** A massive hologram projection fills the air above the students. It depicts the "Founders"—seven glowing figures descending from the stars. Halloway recites the scripture of the Great Ascension. "In the Time of Ash, the Founders descended. They were the Chosen. The Star-Gods touched their blood, granting them the Resonance. They built the Zenith to shelter the worthy."
+- **Detailed Description:** A massive hologram projection fills the air above the students. It depicts not just the Founders, but **The Emperor** himself—a towering figure of gold and light, descending from the heavens to bless his subjects. Halloway recites the scripture of the Great Ascension.
 
-  - _Key Dialog:_ **Professor Halloway:** "Resonance is their gift. It flows through the blood of the righteous. It is the proof of our divinity. To verify one's Resonance is to verify one's soul."
+  - _Key Dialog:_ **Professor Halloway:** "In the Time of Ash, The Emperor descended. He brought the Founders. He brought the Law. The Star-Gods touched their blood, granting them the Resonance. He is the Architect of our Salvation."
+  - _Key Dialog:_ **Professor Halloway:** "Resonance is His gift. It flows through the blood of the righteous. To verify one's Resonance is to verify one's loyalty to The Emperor."
 
 - **Key Event:** Student reaction.
 - **Detailed Description:** The students of Squad Gold and Silver nod reverently. They have heard this story since birth. It validates their privilege. It tells them they deserve to rule because their blood is holy.

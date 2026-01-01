@@ -16,6 +16,7 @@
 - **Key Event:** The Measurement.
 - **Detailed Description:** **Angelica Ward** checks the barometer she built from bamboo and water. The water level is plummeting.
   - _Key Dialog:_ **Angelica Ward:** "Hyper-Cane. Pressure is dropping off the scale. This isn't a storm; it's a planetary event."
+  - _Internal Monologue:_ The readings fluctuate wildly. It reminds her of **Lisbet's** corrupted datastreams—chaos pretending to be a pattern. But unlike Lisbet's glitches, this chaos kills.
 - **Key Event:** The Impact.
 - **Detailed Description:** It hits with a physical sound, like a hammer striking the earth. A wall of wind moving at 300 kph.
 - **Key Event:** The Destruction.

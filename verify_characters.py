@@ -145,7 +145,13 @@ def scan_chapters(books_dir, profiles):
                             # Case insensitive search
                             if re.search(r'\b' + re.escape(term) + r'\b', content, re.IGNORECASE):
                                 found = True
+                                if "Corinne" in char_name:
+                                    print(f"DEBUGGING MATCH: Found '{char_name}' with term '{term}' in {chapter} content: {content[:50]}...")
                                 break
+                        
+                        if not found and "Corinne" in char_name and "Corinne" in content:
+                             print(f"DEBUGGING MISS: Text has 'Corinne' but regex failed for {char_name}. Terms: {profile_data['search_terms']}")
+                             print(f"DEBUGGING MISS CONTENT: {content}")
                         
                         if found:
                             profile_data['events'].append({

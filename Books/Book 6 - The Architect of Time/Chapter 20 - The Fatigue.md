@@ -50,10 +50,11 @@
 
 - **Key Event:** The decision to attack.
 - **Detailed Description:** Driven by the logistics, Angelica calls a meeting. She presents the plan to retake the Zenith. It is desperate. It relies on speed and surprise because they don't have the endurance for a siege. Zephyr runs the numbers on the tactical display. He calculates fuel burn, ammo expenditure, casualty rates.
-- **Detailed Description:** The computer spits out a probability: 12%. Silence in the room. 12% chance of success. 88% chance of total annihilation.
+- **Detailed Description:** The computer spits out a probability: 12%. Silence in the room. 12% chance of success. 88% chance of total annihilation. **General Ria** stands by the map, her arms crossed. Her armor is battered, stripped of its original sheen, but she looks solid. She nods at Zephyr's numbers, accepting the grim reality of the battlefield.
 - **Internal Conflict:** Zephyr looks at the number. In the old days, he would have folded. 12% is a sucker's bet. But he looks at the empty shelves. He looks at Angelica. He realizes that 12% is better than the 0% chance they have if they stay. He nods. He pushes the chips to the center of the table.
 
   - _Key Dialog:_ **Zephyr:** "If everything goes perfectly... if the wind blows right, and the stars align... we have a twelve percent chance."
+  - _Key Dialog:_ **Ria:** "Twelve percent is a luxury. We've fought with less. The question isn't the odds; it's the ammo. Can we sustain fire for the duration of the breach?"
   - _Key Dialog:_ **Angelica Ward:** "Better odds than usual. We take it."
   - _Key Dialog:_ **Zephyr:** "That's what worries me. You're starting to like the long shots. All right. I'll issue the extra rations. Last meal and all that."
 

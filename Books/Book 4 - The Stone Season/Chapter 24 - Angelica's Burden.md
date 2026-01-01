@@ -77,7 +77,10 @@
 ### Scene 5: The Resolve
 
 - **Key Event:** The vow.
-- **Detailed Description:** They cover Joyce with a sheet. The room is silent. The death wasn't violent, which makes it worse. It was a chaotic universe claiming a tired soul. Angelica looks at the body. Then she looks at her crew—Hatcher, Corinne, Zephyr, Ria. They are all broken. They are all tired.
+- **Detailed Description:** They cover Joyce with a sheet. The room is silent. The death wasn't violent, which makes it worse. It was a chaotic universe claiming a tired soul. Angelica looks at the body. Then she looks at her crew—Hatcher, Corinne, Zephyr, Ria. They are all broken. They are all tired. **General Ironwood** stands at attention by the door, offering a crisp salute to the fallen assassin—recognizing a soldier, regardless of her methods. **Baron Gilded** hovers at the back, uncomfortable with death but unable to look away. For the first time, he sees a price that cannot be bought back.
+
+  - _Key Dialog:_ **General Ironwood:** "She held the line. That's all that matters."
+  - _Key Dialog:_ **Baron Gilded (quietly):** "All my gold couldn't buy her one more day. What's the point of wealth if it can't buy time?"
 
 - **Key Event:** The stars.
 - **Detailed Description:** Angelica walks to the viewport. The stars are streaking by as they travel at FTL.

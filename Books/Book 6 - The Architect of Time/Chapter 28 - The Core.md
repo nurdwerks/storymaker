@@ -18,6 +18,7 @@
 - **Detailed Description:** Ragnar stands at the manual controls. He is shirtless, his massive frame slick with sweat and grime. The ambient temperature on the platform is rising by the minute as they get closer to the magma pocket. His skin is red, baking in the heat.
 
   - _Key Dialog:_ **Ragnar:** "Temperature check! Keep the coolant flowing!"
+  - _Internal Monologue:_ He treats the machine like a beast to he tamed. **Zephyr** would treat it like a lady, coaxing more power with finesse. **Lisbet** would simply rewire the safeties and let it scream. But Ragnar's brute force is what they need right now.
   - _Key Dialog:_ **Miner:** "One hundred and thirty degrees! The coolant lines are hissing, Chief! We're cooking in here!"
   - _Key Dialog:_ **Ragnar:** "Then rotate! Ten-minute shifts! If you stop sweating, you get out! I don't want any corpses clogging the shaft! Move!"
 

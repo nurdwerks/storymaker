@@ -66,7 +66,7 @@
   - _Key Dialog:_ **Ragnar:** "What do you need? If we do this crazy thing... what do you need from us?"
 
 - **Key Event:** The Roles.
-- **Detailed Description:** Angelica smiles. It is sharp and dangerous.
+- **Detailed Description:** Angelica smiles. It is sharp and dangerous. She looks over the gathered tribe, assessing their potential. In Ragnar's warriors, she sees the raw, unrefined strength of **General Ria**. In Torin's clever, inquisitive eyes, she sees the spark of **Lisbet**. In the shadows, she imagines **Zephyr** laughing at their primitive tools, planning a heist with stone knives. She is building a world that will one day give rise to them all—or, if she fails, to tyrants like **Prelate Vane**.
 
   - _Key Dialog:_ **Angelica Ward:** "I need muscle. I need miners. Builders. Warriors. I need you to move mountains."
   - _Key Dialog:_ **Angelica Ward:** (Pointing to Torin) "He is the Mind. He understands the old machines. He can translate my designs into your tools."

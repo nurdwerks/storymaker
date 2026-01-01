@@ -61,6 +61,11 @@
   - _Key Dialog:_ **Angelica Ward:** "Don't die."
   - _Key Dialog:_ **Kaelen:** "Not today. Today is a bad day to die."
 
+- **Key Event:** The Silent Observer.
+- **Detailed Description:** In her private sanctum, kilometers away, **Matriarch Lilith Night** watches the feed from a hidden camera in the lab. She sees Kaelen standing alone against the Null-Squad. She sips her tea. Her hand does not tremble.
+
+  - _Key Dialog:_ **Matriarch Lilith Night:** "Show them, my son. Show them why the night is dangerous. Don't be a hero. Be a butcher."
+
 - **Key Event:** The battle begins.
 - **Detailed Description:** Kaelen engages the Null-Squad. He moves like liquid shadow. He uses the narrow corridor against them, preventing them from bringing their numbers to bear. He is a whirlwind of steel and kinetic magic. He takes a hit, then another, but he doesn't fall. The team escapes down the service chute, the sound of Kaelen's sword ringing against armor fading behind them.
 

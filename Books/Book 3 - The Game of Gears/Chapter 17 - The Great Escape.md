@@ -16,10 +16,14 @@
 ### Scene 1: The Launch Bay
 
 - **Key Event:** Following the rescue of Kaelen from the Arena (or similar high-stakes extraction), the team gathers in a hidden Resistance warehouse/launch bay.
-- **Detailed Description:** The warehouse is a cavernous space filled with dust motes and the smell of ozone. Crates of stolen supplies are stacked haphazardly against the walls. In the center, resting on magnetic skids, is "The Mule"—a modified heavy-lift cargo hauler. It is an ugly, blocky ship, painted a dull industrial orange that is peeling to reveal the grey primer underneath. But the engines are oversized, military-grade thrusters bolted onto the civilian chassis. Techs are running final diagnostics, hoses hissing as they top off the coolant. The sound of distant sirens is getting louder. Vane's forces are closing in.
+- **Detailed Description:** The warehouse is a cavernous space filled with dust motes and the smell of ozone. Crates of stolen supplies are stacked haphazardly against the walls. In the center, resting on magnetic skids, is "The Mule"—a modified heavy-lift cargo hauler. **Ria** is hauling ammo crates up the ramp, her cybernetic arm whining under the load. **Zephyr** is "securing" (stealing) loose tools from the workbench. **Lisbet** is plugged directly into the ship's diagnostic port, her eyes rolling back as she communes with the flight computer.
 - **Key Event:** Crash, the pilot, preps the ship for immediate launch.
-- **Detailed Description:** Crash is in the cockpit, flicking switches with a manic energy. He is wearing a flight suit covered in patches from defunct squadrons. He is chewing gum aggressively. He checks the reactor output. It is running hot, dangerously so, but he needs the power.
-  - _Character Defining Moment:_ **Crash** — Despite his name, his hands are steady on the controls. He revels in the chaos. He treats the imminent danger as a game. The name "Crash" is revealed to be ironic; he is the best pilot in the Undercity.
+- **Detailed Description:** Crash is in the cockpit, flicking switches with a manic energy. He is wearing a flight suit covered in patches from defunct squadrons.
+  - _Character Defining Moment:_ **Crash** — Despite his name, his hands are steady on the controls. He revels in the chaos. He treats the imminent danger as a game.
+  - _Key Dialog:_ **Lisbet:** "The reactor shielding is down to 40%. If you push the throttle past eighty, we melt."
+  - _Key Dialog:_ **Crash:** "Then we'll fly at seventy-nine until they start shooting! All aboard!"
+  - _Key Dialog:_ **Zephyr:** "I found a wrench! And some copper wire! We're rich!"
+  - _Key Dialog:_ **Ria:** "Get in the ship, rat, or I'll throw you in."
   - _Key Dialog:_ **Crash:** "The Crash Express is leaving the station! All aboard who's getting aboard! Refunds are not available for death, dismemberment, or motion sickness!"
 
 ### Scene 2: The Takeoff

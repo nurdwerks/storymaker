@@ -77,9 +77,11 @@
 ### Scene 6: The Investor's Interest
 
 - **Key Event:** Opportunity assessment.
-- **Detailed Description:** In a private suite overlooking the broadcast tower, **Baron Gilded** watches the assault unfold through encrypted surveillance feeds purchased from corrupt Wardens. The Ward girl and her crew are attempting the impossible—seizing control of the city's primary propaganda network. If they succeed, they will own the narrative. If they fail, Vane will purge them. Either outcome presents opportunity. Baron Gilded already has contingency contracts with three black-market news syndicates ready to bid for exclusive footage.
+- **Detailed Description:** In a private suite overlooking the broadcast tower, **Baron Gilded** watches the assault unfold through encrypted surveillance feeds purchased from corrupt Wardens. The Ward girl and her crew are attempting the impossible—seizing control of the city's primary propaganda network. If they succeed, they will own the narrative. If they fail, Vane will purge them. Either outcome presents opportunity. Baron Gilded already has contingency contracts with three black-market news syndicates ready to bid for exclusive footage. Standing beside him, **Lady Vesper** sips champagne, her expression unreadable. She is here on Vane's behalf—the Prelate likes to know where the money flows.
 
   - _Key Dialog:_ **Baron Gilded (to his accountant):** "Double the insurance on my tower holdings. If they broadcast, the markets riot. If they die, martyrs sell better than heroes. Either way, we profit."
+  - _Key Dialog:_ **Lady Vesper:** "The Prelate appreciates your... flexibility, Baron. He asks only that you remember who ensured your licenses remained valid during the last audit."
+  - _Key Dialog:_ **Baron Gilded:** "I never forget a favor, Lady Vesper. Or a debt."
   - _Character Defining Moment:_ **Baron Gilded** — Demonstrates his amoral pragmatism, treating revolutionary violence as just another investment vehicle.
 
 ---

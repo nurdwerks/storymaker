@@ -61,8 +61,9 @@
   - _Key Dialog:_ **Ria:** "Listen to me! Zenith laws are for full bellies. Down here, the only law is caloric intake. You work, you eat. You steal, you die."
 
 - **Key Event:** The judgment.
-- **Detailed Description:** She points a finger at Vermillion, who is pale with shock.
+- **Detailed Description:** She points a finger at Vermillion, who is pale with shock. **General Ironwood** sits propped against a bulkhead nearby, his legs crushed and bandaged with duct tape. He cleans his pistol with a rag, nodding at Ria's words.
 
+  - _Key Dialog:_ **General Ironwood:** "She's right. Chain of command is gone. Chain of survival is all that's left. Pull your weight or get left behind."
   - _Key Dialog:_ **Ria:** "He acts like he matters. He doesn't metal-scavenge, he doesn't fight, he doesn't know the terrain. He can't work. So he doesn't eat. And we don't carry him."
   - **Detailed Description:** She turns her gaze to Angelica. Her eyes are not cruel, but they are terrifyingly devoid of pity. It is the gaze of a survivor.
   - _Key Dialog:_ **Ria:** "There are no seats on the council here, Ward. There is only the food chain. Are you eating, or are you meat?"

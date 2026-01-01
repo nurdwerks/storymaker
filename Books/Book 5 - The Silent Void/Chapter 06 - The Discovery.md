@@ -16,7 +16,7 @@
 - **Key Event:** The Door.
 - **Detailed Description:** He reaches the end of a long, unlit corridor in Sector 9. He finds a door unlike the others. It is not standard bulkhead gray. It is polished titanium alloy, reinforced with cross-bracing. Stenciled on it in faded black letters is: **PAYLOAD 4 - CLASS A SECURE**.
 - **Key Event:** The Lock.
-- **Detailed Description:** The seal is a biometric lock that died centuries ago when the auxiliary power failed. Zephyr taps it with his pry-bar. It is solid. He grins.
+- **Detailed Description:** The seal is a biometric lock that died centuries ago when the auxiliary power failed. Zephyr taps it with his pry-bar. It is solid. On the console, a faint red light still pulses—the backup battery for the "Imperial Denial" protocol. The screen displays a rotating crest: **The Emperor's** own sigil. It wasn't just locked; it was forbidden by god. Zephyr grins. That just makes it more valuable.
 - **Key Event:** The Breach.
 - **Detailed Description:** He unslings his portable plasma-cutter. He adjusts the beam aperture to "fine." He traces the outline of the hinges. Sparks fly, showering the dark corridor in orange light. The smell of ozone and melting metal fills the air. He works with the precision of a master surgeon—or a master thief. Which, effectively, he is.
 - **Key Event:** The Entry.

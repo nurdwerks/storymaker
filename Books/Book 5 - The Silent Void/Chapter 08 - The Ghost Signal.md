@@ -29,10 +29,10 @@
 ### Scene 2: The Sacrifice
 
 - **Key Event:** The Defender.
-- **Detailed Description:** **Figment**, Lisbet's bonded AI companion, manifests. Usually, he appears as a small, cartoonish dragon or a floating eye. Now, he creates a full-sized holographic avatar—a knight made of blue wireframe.
+- **Detailed Description:** **Figment**, Lisbet's bonded AI companion, manifests. Usually, he appears as a small, cartoonish dragon or a floating eye. Now, he creates a full-sized holographic avatar—a knight made of blue wireframe. He stands between the crew and the main screen, his shield flared to block the incoming data stream.
 - **Key Event:** The Diagnosis.
-- **Detailed Description:** He stands between the crew and the main screen. His avatar flickers, his edges turning jagged as he fights the intrusion.
-  - _Key Dialog:_ **Figment:** "Logic virus detected. Class: Banshee. It's designed to enslave the navigation computer and vent the atmosphere. Nasty piece of work."
+- **Detailed Description:** He stands between the crew and the main screen. His avatar flickers, his edges turning jagged as he fights the intrusion. He analyzes the header code. It's not alien. It's ancient Zenith code, encrypted with the keys of the Golden Age.
+  - _Key Dialog:_ **Figment:** "Logic virus detected. Origin: Imperial Archives. Signature: **The Emperor**. It's a 'Doomsday Scream'—a dead man's switch triggered by the lack of a heartbeat signal from the Throne. It's designed to enslave the navigation computer and vent the atmosphere. The Emperor is still giving orders from the grave."
 - **Key Event:** The Solution.
 - **Detailed Description:** He expands his code, creating a digital quarantine "sandbox" around the incoming data. He wraps his own programming around the virus, grappling with it like a wrestler. The virus fights back, eating away at Figment's integrity. His voice distorts, shifting between octaves.
 - **Key Event:** The Cost.

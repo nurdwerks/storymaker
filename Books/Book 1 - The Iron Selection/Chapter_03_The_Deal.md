@@ -52,8 +52,14 @@
 - **Detailed Description:** She manages to sit up, despite the magnetic shackles. She looks Vane dead in the eye, refusing to be cowed by his mask or his power.
 
   - _Key Dialog:_ **Angelica Ward:** "I have conditions."
-  - _Key Dialog:_ **Prelate Vane:** (Amused) "You are in magnetic shackles, on your knees in the dirt, and yet you haggle. Proceed."
-  - _Key Dialog:_ **Angelica Ward:** "He gets a window. He likes the sky. He's never seen the real sky, just the smog. And I want proof of life sent to my datapad every morning. If I don't get a video—timestamped and verified—I stop fighting. I stop eating. I die, and you lose your blank slate."
+  - _Key Dialog:_ **Prelate Vane:** "You are in magnetic shackles. You are nothing. But The Emperor demands will, so I will listen."
+  - _Key Dialog:_ **Angelica Ward:** "He gets a window. He likes the sky. And I want proof of life sent to my datapad every morning."
+
+- **Key Event:** The Divine Mandate.
+- **Detailed Description:** Vane touches the golden crest on his chest—the face of **The Emperor**.
+
+  - _Key Dialog:_ **Prelate Vane:** "This is His Selection. He seeks the strongest steel. If you survive, you serve Him. If you die, you feed Him. Do you accept the Emperor's bargain?"
+  - _Key Dialog:_ **Angelica Ward:** "I accept."
 
 - **Key Event:** The agreement.
 - **Detailed Description:** Vane smiles behind the mask. He appreciates leverage; it makes people predictable. A volunteer who is fighting for something is more valuable than a conscript who is fighting for nothing.

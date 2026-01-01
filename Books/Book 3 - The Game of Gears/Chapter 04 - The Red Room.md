@@ -42,7 +42,7 @@
 ### Scene 4: The Escape
 
 - **Key Event:** The sound of heavy footsteps in the hallway alerts Angelica that Grey is returning.
-- **Detailed Description:** She hears his voice booming, shouting at a servant. He is coming back early. She pulls the drive. She wipes her fingerprints from the console. She looks for an exit. The window is too high. The door is the only way out. She sees the heavy velvet curtains covering the balcony doors.
+- **Detailed Description:** She hears his voice booming, shouting at a servant. He is coming back early. She pulls the drive. She wipes her fingerprints from the console. She looks for an exit. The window is too high. The door is the only way out. She sees the heavy velvet curtains covering the balcony doors. On a pedestal nearby, a marble bust of **The Emperor** watches her with blind, white eyes—a silent witness to her treason. She resists the urge to smash it and instead slips behind the curtain.
 - **Key Event:** Angelica hides as Grey enters.
 - **Detailed Description:** She slips behind the curtain just as the door opens. Grey enters, followed by his bodyguard. He walks to the desk. He sniffs the air. He smells her perfume—the lavender Corinne sprayed on her. He pauses. He looks around the room. He walks toward the curtain.
 - **Key Event:** A distraction saves her.

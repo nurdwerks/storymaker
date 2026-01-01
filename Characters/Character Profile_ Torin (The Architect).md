@@ -188,6 +188,7 @@ Torin lives in the past, on the original Generation Ship. He is surrounded by th
 | Book 6 | Chapter 10 | Detailed Description | Angelica realizes words aren't enough. They are pragmatic people. They believe what they can see, touch, and eat. They need a miracle. She turns to Torin, who is sitting nervously by the entrance. She strides over to him and snatches the glasses from his face. |
 | Book 6 | Chapter 10 | Dialog | **Torin:** "Hey! I need those!" |
 | Book 6 | Chapter 10 | Detailed Description | Angelica hands the glasses back to a squinting Torin. She turns back to Ragnar. The firelight dances in her eyes. |
+| Book 6 | Chapter 10 | Detailed Description | Angelica smiles. It is sharp and dangerous. She looks over the gathered tribe, assessing their potential. In Ragnar's warriors, she sees the raw, unrefined strength of **General Ria**. In Torin's clever, inquisitive eyes, she sees the spark of **Lisbet**. In the shadows, she imagines **Zephyr** laughing at their primitive tools, planning a heist with stone knives. She is building a world that will one day give rise to them all—or, if she fails, to tyrants like **Prelate Vane**. |
 | Book 6 | Chapter 10 | Dialog | **Angelica Ward:** (Pointing to Torin) "He is the Mind. He understands the old machines. He can translate my designs into your tools." |
 | Book 6 | Chapter 10 | Detailed Description | Torin, who has put his glasses back on, whispers in awe. |
 | Book 6 | Chapter 10 | Dialog | **Torin:** "A Triumvirate. Like in the old stories. The Three who hold up the Sky." |
@@ -279,6 +280,7 @@ Torin lives in the past, on the original Generation Ship. He is surrounded by th
 | Book 6 | Chapter 24 | Dialog | **Torin:** "Sanctuary." |
 | Book 6 | Chapter 24 | Detailed Description | Torin sits down in the co-pilot's chair. He spins it slowly, looking at the controls, the displays, the lights. He looks overwhelmed by the magnitude of what they have achieved. |
 | Book 6 | Chapter 24 | Dialog | **Torin:** "I built houses out of mud and scrap metal. I fixed generators that ran on burning dung. That was my life. surviving the dirt. And now... I'm looking at a sun that no human has ever seen up close. I'm sitting in a chair worth more than my entire village." |
+| Book 6 | Chapter 24 | Internal Monologue | Angelica smiles. She thinks of **Zephyr**. The pilot would have made a joke about the resale value of the chair. He would have hidden his awe behind a mask of indifference. Torin wears his wonder openly. It is refreshing. |
 | Book 6 | Chapter 24 | Dialog | **Torin:** "You know so much. About the stars. About the engines. How?" |
 | Book 6 | Chapter 24 | Dialog | **Torin:** "And now?" |
 | Book 6 | Chapter 24 | Detailed Description | She turns to Torin. Her eyes are fierce, wet with unshed tears. The weight of leadership is heavy, but she carries it. |
@@ -320,6 +322,7 @@ Torin lives in the past, on the original Generation Ship. He is surrounded by th
 | Book 6 | Chapter 29 | Dialog | **Torin:** "They missed the village! They're blind firing!" |
 | Book 6 | Chapter 29 | Detailed Description | Angelica and Torin slide down the loose scree of the ridge, sprinting toward the Command Hut. Dust from the impact coats their clothes and fills their lungs. |
 | Book 6 | Chapter 30 | Dialog | **Torin:** "They found us! How did they find us? The stealth fields were active!" |
+| Book 6 | Chapter 30 | Internal Monologue | Torin's voice cracks with panic. Angelica misses the steady, cynical drone of **Zephyr** in her comms. The Rogue would have just asked for a vector. Torin is a builder, not a soldier. She has to be the soldier for both of them. |
 | Book 6 | Chapter 30 | Detailed Description | Torin's voice crackles over the comms. |
 | Book 6 | Chapter 30 | Dialog | **Torin:** "They've breached the West Gate! Ragnar is down! We are falling back to the ship! Start the sequence!" |
 | Book 6 | Chapter 31 | Dialog | **Angelica Ward:** "Where is Torin? We need the main thrusters online." |

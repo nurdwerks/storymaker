@@ -31,8 +31,8 @@
 - **Key Event:** The Scale.
 - **Detailed Description:** The Tear widens, groaning with gravitational stress. It creates a mouth large enough to swallow the massive generation ship whole. The edges of the rift are fractal, constantly shifting, rewriting the space around them in impossible, non-Euclidean geometries that defy human comprehension.
 - **Key Event:** The Sensation.
-- **Detailed Description:** Angelica is directly connected to the Interface Throne, her nervous system hardwired into the ship's sensors. She feels the Tear open. It doesn't feel like a physical event. It feels like a scream in her mind. A violation of natural order. It is a wound in the body of god, and she is the knife.
-  - _Internal Monologue:_ It's wrong. It's a wound. We are flying into a wound. The universe is bleeding, and we are diving into the blood.
+- **Detailed Description:** Angelica is directly connected to the Interface Throne, her nervous system hardwired into the ship's sensors. She feels the Tear open. It doesn't feel like a physical event. It feels like a scream in her mind. It is a wound in the body of god, and she is the knife. She feels a sudden, ancient spike of terror from the ship's memory—**The Emperor's** own terror. He knew this place. He locked the drive because he was afraid of what lived in the white space.
+  - _Internal Monologue:_ It's wrong. It's a wound. We are flying into a wound. The Emperor was right to be afraid. But we have to go in. Reference: The Emperor's Lock Protocol. Override.
 - **Key Event:** The Navigation.
 - **Detailed Description:** She forces her mind to accept the impossible geometry. She visualizes the path—not straight, not curved, but _through_. She imposes her will on the navigation computer, forcing it to calculate a trajectory that mathematics says shouldn't exist.
 
@@ -60,8 +60,10 @@
 - **Key Event:** The Turbulence.
 - **Detailed Description:** The ship shakes violently as it transitions between dimensions. The internal gravity fluctuates wildly. Loose objects—datapads, coffee cups, tools—float into the air, suspended for a heartbeat, then slam into the deck as gravity inverts, then normalizes. The hull groans under the stress of shifting physical laws.
 - **Key Event:** The Crew.
-- **Detailed Description:** The crew holds on to whatever they can grab—consoles, railings, each other. They are terrified. They are not just traveling; they are leaving existence as they know it. They are looking into the face of infinity. **Lady Corinne** gripped the railing until her knuckles turned white. She watched the universe dissolve on the viewscreen, expecting to feel fear, but finding only a strange, hollow awe. The petty politics of the Zenith seemed absurdly small against this blinding whiteness.
+- **Detailed Description:** The crew holds on to whatever they can grab—consoles, railings, each other. They are terrified. They are not just traveling; they are leaving existence as they know it. They are looking into the face of infinity. **Lady Corinne** gripped the railing until her knuckles turned white. She watched the universe dissolve on the viewscreen, expecting to feel fear, but finding only a strange, hollow awe. **Lisbet** screamed over the COMMs, her voice shaking but defiant. "Holding the quantum buffers! Don't let go, baby! Hold it together!" **Hatcher (The Null)** braced himself against the tactical station, his boots magnetized to the deck. He didn't look at the screen—he watched the crew. He knew panic killed faster than physics. He barked orders to the terrified ensigns, giving them tasks to focus on instead of the void.
+- **Key Dialog:** **Lisbet:** "We're crossing the membrane! Physics is gone! We're running on pure math now!"
 - **Key Dialog:** **Lady Corinne:** "It's... cleaner than I expected. The end of the world."
+- **Key Dialog:** **Hatcher:** "Eyes on your stations! Count your breaths! If you're breathing, you're alive! Stay useful!"
 - **Key Event:** The Realization.
 - **Detailed Description:** Angelica sits on the Throne, breathing hard, sweat running down her face. She opens her eyes in the real world. She sees the white void on the screens.
 - **Key Event:** The Acceptance.

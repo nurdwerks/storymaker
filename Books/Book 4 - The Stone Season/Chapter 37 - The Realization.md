@@ -78,7 +78,8 @@
 - **Detailed Description:** Aris checks the readout.
   - _Key Dialog:_ **Dr. Aris:** "The core. It was stabilized by the cold. Now that we're emerging from the nebula... we're exposed to the heat of the brown dwarf. It's destabilizing. The magnetic containment is failing."
 - **Key Event:** The Solution.
-- **Detailed Description:** **Hatcher** grunts.
+- **Detailed Description:** **General Ironwood**, leaning heavily on the tactical console, studies the structural integrity map. Red lines are spiderwebbing across the hull diagram.
+  - _Key Dialog:_ **General Ironwood:** "If that hull cracks, we lose decks 4 through 9. Civilian casualties 100%. Strategically, we're flying a glass ornament into a hammer."
   - _Key Dialog:_ **Hatcher:** "We need a reboot. Turn it off and on again."
 - **Key Event:** The Rejection.
 - **Detailed Description:** Aris shakes his head.
