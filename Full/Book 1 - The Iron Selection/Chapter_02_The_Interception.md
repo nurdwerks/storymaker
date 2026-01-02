@@ -1,22 +1,18 @@
 # Chapter 2: The Interception
 
-The winnings from the pharmacy raid felt heavy in Angelica's pockets, but they felt light against the weight of the Silt.
+Angelica's hood snapped violently in the artificial draft as she ducked into the lee of a rusted ventilation housing. She wiped a smudge of oily film from her modified welder's lenses, the sharp, high-contrast green of the HUD flickering as it struggled to lock onto the Hab-Block’s thermal signature through the industrial haze.
 
-She moved through the shadows of Sector 12 with the practiced ease of a ghost. The air here was a physical thing—a soup of industrial exhaust, recycled humidity, and the metallic taste of rust. It clung to her skin, coating her in a thin, oily film. Beside her, the small drone—who she had decided to call "Sparky" despite the cliche—zipped silently, its optical sensor scanning for patrolbots.
+"Clear," Sparky chirped, the drone’s voice modulator a thin whisper against the background roar of the sector's exhaust fans.
 
-"Clear," Sparky chirped, its voice modulator tuned to a whisper.
+"Stay close," she murmured, her own voice tight.
 
-"Keep scanning," Angelica murmured, pulling her hood lower.
+She reached for the maintenance ladder of the Hab-Block—a decaying monolith that seemed to weep condensation from every cracked pipe. The cold iron bit into her palms as she began the climb, the 40th floor feeling a thousand miles away. Every vertical inch was a battle against the wet weight of the Silt’s air and the rhythmic, grinding vibration of the city's foundations.
 
-They reached the Hab-Block. It was a towering, decaying monolith of concrete and rebar, weeping condensation from a thousand cracked pipes. Her unit was on the 40th floor, accessible only by a maintenance ladder because the grav-lift had been broken since the war.
+Her muscles burned, but the adrenaline of the pharmacy raid was a steady hum in her blood. She reached the blast door of Unit 404, her fingers trembling as she punched in the changing lock code. The door hissed open, and the silence of the room was immediately drowned out by the sound she feared most.
 
-She climbed. Her muscles burned, but the adrenaline of the heist was still humming in her blood. She had done it. She had the meds.
+Leo’s breathing.
 
-She reached the blast door of Unit 404. She keyed in the lock code—a sequence she changed every three days. The door hissed open, revealing a cramped, windowless room illuminated by the blue glow of a single grow-lamp.
-
-Leo was there.
-
-He was curled up on the mattress in the corner, a mound of blankets that rose and fell with a terrifying, rattling rhythm. The sound of his breathing filled the small room—a wet, desperate rasp that sounded like gears grinding without oil.
+It was a wet, desperate rasp—the sound of gears grinding without oil. Angelica dropped her bag, the vials of medication rattling as she rushed to the mattress in the corner.
 
 "Leo," Angelica whispered, dropping her bag. She rushed to him.
 

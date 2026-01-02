@@ -1,18 +1,16 @@
 # Chapter 4: Ascent
 
-The cage smelled of old grease, unwashed bodies, and the sharp, metallic tang of ozone. It was a smell Angelica knew well—it was the scent of the Silt on a Friday night, bottled, pressurized, and left to ferment in the dark. But here, inside the Great Lift, it was mixed with something else. Something thicker. Something primal.
+The industrial transport cage lurched, a violent, metallic scream of chains echoing through the dark loading bay. Angelica's hand slipped on the grease-slicked mesh of the wall, her knuckles scraping against the cold steel as forty-nine other bodies slammed into her. The "dregs" of the Undercity—scraped from the gutters of Sector 12 and packed shoulder-to-shoulder—became a single, panicking mass of unwashed skin and terror.
 
-Fear.
+A massive man beside her, his chest a patchwork of burn scars, stumbled with the force of the ascent, his heavy boot crushing Angelica's toe. She bit her lip until the copper taste of salt and blood filled her mouth, but she didn't make a sound. She was a ghost in the machine, and ghosts didn't cry.
 
-There were fifty of them packed into the industrial transport cage. Fifty bodies pressed shoulder to shoulder, boot to boot, trembling in the cold dark of the loading bay. They were the dregs of the Undercity, scraped from the bottom of the barrel, scooped up from the gutters of Sector 12, and thrown into a bucket to be hauled up to the sky.
+_CLANG._
 
-Angelica stood near the back, wedged between a sheet of perforated steel plating and a man who looked like he had been constructed out of spare parts from a slaughterhouse. He was massive, his skin a patchwork of burn scars and crude, prison-ink tattoos that blurred together into bruised shapes. He wore a leather vest that creaked with every breath, and his breath rattled wetly in his chest, smelling of rotgut whiskey, stale tobacco, and the copper tang of blood.
+The locking clamps disengaged with the finality of a guillotine. Then, gravity shifted.
 
-She made herself small. It was a survival instinct she had honed since she was four years old, living in the shadow of the crushers. _Be quiet. Be still. Be nothing._
+The lift didn't rise; it yanked. The G-force slammed Angelica’s internal organs into her pelvis, knocking the breath from her lungs in a sharp _whoosh._ Outside the mesh, the dirty yellows and neon greens of the Silt began to blur into vertical streaks of sickness. The wind howled past the cage, a banshee scream that promised to tear them from the sky if the chains ever failed.
 
-The cage shuddered.
-
-A deep, tectonic groan echoed through the shaft above them, navigating down through the massive carbon-fiber chains that suspended them over the abyss. It sounded like the moan of a dying whale amplified by a thousand miles of echo. The floor beneath their boots trembled, a vibration that traveled up through the soles of Angelica’s boots and settled in her teeth.
+Angelica gripped the wire mesh, her fingers white-knuckled and trembling. She didn't look at the people; she looked at the machine. She listened to the oscillation of the guide rails and the rhythmic thrum of the 1.2 gigawatt drive mechanism. She focused on the math, because math was the only thing that made sense when the ground was disappearing.
 
 "Here we go," someone muttered. A nervous, reckless whisper in the dark.
 
@@ -259,7 +257,7 @@ She looked up, matching the data to the faces.
 
 To her left, a man was sharpening his teeth with a small file he had smuggled in. His mouth was a ruin of bleeding gums and pointed ivory. _Subject 12: 'The Vampire'. Gang affiliation: Bleeders. Severe calcium deficiency. Bone density: 60%. If I hit him in the jaw, it shatters._
 
-To her right, a young boy—barely sixteen—was rocking back and forth, clutching a rosary made of spark plugs. He was crying silently. _Subject 19: Panic attack. Hyperventilating. He’s going to pass out in five minutes._
+To her right, a young boy—barely sixteen—was rocking back and forth, clutching prayer beads made of spark plugs. He was crying silently. _Subject 19: Panic attack. Hyperventilating. He’s going to pass out in five minutes._
 
 Across the circle, a group of three women were already forming a pack. They stood back-to-back, eyeing the others with predatory intent. _Subjects 22, 23, 24. Coordinated. Dangerous. Pack tactics._
 
@@ -386,11 +384,13 @@ _They think strength is about how much you can lift,_ she thought, the words whi
 
 She looked at the massive magnetic generator humming silently in the center of the courtyard, holding the platform aloft.
 
-_Strength is about how much you can break._
-
 _And I can break everything._
 
-Angelica looked at the rosary beads clicking in his trembling hands.
+A rhythmic, frantic clicking nearby pulled her from the internal monologue. It wasn’t the hum of the engine or the screech of the rails; it was the sound of wood on wood.
+
+She turned her head slightly. Pressed against her shoulder in the crush of the loading cage was a boy who couldn't have been more than fourteen. His face was a map of soot and tear trails, his eyes clamped shut as he whispered a frantic, silent prayer.
+
+Angelica looked at the prayer beads clicking in his trembling hands.
 
 "Hey," she said softly.
 
@@ -412,7 +412,7 @@ She didn't know why she was telling him. Maybe it was because he reminded her of
 
 "Make yourself heavy," she finished, turning back to her corner. "And don't look down."
 
-The kid nodded, clutching his spark-plug rosary tighter. "Okay. Okay. Center. Low. Don't look down."
+The kid nodded, clutching his spark-plug prayer beads tighter. "Okay. Okay. Center. Low. Don't look down."
 
 It wouldn't save him. Not in the long run. But it might buy him five more minutes of life. And in the Silt, five minutes was a lifetime.
 
@@ -587,5 +587,31 @@ She held on. And for a second, Aris thought she looked up. Straight at the hidde
 He smiled, his cybernetic eye glowing red.
 
 "Begin," he echoed.
+
+He leaned forward, his eyes drinking in the data.
+
+He watched for ten minutes. He watched as the floor tilted to fifty, then sixty degrees. He watched as gravity did exactly what it was designed to do: weed out the weak. He watched twenty candidates lose their grip, their screams swallowed by the wind as they slid into the abyss of the Silt below.
+
+The 'Vampire' managed to dig his claws into the grate of a drain, holding on with a desperate, animalistic strength. Jax used his immense bulk to wedge himself between two rising floor plates.
+
+And Ward... Ward just hung there, perfectly balanced, riding the tilt like she was part of the machine.
+
+Finally, a chime sounded. The floor slammed back to horizontal with a bone-jarring thud.
+
+The survivors lay on the white marble, gasping, shaking, traumatized.
+
+"Fifty remain," Aris noted, checking the tally. "Acceptable attrition."
+
+On the screen, the Wardens moved in. They didn't give the candidates time to recover. Electric prods sparked. Orders were barked. The herd was moving again.
+
+"Get up! Move! To the Spire!"
+
+Aris watched as they were shoved toward the narrow walkway that led to the Induction Tower. He swiped his hand through the air, dismissing the current feed and bringing up a new one.
+
+_Camera 4: The Span._
+
+It was a mile-long ribbon of glass over the void.
+
+"Now," Aris whispered, his finger hovering over the wind-control interface. "Let's see if they can walk."
 
 # End of Chapter 4

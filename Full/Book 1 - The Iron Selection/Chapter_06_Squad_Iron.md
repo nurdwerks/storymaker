@@ -1,68 +1,16 @@
 # Chapter 6: Squad Iron
 
-The Assembly Hall was not built for humans. It was built for gods, or perhaps for the machines that would eventually replace them.
+Angelica's shallow, ragged breath echoed back at her from the brushed steel walls of the Assembly Hall, a space so cavernous it felt as though it possessed its own weather system. She looked down at her hands, the grease-stained skin turning a sickly, corpse-like grey under the pallid blue light filtering from the lumin-panels suspended far above.
 
-It was a cavern of brushed steel and polished duracrete, vast enough to hold a storm system. The ceiling was lost in a haze of artificial blue light that filtered down from suspended lumin-panels, giving everyone in the room a pallid, corpse-like complexion. It felt like standing inside the belly of a whale made of metal.
+Around her, thousands of other candidates stood in rigid, shivering lines. The air recyclers blasted a freezing, ozone-scented draft that cut through her thin tunic, but the cold was nothing compared to the bone-deep exhaustion weighing on her limbs. Every muscle in her body ached from the Span, a dull throb that kept pace with the rhythmic, mechanical hum of the hall’s foundations.
 
-Angelica stood in formation, shivering not from cold—though the air recyclers were blasting freezing, ozone-scented air—but from a bone-deep exhaustion. The adrenaline of the Span had faded, leaving behind the dull ache of bruised muscles and the gnawing hunger that was her constant companion.
+She stood amongst the "Iron" cohort, her synthetic grey tunic—rough and ill-fitting—stamped with the molecular symbol _Fe_. Above them, on balconies of white marble bathed in artificial sunlight, the "Golds" looked down with bored amusement, their skin glowing with the health and privilege of the sky.
 
-Around her, thousands of other candidates stood in rigid lines. They were a sea of nervous energy, separated by the color of the tunics they had been issued upon arrival.
+High above the floor, a floating platform drifted into the center of the hall. A man with a mask of cybernetic silver stood at its edge, his sensors glowing blue as he scanned the sea of potential assets below. He didn't need a microphone; the hall’s geometry was engineered to amplify his every word into a resonant, inescapable boom.
 
-Gold. Silver. Bronze. And Iron.
+"Welcome," the Headmaster said, his voice as cold as the air. "You have ascended. You have left the Silt behind. You are now part of the Mechanism."
 
-Angelica looked down at her own chest. Her tunic was grey, the color of wet cement, stamped with the molecular symbol for Iron: _Fe_. It was rough against her skin, made of recycled synthetic fiber that itched. It was size "Small," but it still hung on her frame like a sack.
-
-She looked up at the tiers.
-
-The Assembly Hall was built like a coliseum, but inverted. The highest tier was reserved for the Gold.
-
-The Golds stood on a balcony of white marble that overlooked the pit. They were bathed in warm, golden light—the kind of light that suggested sun and health. They were tall, perfectly formed, their skin glowing with the benefits of gene-therapy and unrestricted diets. They stood relaxed, chatting amongst themselves, looking down at the masses below with bored amusement.
-
-Below them were the Silvers. The Scientists. They occupied the middle tiers, surrounded by banks of holographic displays. They were paler, sharper, their eyes already glued to datapads, analyzing, calculating. They didn't look down; they looked at their screens.
-
-Then the Bronzes. The Engineers. They stood on gantries of steel, surrounded by heavy machinery. They were broad-shouldered, their hands stained with grease even now. They looked solid. Functional.
-
-And then, at the very bottom, in the pit, was Iron.
-
-Angelica looked around at her cohort. They were the leftovers. The ones who were too aggressive for Silver, too dumb for Gold, but too violent to be wasted. They were the muscle. The grunts. The meat for the grinder.
-
-High above them, on a floating platform that hovered silently in the center of the room, stood the Headmaster.
-
-He was a man of indeterminable age, his face a mask of cybernetic silver that reflected the blue light. Half his skull appeared to be replaced by a chrome plating. He didn't speak into a microphone. He didn't need to. The acoustics of the room were engineered to carry a whisper to the furthest corner.
-
-"Welcome," the Headmaster said. His voice was beautiful, resonant, and utterly devoid of warmth. It echoed off the steel walls, surrounding them. "You have ascended. You have left the Silt behind. You are now part of the Mechanism."
-
-He raised a hand, and the lighting in the room shifted. Spotlights—harsh and blinding—hit the tiered sections of the floor.
-
-"Society is a pyramid," the Headmaster intoned. "It requires a base to support the apex. It requires structure. Without structure, there is only the Silt. There is only entropy."
-
-He pointed to the highest tier.
-
-"Gold. Leadership. Command. You are the vision. You see the path."
-
-A cheer went up from the balcony. It was polite, restrained.
-
-He pointed to the middle tier.
-
-"Silver. Science. Innovation. You are the mind. You solve the problems."
-
-He pointed to the gantries.
-
-"Bronze. Engineering. Construction. You are the hands. You build the world."
-
-Then, his eyes—glowing blue optical sensors—turned downward. To the pit. To the lowest level of the floor where Angelica and her group stood.
-
-"And Iron."
-
-The word hung in the air like a sentence.
-
-"Iron is the foundation. It bears the weight. It is buried in the dark so that the Gold may shine."
-
-A low rumble shook the floor. The candidates gasped.
-
-The ground beneath Angelica’s feet moved. It dropped.
-
-The entire section of the floor—a massive hydraulic plate holding hundreds of Iron candidates—lowered a full foot. _Clang._ It hit the stops with a bone-jarring impact.
+The floor beneath Angelica’s feet shuddered. With a heavy, industrial groan, the entire Iron section dropped a full foot. _Clang._ The impact rattled her teeth, a physical reminder that in the pyramid of the Zenith, she was the base intended to bear the weight.
 
 It was a literal demotion. A physical manifestation of their place in the hierarchy.
 

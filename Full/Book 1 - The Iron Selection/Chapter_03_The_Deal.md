@@ -1,52 +1,22 @@
 # Chapter 3: The Deal
 
-Three hours.
+Angelica rolled the empty glass vial between her grease-stained fingers, its cold, smooth surface a mocking contrast to the heat radiating from Leo’s fevered skin. The "miracle" drug had lasted exactly three hours. She had watched the timer on her retinal display tick down, marking the seconds where his breathing had cleared—long enough for a weak smile—before the wet, rattling cough returned, harder than before.
 
-That was how long hope lasted.
+She turned back to her workbench, her hands shaking as she fumbled with a soldering iron, trying to recalibrate a broken proximity sensor. The Silt’s usual rhythm—the distant grinding of tectonic plates and the constant drip of condensation—usually provided a comforting background noise to her work.
 
-Angelica sat on the floor of the crawlspace, her back against the cold metal of the blast door, watching the timer on her retinal display tick away the seconds of her brother's life. The expensive, stolen, "miracle" drug she had risked her life for had burned through his system in less than an hour. It had cleared the Silt for a moment—just long enough for him to smile, to ask for water—and then the coughing had returned. Harder. Wet with blood.
+But suddenly, the rhythm stopped.
 
-The particulate matter in his lungs wasn't just dust; it was aggressive. It was adapting. The Zenith chemistry was too clean, too precise. It didn't know how to fight the dirty, mutated sludge of the Undercity.
+Angelica tilted her head, the soldering iron hovering inches from the circuit board. The neighbor’s generator had cut out. The skittering of rats in the walls had vanished. Even the air recycler’s hum had died, leaving a silence that felt heavy and expectant.
 
-She looked at the empty vial in her hand. It was beautiful glass. Useless glass.
+"Sparky," she whispered, her voice barely a tremor. "Scan."
 
-The Silt had a rhythm. It was a slow, dragging pulse that beat in time with the dripping of condensation from the overhead pipes and the distant, grinding tectonic shifts of the city’s foundations. For eighteen years, Angelica Ward had lived inside that rhythm. She had learned to sleep through the screams of the scavengers fighting over scrap, to ignore the shuddering of the walls when the atmospheric processors vented their waste, to tune out the constant, low-level radiation hum that made your teeth ache if you focused on it for too long.
+The drone’s optical lens dilated, shifting from blue to an ominous red. "Contact," it chirped through a burst of static. "Multiple signatures. Proximity: Zero."
 
-It was a heartbeat of decay. A wet, heavy thrum that vibrated in the soles of your boots and the cavities of your teeth. It was the sound of a city digesting itself.
+Zero.
 
-But this silence was different.
+The blast door didn't buckle. It simply dissolved. A ring of white-hot plasma carved through the reinforced titanium Angelica had spent weeks welding. The stench of ozone and superheated steel filled the room, acrid and suffocating.
 
-It started ten minutes ago. First, the rats had stopped skittering in the walls. Then, the neighbor's generator had cut out. Then, the hum of the air recyclers died.
-
-It wasn't the silence of an empty room. It was the silence of a held breath. The silence of a predator that had finally, after a long hunt, cornered its prey.
-
-Angelica sat frozen, the Haptic Glove still heavy on her hand—she had rebuilt it in a frenzy of paranoia after returning from the vault. The air in the small, cramped room—usually warm and humid from the hydroponic heater she’d rigged from a busted toaster coil—felt suddenly ice-cold. The smell of rust and old water, usually a uniform background scent, seemed to sharpen, smelling like blood.
-
-"Sparky," she whispered, her voice barely a tremor in the air. "Scan."
-
-The drone, hovering near Leo’s bed, spun its sensor array. Its optical lens dilated, shifting from blue to amber to red. The tiny servos in its frame whined, a sound like a dying mosquito.
-
-"Contact," Sparky chirped, its vocal synthesis hitching with static. "Multiple signatures. Thermal bloom detected. Proximity: Zero. Structural integrity compromised."
-
-_Zero._
-
-Angelica didn't even have time to stand.
-
-The blast door—three inches of reinforced scavenged titanium she had welded herself, layer by agonizing layer—didn't explode. It didn't buckle under a battering ram. It simply dissolved.
-
-A ring of white-hot plasma sparked into existence on the rusted iron surface, a perfect circle drawing itself with blinding speed. The light was searing, turning the shadows of the room into harsh, angular knives. The metal didn't just melt; it vaporized, turning into a cloud of sizzling gas that filled the room with the acrid stench of ozone and superheated steel. It smelled like lightning striking a garbage dump.
-
-The circle completed in less than a second. The center of the door fell inward with a heavy _thud_, landing on the floor with a sound like a coffin lid closing. The edges of the perfect circle glowed a dull, angry cherry-red, dripping molten metal onto the concrete like wax from a hellish candle.
-
-Through the smoke, they stepped.
-
-Two of them.
-
-They were massive. That was Angelica’s first thought—not fear, but a sudden, stark appreciation of scale. In the cramped crawlspace, they looked like titans squeezed into a dollhouse. They were clad in the pristine, pearl-white ceramic-plate armor of the Zenith Guard, the kind that looked less like clothing and more like the carapace of a giant, engineered insect. The armor gleamed in the dim light of the grow-lamp, unmarred by the grime and filth of the Silt. It was spotless. Holy. Terrifying.
-
-They moved with the heavy, hydraulic whine of servo-assisted limbs—_whir-clunk, whir-clunk_—a sound that spoke of crushing power held in casual restraint. Their faces were hidden behind polarized golden visors that reflected the room back at itself in a distorted, fish-eye view.
-
-One of them stepped forward, its boot landing on the fallen door piece, crushing the thick steel flat as if it were aluminum foil. The sound was sickening—a crunch of metal that vibrated in Angelica's chest.
+Through the sizzling cloud of gas, they stepped. Two giants in pearl-white ceramic armor, their boots crushing the fallen door piece into the concrete with a sickening crunch.
 
 "Target identified," the Warden stated. Implications of gender or humanity were stripped away by the vocal modulator, leaving only a flat, metallic baritone. "Subject: Ward, Angelica. Status: Non-compliant."
 
@@ -522,7 +492,7 @@ _Underdog: Ward, Angelica (1000:1)_
 
 She looked at the numbers. 1000 to 1. The kind of odds that made careers. The kind of odds that could bankrupt a lesser House if they bet wrong, or elevate them to the Council if they bet right.
 
-She scrolled through the other candidates. There was Julian Ardor—golden-haired, genetically perfect, trained since birth in the finest fencing schools. His odds were solid, safe, and utterly boring. He would fight with honor. He would follow the rules. He would make for excellent, predictable television.
+She scrolled through the other candidates. There was Julian Ardor—golden-haired, genetically perfect, trained since birth in the finest fencing schools. His odds were solid, safe, and utterly boring. He would fight with honor. He would follow the rules. He would make for excellent, predictable entertainment.
 
 Then she looked back at Angelica. The girl was a mess of bruises and defiant, raw energy. She was a variable. A chaos engine.
 
@@ -530,13 +500,13 @@ Then she looked back at Angelica. The girl was a mess of bruises and defiant, ra
 
 She tapped her comms-link, opening a channel to the Academy Administration.
 
-"This is Lady Corinne. House Venatori. I wish to register a sponsorship."
+"This is Lady Corinne. House Venatori. I wish to register a nomination."
 
 "Name of candidate?" a computerized voice asked.
 
 "Angelica Ward," Corinne said, watching the girl on the screen stare hatefully at the golden city. "Put her on the primetime roster. Pay her entry fees. And... send a fruit basket to the infirmary for the boy. Let's make sure the narrative has stakes."
 
-"Sponsorship confirmed," the computer chirped. "Welcome to the Iron Selection, Cadet Ward."
+"Nomination confirmed," the computer chirped. "Welcome to the Iron Selection, Cadet Ward."
 
 Corinne leaned back, her eyes gleaming with the reflected light of the nebula. She gestured, and a silent, chrome-plated servant stepped from the shadows to refill her tea.
 

@@ -26,9 +26,11 @@ When given a chapter summary, follow these steps to generate the full narrative:
     - Determine the POV character(s) and their current psychological state.
 3.  **Scene Expansion**:
     - Break the summary down into distinct scenes.
-    - For each scene, establish the setting using all five senses.
+    - **Dynamic Setting**: Do not describe the setting or mood through long, static lists of adjectives or passive observations (e.g., Avoid "The air tasted like x. The wind was y. She was seventeen."). Instead, establish the environment through the **actions and interactions** of the characters.
+    - For each scene, thread sensory details into character movement and immediate needs.
     - Pace the scene to maximize tension or emotional impact.
 4.  **Drafting**:
+    - **Show, Don't Tell**: Avoid providing a "resume" of the character or setting at the start of a chapter. Reveal their age, history, and status naturally through their dialogue, gear maintenance, or how they navigate their surroundings.
     - Write the prose in a consistent style (e.g., Third Person Limited or Omniscient, as established by the series).
     - Ensure dialogue sounds natural and distinct for each character.
     - _Self-Correction_: Continually check word count progress. If falling short, expand on the "connective tissue" between major actions—introspection, reaction, and atmospheric details.

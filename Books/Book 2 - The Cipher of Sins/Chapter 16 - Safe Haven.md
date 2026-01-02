@@ -91,7 +91,7 @@
   - _Key Dialog:_ **Angelica Ward:** "Grandma is a spy. A black-ops botanist."
 - **Key Event:** The Comment.
 - **Detailed Description:** Joyce sees her looking. She picks up a medical kit.
-  - _Key Dialog:_ **Joyce:** "Television always did add ten pounds of menace, dear. Real spycraft is about being the person nobody remembers."
+  - _Key Dialog:_ **Joyce:** "Entertainment always did add ten pounds of menace, dear. Real spycraft is about being the person nobody remembers."
 - **Key Event:** The Care.
 - **Detailed Description:** She starts cleaning Hatcher's wound with efficiency.
   - _Key Dialog:_ **Joyce:** "I just scrubbed the blood and grime out of this rug last Tuesday. And I'm not in the mood to do it again so soon. Hold still."

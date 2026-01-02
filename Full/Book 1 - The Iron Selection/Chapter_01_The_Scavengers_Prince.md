@@ -1,28 +1,20 @@
 # Chapter 1: The Scavenger's Prince
 
-The air in Sector 12 tasted of copper and old regrets. It was a flavor Angelica Ward had known since she was old enough to breathe without coughing up black phlegm, a metallic tang that coated the back of the throat and refused to wash away. It was the taste of the Silt, the sprawling, subterranean graveyard of technology that festered beneath the gleaming, sun-drenched spires of the Zenith.
+Angelica spat a bitter, copper taste onto the rusted collar of her flight jacket. The Silt didn't offer many flavors, and today’s was particularly metallic. She shifted her weight, feeling the damp rust of the suspension cable vibrate through her harness as she clung to the underside of Node 42. Four hundred feet below, the "River"—the massive conveyor belt of the Zenith’s discarded trash—roared like a dying beast.
 
-Angelica shifted her weight, the leather of her harness creaking against the damp rust of the suspension cable. She was dangling four hundred feet above the ground, suspended in the tangled web of infrastructure that made up Node 42. Below her, the "River"—a massive, churning conveyor belt of refuse—roared like a dying beast, a ceaseless, grinding avalanche of shattered plastic, twisted metal, and chemical sludge flowing from the upper city down to the molecular shredders.
+She clicked her modified welding lenses into place. The world flared a sharp, high-contrast green, highlighting the friction-heated rollers far below.
 
-She adjusted her goggles, the modified welding lenses sliding over her eyes with a satisfying click. The world turned a sharp, high-contrast green, the thermal overlay highlighting the heat signatures of the friction-heated rollers far below.
+"Come on," she whispered, her voice immediately swallowed by the industrial scream of the intake fans. "Give me something good today."
 
-"Come on," she whispered, her voice swallowed by the industrial din. "Give me something good today."
-
-She was seventeen, though the Silt aged everything faster. Her hands, wrapped in duct-taped fingerless gloves, were stained with grease that no amount of scrubbing could remove. Her flight jacket, a scavenged relic from a pilot who had probably died of old age before she was born, was a patchwork of repairs—leather stitched with copper wire, reinforced with strips of blast-cloth. She was a creature of the Undercity, built from scraps and refuse, just like the world around her.
-
-The wind down here was artificial, a draft created by the massive intake fans that cycled air from the surface, stripped it of oxygen, and pumped the waste heat down into the dark. It whipped her hair, a chaotic mop of dark curls, across her face. She blew a strand out of her eyes and checked her wrist-comp. The display was cracked, but the numbers were legible.
+She adjusted the copper-wire stitching on her sleeve, a nervous habit she’d picked up since her last close-call with a Rust-Eater gang. Being seventeen in the Silt meant you were either fast or you were scrap, and Angelica preferred to keep her limbs attached. She checked her wrist-comp, squinting at the cracked display.
 
 08:14:00.
 
-The "Morning Drop."
+The Morning Drop.
 
-Every day at 08:14, the waste chutes from Sector 1—the residential district of the elite—purged their bins. To the people up there, it was trash day. To Angelica, it was Christmas, birthday, and lottery all rolled into one.
+Above her, the great pneumatic tube hissed—a sound like a giant inhaling. The vibration traveled up her arms, rattling her teeth. She bent her knees and pressed her heavy magnetic boots against the rusted stanchion, coiling her muscles for the impact.
 
-Above her, the great pneumatic tube hissed. It was a sound like a giant inhaling, a build-up of pressure that vibrated through the metal lattice she clung to. The vibration traveled up her arms, settling in her teeth. She bent her knees, pressing her heavy magnetic boots against the rusted stanchion, coiling her muscles.
-
-_Please don't be bio-waste,_ she prayed silently. _Please don't be diapers. Please don't be slop._
-
-A week ago, the chute had dumped three tons of expired nutrient paste. The entire sector had smelled like rotting strawberries for days, and the cleanup had taken her weeks to scrape off her boots. She needed hard tech. She needed circuits. She needed something she could sell, or trade, or fix.
+_Please don't be bio-waste,_ she prayed, the memory of last week’s rotten strawberry nutrient paste making her stomach churn. _Please don't be slop. Give me circuits. Give me steel._
 
 The hiss turned into a roar. The blast door at the end of the tube, fifty feet above her output, slammed open.
 

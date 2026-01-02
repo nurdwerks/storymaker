@@ -1,40 +1,16 @@
 # Chapter 5: The Span
 
-The wind didn't just blow here; it hunted.
+Angelica braced herself against the gale, her fingers numbing as she gripped the freezing marble edge of the platform. Five thousand feet above the Cloud Layer, the wind was a living, invisible force that tore at her thin tunic and tasted of ozone and ice. She squinted through the stinging salt of her own tears as a sudden gust nearly took her feet out from under her, her vision swimming as she stared into the infinite, churning grey void below.
 
-It screamed around the crystal spires of the Iron Academy, a living, invisible thing that tore at clothes, froze sweat instantly against the skin, and sought out any weakness in foothold or resolve. At five thousand feet above the Cloud Layer, the air was thin, sharp, and merciless. It tasted of ozone and ice, a metallic flavor that coated the back of the throat.
+They stood at the edge of the Induction Spire, looking out at the nightmare Vane had prepared for them: The Span.
 
-Angelica stood at the edge of the Holding Pen platform, looking out at the nightmare Vane had prepared for them.
+It wasn't a bridge—it was a ribbon of transparent poly-glass, barely four feet wide, stretching a mile into the void. It hummed a high-pitched, subsonic tune as it harmonized with the hurricane-force winds, a vibration that rattled Angelica’s teeth.
 
-They called it The Span.
+"Walk or fly," a Warden bellowed, his voice distorted by his helmet’s speakers as he jabbed a shock-baton into a hesitant candidate's ribs. "The choice is yours."
 
-It was a bridge. But to call it a bridge was to imply safety, stability, and purpose. This was not a bridge. It was a ribbon of transparent poly-glass, barely four feet wide, stretching out into the void. It connected the Induction Spire, where they currently stood shivering, to the Main Academy tower, a mile away.
+The man screamed as he slipped, his boots squeaking uselessly on the wet glass. Angelica watched, her heart hammering against her ribs, as he clawed at the slick poly-glass before the wind finally snatched him away. The silence that followed his fading scream was heavier than the roar of the air.
 
-A mile.
-
-One mile of open air. No handrails. No walls. No safety nets. Just a strip of glass slick with high-altitude condensation, suspended over a drop that went down forever.
-
-The structure itself was a marvel of Zenith engineering—and a testament to their cruelty. The glass was perfectly clear, designed to disappear. From certain angles, it looked like there was nothing there at all. Just a gap. A leap of faith required for every single step.
-
-Below the glass, the clouds churned like a gray ocean. They roiled and boiled, lit from within by occasional flashes of static discharge from the atmospheric scrubbers far below. Below the clouds lay the Silt, miles down. If you fell, you wouldn't just die; you would embrace physics in its most brutal form. You would become a terminal velocity equation ending in zero.
-
-"Move it!" a Warden shouted, his voice amplified by his helmet's speakers. He jabbed a shock-baton into the back of a hesitant candidate. "Walk or fly. The choice is yours."
-
-The candidate—a burly man who had been crying since the elevator ride—stumbled forward onto the glass. He slipped immediately, his boots squeaking on the wet surface. He dropped to his hands and knees, hyperventilating.
-
-"Get up!" the Warden roared, the blue arc of electricity crackling ominously at the tip of his baton.
-
-"I can't! I can't do it!" the man screamed, clinging to the glass like a limpet. He was staring down. That was his mistake. He was looking through the glass, through the clouds, seeing the fall before it happened.
-
-The Warden didn't argue. He didn't negotiate. He stepped forward and kicked the man in the ribs. It wasn't a lethal blow, but it was calculated. The man gasped, his grip loosening. The wind caught him.
-
-He slid.
-
-It was slow at first. A slide of inches. Then feet. He clawed at the glass, his fingernails scratching uselessly against the smooth poly-glass. He screamed as he went over the edge, his legs kicking at empty air.
-
-Then he was gone.
-
-The silence that followed was heavier than the wind. It was the silence of fifty people realizing that their lives were worth less than the glass they stood on.
+Angelica tightened her harness. _Friction coefficient: 0.3. Wind speed: 80 knots. Vectors: North-Northeast._ She stepped onto the glass, her legs feeling like jelly as the transparency made it feel like she was walking on nothing but air. _Don't look down. Fixate on the gold tower. Step. Step. Step._
 
 "Anyone else have a problem with the curriculum?" the Warden asked, his visor reflecting the terrified faces of the remaining forty-nine candidates.
 
@@ -580,5 +556,11 @@ He looked down at the Span, a tiny thread of glass in the distance.
 He smiled. It was a smile full of teeth.
 
 "...I will be there to catch the pieces."
+
+He turned his gaze from the Span to the massive structure dominating the central courtyard. The Assembly Hall.
+
+Even from this height, he could sense the vibration of the crowd. Thousands of them. Fresh meat for the grinder. They would be standing in rows right now, shivering in the cold, waiting for Vane to tell them who they were.
+
+"Enjoy the spectacle, children," Cromwell whispered, turning away from the window as the lights in his office dimmed. "Class is about to begin."
 
 # End of Chapter 5

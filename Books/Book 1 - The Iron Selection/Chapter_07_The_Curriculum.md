@@ -40,7 +40,7 @@
 ### Scene 2.5: The Patron
 
 - **Key Event:** Lady Corinne observes the class.
-- **Detailed Description:** In the VIP observation box above the lecture hall, **Lady Corinne** watches the exchange. She is not horrified by the heresy; she is bored by the lecture. Angelica's interruption is the only interesting thing that has happened in an hour. Corinne taps her fan against the glass. She likes the girl's audacity. It will make for good television ratings during the games. The Highborn audience loves to hate a smart-mouth from the Silt.
+- **Detailed Description:** In the VIP observation box above the lecture hall, **Lady Corinne** watches the exchange. She is not horrified by the heresy; she is bored by the lecture. Angelica's interruption is the only interesting thing that has happened in an hour. Corinne taps her fan against the glass. She likes the girl's audacity. It will make for good entertainment ratings during the games. The Highborn audience loves to hate a smart-mouth from the Silt.
   - _Key Dialog:_ **Lady Corinne (to her aide):** "Make sure that clip makes it to the nightly news. 'The Heretic of Hall 1.' We'll brand her as the villain. Villains sell merchandise."
   - _Character Defining Moment:_ **Lady Corinne** — She frames rebellion as entertainment, showing her power to twist any narrative into profit.
 
