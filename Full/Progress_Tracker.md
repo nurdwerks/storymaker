@@ -25,9 +25,9 @@
 | Book 1 - The Iron Selection    | Chapter_01_The_Scavengers_Prince     | 5547       | Completed |
 | Book 1 - The Iron Selection    | Chapter_02_The_Interception          | 6658       | Completed |
 | Book 1 - The Iron Selection    | Chapter_03_The_Deal                  | 5704       | Completed |
-| Book 1 - The Iron Selection    | Chapter_04_Ascent                    | 0          | Pending   |
-| Book 1 - The Iron Selection    | Chapter_05_The_Span                  | 0          | Pending   |
-| Book 1 - The Iron Selection    | Chapter_06_Squad_Iron                | 0          | Pending   |
+| Book 1 - The Iron Selection    | Chapter_04_Ascent                    | 5706       | Completed |
+| Book 1 - The Iron Selection    | Chapter_05_The_Span                  | 5549       | Completed |
+| Book 1 - The Iron Selection    | Chapter_06_Squad_Iron                | 5544       | Completed |
 | Book 1 - The Iron Selection    | Chapter_07_The_Curriculum            | 0          | Pending   |
 | Book 1 - The Iron Selection    | Chapter_08_The_Bonding               | 0          | Pending   |
 | Book 1 - The Iron Selection    | Chapter_09_The_Anomaly               | 0          | Pending   |
