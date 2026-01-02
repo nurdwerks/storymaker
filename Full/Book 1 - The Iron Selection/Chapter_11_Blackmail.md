@@ -46,7 +46,7 @@ He stopped a foot away from her. He was tall, but not like Ria. Ria was a mounta
 
 "I imagine everyone has," Angelica replied, looking at his boots.
 
-"Not the broadcast feed," Kaelen corrected. "I pulled the telemetry data from the suit sensors. You didn't just hit Toro. You... changed him."
+"Not the broadcast feed," Kaelen corrected. "I pulled the telemetry data from the suit sensors. You didn't just hit that Silver cadet. You... changed him."
 
 Angelica looked up, alarmed. "What do you mean?"
 
@@ -168,7 +168,7 @@ She reached out and slammed her hand against the wall next to Angelica's head._C
 
 Angelica flinched.
 
-"I saw the lockers," Ria whispered. "I checked them after the meds took Toro away. Bent like tin foil. No scuff marks. No impact trauma. Just... shaped."
+"I saw the lockers," Ria whispered. "I checked them after the meds took them away. Bent like tin foil. No scuff marks. No impact trauma. Just... shaped."
 
 She looked Angelica in the eye.
 
@@ -614,7 +614,7 @@ Aris sat at his central console. His multi-spectrum eye whirred and clicked as i
 
 It wasn't a body. It was a moment in time.
 
-He had isolated the timestamp of the "Locker Room Incident." 0642 hours. Subject: Toro vs. Subject: Ward.
+He had isolated the timestamp of the "Locker Room Incident." 0642 hours. Subject: Foundry Cadets vs. Subject: Ward.
 
 "Playback," Aris murmured. His voice was metallic, filtered through a vocal synthesizer that stripped away all inflection.
 

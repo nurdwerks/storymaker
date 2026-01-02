@@ -2,13 +2,13 @@
 
 ## **Project Overview**
 - **Total Chapters**: 272
-- **Completed Chapters**: 4 (1.5%)
-- **Total Word Count**: 48,028
+- **Completed Chapters**: 8 (2.9%)
+- **Total Word Count**: 81,588
 
 ## **Book Breakdown**
 | Book | Chapters | Completed | Total Words | Progress |
 |---|---|---|---|---|
-| Book 1 - The Iron Selection | 25 | 4 | 48,028 | 16.0% |
+| Book 1 - The Iron Selection | 25 | 8 | 81,588 | 32.0% |
 | Book 2 - The Cipher of Sins | 30 | 0 | 0 | 0.0% |
 | Book 3 - The Game of Gears | 35 | 0 | 0 | 0.0% |
 | Book 4 - The Stone Season | 40 | 0 | 0 | 0.0% |
@@ -24,16 +24,16 @@
 | Book 1 - The Iron Selection | Chapter_03_The_Deal | 5174 | In Progress |
 | Book 1 - The Iron Selection | Chapter_04_Ascent | 5986 | Completed |
 | Book 1 - The Iron Selection | Chapter_05_The_Span | 5374 | In Progress |
-| Book 1 - The Iron Selection | Chapter_06_Squad_Iron | 5111 | In Progress |
+| Book 1 - The Iron Selection | Chapter_06_Squad_Iron | 5110 | In Progress |
 | Book 1 - The Iron Selection | Chapter_07_The_Curriculum | 5619 | Completed |
 | Book 1 - The Iron Selection | Chapter_08_The_Bonding | 5525 | Completed |
 | Book 1 - The Iron Selection | Chapter_09_The_Anomaly | 5501 | Completed |
-| Book 1 - The Iron Selection | Chapter_10_Sparring | 0 | Pending |
-| Book 1 - The Iron Selection | Chapter_11_Blackmail | 0 | Pending |
-| Book 1 - The Iron Selection | Chapter_12_The_Blood_Pact | 0 | Pending |
-| Book 1 - The Iron Selection | Chapter_13_Mental_Shielding | 0 | Pending |
-| Book 1 - The Iron Selection | Chapter_14_The_Winter_Ball | 0 | Pending |
-| Book 1 - The Iron Selection | Chapter_15_The_Dance | 0 | Pending |
+| Book 1 - The Iron Selection | Chapter_10_Sparring | 5906 | Completed |
+| Book 1 - The Iron Selection | Chapter_11_Blackmail | 5515 | Completed |
+| Book 1 - The Iron Selection | Chapter_12_The_Blood_Pact | 5497 | In Progress |
+| Book 1 - The Iron Selection | Chapter_13_Mental_Shielding | 5280 | In Progress |
+| Book 1 - The Iron Selection | Chapter_14_The_Winter_Ball | 5501 | Completed |
+| Book 1 - The Iron Selection | Chapter_15_The_Dance | 5862 | Completed |
 | Book 1 - The Iron Selection | Chapter_16_The_Selection_Begins | 0 | Pending |
 | Book 1 - The Iron Selection | Chapter_17_The_Gear_Grinder | 0 | Pending |
 | Book 1 - The Iron Selection | Chapter_18_The_Chimera | 0 | Pending |

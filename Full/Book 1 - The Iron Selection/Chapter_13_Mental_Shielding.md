@@ -619,17 +619,33 @@ But he was crying. Tears of blood ran down his face, sizzling when they hit the 
 
 "I am the silence," he wept.
 
+The tears hit the obsidian floor and hissed, releasing plumes of silver steam that smelled like ozone. The steam twisted into shapes—faces of the cadets she had beaten, the faces of the press-gangs, the face of the dead man she had stolen the ration bar from.
+
 Leo pressed the iron to her chest.
 
 She didn't feel the burn. She felt... cold. A freezing, numbing cold that spread from her heart out to her limbs. It turned her blood to ice. It stopped her lungs.
+
+"Don't fight it, Angel," Leo whispered, but his voice was layered, echoing with Lilith Night's melodic cadence. "To feel is to break. To be cold is to endure."
+
+"I don't want to be cold," she tried to say, but her lips were frozen shut.
 
 She looked down.
 
 Her chest wasn't burning. It was cracking. Like glass.
 
-"Patterns break," Leo said, his face warping into Lilith Night's. "Water yields."
+A spiderweb of fractures spread from the point of contact, racing across her skin. Through the cracks, she didn't see blood or bone. She saw gears. She saw wires. She saw the dusty, frantic machinery of a clock that was winding down.
 
-The cracks spread. She was shattering.
+"You are just a machine that thinks it's a girl," the sky-Kaelen thundered. "Turn off the switch."
+
+The obsidian mud rose up. It wrapped around her legs, heavy and suffocating. It wasn't just mud; it was data. Binary code, scrolling zeros and ones that looked like maggots. They ate at her boots, dissolving the leather, trying to rewrite her code.
+
+_Reformat,_ the mud whispered. _Reboot. Delete._
+
+Angelica struggled. She tried to find her anger—the sister-rage that had saved her in the study—but it was gone, frozen under the ice. She was just a mechanic who couldn't fix herself.
+
+"Patterns break," Leo said, his face warping into Lilith Night's. The skin stretched and tore, revealing the beautiful, terrible face of the Matriarch. "Water yields. But ice... ice shatters."
+
+The cracks spread to her neck. To her face. She was shattering.
 
 "NO!"
 

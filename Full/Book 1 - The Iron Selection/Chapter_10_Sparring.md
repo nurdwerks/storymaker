@@ -1,593 +1,617 @@
 # Chapter 10: Sparring
 
-The locker room smelled of fear and Tiger Balm.
+The Dojo was less a place of learning and more a place of ritualized trauma.
 
-It was 0600 hours, thirty minutes before the Sparring Session, and the air was already thick with tension. Fifty cadets from Squad Iron were cramming themselves into their gear, strapping on greaves and tightening bracers with the grim efficiency of soldiers preparing for a suicide mission.
+It was a vast, circular arena sunk twenty feet into the bedrock of the Spire’s lower militarized zone. The floor was covered in black sand imported from the volcanic flats of Sector 7—a coarse, abrasive grit that didn't just cushion falls but scrubbed the skin raw. The air was perpetually superheated, pumped in from the massive vents that lined the upper gallery, smelling of recycled sweat, ozone, and the coppery tang of dried blood.
 
-The locker room didn't just smell like fear; it sounded like it. The squeak of rubber on tile. The sharp intake of breath. The murmur of prayers to the machine-gods mixed with the rhythmic thud of fists hitting palms. It was the soundtrack of anxiety, a symphony of nerves playing on a loop.
+The lighting was oppressive. Twelve massive halogen floods hung from the domed ceiling, arranged in a perfect circle to eliminate shadows in the center of the ring. It left nowhere to hide. Every flinch, every drop of blood, every moment of hesitation was illuminated for the hundreds of cadets watching from the tiered observation decks.
 
-Angelica sat on a bench in the corner, carefully wrapping her hands.
+Angelica stood in the holding pen for Squad Iron, clutching the wire mesh fence that separated them from the main floor. The pen was cramped, a concrete box that smelled of unwashed bodies, fear, and the cheap rubber of their sparring boots. While the Gold and Silver squads had cushioned benches, hydration stations, and digital tactical displays in their designated viewing areas, Squad Iron stood on bare concrete. They huddled together like livestock awaiting the butcher.
 
-She did it slowly, methodically. Over the thumb, across the wrist, between the fingers. The cloth was coarse, meant to protect the knuckles, but she knew it wouldn't matter. Against the reinforced exoskeletons of Squad Gold or the mutation-enhanced bone density of Squad Bronze, this tape was just a placebo.
+"It's a meat grinder today," Jax whispered from beside her.
 
-"You're wrapping it too tight," Ria said.
+He was huge, even for a laborer—a slab of muscle and bone bred for heavy lifting in the shipyards. But today, he looked small. He kept rubbing his left shoulder, where a bruise from yesterday's 'lesson' was blossoming into a sickly yellow-black galaxy. His hands, usually steady as rocks, were trembling slightly.
 
-Angelica looked up. Ria was sitting on the locker opposite her, swinging her legs. She wasn't wrapping her hands. She was polishing her steel bracers with a dirty rag.
+"Did you see what they did to Miller?" he asked, his voice barely audible over the roar of the crowd. "Dislocated his hip. Instructor Krell didn't even stop the match. He just... watched. Taking notes while Miller screamed. He said the screaming was 'auditory data'."
 
-"If I wrap it tight, I can't feel my fingers," Angelica muttered. "If I can't feel my fingers, I won't feel them break."
+Angelica tightened her grip on the fence until her knuckles turned white. "They're weeding us out," she said, her eyes fixed on the center of the arena. "They don't want forty Iron cadets. They want five. Maybe less. They want the ones who enjoy it."
 
-Ria laughed, but it was a brittle sound. "That's one strategy. I prefer the 'hit them until they stop moving' approach."
+"I heard they want zero," Ria said.
 
-She hopped down and flexed her arms. The steel bracers glinted under the harsh fluorescent lights. They weren't standard issue. Ria had scavenged them from a decommissioned loader-bot in the junkyard and reshaped them to fit her forearms. Technically, they were contraband. Practically, they were the only reason she was still alive.
+Ria was leaning against the back wall of the pen, arms crossed over her chest. She looked bored. While everyone else in the pen was vibrating with anxiety, shifting their weight and checking their gear, Ria looked like she was waiting for a delayed train. Her eyes, dark and sharp, scanned the crowd with a predator's detachment.
 
-"Who do you think you'll get?" Ria asked, leaning against the lockers.
+"They want us to quit," Ria continued, her voice flat. "It's cheaper. A discharge requires paperwork, severance pay, a transport ticket back to the Silt. A resignation? That's free. They push us until we break, until we beg to go home to the mud. It's an economic strategy, not a pedagogical one."
 
-"Doesn't matter," Angelica said, pulling the tape tight with her teeth. "They're all bigger than me."
+"I'm not going back," Angelica whispered. It was a vow she made every morning when she woke up in a clean bed, even if that bed was hard and the room was cold. "I'd rather let them break me than go back to the filters."
 
-"Halloway might put you against Kila," Ria suggested. "She's fast, but she telegraphs her kicks."
+"Careful what you wish for, Angie," Ria murmured. "Broken things down here don't get fixed. They get recycled."
 
-"Kila is in the infirmary," Angelica corrected. "Broke her ankle yesterday trying to bond with a Shadow-Stalker."
+In the center of the arena, two Silver cadets were finishing their bout. The violence was precise, calculated, and terrifying.
 
-"Right," Ria grimaced. "Nasty business. Well, maybe you'll get lucky. Maybe you'll get a Bronze. They're slow."
+One was a lanky boy with pale skin and eyes that glowed with a faint, electric blue light—a Storm-Caller. He moved with a jerky, frantic speed, static electricity crackling around his fists. His opponent was a girl from Squad Bronze, a heavy-set fighter wielding a practice staff.
 
-"They're not slow," Angelica said softly. "They're heavy. There's a difference."
+The Storm-Caller feinted left, then lunged. He didn't punch; he discharged. He slapped his open palm against the girl's chest plate.
 
-She finished the wrap and flexed her hand. It felt like a club. A useless, padded club.
+_CRACK._
 
-"Where's the bird?" Ria asked, looking at Angelica's empty shoulder.
+A bolt of blue lightning arced from his hand. The sound was like a whip cracking, sharp and deafening.
 
-"In the ring," Angelica said. "Scouting."
+The Bronze girl flew backward. She didn't stumble; she was launched. She hit the black sand ten feet away, rolling to a stop near the electrostatic barrier. She tried to get up, but her limbs twitched uncontrollably, the residual current seizing her muscles.
 
-Ria raised an eyebrow. "Scouting? It's a sand pit, Angel. It's round. There's nothing to scout."
+"Point, Valeris," Instructor Krell’s voice boomed over the PA system. Useable feedback whined for a second before cutting out.
 
-"He's analyzing the pylons," Angelica explained. "He thinks the electrostatic frequency is off. He says it tastes like 'orange static'."
+Krell stood on a hovering platform ten feet above the center of the ring. He was a veteran of the Border Wars, a man whose body was a roadmap of violence. Half his face was scar tissue, shiny and hairless. His right leg was a crude cybernetic replacement—not the sleek, vat-grown limbs the rich could afford, but a heavy, piston-driven antique that hissed and clanked every time he shifted his weight.
 
-"Orange static," Ria repeated. "Right. Remind me never to let your pet calibrate my gear."
+He looked down at the twitching girl with mild disinterest.
 
-The PA system crackled to life, interrupting them.
+"Failure to ground," Krell noted, typing something into his datapad. "You saw the charge building, Cadet. You didn't brace. You didn't earth yourself. Now you are twitching on the floor like a electrocuted frog. Pathetic."
 
-"Squad Iron," Instructor Krell's voice boomed, distorted by the cheap speakers. "Report to the Arena. You have five minutes to bleed."
+He looked up, scanning the holding pens. His cybernetic eye, a glowing red lens, whirred as it focused.
 
-Ria pushed off the locker. She grabbed her helmet from the hook.
+"Next pair," Krell barked. "Squad Iron. Entity Ward. Entity Toro. Center."
 
-"Showtime," she said, flashing a grin that was all teeth and adrenaline. "Try not to die, Angel. I still owe you five credits for lunch."
+Angelica's stomach dropped. It felt like she had swallowed a stone.
 
-"I'll try," Angelica promised.
+"Toro?" Jax hissed, his eyes widening. "That's a death sentence. The guy used to bend rebar for fun in the Foundry District. He's not a cadet; he's a construction vehicle with a pulse."
 
-She stood up, grabbing her own helmet. It felt heavy in her hands. She followed Ria out of the locker room, into the long, concrete tunnel that led to the Arena.
+"I'll be fine," Angelica lied. Her voice sounded thin, reedy, like a dry leaf scraping against pavement.
 
-The tunnel was dark, lit only by the red emergency strips on the floor. It sloped downward, leading them deeper into the earth, toward the smell of ozone and old blood.
+She pushed off the fence. The gate to the pen buzzed open.
 
----
+"Don't let him grapple you," Ria advised, pushing off the wall. She stepped close to Angelica, her voice low. "He's top-heavy. If he grabs you, he'll crush you. He likes to bear-hug. Stay outside. Hit the knees. Move constantly. If you stop, you die."
 
-The Arena smelled like ozone and old blood.
+"Thanks," Angelica muttered. "Comforting."
 
-It was a circular pit, fifty meters in diameter, dug deep into the bedrock at the base of the Spire. The floor wasn't dirt; it was black volcanic sand imported from the ash-wastes of Sector 7. It absorbed sound, movement, and—most importantly—fluid.
+"Just telling you the truth," Ria said. "Don't try to win. Just try to survive the clock."
 
-Around the perimeter, electrostatic pylons hummed with a low, menacing buzz. They projected an invisible containment field that crackled every time a stray drop of sweat hit it. The air was heavy, humid, and tasted of recycled oxygen and fear.
+Angelica walked out onto the black sand.
 
-Angelica stood in the center of the ring, her bare feet sinking into the warm grit. She wore standard-issue sparring greaves and hand wraps that felt too light, too flimsy against the monster standing across from her.
+The heat hit her instantly. It was a physical weight, heavy and suffocating. It wrapped around her, pressing the air out of her lungs. The sand shifted under her boots, loose and treacherous. It wasn't firm ground; it was a trap.
 
-Above her, the observation decks were packed. The Academy's caste system was on full display.
+Toro was already there.
 
-At the very top, behind polarized glass and air-conditioned luxury, sat the Command Staff—Vane, Halloway, and the silent, terrifying specter of Lord Cromwell. They were the gods of this world, watching the ants fight for their amusement.
+He was a behemoth. Six-foot-four, with shoulders that blocked out the lights from the gallery. He weighed at least two hundred and forty pounds, and none of it was fat. He was dense, labor-hardened muscle, built from years of swinging hammers and lifting girders in the Foundry.
 
-Below them, in the gold-plated box seats, sat Squad Gold. They looked bored. They sipped chilled nectar from crystal flutes, betting credits on how long the "Silt-Rat" would last. Lydia was there, her nose still bandaged from the cafeteria incident, glaring down with a mixture of hatred and anticipation.
+He wore the standard-issue grey sparring shorts and tank top, but he had customized them. He had wrapped his hands in unauthorized bronze tape that glinted under the lights. He had a thick neck and a jaw like a shovel. He looked at Angelica the way a boot looks at an ant.
 
-Then came Squad Silver and Bronze, filling the middle tiers. They were the loudest, cheering for blood, screaming for violence. They were the mob.
+"Look at this," Toro boomed, playing to the crowd. He gestured at Angelica. "They sent me a chew toy."
 
-And finally, segregated to the lowest level, standing pressed against the containment field behind a mesh screen, was Squad Iron. They were silent. They weren't cheering. They were studying. Because they knew that whatever happened to Angelica today would happen to them tomorrow.
+Laughter rippled through the upper tiers where the Gold and Silver squads sat. It was a cruel, practiced sound.
 
-"Entity Ward," Instructor Krell barked from the observation deck. "Entity Toro. Center."
+"Combat parameters," Krell intoned from above, ignoring the taunt. "Unarmed. Victory conditions: Knockout, submission, or ring-out. Begin."
 
-Toro was a slab of granite carved into the shape of a boy. He was from the Foundry District, the industrial heart of the Zenith where the gravity plating was tuned 10% higher to build bone density. At sixteen, he was already six-four and weighed two hundred and forty pounds of labor-hardened muscle.
+Toro didn't wait.
 
-He rolled his neck. _Crack. Crack._
+He launched himself forward. For a man his size, he was terrifyingly fast. He moved like a landslide—unstoppable, inevitable. The sand exploded under his feet.
 
-He grinned at Angelica. It wasn't a friendly grin. It was the look a hammer gives a nail.
+Angelica didn't think; she reacted. It was the Silt instinct. _Big thing coming. Move._
 
-"Hey, Silt-Rat," Toro whispered, his voice a low rumble that vibrated in Angelica's chest. "You look lost. Need directions to the garbage chute?"
+She ducked left, sliding on the sand. Toro's fist—a hammer blow meant to shatter her collarbone—whistled through the space where her head had been a microsecond before. Useable wind buffeted her face, stinging her eyes.
 
-Angelica didn't answer. She bounced on the balls of her feet, keeping her hands up. She felt small. In the Silt, speed was survival. You didn't fight the big things; you outran them. But in the ring, there was nowhere to run.
+"Slippery," Toro grunted, pivoting on one foot.
 
-"Combat parameters: Unarmed," Krell announced, his voice amplified by the PA system. "Victory conditions: Knockout, submission, or ring-out. Begin."
+He swung a backhand. A lazy, dismissive swat.
 
-But before they could move, Krell held up a hand.
+Angelica dropped to her knees. The heavy arm passed over her hair. She saw an opening. His ribs were exposed as he overextended.
 
-"Pause," he barked.
+She drove her fist into his side.
 
-The arena froze.
+She put everything she had into it—her hip rotation, her shoulder, her desperation.
 
-"Look at them," Krell said, his voice dropping to a conversational tone that was somehow louder than a shout. He gestured to the two combatants. "Biology. Meat. Bone. Fluid. Fragile things."
+It was like punching a blast door.
 
-He paced the observation deck, a predator in a cage of glass.
+The impact jarred her wrist all the way to the elbow. A shockwave of pain shot up her arm. She felt the small bones in her hand grind together.
 
-"The Iron Selection is not about who is strongest," Krell lectured. "Strength is a variable. It fluctuates. It fades. The Selection is about who can _endure_. Who can take the data of pain and process it into a survival strategy."
+Toro didn't even flinch. He didn't gasp. He just looked down at her, a cruel, wide smile spreading across his face.
 
-He looked down at Angelica.
+"Was that a hit?" he asked genuinely. "Or a high-five?"
 
-"You are small, Ward. You are weak. Physics dictates that you lose this engagement 99 times out of 100."
+He didn't bother with technique. He just kicked.
 
-He looked at Toro.
+His shin caught her in the thigh. It wasn't a clean hit, but the force of it lifted her off the ground. She spun in the air, crashing into the sand five feet away. The grit tore at her skin, scraping her elbows raw. The breath left her lungs in a painful _whoosh_.
 
-"You are large, Toro. You are dense. Physics dictates that you win. But physics does not account for the Soul. It does not account for the Will. So show me. Show me if the math is right, or if one of you is an anomaly."
+"Get up, Silt-Rat!" someone yelled from the Silver gallery. "Stop playing in the dirt!"
 
-He dropped his hand.
+Angelica scrambled to her feet, limping instantly. Her leg felt dead, a numb block of wood dragging in the sand. Every step sent a jolt of fire up her hip.
 
-"Resume."
+Toro was walking toward her. He wasn't rushing anymore. He was stalking. He was enjoying it.
 
-Toro moved.
+"You don't belong here," he said, his voice low enough that only she could hear. "You think because you found some broken toy in the trash, you're one of us? You're nothing. You're spare parts."
 
-For a big man, he was terrifyingly fast. He launched himself forward, closing the distance in two strides. He threw a right hook that was less of a punch and more of a demolition event.
+He lunged.
 
-Angelica ducked. She felt the wind of the blow ruffle her hair. She pivoted, sliding to his blind side, and threw a jab at his ribs.
+Angelica tried to sidestep, but her bad leg buckled. She stumbled.
 
-_Thud._
+Toro caught her.
 
-It was like hitting a concrete pylon wrapped in leather. The impact jarred her wrist, shooting a bolt of pain up to her shoulder. Toro didn't even flinch. He just laughed.
+His hand—massive, calloused, smelling of iron and grease—wrapped around her throat. He lifted her off the ground with one hand.
 
-"That tickles," he grunted.
+She clawed at his wrist, her fingernails tearing at the bronze tape. Her legs kicked uselessly in the air. He squeezed.
 
-He spun around, faster than physics should allow, and backhanded her.
+It wasn't a choke; it was a crush. He was compressing her windpipe. Black spots danced in her vision. The noise of the crowd faded into a high-pitched ringing.
 
-It wasn't a clean hit—just a glancing blow—but it lifted Angelica off her feet. She spun in the air and hit the sand hard, rolling to absorb the momentum. She tasted copper.
+"Submit," Toro growled. "Beg me."
 
-_Warning: Kinetic Impact detected,_ Aeon's voice whispered in her head. The gryphon was perched on the railing of the Iron section, watching with intense, unblinking eyes. _Analysis: Subject Mass exceeds defensive capabilities by 300%. Suggestion: Retreat._
+angelica couldn't beg. She couldn't breathe. She stared into his eyes—small, dark beads of malice—and saw no mercy there. He wanted to hurt her. He wanted to break her.
 
-"I can't retreat," Angelica thought back, scrambling to her feet. "It's a ring-out. Instant fail."
+"Point, Toro," Krell called out lazily. "Release the candidate."
 
-Toro charged again.
+Toro didn't release. He tightened his grip.
 
-This time, Angelica didn't try to hit him. She tried to use his momentum. As he swung, she grabbed his wrist and dropped her weight, attempting a judo throw she had learned from a datapad.
+Angelica's vision began to tunnel. Her lungs burned. Her heart hammered against her ribs, a frantic, dying bird. Panic, cold and reptilian, uncoiled in her gut.
 
-She pulled.
+"Release!" Krell ordered, sharper this time. "Compliance or disqualification!"
 
-Toro didn't move. He stood there, looking down at her like she was an annoying child hanging off his arm.
+Toro sneered. "Fine."
 
-"Cute," he said.
+He didn't just drop her; he threw her.
 
-He grabbed her collar with his free hand. He lifted her up—one-handed—until her feet dangled six inches off the sand.
+He hurled her like a sack of refuse. Angelica flew through the air, flailing. She crashed into the electrostatic barrier at the edge of the ring.
 
-"You don't belong here," he spat, his face inches from hers. "You're a glitch. A mistake. Go back to the gutter where the garbage lives."
+_CRACK._
 
-He slammed her down.
+The barrier discharged. A bolt of blue lightning arced through her body. It was a non-lethal setting, designed for discipline, but it felt like being dipped in boiling oil. Every muscle in her body seized. Her teeth clacked together.
 
-The air left Angelica's lungs in a Whoosh. The black sand rushed up to meet her. The world went white for a second.
+She hit the sand, convulsing, smoke curling from her uniform.
 
-Then Toro dropped a knee onto her chest.
+"Oops," Toro said, wiping his hands on his shorts. "Slipped. My hands were sweaty."
 
-It was heavy—crushing weight that pinned her to the floor. She gasped, trying to pull in air, but her diaphragm was paralyzed.
+The buzzer sounded.
 
-"Stay down," Toro whispered.
+Angelica lay on the sand, gasping, trying to remember how to tell her lungs to expand. The world was a blur of bright lights and black grit. She tasted blood.
 
-"Point, Toro!" Krell shouted. "Reset! Get up, Ward. Pain is data. Assimilate it and improve. You are bleeding? Good. That means you are still useful."
+"Winner: Toro," Krell announced. "Medic drone to Sector 4. Next pair."
 
-Toro stood up, wiping his hands on his pants. He looked at the crowd—mostly the Bronze and Iron sections—and raised his fists in victory. They cheered. Not because they liked him, but because they liked violence.
+Two low-level medical bots hovered over, their grabber-arms extending to drag her out of the ring. Their pincers were cold.
 
-Angelica rolled onto her side, coughing. She spat a mouthful of bloody saliva into the sand.
+Angelica swatted them away. "I can... walk."
 
-_Subject Status: Compromised,_ Aeon noted. _Structural integrity: 98%. Pride: 0%._
+She couldn't, really. She stumbled back toward the pen, her leg dragging, her throat burning. Her squad mates stepped back as she entered, giving her a wide berth. They looked at her with a mix of pity and disgust.
 
-"Shut up," Angelica wheezed.
+Only Ria moved forward. She caught Angelica as she sagged against the fence.
 
-She stood up. Her ribs ached. Her lip was split. She looked at Toro, who was already turning away, dismissing her as a threat.
+"Sit down," Ria ordered, pushing her onto the concrete. "Breathe through your nose. Don't swallow the blood; you'll throw up."
 
-She hated him. But more than that, she hated that he was right. She didn't know how to fight like this. She knew how to survive, not how to win.
+"He..." Angelica coughed, spitting pink saliva onto the floor. "He's solid. I hit him... barely felt it."
 
-"Next pair!" Krell yelled. "Entity Stone. Entity Toro. Center."
+"He's calcium and water," Ria corrected. "Everything breaks. You just tried to break him the hard way."
 
-Ria stepped over the barrier.
+"Squad Iron," Krell’s voice boomed again. "Entity Ria. Entity Toro. Center."
 
-She dropped five feet from the stands to the sand, landing in a crouch. She stood up slowly. She wasn't wearing standard greaves. She was wearing heavy, unauthorized steel bracers on her forearms.
+Toro was still in the ring. He hadn't left. He was flexing his arms for the gallery, basking in the applause.
 
-She cracked her knuckles. _Pop. Pop. Pop._
+Ria stood up.
 
-She looked at Angelica, then at Toro. Her eyes were dark, devoid of their usual manic humor.
+She didn't crack her knuckles. She didn't bounce on her toes. She didn't yell or hype herself up. She just walked out of the gate.
 
-"You broke her lip," Ria said. It wasn't a question.
+"Be careful," Angelica whispered.
 
-Toro sneered. "She tripped. Clumsy little rat."
+Ria didn't look back. She walked onto the sand, her boots sinking slightly with each heavy, deliberate step. She stopped five feet from Toro. She was five-ten, tall for a girl, but Toro towered over her by half a foot and outweighed her by eighty pounds.
 
-Ria walked to the center of the ring. She stood there, loose, relaxed, her arms hanging by her sides.
+"Another one?" Toro laughed, turning to face her. "What is this, ladies night? Send me the big guy. Send me Jax."
 
-"Combat parameters," Krell started.
+"I'm here," Ria said. Her voice was flat. Monotone.
 
-"Skip it," Ria interrupted. "Let's go."
+"You're in my way," Toro sneered. "Move or be moved."
 
-Toro grinned. He saw another Iron grunt. Another punching bag.
+He threw a jab. It was lazy. He expected her to flinch. He expected her to be like Angelica—fast, scared, desperate.
 
-He charged.
+Ria didn't flinch. She took the hit.
 
-He threw the same right hook—the demolition punch. He put his hips into it, aiming for Ria's jaw.
+The fist connected with her shoulder. _Thud._
 
-Ria didn't dodge. She didn't block. She didn't weave.
+She didn't move. She didn't even rock back on her heels. She stood like a statue rooted in the earth.
 
-She stepped _into_ it.
+Toro frowned. He pulled his hand back, shaking it slightly. "You made of wood or something?"
 
-She took the punch directly on her forehead.
+"Steel," Ria said.
 
-_CLANG._
+The air around her seemed to shimmer. It wasn't a visual distortion like heat haze; it was a textural shift. Her skin, normally a pale olive, began to darken. A grey, metallic sheen rippled across her arms and neck. It wasn't armor plating; it was her skin _becoming_ metal. The pores vanished. The softness hardened. The light reflected off her cheekbones.
 
-The sound echoed through the arena. It didn't sound like flesh hitting flesh. It sounded like a hammer hitting an anvil.
+The Steel-Hide. A Class-3 somatic mutation. Rare. Painful.
 
-Toro gasped, pulling his hand back. He looked at his knuckles. They were bruised, the skin split.
+Toro saw it. His eyes narrowed. "Freak."
 
-Ria's head had snapped back, but now she slowly turned it forward.
+He wound up for a haymaker. He put his hips into it, a blow meant to shatter a jaw.
 
-The transformation was visceral. It started at her neck, a wave of quicksilver that raced up her skin. Her pores vanished. Her eyelashes stiffened into needles. Her eyes, usually dark and warm, turned into spheres of polished chrome.
+Ria watched it come. She waited until the last possible fraction of a second.
 
-The air around her grew cold as the heat was sucked out of the atmosphere to fuel the bond. The smell of ozone spiked, sharp and metallic.
+Then she stepped _in_.
 
-"My turn," Ria whispered. Her voice wasn't human anymore. It sounded like grinding gears.
+She stepped inside his guard, taking the space he needed to generate power. She caught his fist.
 
-She reached out—fast, blurringly fast—and grabbed Toro's injured hand. Her grip was hydraulic. Her fingers dug into his muscle like steel clamps, bruising the flesh instantly.
+Not his wrist. His fist.
 
-Toro screamed. "Let go!"
+She wrapped her hand around his massive, taped knuckles. Her fingers, now the color of gunmetal, clamped down.
 
-"Weak bones," Ria noted, tilting her head. The movement was jerky, robotic. "Calcium structure: insufficient. Density: laughable. You should drink more milk. Or maybe melted steel."
+_CRUNCH._
+
+The sound was distinct. It sounded like a bag of marbles being stepped on. It echoed in the silence.
+
+Toro screamed.
+
+He tried to pull away, but Ria was anchored. She held his crushed hand, staring into his eyes with a terrifying lack of emotion.
+
+"You like breaking things," she said. It wasn't a question.
 
 She twisted.
 
-There was a wet, sickening _SNAP_ as Toro's radius broke cleanly in two.
+She rotated his arm outward, working against the joint. She kept twisting. Toro's body was forced to follow the torque. He dropped to his knees, howling, his other hand clawing at her arm, trying to pry her grip loose. It was like trying to pry open a hydraulic press.
 
-He dropped to his knees, wailing, clutching his ruined arm. The arena went silent. Even Krell looked impressed.
+"Stop!" Krell shouted. "Point, Ria! Release!"
 
-Ria let go. She stood over the weeping giant, her skin slowly fading back to normal olive tones. She looked up at the observation deck, then over at Angelica.
+Ria didn't look at Krell. She looked at Toro.
 
-She winked.
+"My friend," she said, nodding toward the pen where Angelica sat bleeding. "She breaks easily. I don't."
 
-"Winner: Entity Stone," Krell announced, his voice devoid of sympathy. "Medical team to the sand. Next pair!"
+She squeezed one last time. Toro shrieked, a high, thin sound that didn't belong in a body that big.
 
----
+Then she released him.
 
-A medical drone hovered into the arena. It was an old model, a floating sphere of white plastic with retractable manipulator arms. It buzzed over to where Toro lay in the black sand, clutching his arm.
+Toro collapsed into the fetal position, cradling his hand to his chest. His fingers were mangled, bent at impossible angles. The bronze tape was shredded.
 
-Angelica watched from the sidelines, nursing her split lip. She should have looked away. She should have enjoyed the sight of the bully reduced to a weeping child.
+Ria turned and walked away. As she walked, the grey sheen faded from her skin, retreating like a tide, leaving her flesh soft and pink again.
 
-But then the drone stalled.
-
-It emitted a high-pitched whine. Its manipulator arm, holding the laser-sealer, twitched spasmodically. Sparks showered from its chassis, landing on Toro's exposed skin.
-
-"Do something!" Toro screamed, kicking at the drone. "It's burning me!"
-
-The drone didn't respond. It was stuck in a logic loop, its single red eye blinking rapidly.
-
-_Glitch,_ Aeon whispered in Angelica's mind. _Servo-motor seize in the primary joint. It cannot deploy the healing field._
-
-Angelica looked around. Krell was busy shouting at the next pair of cadets. The other students were laughing or ignoring the scene. No one was moving to help.
-
-She sighed.
-
-"Curse my life," she muttered.
-
-She hopped over the barrier and ran onto the sand.
-
-"Get away from me, Silt-Rat!" Toro yelled as she approached. "Haven't you done enough?"
-
-"Shut up," Angelica snapped. She wasn't looking at him. she was looking at the drone. "hold still or I'll let it cauterize your nose instead of your arm."
-
-She reached out and grabbed the drone's chassis. It was hot to the touch. She didn't have her tools, but she didn't need them. She _felt_ the mechanism. She felt the stuck gear, the corrupted code streaming through its processor.
-
-She jammed her thumb into a hidden release panel on the underside of the sphere. She twisted her wrist, forcing the seized joint back into alignment.
-
-_Click._
-
-The whining stopped. The red eye turned green.
-
-"Diagnostic complete," the drone chirped in a pleasant, synthetic voice. "Deploying tissue regeneration field."
-
-A blue light washed over Toro's arm. The screaming stopped instantly as the pain receptors were dampened.
-
-Angelica stepped back, wiping grease on her pants.
-
-Toro looked at his arm, then at her. His eyes were wide, confused. He opened his mouth to say something—maybe 'thank you,' maybe 'why?'—but his pride won out.
-
-"I didn't ask for your help," he grunted, looking away.
-
-"I didn't do it for you," Angelica said, turning to walk back to the barrier. 'I did it for the machine. It hates being broken."
+The arena was silent. Even Krell looked impressed.
 
 ---
 
-Later, in the locker room, Ria explained it while the medical drone finished its work in the background.
+The Medic Bay was less a hospital and more a repair shop.
 
-"It's called the Numbness Sacrifice," Ria said, wrapping fresh tape around her hands. "To channel the Steel-Hide, you have to mentally deaden your nerves. You have to convince your brain that you are an object."
+It smelled of antiseptic, burnt skin, and lubricant. Rows of bio-beds lined the walls, each one occupied by a groaning cadet. Drones hovered overhead, dispensing painkillers and spray-skin bandages with mechanical efficiency.
 
-She tapped her chest.
+Angelica sat on a bed in the corner, a gel-pack strapped to her thigh and a vocal regenerator humming against her throat. The device vibrated, stimulating cell growth in her bruised larynx. It tickled, a strange contrast to the deep, throbbing ache in her hip.
 
-"I gave up feeling soft things so I wouldn't feel the hard things," she said quietly. "Silk, water, a lover's touch... it all feels like concrete now. But so does a fist. That's the trade. That's the price. You want to be unbreakable? You have to stop feeling the break."
+Across the aisle, Toro was screaming as a med-droid re-set his fingers. The sound was gruesome, a wet popping noise followed by a sharp intake of breath.
 
-She looked at Angelica, her dark eyes serious.
+Ria sat in the chair next to Angelica, reading an old, water-damaged magazine about hover-car engine maintenance. She looked completely relaxed. Her uniform was pristine.
 
-"What's your price, Angel? What did you give up for that bird?"
+"How often do you do that?" Angelica asked, her voice raspy and deep from the swelling. She sounded like she had been gargling gravel. "The skin thing."
 
-Angelica touched the spot on her shoulder where Aeon usually sat. "I don't know yet," she whispered. "But I think... I think I gave up being invisible."
+"As little as possible," Ria said, flipping a page.
 
-"Dangerous trade," Ria murmured.
+"Does it hurt?"
 
-She stood up. "I'm gonna hit the showers. Watch your back, Angel. Toro has friends. And they look pissed."
+Ria stopped reading. She lowered the magazine and looked at Angelica. Her eyes were dark, unreadable pools.
 
-Ria disappeared into the steam.
+"Turning it on doesn't hurt," she said softly. "Turning it on feels... safe. Like closing a heavy door and locking it. Nothing can touch you. You don't feel heat. You don't feel cold. You don't feel pain. You don't feel anything."
 
-Angelica stayed by her locker, looking at her bruised face in the polished metal mirror. She looked tired. She looked small.
+She looked at her hands, flexing her long fingers.
 
-She didn't see the three shadows detach themselves from the wall behind her until it was too late.
+"Turning it off," she whispered. "That's the bitch."
 
-The locker room was a maze of steam and steel. It was damp, smelling of industrial soap and the copper tang of blood being washed down drains. The air was thick, obscuring vision and muffling sound. It was the perfect place for an accident.
+"Why?"
 
-"You think your bodyguard makes you safe?" a voice growled from the mist.
+"Because the feeling comes back," Ria said. "And it comes back all at once. Every nerve ending wakes up screaming. The air against your skin feels like sandpaper. Your clothes feel like wire wool. It's like being skinned alive for about ten minutes."
 
-Angelica spun around, water dripping from her hair.
+She looked at Toro, who was whimpering now as the drone wrapped his hand in a stasis cast.
 
-Three boys stood between her and the exit. They wore the grey fatigues of Squad Bronze, but their accent was pure Foundry—thick, guttural, and angry. Toro's friends.
+"That's the Numbness Sacrifice," she said. "To be unbreakable, you have to agree to stop feeling. You give up the soft things—silk, water, a lover's touch. When I'm like that, a kiss feels like a stone pressing against a wall. But a knife feels like a feather."
 
-"She's not here now," the leader said. He was shorter than Toro but wider, with a neck that seemed to merge directly into his shoulders. He held a heavy towel in his hands, twisting it tight like a garrote. "It's just us."
+She leaned forward, resting her elbows on her knees.
 
-Angelica backed up until her shoulders hit the cold tile wall. She looked for a weapon. A bench. A mop. Anything. But the space was empty.
+"You're soft, Angie. I don't mean that as an insult. I mean you have porous boundaries. You feel everything. You bleed when the wind blows. You bruise when the world pushes you."
 
-"Toro put a lot of work into that arm," the leader continued, stepping closer. "He needs it to lift crates. Now he's going to be out of rotation for weeks. That costs him credits. That costs _us_ credits."
+"I know," Angelica muttered, looking down at her bruised legs. "I'm not built for this. I'm a mechanic. I'm supposed to be fixing engines, not dodging them."
 
-"I didn't break it," Angelica said, her voice steady despite the hammering of her heart. "Ria did."
+"No one is built for this," Ria said. "We're forged. That's why you need the machine. The bird. That's your armor. I have my skin. You have the gryphon. Don't be ashamed of using it. In this place, fair fights are for corpses. If you fight fair, you end up like Toro."
 
-"Same squad. Same difference," the second boy spat. "Resonants don't take orders from mechanics. You need to learn your place, Silt-Rat. Your place is on the floor."
+"Toro fought dirty," Angelica pointed out.
 
-They moved in a pack, closing the semi-circle. They weren't moving fast. They wanted her to feel it. They wanted to savor the fear.
+"Toro fought stupid," Ria corrected. "He played with his food. He wanted an audience. Don't play, Angie. If you're going to fight, end it. Break it so it can't be fixed."
 
-And for a moment, she did feel it.
+Angelica looked at her friend. Ria was nineteen, but in that moment, she looked ancient. She looked like a statue that had seen civilizations rise and fall.
 
-It was the old fear. The Silt fear. The feeling of being small in a world of giants. The feeling of hiding in a rusted vent while the gangs roamed the tunnels below. It was a cold, paralyzing weight in her gut.
+"Is that what you did?" Angelica asked. "Did you break something?"
 
-_Threat Assessment: Critical,_ Aeon's voice whispered. But it wasn't coming from her shoulder. Aeon was back in the dorms, recharging. The voice was coming from... inside. _Hostile entities. Escape probability: 12%._
+Ria picked up her magazine again. "I broke everything," she said. "Now hush. I'm reading about fuel injectors."
 
-"Grab her," the leader ordered.
+---
 
-The third boy lunged.
+The locker room was a sauna.
 
-Angelica reacted on instinct. She ducked, but not fast enough. He caught her arm, his fingers digging into her bicep. He slammed her back against the lockers.
+Steam billowed from the communal showers, thick and opaque, smelling of industrial soap and the damp concrete of the drainage grates. The noise of the water hitting the tile floor was a deafening roar that drowned out conversation. It was a place of vulnerability. Nakedness.
 
-_BANG._
+Angelica stood at a sink in the far corner, fully dressed, splashing cold water on her face. The shock of the cold helped clear the fog in her head. She looked at herself in the polished metal mirror.
 
-The sound of metal hitting metal rang out.
+She looked wrecked.
 
-"Hold her still," the leader said, wrapping the towel around his fist. "Let's see if she breaks as easy as her lip."
+Her lip was split. Her left eye was swollen shut. Her neck was circled by a dark purple bruise—a necklace of fingerprints left by Toro.
 
-Angelica struggled, kicking out, but the second boy grabbed her legs. She was pinned. Trapped. Helpless.
+She looked like a victim. She hated it. She hated the weakness staring back at her.
 
-And then, the fear changed.
+"Pull it together," she whispered to her reflection. "You're a mechanic. You fix broken things. Fix this."
 
-It happened in a heartbeat. The cold weight in her gut didn't disappear; it compressed. It imploded. It collapsed into a singularity of white-hot indignation.
+She shut off the tap.
 
-She thought of Halloway calling her a scavenger. She thought of Toro's knee on her chest. She thought of the years of hiding, of scavenging, of being told she was _nothing_.
+Silence returned to the corner of the room, heavy and wet.
 
-The memories didn't play like a movie; they hit her like physical blows.
+She turned to leave.
 
-She remembered being six years old, curling her small body into the wheel well of a rusted transport carrier. It was winter in the Silt, and the metal was so cold it burned her skin. Outside, a Scav-Gang was dismantling her shelter—a collection of corrugated tin sheets she had spent months assembling. She could hear their laughter, the shrieking of pry-bars tearing metal, the heavy thud of boots kicking through her meager possessions. She had covered her mouth with both hands to keep from sobbing, knowing that if they found her, they would take her too.
+Three figures stepped out of the steam, blocking the row of lockers that led to the exit.
 
-She remembered being ten. She had found a pristine intake valve in a pile of medical waste—a piece of "Pre-War" tech worth a month of rations. She had taken it to Old Man Silas, the fence who operated out of a hollowed-out drainage pipe. He had looked at the valve, his eyes gleaming with greed, and then looked at her. He hadn't paid her. He had kicked dirt in her face, laughed, and told her that rats didn't own property. She had walked home with empty pockets and a bruised pride that hurt more than the hunger.
+It was Toro’s friends. The "Foundry Boys."
 
-And she remembered today. The cafeteria. The classroom. The Arena. The way they looked at her—not with hatred, but with disgust. As if she were a glitch in their perfect code. An error that needed to be deleted.
+They weren't as big as Toro, but they were big enough. Thick necks, shaved heads, eyes hard with loyalty and stupidity. They wore towels around their waists, their chests gleaming with sweat and steam.
 
-They didn't hate her because she was dangerous. They hated her because she was _inconvenient_. She was a stain on their perfect, ordered world.
+"Going somewhere, Silt?" the one in the middle asked. He was a Silver cadet, surprisingly. He had a welding scar running through his eyebrow.
 
-And now, they wanted to wipe her away.
+Angelica backed up. Her back hit the cold tile wall. "Session's over. Krell dismissed us."
+
+"Krell isn't here," the boy said, taking a step forward. "And neither is your metal guardian angel. She's in the mess hall getting extra rations."
+
+He cracked his knuckles. It was such a cliché, but in the echoing locker room, it sounded like a gunshot.
+
+"Toro's hand is ruined," the boy continued. "He might wash out. If he washes out, he goes back to the slag pits. You know what the life expectancy is in the pits? Five years. The fumes melt your lungs."
+
+"I didn't break his hand," Angelica said, her voice trembling despite her best efforts. "Ria did."
+
+"No. You just started the fight," the boy said, shaking his head. "You stood there and looked weak. You invited it. And then you let your dog finish it."
+
+"She's not a dog," Angelica snapped.
+
+"Doesn't matter," the boy said. He reached into his locker and pulled out a length of heavy rubber hose. A "correction tool." "We can't touch the Metal-Head. She's too hard; we'd break our hands. But you... you're soft. We're going to leave a mark on you for every bone she broke."
+
+They moved in. A wall of muscle and malice.
+
+Angelica looked left. Lockers. Right. Wall. Forward. Them.
+
+She was trapped.
+
+Fear spiked in her chest—a hot, jagged shard of ice. Her heart hammered against her ribs. She remembered the Silt. She remembered the gangs who would corner her in the ventilation shafts, demanding her day's salvage. She remembered the helpless, suffocating feeling of being small in a world of giants.
+
+She closed her eyes, waiting for the first blow. She waited for the pain.
 
 _No._
 
-The word started in her chest, a small, stubborn ember.
+The thought wasn't hers. It was deeper. It was older. It came from the base of her spine.
 
-_I survived the rust. I survived the hunger. I survived the cold._
+_No more._
 
-She looked at the leader's sneering face. She saw the pores on his nose, the broken capillaries in his eyes. He wasn't a giant. He was just a boy with a towel and a cruel streak.
+Something clicked in her chest. Not a bone. A gear.
 
-_I am not a victim._
+The fear didn't vanish. It _compressed_. It collapsed in on itself, becoming dense, heavy, and hot. It transformed from panic into indignation.
 
-The ember flared. It consumed the fear. It burned away the paralysis.
+Who were they? Who were these meat-sacks to threaten her? She had climbed the Node 42 incinerator shaft. She had repaired a Class-X Chrono-Gryphon with a soldering iron and a prayer. She was a mechanic. She fixed things.
 
-_I am an heir to the Interface. I am a survivor of the void._
+And these boys were broken. They were glitches in the system.
 
-_No,_ she thought.
+Angelica looked up.
 
-The word echoed in her mind, loud as a thunderclap.
+Her eyes, usually a dark, muddy brown, flared. A ring of violet light ignited around her pupils.
 
-_I am not nothing. I am an heir to the Interface. I am a survivor of the void._
+"Get out of my way," she said.
 
-The violet light didn't come from a flashlight. It came from her eyes.
+The voice didn't sound like hers. It didn't sound raspy or weak. It sounded like two stones grinding together deep underground. It resonated in the tile room, vibrating against the metal lockers.
 
-"Get off me!" she screamed.
+The leader hesitated. He blinked. "Or what?" he laughed nervously, raising the hose. "You gonna cry? You gonna call for mommy?"
 
-It wasn't a scream of panic. It was a command.
+He swung.
 
-She pushed.
+Angelica didn't flinch. She didn't duck.
 
-<!-- CONT -->
+She screamed.
 
-The air in front of her didn't just move; it folded.
+"NO!"
 
-It happened in slow motion. Time, which had been so cruel to her in the ring, suddenly became her ally. She saw the dust motes in the air freeze. She saw the droplets of condensation on the lockers hang suspended in the mist.
+It wasn't a word. It was a trigger.
 
-A shockwave of violet energy erupted from her center of mass. It wasn't fire. It wasn't electricity. It was pure, distilled _No_.
+She threw her hands out, palms forward.
 
-It was "Level 5 Kinetic Displacement," though she wouldn't know the term until later. To her, it felt like the entire universe suddenly decided that the three boys were standing in the wrong place.
+She didn't touch them. She didn't have to.
+
+The air in front of her distorted. It rippled, like the surface of a pond struck by a boulder. A transparent sphere of force expanded from her center of mass.
 
 _BOOM._
 
-The sound wasn't a noise; it was a physical impact. It hit the room like a sledgehammer hitting a bell.
+It was the sound of a vacuum sealing, loud and hollow. The steam in the room was instantly blasted away, leaving a clear circle of visibility.
 
-The tiles on the walls didn't just crack; they disintegrated, turning into a cloud of ceramic shrapnel moving at subsonic speeds. The steam, which had been a thick fog a millisecond ago, was instantly vaporized, leaving a clear, perfectly circular hole in the atmosphere where the pressure wave had passed.
+The three boys were lifted off their feet. Not pushed—_launched_.
 
-The boy holding her arm didn't just let go. He was launched.
+The laws of physics suspended their argument with gravity. The boys flew backward, their limbs flailing in slow motion. They traveled ten feet. Fifteen feet. Twenty.
 
-He flew backward as if hit by a freight train. He smashed into the boy behind him, and together they tumbled through the air, flailing like ragdolls. They hit the far wall—twenty feet away—with a bone-crunching impact that dented the heavy steel doors of the lockers.
+They slammed into the wall of lockers on the far side of the room.
 
-The leader, the one with the towel, was lifted off his feet. He spun in the air, crashing into a bench and sliding across the wet floor until he hit the sinks.
+_CLANG-CRASH._
 
-Then physics reasserted itself.
+The metal lockers caved in. Doors buckled and flew off their hinges. The heavy steel crumpled like tin foil. The boys slid down the ruined metal, hitting the floor in a heap of groans and tangled limbs.
 
-Gravity returned. The boys slid to the floor, groaning, unmoving.
+The rubber hose dropped from the leader's hand, rolling across the tile floor to stop at Angelica's feet.
 
-Angelica stood there, panting. Her hands were trembling. Her skin felt hot, like she had been sunburned from the inside out.
+Silence. Absolute, ringing silence.
 
-She looked at the devastation. The shattered tiles. The dented steel. The unconscious boys.
+The steam began to curl back into the vacuum left by the blast, forming a vortex around Angelica.
 
-"Physics," she whispered, her voice shaking, "is just a suggestion when you have enough energy."
+She stood there, her hands still raised, her chest heaving. She looked at her palms. They were glowing. Faint, purple veins of energy were tracing their way up her wrists, fading as she watched.
 
-She took a step, and her knees buckled.
+She looked at the boys. They weren't moving. One of them was groaning, clutching his ribs.
 
-It wasn't fear this time. It was exhaustion. The energy she had released hadn't come from a battery; it had come from her own bio-electric reserves. She felt hollowed out, scraped clean. Her muscles trembled with a fine, uncontrollable vibration.
+"I..." Angelica whispered.
 
-She grabbed the edge of a sink to hold herself up. The metal crumpled under her grip like tin foil.
-
-"Whoa," she breathed, staring at the warped steel. "Okay. Easy."
-
-She looked at her hands. They were glowing. Not brightly—just a faint, violet luminescence beneath the skin, tracing the lines of her veins. It faded as she watched, the light retreating back into her marrow.
-
-She stepped over the leader's legs. He groaned, a wet, gurgling sound. He would live. He would have a concussion and a bruised ego, but he would live.
-
-She didn't look back. She walked out of the locker room, leaving the steam to curl back into the void she had created.
+She backed away. She turned and ran. She burst out of the locker room doors, leaving the ruins of her anger behind her.
 
 ---
 
-The walk back to the dorms was a blur.
+High above, in the Observation Deck, the monitor wall was silent.
 
-Angelica kept her head down, avoiding the gaze of passing cadets. She felt like she was vibrating at a frequency that was slightly out of sync with reality. The floor felt too soft; the air felt too thick.
+Prelate Vane stood with his hands clasping the railing, staring down at the holographic replay of the locker room feed. The room was dark, lit only by the ghostly blue glow of the screens.
 
-She made it to her room—Section 4, Bunk 12—and collapsed onto her mattress. The room was empty. Ria was still in the showers (or maybe celebrating her victory in the mess hall).
+The footage was grainy, obscured by the steam, but the energy signature was clear. A spike. A massive, jagged spike of violet data that went off the charts.
 
-_Status Report,_ a voice staticked in her mind.
+"Kinetic Displacement," Vane murmured. "Level 5. Maybe 6. That is... significant."
 
-Angelica jumped. She looked at the desk. Aeon was there, powered down, his head tucked under his wing. But he was awake.
+Dr. Aris stood beside him, his cybernetic eye whirring as he analyzed the frame-by-frame data. He was tapping commands into a floating console with terrifying speed.
 
-_I felt a surge,_ Aeon continued. _Local Chronal Disturbance. Magnitude 5. Did you detonate a thermal charge?_
+"She didn't use a focus," Aris noted, his voice a mechanical drone. "No wand. No somatic component. No incantation. She didn't even use a verbal command until the release."
 
-Angelica rolled onto her back, staring at the rusty ceiling fan. "No," she whispered. "I pushed them."
+"And?" Vane asked.
 
-_Clarification: You applied kinetic force?_
+"And she is a Null," Aris said. "Nulls cannot channel ambient aether. They have no conduit. This energy didn't come from the environment, Prelate. It came from her."
 
-"I applied... everything."
+"Emotional trigger," Vane said, nodding. "Fear converted to kinetic energy. Bio-feedback. It's crude. It's inefficient. It's dangerous."
 
-She held up her hand. It was still shaking.
+He smiled. A cold, thin smile.
 
-"I didn't mean to hurt them, Aeon. I just wanted them to stop. And then... the anger... it just exploded."
+"And it's magnificent."
 
-Aeon lifted his head. His blue eyes whirred as they focused on her.
+"She caused significant property damage," Aris pointed out, highlighting the ruined lockers on the screen. "Three concussions. Two fractured ribs. And the locker unit is a total loss. Maintenance will file a grievance."
 
-_Emotion is fuel,_ he stated simply. _You are an Engine, Mechanic. You have simply found your throttle._
+"Bill it to the Foundry District," Vane said, waving a hand dismissively. "They breed them tough; they'll heal. And buy new lockers. Better ones."
 
-"I'm not an engine," Angelica argued, though she felt less sure than she sounded. "I'm a girl. And I think I just put a target on my back."
+He rewound the footage. He watched the moment of impact again. The way the air warped. The way the force didn't just push, but _erased_ the space between her and them.
 
-_Targets are relevant,_ Aeon countered. _Targets imply value. Yesterday, you were refuse. Today, you are a threat. This is an upgrade._
+"She isn't just a Mechanic, Aris," Vane said softly. "She's a Battery. She generated that pulse without drawing from the Spire's grid. She pulled it from somewhere else. She created something from nothing."
 
-Angelica closed her eyes. An upgrade. Was that what it was? To be feared?
+"That violates the First Law of Thermodynamics," Aris said.
 
-She remembered the look on the leader's face as he flew through the air. It hadn't been fear. It had been shock. He hadn't believed that the Silt-Rat could bite back.
+"Then the First Law is wrong," Vane said. "Or she is an exception to it."
 
-"They'll come for me," she whispered. "Toro. His friends. Halloway."
+He turned away from the screen, walking back toward his desk. He picked up an ancient book, one bound in what looked like charred leather. **The History of Ash**.
 
-_Let them comes,_ Aeon said, his feathers ruffling with a metallic clink. _We are hungry._
+"Do you know why the Artificers were purged, Aris?" Vane asked, running his hand over the cover.
+
+"Because they were heretics," Aris recited. "They sought to replace God with gears."
+
+"That is the Sunday School answer," Vane said. "The truth is simpler. They were purged because they found a way to generate infinite energy. They discovered the Resonance. The 'Deep Noise' that underpins reality."
+
+He opened the book. The pages were blank, scorched black by some intense heat.
+
+"They found that if you stress a soul enough—if you compress it with fear, grief, and rage—it doesn't break. It goes critical. It becomes a reactor."
+
+He looked back at the screen, at the frozen image of Angelica Ward screaming.
+
+"The Artificers built machines to harvest that energy. The Gryphons. The Engines. But they needed a spark. They needed a pilot who could survive the initial ignition."
+
+"And you think Ward is that pilot?" Aris asked.
+
+"I think she is the kindling," Vane corrected. "The Gryphon is the match. We just need to provide the friction."
+
+"She is unstable," Aris warned. "If she goes critical in the dorms..."
+
+"Then we will have a very expensive crater," Vane said. "But if she succeeds? If she learns to control it?"
+
+He closed the book with a snap.
+
+"Then we will have the power to relight the sun."
+
+"How do we proceed?" Aris asked. "Do we contain her?"
+
+"No," Vane said. "We cultivate her. Stress equals growth. I want you to increase her workload. Put her in the simulation rotation. Isolate her from the others. Make her feel alone. Make her feel afraid."
+
+"And the Gryphon?"
+
+"Let her keep it," Vane said. "It is the catalyst. It is the key to the lock."
+
+"And if she breaks?" Aris asked. "If the pressure cracks the vessel?"
+
+Vane sat down in his chair, picking up a glass of wine. He looked at the red liquid, swirling it in the light.
+
+"Then we find another battery," he said. "The Silt is full of rats."
 
 ---
 
----
+Angelica didn't stop running until she reached the lowest level of the dorms. She found a maintenance closet, slipped inside, and locked the door.
 
-High above, in the darkened Observation Deck, Prelate Vane watched the security feed.
+She slid down the wall, sitting in the dark among the mops and buckets. The closet smelled of bleach and dust.
 
-The room was a shrine to silence. The walls were lined with black acoustical foam, absorbing every sound from the Academy below. The only light came from the central holotable, which cast a ghostly blue pallor over Vane's sharp features.
+She held her hands up. They were shaking. The glow was gone, but the heat remained. Her skin felt feverish, buzzing with a static charge that made the hair on her arms stand up.
 
-He rewound the footage. He watched the explosion again. And again.
+She closed her eyes.
 
-"There it is," he whispered. "Kinetic Displacement. Level 5. Raw, unrefined, and beautiful."
+She could still feel it. The push. The moment when the world had bent to her will. It hadn't felt like magic. Magic was reciting words and waving sticks. This felt like... physics. It felt like she had reached into the engine of the world and tightened a screw.
 
-He traced the violet distortion on the screen with a gloved finger.
+It was terrifying.
 
-"She isn't broken," Vane murmured. "She is a weapon waiting for a trigger. And I have found it."
+And god help her, it felt good.
 
-He tapped a key on his console. "Dr. Aris. Report to the Observation Deck. Bring the raw telemetry from the locker room sensors."
+It felt like power.
 
-"I am already uploading it, Prelate," Aris's voice replied, dry and metallic.
+For the first time in her life, she wasn't the scrap. She wasn't the refuse. She was the hammer.
 
-A moment later, the door hissed open. Dr. Aris entered. He was a man who had replaced so much of himself with machinery that it was hard to tell where the flesh ended and the chrome began. His left eye was a multi-spectrum sensor cluster; his right arm was a skeletal manipulator tipped with data-spikes.
+She clenched her fists.
 
-He plugged his arm into the holotable.
+"I'm not broken," she whispered to the darkness.
 
-"Processing," Aris said.
+The darkness answered with a memory.
 
-The hologram changed. The grainy security footage was replaced by a 3D wireframe of the locker room. Mathematical vectors appeared, plotting the trajectory of the blast.
+She was back in the Silt. The Rust Gardens of Node 42.
 
-"The energy signature is anomalous," Aris noted, his sensor-eye whirring as it focused on the display. "Standard kinetic displacement relies on the emotional resonance of the pilot amplifying the biological mass of the bonded beast. It is a closed loop. Pilot feels fear; Beast reacts; Pilot directs."
+It wasn't a garden; it was a graveyard of giants. Millions of tons of discarded machinery, dumped from the Spire above, lay rotting in the acidic mud. It was a maze of rusted gears the size of houses, tangled wires like copper vines, and the skeletal remains of ships that had flown too close to the atmosphere's edge.
 
-He pointed to the wireframe of Angelica.
+The air smelled of ozone and wet decay. The sky was a bruised purple, choked by the smog layer that separated the Silt from the sunlight.
 
-"But here? The loop is open. The beast was not present. The energy did not come from the gryphon. It came from _her_."
+She was twelve years old, small and starving, climbing through the ribcage of a fallen cargo hauler. Her hands were wrapped in rags to protect them from the jagged metal. Her breathing mask was cracked, leaking the bitter taste of sulfur into her mouth.
 
-Aris typed a command. A graph appeared, showing a spike of energy that went off the scale.
+She was looking for copper. Just enough to trade for a filter cartridge. Just enough to breathe for another week.
 
-"She acted as a capacitor," Aris explained. "She stored the Chronal Potential of the beast—likely absorbed during their bond—and released it as a kinetic shockwave. It is... inefficient. Dangerous."
+Then she found him.
 
-"Dangerous?" Vane asked, leaning forward.
+He wasn't buried like the others. He was waiting.
 
-"Catastrophic," Aris corrected. "Look at the decay rate."
+He sat in a crater of fused glass, his gold plating tarnished but unbroken. A Chrono-Gryphon. Model X-7. A relic from the War of the Gears, before the Spire was built. Before the peace was bought with iron.
 
-He zoomed in on the wireframe of the wall. The dented steel wasn't just bent; it was aged. The metal was pitted with rust that hadn't been there a second before.
+He was beautiful. Even covered in mud, he was the most beautiful thing she had ever seen. He wasn't scrap. He was _art_.
 
-"She didn't just push the air," Aris whispered. "She accelerated the entropy of the local space-time manifold. She stole the future of that locker room to power her present anger."
+She approached him slowly, expecting the automated defenses to vaporize her. But his eyes—those massive, multifaceted emerald lenses—were dark. He was dead.
 
-Vane smiled. It was a cold, predatory smile. "She eats time. Just like the bird."
+She touched his flank.
 
-"If she does this again," Aris warned, "without a stabilizer, she risks a Resonance Cascade."
+The metal was cold. But when she laid her hand on the chassis, right over the core... she felt it.
 
-"Show me," Vane ordered.
+A hum.
 
-Aris hesitated. "Prelate, the simulation is theoretical. It assumes a linear escalation of—"
+It was barely there. A vibration so faint it might have been her own pulse. But it was distinct. It was a rhythm.
 
-"Show me, Doctor."
+_Thrum... thrum... thrum..._
 
-Aris sighed. He keyed in the parameters.
+The machine wasn't dead. It was sleeping. It was waiting for a wake-up call.
 
-The hologram changed again. It showed the Spire. A red dot appeared in the barracks—Angelica. The dot expanded. It became a sphere of violet light. It grew larger, consuming the dorms, then the training halls, then the structural supports of the tower itself.
+She didn't have tools. She didn't have a power source. She didn't have a manual. All she had was a rusty screwdriver she had found in a corpse's pocket and a desperate, illogical need to see those eyes light up.
 
-Within three seconds of the simulation, the Spire collapsed.
+She worked for three days. She didn't sleep. She didn't eat. She traced the circuits with her fingers, clearing the mud from the contacts. She spliced the broken wires with strips of her own tunic. She poured her own meager supply of distinct bio-fuel into his reserve tank.
 
-"Total structural failure," Aris narrated. "The entropy field would age the support beams to dust in milliseconds. The Spire would fall. Fifty thousand dead. The barrier would fail. The Void would consume the city."
+And on the third night, as the acid rain hissed against the metal shell, she found the ignition switch.
 
-The simulation ended. The hologram showed the Spire reduced to a pile of ash.
+It wasn't a button. It was a connection. a gap in the circuit that needed a bridge.
 
-Vane stared at the ruin. He didn't look horrified. He looked entranced.
+She didn't have a fuse. So she used her hand.
 
-"The Great Filter," he whispered.
+She grabbed the two exposed leads.
 
-"Excuse me?" Aris asked.
+Pain. White-hot, blinding pain shot up her arms, seizing her heart. It felt like she was being torn apart. But she didn't let go. She held on. She screamed into the rain, pouring her own life force, her own stubborn refusal to die, into the machine.
 
-Vane walked around the table, his eyes never leaving the image of the fallen tower.
+_wake up._
 
-"The ancients spoke of a Great Filter," Vane said softly. "A point in every civilization's history where they discover a power so great that it either elevates them to godhood or destroys them completely. The Artificers found it. They built the Chrono-Gryphons. And they failed the test. They were destroyed."
+And he did.
 
-He looked at Aris.
+The emerald eyes flared to life. The gears engaged with a sound like thunder. The wings unfolded, shedding decades of rust and dirt.
 
-"We have been stagnant for two centuries, Doctor. We hide behind our walls. We scavenge the bones of the past. We are dying, slowly, of safety."
+He looked at her. He scanned her.
 
-He pointed at the red dot in the simulation.
+_DESIGNATION: PILOT,_ a voice boomed in her head. Not a speaker. A thought. _STATUS: CRITICAL. AWAITING ORDERS._
 
-"This girl... she is our second chance. She is the Filter. If she breaks, she destroys us. But if she holds..."
+"Live," she had whispered, collapsing into the mud. "Just live."
 
-"If she holds?" Aris asked.
+He had wrapped his wings around her, shielding her from the rain. He had kept her warm. He had saved her.
 
-"Then she becomes the key to the Engine," Vane said. "She becomes the source of infinite energy. We won't need the barrier anymore. We won't need to hide."
+That was the first time she had felt the push. The first time she had realized that she wasn't just a scavenger. She was a conduit. She could bridge the gap between dead things and living things.
 
-"It is madness," Aris said. "The risk is 99%."
+And today... today she had done it again. But she hadn't bridged a circuit. She had bridged the air itself.
 
-"There is no progress without risk," Vane countered. "Tear up the expulsion papers, Doctor. Ward is not to be touched. She is to be... stressed."
+She looked at her hands now, in the dark closet. They were the same hands that had woken the Gryphon. They were scarred, calloused, and stained with grease. But they held a power she didn't understand.
 
-"Stressed?"
+Vane called it a "Kinetic Manifestation."
 
-"Pressure creates diamonds," Vane said. "And it also triggers bombs. I want to know which one she is."
+Angelica called it survival.
 
-He turned back to the screen, to the image of the girl with the glowing hands.
+She wasn't going to let them break her. She wasn't going to let them turn her into scrap. She had woken a god in the mud. She could survive a school.
 
-"Increase the difficulty of her simulation modules," Vane ordered. "Put her in the Crucible. Isolate her from her support network. Let's see how much pressure the vessel can take before it cracks."
+She stood up. The fear was still there, but it was smaller now. It was manageable. It was just another broken part that needed to be worked around.
 
-Aris pulled his arm from the console. "As you command, Prelate. But when the sky falls... do not say I didn't warn you."
+She unlocked the door.
 
-"When the sky falls," Vane said, turning to look at the empty throne at the back of the room, "I will be the one catching it."
+Somewhere in the distance, a clock chimed the hour.
 
-The Emperor was watching. And now, the Emperor would have something worth seeing.
+She stayed there for a long time, listening to the silence, waiting for the monsters to come. But they didn't comes. Only the dust settled around her, like snow on a grave.
 
-<!-- END OF CHAPTER -->
+# End of Chapter 10

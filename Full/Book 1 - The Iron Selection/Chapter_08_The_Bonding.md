@@ -262,11 +262,11 @@ She moved deeper into the shadows.
 
 She moved toward the back of the facility, past the prime exhibits, past the flashing lights of the active containment units. The air grew colder here. The smell of ozone faded, replaced by the smell of dust and stagnant oil.
 
-This was the "Decommissioned" sector. The B-Roll monsters. The failed experiments.
+This was the "Unprocessed" sector. The raw intake from the deep-silt trawlers. The "Unassessed" assets that hadn't been categorized yet. The B-Roll monsters.
 
 She walked past cages covered in tarps. Past units that were dark, their power cells drained.
 
-She stopped at the very end of the row. Unit 734.
+She stopped at the very end of the row. The cage was unmarked.
 
 It was a small cage, barely ten feet square. The force field was off, replaced by a simple chain-link gate with a rusted padlock. Inside, under a moth-eaten canvas tarp, was a pile of scrap.
 
@@ -278,9 +278,11 @@ It was trash. It was junk.
 
 Angelica reached out and touched the cold metal of the cage.
 
-_Tick... tick... tick._
+_Hum... hum... hum._
 
 It was faint. So faint she felt it in her fingertips rather than heard it with her ears. A rhythmic, mechanical vibration.
+
+It hit her like a physical wave—a sudden, foggy memory of a white drone on a rusted workbench. She remembered the smell of rosin and the sound of a "choir inhaling" as the drone came back to life. It was the same feeling. The feeling of a dormant thing waiting for a wake-up call.
 
 It wasn't a heartbeat. It was a clock.
 
@@ -288,7 +290,7 @@ It wasn't a heartbeat. It was a clock.
 
 Halloway had followed her. He stood a few feet away, leaning on his cane, his face twisted in a sneer of disgust.
 
-"That is Unit 734," he said. "A Chrono-Gryphon prototype from the Old War. Logic-core seized. Hydraulics calcified. It's been inert since before your grandfather was born. It's scheduled for the smelter tomorrow."
+"That is Unit... ah..." Halloway tapped his temple, frowning as he tried to recall the designation. Then he checked his datapad and scoffed. "It doesn't even have a number. It's just slated for disposal. A Chrono-Gryphon prototype dredged up from a sector sweep in Node 42 last week. Assessors marked it as slag. It's totally inert. Logic-core calcified."
 
 He gestured back toward the main group.
 
@@ -302,9 +304,9 @@ She looked at the pile of scrap. She didn't see junk. She saw potential. She saw
 
 "It's just paused," she said, her voice gaining strength. "It's waiting for an input."
 
-"It killed the last three handlers who tried to touch it," Halloway warned, his voice dropping an octave. "It didn't bite them. It tore their minds apart. The interface is corrupted. It's a meat-grinder for neurons."
+"It killed the recovery team who tried to move it," Halloway warned, his voice dropping an octave. "It didn't bite them. It tore their minds apart. The interface is corrupted. It's a meat-grinder for neurons."
 
-"They tried to force the lock," Angelica said, gripping the rusted padlock.
+"They tried to force the lock," Angelica said, gripping the rusted padlock. She felt the vibration growing stronger. She knew this hum. She had heard it four years ago in the rain.
 
 She looked back at Halloway.
 
@@ -467,9 +469,9 @@ Angelica stood up. Her legs were shaky, but she locked her knees. She looked at 
 
 "You called him broken, Professor," she said, her voice raspy. "Good. So am I. Broken things know how to survive because they know how to put themselves back together."
 
-She looked back at the Gryphon. She held out her arm.
+She looked back at the Gryphon. She held out her arm, a ghost of a smile touching her lips. She didn't need to check the schematic. She knew him.
 
-"Aeon," she said. "Status."
+"Aeon," she said, greeting an old friend. "Status."
 
 The Gryphon made a sound—a series of electronic chirps that sounded like a modem handshake. It crouched, its powerful hydraulics compressing, and then leaped.
 
