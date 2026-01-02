@@ -247,7 +247,7 @@ She climbed up the side of the bunk frame, silent as a spider. Her toes gripped 
 
 She didn't have a screwdriver. But she had fingers that had spent ten years picking locks in the Silt. She found the release catch on the wire cage. _Click._ It swung open.
 
-Inside was the ballast and the capacitor. The capacitor was a cylinder the size of a thumb, wrapped in blue plastic. It held the charge for the starter motor. _220 volts. 50 amps peak discharge._
+Inside was the ballast and the capacitor. The capacitor was a cylinder the size of a thumb, wrapped in blue plastic. It held the charge for the starter capacitor. _220 volts. 50 amps peak discharge._
 
 It was enough to kill a rat. It was enough to stop a heart if it hit the wrong rhythm. For a human of Ria's mass? It would be a sledgehammer to the nervous system.
 
@@ -255,7 +255,7 @@ Angelica worked quickly. She stripped the ends of the copper filament using her 
 
 She ran the wire down the back of the bunk post, hiding it in the shadow of the metal leg. It was invisible in the dim light.
 
-She reached the bottom. She found the metal frame of the bunk ladder—the exact spot where the paint was worn away. The spot where Ria grabbed every single morning to pull herself out of bed.
+She reached the bottom. She found the metal frame of the bunk ladder—the exact spot where the paint was worn away. The spot where Ria would instinctively grab to pull herself out of bed.
 
 She wrapped the other end of the wire around the bare metal.
 
@@ -389,7 +389,7 @@ He walked over to the sink next to hers. He didn't look at her. He turned on the
 
 "That was..." he started, then stopped. He cleared his throat. "That was 220 volts. I saw the capacitor."
 
-Angelica dried her face with the rough paper towel from the dispenser. "Standard industrial starter motor. 50 amp discharge."
+Angelica dried her face with the rough paper towel from the dispenser. "Standard industrial starter capacitor. 50 amp discharge."
 
 "It could have killed her," the Vampire said. He looked at her then, his yellow eyes evaluating. "If she'd been wet? Or if she'd grabbed with both hands? Cardiac arrest. Boom."
 

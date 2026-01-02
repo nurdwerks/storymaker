@@ -44,7 +44,7 @@ He turned to the audience, his milky eyes sweeping over the rows of students.
 
 "The Gift was not given to all. It could not be given to all. For just as a glass vessel shatters if filled with molten gold, so too does the weak soul shatter when touched by the Divine. Only the strong could hold it. Only the pure could channel it."
 
-Below, the heads of Squad Gold bowed in unison, a synchronized wave of reverence. A girl in the front row—Elara, the daughter of a Duke—was actually weeping, tears of genuine devotion streaming down her perfect porcelain face.
+Below, the heads of Squad Gold bowed in unison, a synchronized wave of reverence. A girl in the front row—Lydia, the daughter of a Duke—was actually weeping, tears of genuine devotion streaming down her perfect porcelain face.
 
 Angelica watched them, her eyes narrowing. It was reflex. Conditioning. They didn't bow because they believed; they bowed because they were programmed. They wept because weeping was the expected output for the input of Halloway's voice.
 
