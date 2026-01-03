@@ -1,7 +1,7 @@
 import os
 
 # Paths
-BASE_DIR = r"c:\Users\bryan\Documents\storymaker"
+BASE_DIR = os.getcwd()
 BOOKS_DIR = os.path.join(BASE_DIR, "Books")
 FULL_DIR = os.path.join(BASE_DIR, "Full")
 TRACKER_FILE = os.path.join(FULL_DIR, "Progress_Tracker.md")
