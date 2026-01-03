@@ -478,6 +478,8 @@ It was a nasty piece of House Aurum blood-magic. It stole time. It withered skin
 
 Corinne waited until Angelica passed. Then, she struck.
 
+_She thinks she can stand on the same balcony as me?_ Corinne thought, her hand tightening around the spell. _She thinks a dress changes what she is? I'll show her what time does to trash._
+
 "Happy birthday, rat," Corinne whispered.
 
 She thrust her hand forward. A beam of sickly, grey light shot toward Angelica's back.

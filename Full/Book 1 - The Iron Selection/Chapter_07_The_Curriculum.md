@@ -144,13 +144,19 @@ Reeves glanced at his pad. "The... hate-watch numbers are climbing, yes."
 
 "Hate is just love with a sharper edge," Corinne said, standing up and walking to the glass. She placed a gloved hand on the pane. "The people are bored, Reeves. They are bored of perfection. They are bored of the narrative. They want a villain. They want someone they can blame for the fact that their teeth fall out and their children die screaming."
 
+_She's perfect,_ Corinne thought, watching the girl stand up to the Professor. _Look at that posture. Look at that glorious, idiotic defiance. She's not a student; she's a plot twist. If I market her right, she could be the highest-grossing antagonist since the Cycle of Ash._
+
 She watched Angelica with a predator's appreciation.
 
 "And she," Corinne whispered, "is casting herself perfectly. 'The Heretic of Hall 1.' It has a ring to it. Make sure that clip—specifically the 'mutants with good PR' line—makes it to the nightly broadcast. Frame it with ominous music. Darken the lighting around her. Make her look... dangerous."
 
 "But... isn't she right?" Reeves asked, his voice barely a whisper. "About the radiation?"
 
-Corinne turned to him, her eyes cold and amused. "Of course she's right, darling. The truth is always right. That's why it's so expensive. We can't afford it." She turned back to the window. "Villains sell merchandise, Reeves. And we are going to sell a lot of merchandise."
+Corinne turned to him, her eyes cold and amused. "Of course she's right, darling. The truth is always right. That's why it's so expensive. We can't afford it."
+
+_Who cares about the truth?_ she thought, dismissing the concept like a cheap shoe. _Truth doesn't sell ad-space. Fear sells. Anger sells. And right now, that little rat in the grey tunic is worth her weight in gold._
+
+She turned back to the window. "Villains sell merchandise, Reeves. And we are going to sell a lot of merchandise."
 
 ---
 

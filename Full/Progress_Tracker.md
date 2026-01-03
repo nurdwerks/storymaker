@@ -3,12 +3,12 @@
 ## **Project Overview**
 - **Total Chapters**: 272
 - **Completed Chapters**: 24 (8.8%)
-- **Total Word Count**: 140,946
+- **Total Word Count**: 141,217
 
 ## **Book Breakdown**
 | Book | Chapters | Completed | Total Words | Progress |
 |---|---|---|---|---|
-| Book 1 - The Iron Selection | 25 | 24 | 140,946 | 96.0% |
+| Book 1 - The Iron Selection | 25 | 24 | 141,217 | 96.0% |
 | Book 2 - The Cipher of Sins | 30 | 0 | 0 | 0.0% |
 | Book 3 - The Game of Gears | 35 | 0 | 0 | 0.0% |
 | Book 4 - The Stone Season | 40 | 0 | 0 | 0.0% |
@@ -25,15 +25,15 @@
 | Book 1 - The Iron Selection | Chapter_04_Ascent | 5986 | Completed |
 | Book 1 - The Iron Selection | Chapter_05_The_Span | 5594 | Completed |
 | Book 1 - The Iron Selection | Chapter_06_Squad_Iron | 5684 | Completed |
-| Book 1 - The Iron Selection | Chapter_07_The_Curriculum | 5619 | Completed |
+| Book 1 - The Iron Selection | Chapter_07_The_Curriculum | 5703 | Completed |
 | Book 1 - The Iron Selection | Chapter_08_The_Bonding | 5660 | Completed |
 | Book 1 - The Iron Selection | Chapter_09_The_Anomaly | 5501 | Completed |
 | Book 1 - The Iron Selection | Chapter_10_Sparring | 5906 | Completed |
 | Book 1 - The Iron Selection | Chapter_11_Blackmail | 5518 | Completed |
 | Book 1 - The Iron Selection | Chapter_12_The_Blood_Pact | 5515 | Completed |
 | Book 1 - The Iron Selection | Chapter_13_Mental_Shielding | 5533 | Completed |
-| Book 1 - The Iron Selection | Chapter_14_The_Winter_Ball | 5517 | Completed |
-| Book 1 - The Iron Selection | Chapter_15_The_Dance | 6067 | Completed |
+| Book 1 - The Iron Selection | Chapter_14_The_Winter_Ball | 5607 | Completed |
+| Book 1 - The Iron Selection | Chapter_15_The_Dance | 6102 | Completed |
 | Book 1 - The Iron Selection | Chapter_16_The_Selection_Begins | 5634 | Completed |
 | Book 1 - The Iron Selection | Chapter_17_The_Gear_Grinder | 5515 | Completed |
 | Book 1 - The Iron Selection | Chapter_18_The_Chimera | 5701 | Completed |
@@ -43,7 +43,7 @@
 | Book 1 - The Iron Selection | Chapter_22_The_Finale | 5612 | Completed |
 | Book 1 - The Iron Selection | Chapter_23_The_Standoff | 5705 | Completed |
 | Book 1 - The Iron Selection | Chapter_24_The_Silt_Broadcast | 5506 | Completed |
-| Book 1 - The Iron Selection | Chapter_25_The_Monster | 5369 | In Progress |
+| Book 1 - The Iron Selection | Chapter_25_The_Monster | 5431 | In Progress |
 | Book 2 - The Cipher of Sins | Chapter 01 - The Golden Cage | 0 | Pending |
 | Book 2 - The Cipher of Sins | Chapter 02 - The Gilded Leash | 0 | Pending |
 | Book 2 - The Cipher of Sins | Chapter 03 - The Silver Scythe | 0 | Pending |

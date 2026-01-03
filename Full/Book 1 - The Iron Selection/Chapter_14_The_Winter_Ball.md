@@ -126,19 +126,27 @@ Standing by a rack of shimmering blue gowns was Corinne. Lady Corinne of House A
 
 She held a dress against her body—a cascade of liquid silver nano-fabric that rippled like water.
 
+_It fits,_ she thought, admiring her reflection in the polished metal rack. _Silver on Gold. A challenge to house Argent. Let them see who really shines._
+
 "This section is for people with a future," Corinne said, not even looking at Angelica. "The janitorial supplies are in Aisle 4."
 
 "I got an invitation," Angelica said, her voice steady despite the hammering of her heart.
 
 Corinne paused. She turned slowly, looking Angelica up and down with an expression of mild nausea.
 
+_Look at her,_ Corinne thought, disgust curling in her stomach. _Grease. Sweat. She stands like a dog waiting to be kicked. How can Vane allow this? It's not just an insult; it's a hygiene violation._
+
 "An invitation," Corinne repeated. She laughed. It was a light, tinkling sound, like breaking glass. "Oh, you poor thing. You think that means you're _invited_? It means you're the entertainment. Prelate Vane needs a clown for the circus."
 
 She stepped closer. The air around her seemed to get heavier.
 
+_Break her,_ a voice whispered in Corinne's head. _If you don't break her, they'll think she belongs._
+
 "You don't belong here, Ward," Corinne whispered. "You smell like rust. You smell like the bottom of the world."
 
 She flicked her wrist. A small, subtle gesture.
+
+_Just a nudge,_ she told herself. _Just to remind her of gravity._
 
 Angelica felt it. A wave of force. A Gravity Push.
 
