@@ -682,9 +682,17 @@ Ria grinned. It was a sharp, dangerous expression. "I like that game."
 
 "Then let us play," Kaelen said.
 
-They stood there for a moment longer, three shadows against the light. Then, as one, they turned and walked back into the Spire.
+They stood there for a moment longer, three shadows against the blinding light of the nebula. Angelica felt the vibration of the station through the soles of her new boots—a constant, rhythmic thrumming that was the heartbeat of the Zenith. It was a sound of power, of limitless energy. But to her, it sounded like a clock ticking down.
 
-The door slid shut behind them.
+She took one last look at the stars—the cold, distant pinpricks of light that didn't care about Selections or Empires. They were the only things in the universe that Vane couldn't own.
+
+"We move at dawn," she whispered, though there was no dawn in space. It was a figure of speech, a holdover from a world she had never seen but had read about in the data-archives.
+
+Ria nodded, her metal fists clenching and unclenching. Kaelen adjusted his collar, his expression masking the turmoil beneath.
+
+Then, as one, they turned and walked back into the Spire. They didn't walk like refugees anymore. They walked like predators entering a new hunting ground.
+
+The door slid shut behind them with a final, sealing hiss.
 
 \*\*\*---
 
@@ -750,6 +758,10 @@ He closed the file.
 
 He turned off the monitor.
 
-The horrors in the tanks continued to float in the silence, waiting for their turn.
+The horrors in the tanks continued to float in the silence, waiting for their turn. One of them, a mass of flesh that might have once been a human face, drifted against the glass, its mouth opening in a silent scream. Aris didn't blink. He simply logged the movement as a reflex action, a twitch of dying neurons.
+
+"Patience," he murmured to the silent room. "Evolution is a slow process. But we are accelerating."
+
+He turned off the lights, leaving the lab illuminated only by the ghostly green glow of the preservation fluid. The shadows of the tanks stretched across the floor, long and distorted, like the fingers of a giant hand reaching out to claim the future.
 
 # End of Book 1: The Iron Selection

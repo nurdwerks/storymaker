@@ -2,13 +2,13 @@
 
 ## **Project Overview**
 - **Total Chapters**: 272
-- **Completed Chapters**: 24 (8.8%)
-- **Total Word Count**: 141,217
+- **Completed Chapters**: 25 (9.2%)
+- **Total Word Count**: 141,472
 
 ## **Book Breakdown**
 | Book | Chapters | Completed | Total Words | Progress |
 |---|---|---|---|---|
-| Book 1 - The Iron Selection | 25 | 24 | 141,217 | 96.0% |
+| Book 1 - The Iron Selection | 25 | 25 | 141,472 | 100.0% |
 | Book 2 - The Cipher of Sins | 30 | 0 | 0 | 0.0% |
 | Book 3 - The Game of Gears | 35 | 0 | 0 | 0.0% |
 | Book 4 - The Stone Season | 40 | 0 | 0 | 0.0% |
@@ -43,7 +43,7 @@
 | Book 1 - The Iron Selection | Chapter_22_The_Finale | 5612 | Completed |
 | Book 1 - The Iron Selection | Chapter_23_The_Standoff | 5705 | Completed |
 | Book 1 - The Iron Selection | Chapter_24_The_Silt_Broadcast | 5506 | Completed |
-| Book 1 - The Iron Selection | Chapter_25_The_Monster | 5431 | In Progress |
+| Book 1 - The Iron Selection | Chapter_25_The_Monster | 5686 | Completed |
 | Book 2 - The Cipher of Sins | Chapter 01 - The Golden Cage | 0 | Pending |
 | Book 2 - The Cipher of Sins | Chapter 02 - The Gilded Leash | 0 | Pending |
 | Book 2 - The Cipher of Sins | Chapter 03 - The Silver Scythe | 0 | Pending |
