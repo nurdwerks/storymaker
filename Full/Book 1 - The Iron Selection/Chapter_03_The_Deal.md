@@ -196,13 +196,36 @@ Angelica stopped struggling. Her mind, hard-wired for calculations, for salvage 
 
 That meant a 12% chance of life.
 
-The room seemed to tilt. The hum of the Wardens' armor faded into the background, replaced by a dull, throbbing roar in her ears—the sound of her own blood rushing.
+The room seemed to tilt. The hum of the Wardens' armor faded into the background, replaced by a dull, throbbing roar in her ears—the sound of her own blood rushing, the sound of her cognition engaging, the sound of the mental machinery she'd built over a lifetime of survival clicking into overdrive.
 
 _12%._
 
-It was a terrible number. A failing grade. A suicide note.
+It was a terrible number. A failing grade. A suicide note scribbled in blood on the wall.
 
-But her mind didn't stay in the present. It fractured, spiraling backward, pulling up memories like files from a corrupted drive.
+But her mind didn't accept the number at face value. It never did. She had learned long ago that numbers, like people, could lie. They could hide. They could be manipulated if you knew where to look.
+
+_Analysis mode: Active._
+
+12% assumed average capabilities. But she wasn't average. She had survived the Silt for eighteen years—an environment with a survival rate far worse than 12%. She had climbed structures that should have killed her. She had bypassed security systems designed by minds supposedly superior to hers. She had defied probability before.
+
+_Variable adjustment: Personal skill set. Modifier: +4%._
+
+16%.
+
+Still terrible. But the math was shifting. The numbers were negotiable.
+
+12% also assumed she would play fair. That she would follow the rules. But rules were just code, and code could be hacked. She would cheat. She would lie. She would find the exploits in their perfect system, the bugs in their carefully designed death trap.
+
+_Variable adjustment: Willingness to break protocol. Modifier: +3%._
+19%.
+
+12% assumed she was alone. But she had always been good at making allies, at finding the broken pieces and fitting them together. Someone in that cohort would need what she could offer. Someone would be desperate enough to trade.
+
+_Variable adjustment: Potential alliances. Modifier: +2%._
+
+21%.
+
+But her mind didn't stay in the present. It fractured, spiraling backward, pulling up memories like files from a corrupted drive. Evidence. Data points. Proof that impossible numbers could be beaten.
 
 _Flashback._
 
@@ -248,19 +271,31 @@ _Leo woke up. He smiled._
 
 _Probability defied._
 
-The memories crashed back into the present.
+The memories crashed back into the present like a wave breaking against rocks.
 
-She looked at Leo now. The hologram showed the red crystal creeping up his bronchial tubes. It was a map of a war he was losing.
+She looked at Leo now. The hologram showed the red crystals creeping up his bronchial tubes like frost on glass. It was a map of a war he was losing, hour by hour, breath by breath.
 
-If she stayed here? 0% chance. He died in 48 hours. Guaranteed.
+She ran the final calculation. The one that mattered.
 
-If she fought? 0% chance. The Wardens would snap her neck before she could blink.
+If she stayed here? 0% chance. He died in 48 hours. Guaranteed. She watched him suffocate, held his hand as he drowned, and then starved to death herself in the empty room. 0%.
+
+If she fought these Wardens right now? 0% chance. They would snap her neck before she could blink. Leo would still die. Still 0%.
+
+If she ran? If she somehow escaped this room, this moment? She'd be hunted. Marked. The Glutton would find her. She'd seen his eyes. He didn't forget. Eventually they'd corner her. 0%.
+
+Every path that didn't go through Vane's offer led to the same destination: zero.
+
+_Conclusion: The Iron Selection is the only nonzero probability path._
 
 12%.
 
-12% was betting on a long-shot horse with a broken leg in a race against wolves. It was insane. It was illogical.
+No. 21%, she corrected herself. She'd earned those extra nine percentage points through sheer stubborn refusal to accept the given odds.
 
-But it was infinitely higher than zero.
+21% was betting on a long-shot horse with a broken leg in a race against wolves. It was insane. It was illogical. It violated every safe principle of game theory.
+
+But it was infinitely, mathematically, provably higher than zero.
+
+And zero was death.
 
 She looked at Vane. He was waiting, his head cocked slightly to the side, observing her like a specimen in a jar. He expected her to break. He expected her to cry, to beg, to bargain for her own life.
 

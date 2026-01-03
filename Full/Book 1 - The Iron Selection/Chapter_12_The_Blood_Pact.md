@@ -74,7 +74,7 @@ The doors slid open.
 
 Angelica stepped out onto a floor of polished obsidian that was so black it looked like a pool of frozen oil. It reflected the ceiling, which was vaulted and painted with a fresco of the First Artificers taming the Chrono-Beasts.
 
-There were no exposed pipes here. No conduit bundles. Every surface was carved, polished, and perfected. Floating silver candelabras drifted through the air on silent anti-grav repulsors, burning with cold blue flames that cast long, dancing shadows.
+There were no exposed pipes here. No conduit bundles. No signs of the industrial skeleton that held the Spire together. Every surface was carved, polished, and perfected to an inhuman degree. Floating silver candelabras drifted through the air on silent anti-grav repulsors, burning with cold blue flames that cast long, dancing shadows across the walls.
 
 This wasn't a military base. It was a cathedral.
 

@@ -160,9 +160,15 @@ She didn't have a choice.
 
 She fired up her soldering iron. The smell of rosin and melting solder filled the air, a scent that, to Angelica, smelled like hope.
 
-For the next three hours, she didn't exist. There was only the circuit. She was a surgeon of silicon and copper. She bypassed the safety relay using a bridge wire she stripped from a heating element. She reinforced the cracked chassis with patches of lightweight polymer she melded with a heat gun. She cleaned the optics with a microfiber cloth she kept in a sealed bag for special occasions.
+For the next three hours, she didn't exist. There was only the circuit. She was a surgeon of silicon and copper.
 
-She found the sensory chip—the part that had saved the drone from being totally lobotomized. It was a secondary backup, likely for navigation. She routed the reboot sequence through it.
+First, the safety bypass. She traced the power rail from the battery compartment, following the thin copper traces etched into the circuit board. The safety relay was a tiny chip, barely larger than her thumbnail, tucked beneath a heat sink. Standard protocol would be to desolder it, but that risked damaging the surrounding components. Instead, she used a bridge wire—a hair-thin strand of copper she stripped from a heating element she'd salvaged last month. She soldered it across the relay's output terminals, creating a direct path that fooled the circuit into thinking everything was fine.
+
+Next, the structural damage. The cracked chassis was a problem. Even a hairline fracture could let moisture seep in, corroding the delicate electronics inside. She mixed a two-part epoxy polymer—scavenged from a failed industrial printer—and applied it with a toothpick, filling every micro-gap. She used her heat gun to cure it, watching the polymer flow and harden into a seamless seal. Then she reinforced the stress points with patches of lightweight carbon-fiber mesh, bonding them with more epoxy.
+
+The optics required precision. Any dust particle, any smudge, would scatter the laser grid and make the diagnostic scans worthless. She opened her "special drawer"—a small tin that contained her most precious tools. A microfiber cloth, vacuum-sealed. A bottle of reagent-grade alcohol. A set of synthetic brushes with bristles thinner than human hair. She cleaned the lens assemblies with the care of a jeweler polishing diamonds.
+
+Finally, the reboot. The primary processor was fried, no question. But she found the sensory chip—the part that had saved the drone from being totally lobotomized. It was a secondary backup, likely for navigation and environmental mapping. She traced its connections, found the boot sequence pathway, and carefully rerouted it through a series of jumper wires. It was a hack, a kludge, but it might work.
 
 "Okay," she whispered, her hand hovering over the power button. "Moment of truth."
 
@@ -220,13 +226,17 @@ Angelica ripped the headset off her head, throwing it onto the bench. She crosse
 
 She pulled the plastic back.
 
-The air inside the clean room was noticeably better—she had three recyclers running in here on overdrive—but it still carried the faint, metallic taste of the Silt. Leo lay on a cot pushed against the wall.
+The air inside the clean room was noticeably better—she had three recyclers running in here on overdrive—but it still carried the faint, metallic taste of the Silt. The humidity was higher in here too; she'd rigged a humidifier from a broken medical nebulizer, trying to keep Leo's airways from drying out completely. The constant hiss of the machine was a background lullaby she'd grown accustomed to.
 
-He was ten, but looked seven. His skin was pale, almost translucent, the blue veins tracing roadmaps across his temples and wrists. His chest was a cage of ribs that heaved with every breath. He was clutching a battered plush rabbit, its fur matted and worn bald in spots.
+Leo lay on a cot pushed against the wall.
 
-He looked up at her, his eyes dark and circled with exhaustion.
+He was ten, but looked seven. Malnutrition and disease had stolen his childhood, leaving behind a fragile shell. His skin was pale, almost translucent, the blue veins tracing roadmaps across his temples and wrists. She could see his pulse jumping in his neck—too fast, always too fast, his heart working overtime to push oxygen through lungs that barely functioned. His chest was a cage of ribs that heaved with every breath, the intercostal muscles straining visibly beneath paper-thin skin. He was clutching a battered plush rabbit, its fur matted and worn bald in spots from years of desperate nighttime gripping.
 
-"I heard a noise," he whispered. His voice was raspy. "Who were you talking to?"
+The sheets beneath him were stained with sweat despite the cool temperature. She'd have to wash them again tonight. Boil them in the chemical bath to kill the spores that grew on everything down here.
+
+He looked up at her, his eyes dark and circled with exhaustion. The whites were slightly yellow—liver stress, probably. Another symptom she couldn't treat.
+
+"I heard a noise," he whispered. His voice was raspy, like sandpaper on wood. "Who were you talking to?"
 
 "I brought a friend," Angelica said softly, kneeling beside the cot. She brushed the hair back from his forehead. He was burning up. "Leo, look."
 
@@ -384,13 +394,17 @@ She began to climb.
 
 ---
 
-The ascent through the transition zone was a journey through the geological strata of a dead civilization. The lower levels were ancient concrete, crumbling and reinforced with hasty plas-steel patches. Then came the industrial lattice—heavy iron beams, riveted and solid, the bones of the old world. As she climbed higher, the materials changed. Sleek composites. Carbon-fiber weaving. Surfaces that repelled dirt and gleamed with internal luminescence.
+The ascent through the transition zone was a journey through the geological strata of a dead civilization. The lower levels were ancient concrete, crumbling and reinforced with hasty plas-steel patches. The walls here were covered in graffiti—territorial markers from the gangs, crude drawings, messages to loved ones who'd never read them. _Marko was here._ _Sector 9 forever._ _The Emperor is a lie._
 
-Her muscles burned. Every pull was a battle against gravity, a reminder of the planet trying to drag her back down to the mud. She kept a rhythm. Hand, foot, hand, foot.
+Then came the industrial lattice—heavy iron beams, riveted and solid, the bones of the old world. This was the infrastructure layer, where the great machines had once run. Ancient conveyor systems hung frozen in time, their motors seized. Angelica could see where scavengers had stripped the copper wiring, leaving skeletal frames behind.
 
-_For Leo._ Hand. _For Leo._ Foot.
+As she climbed higher, the materials changed. The transition was stark, almost offensive. Sleek composites replaced rusted iron. Carbon-fiber weaving, lightweight and impossibly strong, formed elegant curves where the lower levels had crude angles. Surfaces that repelled dirt and gleamed with internal luminescence made her eyes water after the darkness below. It was like climbing from hell into heaven, except she knew heaven didn't want her.
 
-The drone drifted silently beside her, its blue eye casting long, dancing shadows on the shaft walls.
+Her muscles burned. Every pull was a battle against gravity, a reminder of the planet trying to drag her back down to the mud. Her shoulders screamed. Her fingers were cramping around the rungs, locked in a death grip. She'd lost feeling in her fingertips twenty minutes ago. She kept a rhythm. Hand, foot, hand, foot. Don't think. Don't stop. Stopping meant falling.
+
+_For Leo._ Hand. _For Leo._ Foot. _For Leo._ Breathe.
+
+The drone drifted silently beside her, its blue eye casting long, dancing shadows on the shaft walls. It didn't understand fatigue. It didn't understand desperation. But it followed anyway, and right now, that was enough.
 
 "Warning," it chimed, its voice echoing in the vertical tunnel. "Entering High-Security Zone. Sector 8 Maintenance Access. Biography scan required for entry."
 

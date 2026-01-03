@@ -132,11 +132,11 @@ It wasn't a ruin. It wasn't a wilderness.
 
 It was a machine.
 
-It was a city the size of Manhattan, but built entirely of brass, copper, and grinding iron gears. It was a Clockwork Metropolis. And it was alive.
+It was a city built entirely of brass, copper, and grinding iron gears. It was a Clockwork Metropolis. And it was alive.
 
 She saw skyscrapers that were actually massive pistons, pumping up and down in a slow, rhythmic cadence. The sound of their movement was a deep, bass thrum that vibrated in her chest even from this height. _WHUM-CHUNK. WHUM-CHUNK._
 
-She saw streets that were conveyor belts, shifting and realigning. They were made of metal plates, etched with grooves for traction, sliding past each other with the screech of metal on metal.
+She saw streets that were conveyor belts, shifting and realigning. They were made of metal plastes, etched with grooves for traction, sliding past each other with the screech of metal on metal.
 
 She saw bridges that extended and retracted like the tongues of metal lizards. Some were rigid trusses; others were flexible cables that whipped in the wind.
 

@@ -1,825 +1,698 @@
 # Chapter 22: The Finale
 
-> _"The irony of ascension is that the higher you climb, the less you can breathe. The atmosphere of the Zenith is pure, yes, but it is also thin. It demands a different kind of lung. A different kind of heart. Those who cling to the heavy air of the earth will suffocate before they ever see the stars."_
->
-> — _Lady Corinne, "The Philosophy of Elevation"_
+The wind at ten thousand feet didn't just blow; it hunted.
 
----
+It screamed around the crystal spire of the Zenith Academy like a living thing, a hungry ghost tearing at the three tiny figures clinging to the translucent staircase. It was a physical weight, a wall of pressurized air that threatened to peel them from the glass steps and cast them into the abyss of clouds three thousand feet below.
 
-**Scene 1: The Base**
+Angelica counted. It was the only way she could keep her legs moving.
 
-The Spire didn't look like a building. It looked like a needle specifically designed to pierce God's eye.
+_Nine thousand, four hundred and twelve._
 
-It rose from the center of the Clockwork City, a single, terrifying spike of obsidian and crystal that vanished into the bruised purple clouds of the Zenith layer. At its base, the air was still thick with the smog of the Foundry, tasting of rust and dead fires. But looking up, the air thinned. It became clear. Cold. Lethal.
+Her breath rasped in her throat, a jagged shard of ice with every inhale. The air was thin up here, barely enough to fuel a starving lung, let alone a body pushed past the brink of exhaustion. Her vision was tunneling, the edges of the world fraying into grey static. All she could see were the heels of Kaelen's boots in front of her, moving with a rhythmic, machine-like precision.
 
-Angelica Ward stood at the foot of the staircase.
+_Nine thousand, four hundred and thirteen._
 
-"Ten thousand," she whispered.
+They had been climbing for four hours.
 
-The number felt heavy in her mouth. Ten thousand steps. No elevators. No grav-lifts. Just a spiral of translucent glass winding around the exterior of the tower, exposed to the wind, the cold, and the drop.
+The final stage of the Iron Selection wasn't a battle. It wasn't a puzzle. It was a simple, brutal equation of endurance. Ten thousand steps. A vertical ascent that wound around the exterior of the central Spire like a glass ribbon. No railing. No safety net. Just a three-foot-wide path of slick, frosted diamon-glass separating them from the fall.
 
-"Structural integrity is... questionable," Kaelen Night murmured, tapping the glass railing with the hilt of his blade. It rang with a high, brittle note. "The material is strong, but the anchor points are under excessive torque from the wind shear."
+To their left, the smooth, impenetrable wall of the tower rose endlessly into the bruised purple sky. To their right, the drop. A sheer, terrifying plunge into the white ocean of the cloud layer.
 
-"It's glass," Ria grunted. She was back in her human form, though "human" was a generous term these days. Her skin was a patchwork of grey callouses and healing burns. She looked like a statue that had been dragged through a gravel pit. "Why is it always glass? Why can't the Highborn build anything out of concrete?"
+Angelica didn't look right. She looked at the boots.
 
-"Transparency," Kaelen said, checking his boot laces. "They want to see us fall."
+Behind her, she heard the heavy, mechanical whine of Ria's servos. The sound was wrong—a grinding, high-pitched screech that spoke of overheated bearings and failing hydraulics.
 
-Angelica looked back at the city.
+"Keep... moving..." Ria gasped over the comms, her voice distorted by the static of the storm. "Don't... stop... Runt."
 
-It was a graveyard. Smoke curled from the ruins of Sector 7. The Crossroads, where they had killed Squad Copper, was just a dark smudge in the distance. The silence of the city was heavy, pressing down on them. The only sound was the wind howling around the base of the Spire, a low, mournful note like a bow drawn across a cello string.
+Angelica risked a glance back.
 
-We are leaving it, Angelica thought. We are leaving the rust and the rot and the hunger. But we are taking it with us. The stains on our souls don't wash off.
+Ria looked like a wreck. Her massive Titan armor, the shell that had made her a god in the arena, was now a prison. It was dead weight. The power cells were drained, the atmospheric scrubbers clogged with ice. She was dragging five hundred pounds of inert steel up the mountain, fueled only by stubbornness and rage. Her helmet was gone—lost somewhere around step six thousand—and her face was a mask of frost and grim determination. A line of frozen blood ran from her nose to her chin.
 
-She looked at Ria. Ria was staring at a pile of scrap metal near the first step—a broken gear from a destroyed Vermin. She kicked it. It skittered across the pavement with a hollow clatter.
+"I'm... going," Angelica wheezed.
 
-"I'm going to miss it," Ria said softly. "The rust."
+She looked ahead. Kaelen hadn't slowed down. He hadn't faltered. He moved with an efficiency that was almost insulting. He wasn't wearing armor. He was dressed in his black combat fatigues, the fabric whipping violently in the gale. He didn't seem to fight the wind so much as slip through it, finding the currents of least resistance.
 
-"Illogical," Kaelen said. "The environment is toxic. Survival probability is below 12% per annum."
+He was the blade. Ria was the hammer. And Angelica?
 
-"Yeah," Ria smiled, a sad, crooked thing. "But it was _our_ toxic dump, you know? It made sense. The strong eat the weak. Simple." She looked up at the Spire. "Up there... I don't know the rules."
+She was the rust.
 
-"The rules are identical," Kaelen said. "Only the elevation changes."
+She was the friction that slowed them down. Every step cost her more than it cost them. She didn't have Kaelen's training or Ria's strength. She had sticks for legs and lungs filled with Silt-dust.
 
-"We move," Kaelen said. He didn't look back. He never looked back.
+_Nine thousand, four hundred and twenty._
 
-He took the first step.
+Her boot slipped.
 
-Ria adjusted the straps of her armor. The servos whined—a high-pitched protest. The suit was damaging itself, grinding its gears to dust, but it was the only thing holding her together.
+It was a patch of black ice, invisible against the dark glass. Her right foot shot out into empty air.
 
-"Let's get this over with," she muttered, and followed him.
+Gravity, the patient monster, snatched at her.
 
-Angelica took a breath. She filled her lungs with the smog one last time. It tasted like home. It tasted like the Silt.
+She tipped sideways. The wind caught her, pushing her shouders, eager to help her fall. For a split second, she stared down into the swirling white void. It looked peaceful. It looked soft. It would be so easy to just let go, to stop the burning in her legs, to sleep.
 
-She stepped onto the glass.
+A hand clamped onto her wrist.
 
----
+It wasn't a gentle grip. It was a vice.
 
-**Scene 2: The Ascent**
+Kaelen didn't turn around. He reached back without breaking stride, his fingers locking around her forearm with enough force to bruise the bone. He jerked her forward, pulling her back onto the center of the step.
 
-**Step 1,000**
+"Focus, Ward," he said. His voice wasn't breathless. It was calm, clipped, and cold. "If you fall, you take us with you. The tether has a tensile limit."
 
-The smog layer was below them now. It looked like a dirty ocean, rolling and churning in slow motion. The sun was brighter here, sharp and unfiltered, glaring off the obsidian wall of the Spire.
+Angelica looked down at her waist. The thin, molecular-bond cable connecting the three of them—Ria at the back, Kaelen at the front, her in the middle—was taut. If she went over, she would become an anchor. She would peel them both off the wall.
 
-Angelica's thighs burned. It was a dull, rhythmic ache that synced with her heartbeat.
+"Sorry," she gasped.
 
-_Step. Breath. Step. Breath._
+"Don't be sorry," Kaelen said, releasing her arm. "Be vertical."
 
-"Pace," Kaelen called from twenty steps ahead. "Do not surge. Efficiency."
+He kept climbing.
 
-**Step 3,400: The Wind Shear**
+Angelica swallowed the bile in her throat and forced her foot to find the next step.
 
-The wind arrived.
+_Nine thousand, four hundred and twenty-one._
 
-It wasn't a breeze. It was a physical assault. It slammed into them as they cleared the chaotic airflow of the lower towers, a steady, screaming gale that wanted to peel them off the glass.
+The cold was an enemy she hadn't accounted for. In the Silt, cold was damp and heavy. Here, it was sharp. It bit through her thermal undersuit, seeking out the warmth of her blood. Her fingers were numb inside her gloves. Her nose felt like a block of wood. The moisture in her eyes was freezing, gluing her lashes together.
 
-Angelica grabbed the railing. Her fingers went white. The wind roared in her ears, drowning out the whine of Ria's servos.
+She thought about the heat of the Foundry. She visualized the roaring furnaces, the sweat, the smell of molten copper. She tried to summon that warmth, to wrap it around her core.
 
-"Stay low!" Kaelen shouted, his voice whipped away instantly.
+It didn't work. The wind stole it.
 
-They hunched over, moving like crabs. The drop to their right was absolute. Three thousand feet of empty air. If you fell here, you wouldn't just die. You would have time to think about it. You would have time to regret everything.
+_Nine thousand, five hundred._
 
-Suddenly, the glass beneath Ria's boot cracked.
+The sky was changing.
 
-_CRACK._
+The grey clouds were falling away, replaced by a deep, indigo twilight. They were climbing above the weather. The sun, which had been hidden for days, suddenly broke across the curve of the Spire. It wasn't the yellow, filtered sun of the lower levels. It was a blinding, harsh white star that burned the retina.
 
-"Ria!" Angelica screamed.
+"Sunlight," Ria grunted. "Real... sunlight."
 
-A section of the stair—a slab of glass the size of a coffin—detached. It fell, tumbling silently into the void.
+Angelica squinted against the glare. It was beautiful. It was terrifying. It revealed the scratches on the glass steps, the vastness of the world below, the impossible height of their ascent.
 
-Ria scrambled back, her armor sparking against the obsidian wall. She was dangling by one hand, her fingers dug into a microscopic seam in the rock.
+They were ants climbing a needle.
 
-"Hold on!" Kaelen lunged. He didn't reach for her hand. He drove his dagger into the obsidian wall above her, creating an anchor point. "Grab the hilt!"
+_Nine thousand, eight hundred._
 
-Ria reached up. Her heavy gauntlet slipped on the stone. She groaned, the weight of the Titan-Suit dragging her down.
+Her legs were screaming. Every muscle fiber was tearing, rebuilding, and tearing again. She was running on reserves she didn't know she had. She was hallucinating. She saw her father standing on a cloud, holding a wrench. She saw the old junk dealer from Sector 12, laughing at her.
 
-"I can't!" she yelled. "It's too heavy!"
+_Keep walking, girl. Just keep walking._
 
-"Drop the pack!" Angelica yelled, crawling toward them against the wind. "Ria, drop the ammo pack!"
+_Nine thousand, nine hundred and ninety._
 
-"No!" Ria roared. "We might need it!"
+"Platform," Kaelen announced.
 
-"We need _you_!" Kaelen shouted. It was the first time he had raised his voice in anger. "Drop the load, Stone! That is an order!"
+Angelica looked up.
 
-Ria looked at him. Then she hit the release catch.
+Ten steps above them, the ribbon ended. It flared out into a wide, flat disc of polished obsidian.
 
-The ammo crate fell. It spun away, vanishing into the clouds.
+The summit.
 
-Lighter, Ria swung her arm up. Her metal fingers closed around Kaelen's dagger hilt. The steel groaned but held.
+The last ten steps were the hardest. Her body knew it was over, and it wanted to quit right there. _Close enough,_ it whispered. _You made it close enough._
 
-Kaelen grabbed her wrist. Angelica grabbed Kaelen's belt.
+She forced herself to lift her boot. One. Two. Three.
 
-Together, they heaved.
+Kaelen stepped onto the platform. He didn't collapse. He walked to the center and stood there, scanning the perimeter, his weapon drawn. Always the soldier.
 
-Ria tumbled back onto the remaining glass. She lay there, gasping, staring at the sky.
+Angelica hit the last step. She stumbled forward, her knees giving out. She didn't try to catch herself. She fell face-first onto the black stone.
 
-"Okay," she wheezed. "Okay. No ammo. We punch things now."
+It was warm.
 
-"Ideally," Kaelen said, pulling his dagger free. "We avoid combat entirely."
+The obsidian had been soaking up the sun. It radiated a gentle, trapped heat that seeped into her cheek. She groaned and rolled over, staring up at the darkening sky.
 
-He looked at Ria. Then he offered her a hand.
+Ria crashed onto the platform a moment later. The sound was like a car wreck—metal shrieking against stone as she fell to her knees, then slumped forward. Her armor clattered, dead and heavy.
 
-"Good grip," he said.
+"Stairs..." Ria wheezed, tearing off a gauntlet to wipe the blood from her face. "I hate... stairs. If there isn't... an elevator... on the way down... I'm jumping."
 
-Ria took it. "Good anchor."
+Angelica laughed. It was a dry, hacking sound that hurt her chest. "We made it. We actually made it. The math said we wouldn't."
 
-**Step 6,200: The Frozen**
+"The math," Kaelen said, his silhouette dark against the sun, "didn't account for determination."
 
-They found them on the north face.
+He holstered his weapon. He walked over to them, looking down with an expression that might have been pride, or might have been simple calculation.
 
-At first, Angelica thought they were statues. Gargoyles carved into the glass to scare the climbers.
+"Extraction point confirmed," he said. "We are the first. The other signals have ceased. Squad Gold is gone. Squad chrome is gone. We are the apex."
 
-But gargoyles didn't wear Squad Silver uniforms.
+Ria rolled onto her back, her massive chestplate heaving. "Apex predators, baby. Squad Iron. Unbreakable."
 
-There were three of them. Huddled together in a tight circle against the obsidian wall. They were covered in a layer of clear ice, preserving them perfectly.
+She held up a fist. It was a struggle for her to lift the weight of the armor, but she did it.
 
-"Squad Silver," Kaelen noted. He didn't stop, but he slowed down. "Estimated time of death: twelve hours."
+Angelica looked at the fist. She looked at Kaelen.
 
-Angelica stopped. She looked at the face of the boy on the left. It was Julian Argent. The Highborn boy who had warned her at the Winter Ball. His eyes were open, staring at nothing. His skin was blue.
+Slowly, painfully, she raised her own hand and bumped her knuckles against Ria's.
 
-"They froze," Angelica whispered.
+Kaelen hesitated. He looked at the two of them—the giant and the scavenger, the hammer and the grease—lying on the ground. He looked at his own gloved hand.
 
-"Hypothermia," Kaelen corrected. "Their gear was insufficient. They stopped to rest. The wind took their heat."
+Then, slowly, he crouched down. He extended his fist.
 
-Ria limped past them. She didn't look at their faces. She looked at their boots.
+_Thud._
 
-"Nice boots," she muttered. "Better grip than mine."
+The three of them connected. A circuit closed.
 
-"Ria!" Angelica hissed.
+"Unbreakable," Kaelen whispered.
 
-"They aren't using them," Ria shrugged. But she didn't stop to take them. She kept moving, dragging her heavy leg.
+For a moment, on top of the world, with the wind howling around them and the sun burning their eyes, they were a unit. They were a team. They had defied the odds, the system, and gravity itself.
 
-Angelica lingered. She saw something clutched in Julian's frozen hand. A piece of paper. The wind whipped the corner of it, but the ice held it fast.
+Then the sky broke open.
 
-She reached out. Her fingers were numb, but she pried the p aper loose. It snapped with a brittle sound.
+It started with a hum. A deep, resonant vibration that shook the obsidian platform beneath them.
 
-She unfolded it. The ink was smeared, but legible.
+Angelica sat up, her mechanic's ear instantly tuning into the frequency. "Heavy repulsors. High output. Something big is coming."
 
-_To Father,_
-_We stopped. Just for a minute. The wind is so loud. Tell Mother I tried. Tell her the silver didn't help. The money didn't help. It's just cold. It's all just cold._
-_J._
+The center of the platform began to glow. Lines of white light etched themselves into the stone, forming a complex geometric mandala.
 
-Angelica felt a tear freeze on her cheek.
+"Get up," Kaelen ordered, stepping back. "Formation."
 
-"Angelica," Kaelen's voice was sharp. "Move. The cold is a predator. If you stop to mourn, you join them."
+Ria groaned, but she obeyed. She rolled to her knees, servos widening in protest, and hauled herself upright. She swayed, locking her leg joints to stay standing.
 
-Angelica crumpled the note. She put it in her pocket. It felt heavy, heavier than the ammo crate Ria had dropped. It was the weight of a life that realized, too late, that the game was rigged.
+Angelica scrambled to her feet. She stood between them, swaying in the wind.
 
-"He tried to write a letter," Angelica said, her voice shaking. "To his dad so he wouldn't be disappointed."
+A beam of light shot up from the center of the mandala. It was a hologram generator, but not the cheap, flickering ones they used in the Silt. This was high-fidelity, solid-light technology.
 
-"Sentiment is inefficient," Kaelen said. But he waited for her. He stood on the step above, blocking the wind with his body until she started moving again.
+The column of light coalesced into a figure.
 
----
+It was fifty feet tall. It towered over them, a giant made of photon and arrogance.
 
-**Scene 3: The Design (Flashback)**
+Headmaster Vane.
 
-_Three Months Ago. The Headmaster's Office._
+He looked impeccable. His white scholar's robes were pristine, unstained by blood or grease. His silver hair was perfectly coiffed. His face, magnified to the size of a billboard, beamed down at them with a benevolence that made Angelica's skin crawl.
 
-_The office was warm. It smelled of old paper and expensive tea._
+"Welcome," Vane's voice boomed. It didn't come from a speaker; it seemed to come from the sky itself. "Welcome to the Zenith."
 
-_Prelate Vane stood by the window, looking out at the Academy grounds. Below, the candidates were running drills in the rain._
+Around the giant hologram, dozens of smaller screens flickered into existence. They floated in the air, creating a ring of digital surveillance.
 
-_"The psychological profiles are complete," Lord Cromwell said, placing a thick dossier on the mahogany desk. "This year's crop is... volatile."_
+Angelica looked at the screens. She saw... herself.
 
-_"Volatility is useful," Vane said, turning around. He took a sip of tea. "If directed."_
+She saw Ria, bloody and battered. She saw Kaelen, stone-faced and alert.
 
-_"There is a concern regarding Squad Iron," Cromwell tapped the folder. "The Night boy. The Stone girl. The Ward anomaly. They appear to be forming a genuine bond. Pack dynamics. It's rare in the Selection. Usually, the stress fractures them by Week 2."_
+And behind the feeds, she saw the audience.
 
-_"A bond is not a flaw, Cromwell," Vane smiled. "A bond is a lever."_
+Millions of comments scrolled past in a blur of text. Emojis. Betting odds. Cheers. Jeers.
 
-_He walked to the wall, where a holographic schematic of the Spire was displayed._
+_IRON SQUAD!_
+_LOOK AT THE BIG ONE, SHE'S ABOUT TO PASS OUT._
+_THE BOY IS COLD. I LIKE HIM._
+_THE RUNT IS STILL ALIVE? HOW?_
 
-_"The finale," Vane said softly. "The Extraction Point. We have commissioned a Class-A Luxury Shuttle for the victors. Champagne. Soft seats. Thermal regulation."_
+"You are live," Vane said, his giant hand sweeping across the horizon. "The eyes of the City are upon you. You are the heroes of the hour."
 
-_"Standard protocol," Cromwell nodded._
+Ria straightened up, puffing out her chest. She wiped the blood from her chin, trying to look heroic for the cameras.
 
-_"Change it," Vane said._
+"Squad Iron," Vane continued. "You have exceeded all variables. You have defeated the beasts of the Menagerie. You have solved the Riddles of the Spheres. You have climbed the Needle. You have proven that the Silt can, occasionally, produce gold."
 
-_He waved his hand. The hologram shifted. The luxury shuttle was replaced by a small, sleek courier craft._
+The applause was piped in—a roaring, oceanic sound of thousands of people clapping. It sounded fake. Canned.
 
-_"A Courier?" Cromwell raised an eyebrow. "That's a two-seater. Pilot and cargo. Or two passengers."_
+"We won," Ria whispered. "We actually won."
 
-_"Exactly," Vane's eyes glittered. "Two seats."_
+Anglica didn't smile. She was watching Vane's eyes. The hologram was high-resolution enough to capture the micro-expressions. There was a twitch at the corner of his mouth. A tightness.
 
-_"But the squads are formatted for three," Cromwell said slowly. Then he smiled. It was a cold, sharp smile. "Ah. I see."_
+He was smiling, but his eyes were dead.
 
-_"We sell them the dream of the squad," Vane whispered. "We tell them that unity is strength. We let them bleed for each other. We let them save each other. We let them love each other."_
+"However," Vane said.
 
-_He touched the hologram of the tiny shuttle._
+The word hung in the air like a guillotine blade.
 
-_"And then, at the very end... we ask them to do the math."_
+The applause cut off instantly. The silence that followed was louder than the wind.
 
-_"Cruel," Cromwell noted. "The audience will love it."_
+"We have encountered a... let's call it a logistical error," Vane said smoothly. He clasped his hands behind his back, the picture of regrettable administrative failure. "It seems that during the excitement of the final round, our actuarial algorithms miscalculated the fuel consumption of the retrieval unit. The primary extraction cruiser was... re-tasked. To a garden party in the Cloud District, I believe."
 
-_"It isn't cruelty, Cromwell," Vane said, sitting back down. "It is metallurgy. You cannot forge true iron without first burning away the impurities. And the greatest impurity of all... is love."_
+He chuckled. It was a soft, polite sound that echoed like thunder across the platform.
 
----
+"Due to these unforeseen budgetary constraints regarding the fuel allocation for long-range extraction, the shuttle sent to retrieve you is a Class-B courier. It is a delightful little ship, really. Very fast. Very efficient. Used mostly for transporting urgent diplomatic missives or rare biological samples."
 
-**Scene 3.5: The Betting Floor**
+He paused. He looked down at them, like a child examining bugs in a jar.
 
-_The Gilded Hall. Tier 1._
+"However, its efficiency comes at a cost. The life-support systems are minimal. Mass-optimized. It has a maximum life-support capacity for two personnel."
 
-_Lady Corinne stood on the balcony overlooking the Betting Floor. It was chaos._
+Angelica froze. The wind whipped her hair across her face, blinding her for a second, but she didn't move to brush it away. Her mind was racing, replaying the words. _Class-B Courier. Life support capacity._
 
-_A thousand Highborn lords and ladies were screaming, waving credit chits, and watching the massive screens that floated above the pit. The air smelled of expensive perfume and nervous sweat._
+"Two seats," Vane clarified, his voice dripping with faux-sympathy. "But there are three of you. How unfortunate. A terrifying remainder."
 
-_"Iron! Five thousand on Iron!"_
+He snapped his fingers.
 
-_"Silver is out! The Blue-Bloods are dead! Sell! Sell!"_
+From the clouds above, a ship descended.
 
-_"Putting everything on the Night boy! He's a killer! Look at his eyes!"_
+It was sleek, silver, and silent. It looked like a teardrop made of mercury. It lowered itself on silent thrusters, hovering just off the edge of the platform. The heat from its engines washed over them, a momentary respite from the freezing cold that felt like a taunt.
 
-_Corinne sipped her champagne. It was crisp. Cold._
+The canopy hissed open.
 
-_Lord Cromwell appeared beside her. He looked pleased._
+There were two seats. Two buckets of white leather, molded for comfort. Between them was a small console. Behind them, nothing but the engine bulkhead.
 
-_"The ratings are unprecedented," he said. "The entire city is watching. They want to know who falls."_
+Two.
 
-_"They want blood," Corinne corrected. "They don't care who falls, as long as the splash is big enough."_
+Ria stared at the empty seats. Her brain, usually so quick in a fight, seemed to grind to a halt. The adrenaline that had carried her up the stairs was fading, leaving her cold and confused.
 
-_"I see you are holding your position," Cromwell nodded at the betting slate in her hand. "You still believe in the Ward girl?"_
+"But... we're a squad," she stammered. "We finished together. The rules... the orientation packet said..."
 
-_"I believe in variables," Corinne said. "And she is the only one I cannot calculate."_
+"The rules?" Vane laughed. It was a rich, baritone sound that shook the platform. "Oh, child. Did you actually read the orientation packet? Or did you just look at the pictures?"
 
-_On the main screen, the camera zoomed in on the Spire. Three tiny figures were crawling up the glass like ants on a needle._
+He leaned forward, his giant face looming over them.
 
-_"The shuttle is approaching," Cromwell said, checking his watch. "The Two-Seat Protocol is active. Vane's little joke."_
+"Rules are for the games. Rules are for the playground. This is reality. In the Zenith, there are no squads. There are no friends. There are no promised lands where everyone holds hands and sings."
 
-_"It's not a joke," Corinne murmured. "It's a test."_
+He gestured to the city floating in the distance.
 
-_"A test of what? Survival?"_
+"There is only the Hierarchy. There are those who have the strength to take a seat, and those who are left standing. Every chair in that city was taken by someone who pushed someone else out of it."
 
-_"No," Corinne looked at Angelica on the screen. "A test of character. Survival is easy, Cromwell. Any animal can survive. But to remain human while doing it? That is the trick."_
+The screens spiraled around him, showing the audience reaction. The chat feed was accelerating, a blur of neon text.
 
-_She tapped her slate._
+_DRAMA SPIKE!_
+_TWO SEATS? THAT'S BRUTAL._
+_I BET ON THE BIG ONE DYING._
+_NO WAY, THE BOY IS TOO FAST._
+_KILL THE RUNT! SHE'S USELESS!_
+_THIS IS BETTER THAN THE ARENA!_
 
-_"Double my wager," she told the broker. "On Squad Iron. All of them."_
+"This is the final test," Vane announced to the cameras. "The test of Will. The test of Ambition. The test of Sacrifice."
 
-_"But my lady," the broker stammered. "The odds of a full squad victory are... zero. The shuttle physics..."_
+"You lied," Angelica whispered. Her voice was lost in the wind, but Vane heard it.
 
-_"I don't care about physics," Corinne smiled. It was a sharp, dangerous smile. "I'm betting on the Mechanic."_
+Vane looked at her. His eyes, the size of swimming pools, narrowed.
 
----
+"I optimized," he corrected. "I created a scenario to extract the maximum potential from my assets. Comfort breeds mediocrity, Miss Ward. Desperation breeds excellence. And right now, I need to see which assets are truly valuable and which are merely... redundant."
 
-**Scene 4: The Summit**
+He pointed a finger at the shuttle.
 
-**Step 10,000**
+"You have five minutes to decide who takes the seats. If you do not decide... the shuttle leaves empty. And the platform enters its scheduled sanitation cycle."
 
-The last step was the hardest. Not because of the steepness, but because of what it meant.
+"Sanitation?" Ria asked.
 
-It meant it was over.
+"Plasma purge," Kaelen said softly. "To clean the bird droppings off the observation deck. It heats the stone to three thousand degrees."
 
-Angelica dragged herself up the final riser. She rolled onto the flat surface of the summit.
+Angelica looked at her feet. The black stone.
 
-It was a circle of black obsidian, fifty meters across, polished to a mirror shine. It reflected the sky—a deep, endless violet that was fading into the black of true space. The stars were visible here, hard and bright like diamonds.
+"Whoever stays, burns," she said.
 
-The wind stopped. Or maybe the platform was shielded. It was suddenly silent.
+3 - 2 = 1.
 
-Solemn.
+It was the simplest equation she had ever solved. And the cruelest.
 
-Ria collapsed next to her. She tore her helmet off. Her hair was matted with sweat and blood, but she was grinning. A wild, broken grin.
+"You can't do this!" Ria shouted at the hologram. She took a step forward, her fists clenching. "We won! We beat your game! You owe us!"
 
-"We did it," she rasped. "We actually did it."
+"I owe you nothing but the opportunity to prove your worth," Vane replied coldly. "The Universe does not owe you survival. You must take it."
 
-Kaelen walked to the center of the platform. He stood there, looking up at the sky. He didn't smile. But his shoulders, usually so tight with tension, finally relaxed.
-
-"Sector Clear," he said softly. "Hostiles eliminated. Objective complete."
-
-Angelica sat up. She looked at them.
-
-They were a mess. Ria's armor was scrap metal. Kaelen's cloak was a rag. She herself felt like a collection of bruises held together by sheer stubbornness.
-
-But they were alive. And more importantly, they were together. The bond Vane had mocked, the "impurity" he sought to burn away, was the only reason they were standing there.
-
-"We're a squad," Angelica said. The words felt huge. "We're Iron."
-
-"Damn right," Ria laughed. It was a wet, ragged sound. "Highborns can kiss my metal ass. We beat the house."
-
-"The extraction," Kaelen pointed.
-
-Above them, the clouds parted.
-
-A shuttle descended. It was sleek, white, and silent. It looked like a dove descending from heaven. Anti-grav engines hummed with a low, soothing thrum.
-
-It landed in the center of the obsidian circle. The landing gear touched down without a sound.
-
-The ramp hissed open.
-
-Light spilled out—warm, golden light. It smelled of sterilized air and lavender.
-
-And then, the hologram flickered to life.
-
-A fifty-foot tall projection of Headmaster Vane appeared above the ship. He was smiling. It was the smile of a proud father.
-
-"Squad Iron," his voice boomed, echoing perfectly in the silent air. "Welcome to the Zenith."
-
-Ria stood up. She helped Angelica to her feet. They stood together, arm in arm, Kaelen flanking them. A phalanx.
-
-"You have exceeded all variables," Vane continued. "You have proven that Iron is stronger than flesh. You have won the Selection."
-
-The crowd noise washed over them—a roar of millions of citizens cheering from their living rooms, piped in through the audio system. It was intoxicating.
-
-"However," Vane's smile faltered. Just a fraction. A performance of regret.
-
-"We have encountered a minor logistical anomaly."
-
-Angelica felt a cold knot form in her stomach. It wasn't the hunger. It was instinct.
-
-"The extraction shuttle," Vane gestured to the sleek white craft. "Is a courier class. Optimized for speed."
-
-He paused.
-
-"It has a maximum life-support capacity... for two."
-
-The silence returned. It was louder than the wind. Louder than the crowd.
-
-Angelica looked at the shuttle.
-
-Two seats.
-
-She looked at Ria. Ria was blinking, her brain trying to process the words, trying to make them fit into the victory she had just built.
-
-She looked at Kaelen.
-
-Kaelen wasn't blinking.
-
-He was looking at the shuttle. Then he looked at Ria. Then he looked at Angelica.
-
-His hand drifted to his belt. To the hilt of his blade.
-
-The math was done.
-
-"Oh no," Angelica whispered.
-
----
-
-**Scene 5: The Twist**
-
-"Two?" Ria repeated. The word sounded foreign in her mouth. She looked at the shuttle, then at Vane's hologram. "But... we're a squad. We finished together. That's the rule."
-
-"The rule," Vane said, his voice smooth as oil, "was that the _strongest_ survive. Squads are a mechanism for maximizing survival probability during the ascent. You have ascended. The mechanism is now obsolete."
-
-Vane leaned forward, the hologram looming over them.
-
-"Think of it as the final exam," he said. "The Iron Selection does not produce teams. It produces leaders. And a leader must know how to make difficult resource allocation decisions."
-
-A red digital timer materialized in the air above the platform.
+A red digital timer materialized in the air above the shuttle. The numbers were ten feet tall, burning against the purple sky.
 
 **05:00**
 
-"You have five minutes," Vane said. "If the passenger manifest is not confirmed by zero... the shuttle leaves empty. And the platform sanitization protocols engage."
+**04:59**
 
-"Sanitization?" Angelica asked.
+The ticking wasn't audible, but Angelica felt it. Each second was a heartbeat.
 
-"Plasma purge," Kaelen said correctly. "To sterilize the site for the next cycle."
+The atmosphere on the platform shifted.
 
-"Five minutes," Vane repeated. "Do try to be efficient."
+The wind seemed to drop. The world narrowed down to the fifty-meter circle of stone.
 
-The hologram froze, watching them. The crowd noise dipped, replaced by a low, rhythmic thrumming sound. A heartbeat.
+The bond—the fragile, hard-won trust they had built over the last week—shattered. It didn't break slowly; it exploded.
 
-**04:45**
+Angelica felt the shift in Kaelen before he even moved. It was a change in pressure. A sharpening of the air.
 
-The wind on the platform seemed to die. The silence was absolute.
+He took a half-step back. It was a subtle movement, a shift of weight to his back foot. His right hand drifted, almost casually, to the hilt of the mono-blade strapped to his thigh.
 
-Ria took a step back. She looked at Kaelen.
+It was a reflex. Or a plan.
 
-"Kaelen?" she said. Her voice was small. "Why is your hand on your sword?"
+Ria saw it.
 
-Kaelen didn't move. He stood perfectly still, his eyes locked on Ria's chest piece—the thickest part of her armor, but also where the damaged servos were exposed.
+Her eyes went wide. The hurt, the confusion, vanished, replaced by the primal instinct of a cornered animal.
 
-"Variables have changed," Kaelen said. His voice was devoid of inflection. It was the voice of the machine. "Resource scarcity necessitates a reduction in personnel. Three units. Two slots. One unit is redundant."
+_Whirrrr._
 
-"Redundant?" Ria's voice rose. "I carried you! I carried both of you up the last thousand steps! My leg is metal pasta because of you!"
+The servos in her arm whined as she pre-charged her hydraulic actuators. Her posture shifted from exhausted slump to combat crouch.
 
-"Past performance is irrelevant," Kaelen said. "The criteria is future utility. I am the blade. You are the hammer. Hammers are heavy. And easily dodged."
+They stood in a triangle. The wind whipped their hair. They looked at each other, and the friends Angelica thought she had made were gone. In their place were a Titan and an Assassin.
 
-"Kaelen, stop," Angelica stepped between them. She held her hands up. "This is what he wants. Look at him! He's watching us like we're bacteria in a petri dish!"
+"Don't do it, Night," Ria growled. Her voice was low, dangerous. "Don't you dare touch that sword."
 
-"He is the Gamemaker," Kaelen looked at her. "He sets the parameters. We play the game."
+Kaelen didn't look at her face. He looked at her neck. He was calculating the angle.
 
-"We don't have to play!" Angelica yelled. "We can refuse! If we all stay, he can't kill us all! It would ruin the finale!"
+"Two seats," Kaelen said. His voice was devoid of emotion. It was pure logic. "The prompt is a survival scenario. Logic dictates the strongest survive. We are resources. One of us is redundant."
 
-"Incorrect," Kaelen said. "Martyrdom is a valid ending arc for the audience. Tragedy sells. If we stay, we burn. If we fight, two survive. Two is greater than zero."
+"Redundant?" Ria shouted. "I saved your life in the Foundry! I took the hit from the Behemoth!"
+
+"Past tense," Kaelen said. "That variable has been processed. The current variable is weight vs. utility. You are damaged. Your armor is failing. You are a liability."
+
+"I am a tank!" Ria roared. "I am the muscle!"
+
+"You are a hammer," Kaelen corrected. "I am a blade. Hammers are clumsy. Hammers are easily dodged."
+
+"Stop it!"
+
+Angelica stepped between them.
+
+She felt tiny. She was unarmored, unarmed, and weighed a hundred pounds soaking wet. She stood between a man who could move faster than the eye could follow and a woman who could punch through concrete.
+
+"Stop it!" she screamed again. "This is what he wants! Look at him!"
+
+She pointed at the giant hologram. Vane was watching them with a look of intense, scholarly interest. He was taking notes on a datapad.
+
+"He wants a show!" Angelica yelled. "He wants us to kill each other for the ratings! If we fight, he wins!"
+
+"One of us has to die, Angelica," Kaelen said. He didn't look at Vane. He didn't look at her. His eyes were locked on Ria. "That is the boundary condition. There is no solution where all three survive."
+
+"There's always a solution!" Angelica insisted. "We can... we can strip the armor! Reduce the weight! We can squeeze into the cargo hold!"
+
+"Class-B couriers don't have cargo holds," Kaelen said. "And the life support is hard-capped. Oxygen for two. If three get on, we all suffocate before we hit the Zenith."
+
+He looked at Angelica then. For a second, the mask slipped. She saw regret. She saw pain.
+
+"I have a mission, Ward. I have to reach the top. Nothing can stop that. Not you. Not her."
+
+His hand tightened on the hilt.
+
+"Ria is the logical elimination."
+
+"Try it, pretty boy," Ria snarled. She raised her fists. "Come and try to eliminate me."
+
+Angelica looked at Kaelen's eyes.
+
+She expected to see hesitation. She expected to see the boy who had helped her climb, who had shared his rations.
+
+She saw nothing.
+
+She saw the eyes of a shark. Flat. Dead. Efficient.
+
+He wasn't bluffing. He wasn't debating. He had already formulated the plan. He knew exactly how he was going to kill Ria. He was just waiting for the wind to die down so his strike would be true.
+
+"Three chairs," Kaelen whispered. "Two musical notes left. The music stops now."
 
 **03:30**
 
 The timer ticked down.
 
-Ria's face hardened. Usefulness. That was the only currency she had ever known. And now, she was being told she was bankrupt.
+"Play," Kaelen said.
 
-"You think you can take me, Night?" she growled. The air around her began to shimmer. Magic. Earth magic. Even exhausted, her connection to the stone was absolute. "I'm a Titan. I'll snap you in half."
+He drew his sword.
 
-"You are damaged," Kaelen analyzed. "Hydraulic pressure is at 40%. Reaction time is compromised. You favor your left leg. I will sever your hamstring, then pierce the throat. Estimated combat time: 12 seconds."
+The sound of the mono-blade activating was a sharp _snap-hiss_. The edge vibrated at a frequency that made Angelica's teeth ache. It was a blur of silver, a line of coherent force that could cut through diamond.
 
-He drew his blade.
+Ria roared. It wasn't a word; it was a release of pressure. She charged.
 
-_Schwing._
+She didn't have a weapon, but she didn't need one. She was a siege engine. She lowered her shoulder, activating the last vestiges of her armor's power, and plowed forward like a runaway train.
 
-The sound was shockingly loud.
+Kaelen didn't meet the charge. He flowed around it.
 
----
+He stepped to the left, pivoting on the ball of his foot. As Ria thundered past, he lashed out with the flat of his blade, slapping it against the back of her knee joint.
 
-**Scene 5.5: The Choice**
+_CLANG._
 
-_Kaelen's Internal Monologue._
+The impact was precise. It hit the servo housing, denting the metal. Ria stumbled, her momentum carrying her forward. She crashed onto one knee, sliding toward the edge of the platform.
 
-_Target: Ria Stone (Titan-Class)._
-_Status: Compromised._
-_Threat Level: High (Initial Burst Only)._
+" clumsy," Kaelen observed. "Too much mass. Too much inertia."
 
-_The logic was sound. It was clean. It was pure._
+Ria scrambled up, spinning around. Her face was red with fury. "Stand still and fight me!"
 
-_Two seats. Three candidates. The weak link must be severed._
+"Why?" Kaelen asked, circling her. "So you can hit me? That seems counter-productive."
 
-_It was what his father would do. It was what Vane expected. It was what the Iron philosophy demanded._
+He lunged.
 
-_So why was his hand shaking?_
+It was a testing strike. A quick flick of the wrist aimed at her elbow.
 
-_He looked at Ria. He saw the grey skin. The exhausted eyes. But he also saw the hand reaching out on the glass cliff. He felt the grip on his wrist. "I got you."_
+Ria threw up her arm to block. The gauntlet took the hit. The mono-blade sliced into the hardened ceramite plating like it was butter, carving a deep, glowing groove.
 
-_Memory file accessed: The Foundry. Ria fighting the Chimera. Protecting him._
-_Memory file accessed: The Campfire. Ria sharing her last water ration._
-_Memory file accessed: The Bonding. Ria naming him "Shadow."_
+Ria hissed. "You little..."
 
-_Error. Logic conflict. Emotional attachment detected._
+She swung a backhand. Kaelen ducked. The massive metal fist whistled through the air where his head had been a microsecond before.
 
-_Delete._
+Angelica watched, paralyzed.
 
-_He tried to delete it. He tried to purge the files. But they were read-only. They were burned into his core._
+It wasn't a fight. It was an execution in slow motion.
 
-_He looked at Angelica. She was crying. She was pleading._
+She analyzed the variables.
 
-_"Step aside, Mechanic," he said. But his voice lacked conviction._
+_Subject: Ria. Strength: 9/10. Speed: 2/10. Emotional State: Berserk._
+_Subject: Kaelen. Strength: 4/10. Speed: 9/10. Emotional State: Cold._
 
-_He wasn't killing Ria because she was weak. He was killing her because if he didn't... Angelica would die._
+The outcome was inevitable. Ria was fighting an enemy she couldn't catch. Kaelen was dismantling her, piece by piece. He wasn't trying to kill her quickly. He was waiting for the opening—the moment when her anger made her overextend, leaving her neck exposed.
 
-_That was the new variable._
+"Kaelen, stop!" Angelica shouted.
 
-_He wasn't protecting himself. He was protecting the Mechanic._
+Kaelen ignored her. He feinted left, drawing a clumsy block from Ria, then spun right, slashing across her chest plate. Sparks showered the obsidian.
 
-_And if becoming a monster was the price of her survival... he would pay it._
+"Yield," Kaelen said. "Step off the platform. Save yourself the pain."
 
-_He tightened his grip on the blade._
+"Go to hell!" Ria screamed. She grabbed a chunk of loose obsidian from the floor—debris from the construction of the platform—and hurled it.
 
-_"I am securing the asset," he whispered._
+Kaelen sliced the rock in half in mid-air. Dust exploded around him.
 
-_Then he lunged._
+Through the dust, he lunged again.
 
----
+It wasn't a feint this time. It was a killing stroke. He moved like smoke, closing the distance in a heartbeat. The mono-blade hummed, a blur of silver light aiming for the joint in Ria's neck armor—the only weak spot.
 
-**Scene 6: The Standoff**
+The room was silent, save for the hum of the cooling fans for the massive crystal display that dominated the wall.
 
-It wasn't a fight. It was an execution attempt interrupted by a natural disaster.
+The Emperor sat on his throne.
 
-Kaelen moved like smoke. He was under Ria's guard before she could even raise her fists. His blade flashed, aiming for the gap in her armor at the knee.
+He was a withered husk of a man, his body more machine than flesh. Tubes ran from his chest into the golden throne, cycling his blood, pumping specific mixtures of spice and stimulant to keep his failing organs functioning. His left eye was a complex optical sensor, a cluster of red lenses that rotated and zoomed with insectoid precision.
 
-But Ria didn't block. She screamed.
+He watched the screen. He watched the tiny figures on the obsidian disk high above the clouds.
 
-It was a primal roar of rage and betrayal. She slammed her foot onto the obsidian.
+He saw the blade come out. He saw the giantess brace for impact.
 
-_BOOM._
+But his eye wasn't watching the fighters.
 
-The platform shook. A crack spiderwebbed from her boot, shooting straight toward Kaelen.
+It was watching the small girl in the middle. The one with the messy hair and the greased-stained tunic.
 
-Stone spikes erupted from the floor—obsidian shrapnel exploding upward.
+"The girl from the Silt," The Emperor rasped. His voice sounded like dry leaves sliding over stone. "She positions herself as the shield. Interesting."
 
-Kaelen twisted in mid-air. He bounced off a rising spike, spinning away.
+He tapped a finger on the arm of his throne.
 
-"You want to cut me?" Ria roared. Her skin turned grey. Rock coated her arms. The Titan-Form. She was burning her life force to fuel it. "Come on then! I'll grind you to dust!"
+"Most candidates run. Most candidates hide. Or they join the killer. She stands in the middle."
 
-She charged. She was a freight train.
+A figure stepped out of the shadows behind the throne. A tall, thin man in grey robes.
 
-Kaelen didn't meet her head-on. He slid. He ducked. He danced.
+"Prelate Vane believes she is a chaotic element, Your Radiance," the figure said. "He believes she destabilizes the squad dynamics."
 
-He slashed at her back as she passed. Sparks flew.
+"Vane sees the world in binary," The Emperor scoffed. "He sees ones and zeros. He forgets the decimals. The decimals are where the nuance lies."
 
-"Stop it!" Angelica screamed.
+The Emperor leaned forward. His mechanical eye whirred, zooming in on Angelica's face. He saw the terror there. But he also saw the calculation. Her eyes were darting around, looking at the shuttle, looking at the platform, looking at the hologram.
 
-She looked around. She needed a lever. She needed a fulcrum.
+"She isn't just standing there," The Emperor murmured. "She's thinking. She's solving."
 
-She looked at the timer. **02:15**.
+He smiled. A rare, gruesome expression that cracked the dry skin of his lips.
 
-She looked at the shuttle.
-
-She ran.
-
-Not toward the fight. Toward the ship.
-
-"Angelica, get inside!" Kaelen yelled, parrying a massive stone fist. The impact drove him to his knees.
-
-"I am!" Angelica yelled back.
-
-She ran up the ramp. She dove into the cockpit.
+"Let them fight. Let us see if the chaos can break the order."
 
 ---
 
-**Scene 6.5: The Hack**
+**Department of Assets - Sub-Level 4**
 
-The cockpit was silent, efficient, and dead.
+Lord Cromwell did not have a crystal screen. He did not have a throne.
 
-It was white leather and brushed chrome. It smelled like a new car.
+He had a desk covered in paper.
 
-Angelica threw herself into the pilot's seat. It molded to her spine, soft and yielding—a stark contrast to the hard glass of the stairs.
+He sat in the dim light of a green-shaded lamp, his fountain pen scratching across the pages of the Black Ledger.
 
-She looked at the control panel.
+On a small, black-and-white monitor propped up against a stack of books, the feed from the Spire played out in grainy low-resolution.
 
-It was a standard Imperial interface—smooth, black glass with holographic overlays.
+Cromwell didn't watch the drama. He watched the data.
 
-"System," she commanded. "Manual override."
+He watched the biometric feeds scrolling on the side of the screen.
 
-"Voice authorization required," the computer purred. It had a female voice, polite and indifferent. "Please state your designation."
+_Subject: RIA. Heart rate: 180bpm. Cortisol: Critical. Adrenaline: Maximum. Status: Fight/Flight._
 
-"Candidate Ward. Squad Iron."
+_Subject: NIGHT. Heart rate: 60bpm. Cortisol: Nominal. Adrenaline: Controlled. Status: Executioner._
 
-"Access denied. Pre-flight protocols are locked by Gamemaker Authority. Please wait for passenger confirmation."
+_Subject: WARD. Heart rate: 140bpm. Cortisol: High. Brain activity: Abnormal spike in theta waves._
 
-"I don't have time to wait!" Angelica slammed her fist on the dash.
+Cromwell paused. He tapped the pen against his chin, staring at the grainy image of the girl standing between the two combatants.
 
-Outside, the ship shook. Ria had just slammed Kaelen into the hull.
+"Theta waves," he whispered. "Deep thought. Problem solving. In the middle of a Mexican standoff."
 
-Angelica took a deep breath.
+He reached for a stack of files on the corner of his desk. He pulled out a dusty folder marked _Project: ECHO - 20 years ago._
 
-"Okay," she whispered. "Technomancy. Rule one. If you can't pick the lock, kick down the door."
+He opened it. Inside was a faded photograph of a young man with similar eyes. A man who had burned down half the Citadel before they put him down.
 
-She reached under the dash. Her fingers found the maintenance panel. She popped the latch.
+"Resonance matches," Cromwell muttered. "The cognitive pattern is identical. Stress-inverse scaling. The more chaos, the more clarity."
 
-It fell open, revealing the guts of the machine.
+He looked back at the screen.
 
-Fiber-optics. Bio-gel relays. Crystal matrices.
+"You aren't going to fight them, are you, little Mechanic?" he murmured. "You know you can't win a physical confrontation. The math doesn't work. Force equals mass times acceleration, and you have neither."
 
-It was beautiful.
+He watched her eyes darting around. She wasn't looking at the sword. She wasn't looking at the fist. She was looking at the shuttle.
 
-"Hello, gorgeous," Angelica murmured. She pulled out her multi-tool.
+"So what are you going to do? Change the variables?"
 
-She didn't need to understand the encryption. She just needed to trick the sensors.
+He wrote in the ledger, his handwriting becoming jagged with haste.
 
-The system used 'Avian-Logic'—a Base-12 quaternary code based on flow states rather than binary on/off. To hack it, you didn't just need to change a zero to a one. You had to change the river's course.
+_Candidate Ward demonstrates non-linear tactical processing. While Subjects Night and Ria are locked in a binary conflict (Fight/Die), Subject Ward is attempting to access a third outcome._
 
-She found the weight sensor relay—a blue bundle of fibers connected to the landing gear. It was pulsing with a steady rhythm. _Thump-thump. Thump-thump._
+_Potential leverage point: Her attachment to the unit. She values the collective over the self. This is a weakness in the Arena. But in the Directorate?_
 
-"You think we're heavy?" she asked the wires. "Let's change your mind."
+He paused.
 
-She cut the blue wire.
+_In the Directorate, loyalty is a currency more valuable than gold._
 
-The pulse stopped.
+He looked at Kaelen Night's entry one more time.
 
-"Warning," the computer chirped. "Sensor failure. Defaulting to safety protocols. Engine lockout."
+_Candidate Night shows sociopathic compartmentalization. Willingness to terminate allies for mission success. High utility for black-ops. Low utility for leadership. He will burn the village to save the map._
 
-"No, no, no," Angelica hissed. "Don't lock out. Bypass."
+Cromwell sighed. He dipped his pen in the inkwell. The ink was black, thick, and smelled of iron.
 
-She grabbed a red wire—the power feed for the cabin lights—and stripped it. She twisted it around the cut end of the blue wire.
+"Vane is building a butcher shop," he said to the empty room. "He wants meat. He wants grinders. He wants noise."
 
-She jumped the power directly into the sensor input. But it was raw current. It was jagged.
+He looked back at Angelica Ward.
 
-"Signal mismatch," the computer stated. "Input rejected."
+"I don't need meat. I need a surgeon. I need someone who can cut out the cancer without killing the patient."
 
-Angelica grabbed her own glove. She pulled a tiny copper coil from the wrist mechanism—a stabilizer from her old rig. She inserted it between the red and blue wires.
+He marked a star next to Angelica's name. Then he circled it. Then he underlined it.
 
-The coil hummed. It smoothed the jagged current into a steady wave. A fake heartbeat.
+_File for enhanced monitoring. Designate: Project VELVET._
 
-"Recalibrating," the computer said, sounding confused. "Weight detected: -500 pounds."
+_Priority: Alpha._
 
-"Negative five hundred? Anti-gravity assist active," the computer decided. "Perfect. We're floating."
+_If she survives the next three minutes... active recruitment protocols. Bypass the Wardens. Bypass Vane._
 
-Now, the passenger count.
+He checked his pocket watch. The gold casing was dented, a souvenir from a war no one remembered.
 
-She found the life-support regulator. It was a green crystal matrix pulsing with light. It measured the CO2 output to determine how many people were breathing.
+**02:15**
 
-Two breathers allowed. Three breathers meant shutdown.
-
-Angelica looked at the matrix. It was a complex lattice of light. If she cut it, the ship would vent the atmosphere to space.
-
-"Think," she whispered. "Think like Aris."
-
-Life support measured distinct biological signatures. It looked for _intervals_.
-
-She reached into her pocket. She pulled out the chronometer Kaelen had given her. It was ticking. A simple, rhythmic pulse. _Tick. Tick. Tick._
-
-She jammed the chronometer _into_ the bio-gel of the regulator.
-
-The gel hissed. The ticking slowed. The mechanical rhythm interfered with the biological scan. It created a harmonious interference pattern.
-
-"System scan," she commanded.
-
-"Scanning..." the computer paused. "Two biological signatures detected. And... one anomaly. Classifying anomaly as... background noise."
-
-"Yes!" Angelica shouted.
-
-She looked out the viewport.
-
-Vane was watching. The fighting had stopped.
-
-Kaelen was on the ground. Ria was standing over him, a fist raised.
-
-"Time to go," Angelica whispered.
-
-She grabbed the microphone.
-
-"HEY!"
+"Tick tock, children," Cromwell whispered. "The bus is leaving. Make your choice. Show me what you are."
 
 ---
 
-**Scene 7: The Escape**
+**The Summit**
 
-Angelica's voice boomed over the external speakers.
+"Kaelen, stop!" Angelica shouted.
 
-Ria and Kaelen froze.
+Kaelen lunged.
 
-Angelica stood at the top of the ramp, holding the sparking wires like a weapon.
+It wasn't a feint. It was a killing stroke. He moved like smoke, closing the distance in a heartbeat. The mono-blade hummed, a blur of silver light aiming for the joint in Ria's neck armor—the only weak spot.
 
-"Stop fighting," she said calmLy. "Or I blow the ship."
+Ria roared and swung her massive fist. It was a haymaker, a blow that would have taken Kaelen's head off if it connected.
 
-Vane's hologram leaned in. "Candidate Ward. Destruction of Imperial Property is a disqualifying offense."
+It didn't.
 
-"Disqualify this," Angelica spat. "I know how this engine works. It's a Gravitic-Drive. If I cross the polarity on the containment field... _boom_. Antimatter event. No shuttle. No platform. No Spire."
+Kaelen ducked under the swing. He slid across the smooth obsidian, pivoting on his heel. He came up behind her.
 
-She held the wires closer together. A spark jumped.
+"Goodbye, Titan," he whispered.
 
-"Angel," Ria lowered her fist. "You're bluffing."
+He raised the sword.
 
-"Try me," Angelica said. Her eyes were wild. "I'm the Mechanic. I fix things. And this... this is broken. The only way to fix a rigged game is to break the board."
+Angelica didn't think. She didn't calculate. She just moved.
 
-Startled silence.
+She threw herself at Kaelen.
 
-"You have 45 seconds," Kaelen noted. "Suicide is inefficient."
+She hit him from the side, a hundred pounds of desperate momentum slamming into his ribs. It wasn't enough to hurt him, but it was enough to knock him off balance.
 
-"Efficiency is boring," Angelica quoted Cromwell, though she didn't know it. "Three seats. We all go. Or nobody goes."
+The sword slashed down, missing Ria's neck by an inch. It sparked against her shoulder plate, carving a deep gash in the steel.
 
-She looked at Vane.
+Kaelen stumbled back. He spun around, his eyes blazing with cold fury.
 
-"Your move, Headmaster. You want a winner? Or do you want a crater?"
+"Ward!" he snapped. "Get out of the way!"
 
-Vane stared at her. For a moment, the fatherly mask slipped. He looked annoyed. Impressed, but annoyed.
+"No!" Angelica scrambled to her feet, putting herself between them again. "I won't let you!"
 
-"The shuttle cannot lift three," Vane said. "Physics, Miss Ward. Mass limits."
+"You can't save her!" Kaelen yelled. "Do the math! One dies, or three die! It's logic!"
 
-"Ria," Angelica said. "Strip."
+"Screw your logic!" Angelica screamed. "It's wrong! The variables are wrong!"
 
-"What?" Ria blinked.
+She pointed at the shuttle.
 
-"The armor," Angelica yelled. "It weighs 200 pounds! Drop it!"
+"Look at it! Look at the thrusters! Look at the displacement volume!"
 
-Ria didn't hesitate. She disengaged the seals. The heavy plating clamored to the floor. The servos. The power pack. She stood there in her undersuit, shivering, lighter.
+Kaelen blinked. "What?"
 
-"Kaelen," Angelica pointed. "The weapons. All of them."
+"It's a Class-B Courier!" Angelica shouted, her mind racing, connecting dots that only she could see. "I fixed one of these in Sector 12! The life support isn't limited by oxygen generation! It's limited by CO2 scrubbing capacity!"
 
-Kaelen hesitated. Then he sheathed his sword. He unbuckled his belt. He dropped his daggers.
+She ran toward the shuttle.
 
-"Weight reduction," he calculated. "Variable adjusted."
+"Angelica, wait!" Ria yelled. "The timer!"
 
-"Get in," Angelica commanded. "Now!"
+**01:00**
 
-**00:15**
+Angelica reached the shuttle. She didn't climb into the seat. She scrambled onto the fuselage. She ripped open an access panel near the engine intake.
 
-They ran.
+"What are you doing?" Vane's hologram boomed. "Get away from the vehicle!"
 
-Ria grabbed Kaelen by the collar and threw him up the ramp. She jumped in after him.
+Angelica ignored him. She reached into her belt and pulled out her multi-tool.
 
-Angelica jammed the wires back into the console.
+"The scrubbers!" she yelled back at Kaelen. "They're rated for standard atmospheric density! But we're at high altitude! The air is thinner! The scrubbers don't have to work as hard!"
 
-"Fly!" she screamed at the autopilot.
+She jammed her screwdriver into the mechanism. Sparks flew.
 
-The ramp hissed shut.
+"If I bypass the safety interlocks... if I override the occupancy sensor..."
 
-The engines whined—a high, strained scream.
+She twisted the tool. Something crunched.
 
-"Weight warning," the computer chirped. "Capacity exceeded."
+"Ward, step away!" Vane commanded. "This is unauthorized interference!"
 
-"Override!" Angelica punched the button.
+"Sue me!" Angelica grunted.
 
-The ship lurched. It hovered. It shook.
+She yanked a wire bundle free. She stripped the ends with her teeth and twisted them together.
 
-**00:03**
+_Spark. Fizz._
 
-**00:02**
+The display on the shuttle dashboard flickered.
 
-**00:01**
+_Occupancy Limit: 2_
 
-The platform around them turned white. The plasma purge sequence initiated.
+It blinked.
 
-The shuttle dropped.
+_Occupancy Limit: ERROR_
 
-It didn't fly up. It fell off the side of the Spire.
+It blinked again.
 
-"We're crashing!" Ria screamed.
+_Occupancy Limit: UNRESTRICTED_
 
-"We're falling with style!" Angelica yelled, wrestling the yoke.
+"Get in!" Angelica screamed, turning to her squad. "Get in now!"
 
-The engines caught. The anti-grav kicked in.
+Kaelen stared at her. His sword was still drawn. He looked at the shuttle. He looked at the timer.
 
-The shuttle swooped up, skimming the clouds, just as the summit of the Spire erupted in a pillar of blinding white fire.
+**00:30**
 
-They watched it burn on the rear monitor.
+He looked at Angelica, standing on the wing of the ship, sparks raining down around her, defying the Headmaster of the Academy with a screwdriver.
 
-Silence in the cockpit.
+A slow smile spread across his face. He sheathed his sword.
 
-Ria looked at Kaelen. Kaelen looked at his bruised ribs.
+"Logic," he said. "Updated."
 
-"You tried to kill me," Ria said.
+He grabbed Ria's arm. "Move, Hammer."
 
-"I attempted to secure a victory condition," Kaelen corrected. He touched his side and winced. "You broke three ribs."
+Ria didn't argue. She lumbered forward, powered by fear and hope.
 
-"Good," Ria said.
+They scrambled into the cockpit. Ria squeezed her massive frame into one seat. Kaelen took the other.
 
-Then she started laughing. It was a hysterical, sobbing laugh.
+"Where do you sit?" Ria yelled.
 
-"We beat the house," she choked out. "We beat the damn house."
+"Lap belt!" Angelica shouted, jumping down into the cockpit. She didn't take a seat. She sat on the center console, jamming herself between their shoulders. "Squeeze in!"
 
-Angelica slumped in the pilot's seat. She let go of the yoke. The autopilot stabilized their course toward the Imperial Palace.
+"This is not safety regulation!" Kaelen said, but he was buckling his harness.
 
-She looked at her hands. They were shaking.
+"Fly!" Angelica hit the launch button.
 
-She had threatened to blow up a spaceship. She had threatened the Headmaster.
+The canopy hissed shut.
 
-She smiled.
+**00:10**
 
-"Iron," she whispered.
+The thrusters fired. A massive kick of G-force slammed them back.
 
----
+The sleek silver ship shot upward, screaming away from the platform.
 
-**Scene 7.5: The Landing**
+Below them, the obsidian disk began to glow white-hot.
 
-The shuttle touched down on the private landing pad of the Imperial Palace. It was a soft landing, the anti-grav engines humming a gentle lullaby.
+**00:00**
 
-The ramp lowered.
+_FWOOM._
 
-The air here was different. It didn't smell of smog or rust or ozone. It smelled of jasmine and ozone-scrubbed sterility. It was the scent of money. The scent of power that had been laundered clean.
+A pillar of plasma erupted from the summit, vaporizing the air where they had been standing a second ago.
 
-Squad Iron stumbled out.
+They watched it on the rear monitor. A beautiful, deadly flower of fire.
 
-They were a stark contrast to the white marble and gold leaf of the landing pad. They were dirty, bloody, and bruised. Ria was in her undersuit, her grey skin exposed and vulnerable. Kaelen was weaponless, his combat cloak torn to ribbons. Angelica was covered in grease and soot, her hands stained with the blood of the machine she had just butchered.
+"We made it," Ria breathed. "We made it."
 
-A line of Imperial Guards stood at attention. They wore ceremonial gold armor that looked like it had never seen a fight. Their plumes were pristine white ostrich feathers. They looked at the squad like they were looking at something the cat dragged in.
+Angelica slumped back against Kaelen's shoulder. She was shaking.
 
-Behind them, a man stepped forward.
+"I broke the rules," she whispered.
 
-He wasn't Vane. He was older, perhaps sixty, but built like a fortress. His uniform was simple grey wool, unadorned except for a single iron rank pip on the collar. His face was a map of scars, a history of violence written in skin, and one eye was a glowing red optic that whirred softly as it focused.
+Kaelen looked at her. He reached out and verified the seal on the door.
 
-General Ironwood. The Fist of the Emperor.
+"You changed the equation," he said.
 
-He looked at the three of them. He looked at the battered shuttle, steam still hissing from its overheated engines. He looked at the burning Spire in the distance, a pillar of fire against the darkening sky.
+He looked at the monitor, where Vane's hologram was fading into the distance.
 
-"Squad Iron," he rumbled. His voice was deep, resonant, like grinding stones deep underground.
+"And I think," Kaelen added softly, "you just made a very powerful enemy."
 
-Kaelen straightened. It was a reflex. He snapped a salute, despite his broken ribs, his posture perfect. "Sir. Reporting for duty."
+Angelica closed her eyes.
 
-Ironwood walked down the line. He didn't return the salute. He stopped in front of Angelica. He looked at her hands, still clutching the multi-tool.
+"Worth it," she said.
 
-"You bypassed a Class-A encryption in under two minutes," Ironwood said. It wasn't a question. "And you jumpered a gravitic drive with... copper wire?"
+The shuttle banked, soaring toward the glittering lights of the Zenith.
 
-"It was a rush job, sir," Angelica said, her voice trembling slightly. She tried to hide the tool behind her back. "I can do better."
+They had ascended.
 
-Ironwood didn't smile. But his human eye narrowed, and for a second, there was a flicker of something that wasn't contempt. Respect? Amusement?
+Book 1 was over. But the war had just begun.
 
-"I'm sure you can," he said.
-
-He turned to the guards, dismissing their disgust with a wave of his hand.
-
-"Get them to the infirmary. Then get them fed. Real food. Protein. Greens. They look like they haven't eaten in a month."
-
-"Forty days, sir," Ria corrected, swaying slightly on her feet.
-
-Ironwood looked at her. He looked at the grey skin of the Titan-user, the mark of the Deep Earth magic.
-
-"Welcome to the Legion, candidate," he said softly. "Get some sleep. You'll need it."
-
-He turned and walked away, his boots echoing on the marble.
-
-As they were led toward the palace doors—massive, golden doors that promised warmth and safety—Angelica looked back one last time.
-
-High above the clouds, a silver bird was circling the burning Spire. It flashed once in the sunlight, a spark of defiance against the dying day, then vanished into the upper atmosphere.
-
-_Aeon._
-
-Angelica smiled. Her first real smile in forty days.
-
-_See you soon, partner._
-
----
-
-**Scene 8: The Observer**
-
-_Aeon watched the white bird fly away._
-
-_He sat on the railing of the burning platform. The plasma fire roared around him, but he was Phase-Shifted. The heat didn't touch him._
-
-_He recorded the data._
-
-_Probability of Survival: 0.004%._
-_Outcome: Success._
-
-_The Creator (Angelica) had introduced a new variable. "Martyrdom." She had gambled infinity against zero._
-
-_It was illogical. It was inefficient. It was beautiful._
-
-_Aeon spread his wings. He didn't follow the shuttle. The shuttle was going to the Palace. That was a cage._
-
-_He looked down at the city. At the Undercity._
-
-_There was work to be done. The Creator had fixed the immediate problem. But the Machine was still broken._
-
-_Aeon dove._
-
-_He fell into the smog, a silver spark in the darkness._
-
-_The Selection was over._
-_The War had just begun._
+# End of Chapter 22

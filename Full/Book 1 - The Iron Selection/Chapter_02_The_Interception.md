@@ -1,16 +1,26 @@
 # Chapter 2: The Interception
 
-Angelica's hood snapped violently in the artificial draft as she ducked into the lee of a rusted ventilation housing. She wiped a smudge of oily film from her modified welder's lenses, the sharp, high-contrast green of the HUD flickering as it struggled to lock onto the Hab-Block’s thermal signature through the industrial haze.
+Angelica's hood snapped violently in the artificial draft as she ducked into the lee of a rusted ventilation housing. The journey back from the Sector 1 pharmacy had taken three hours—three hours of crawling through maintenance tunnels slick with condensation, of avoiding the sweep patterns of security drones, of clenching her jaw against the pain radiating from her bruised ribs where she'd slammed into a pipe junction during her escape. Every breath tasted of copper and regret.
 
-"Clear," Sparky chirped, the drone’s voice modulator a thin whisper against the background roar of the sector's exhaust fans.
+She wiped a smudge of oily film from her modified welder's lenses, the sharp, high-contrast green of the HUD flickering as it struggled to lock onto the Hab-Block's thermal signature through the industrial haze. Her hands were shaking. Not from fear—she'd burned through that particular emotion hours ago—but from exhaustion. Her muscles were screaming, her fingers numb from gripping rusted ladders. She'd pushed herself past the point where her body politely suggested rest and into the territory where it was actively threatening mutiny.
 
-"Stay close," she murmured, her own voice tight.
+But she had the medicine. The real medicine. The kind that came in sterile packaging with holographic authenticity seals. The kind that worked.
 
-She reached for the maintenance ladder of the Hab-Block—a decaying monolith that seemed to weep condensation from every cracked pipe. The cold iron bit into her palms as she began the climb, the 40th floor feeling a thousand miles away. Every vertical inch was a battle against the wet weight of the Silt’s air and the rhythmic, grinding vibration of the city's foundations.
+"Clear," Sparky chirped, the drone's voice modulator a thin whisper against the background roar of the sector's exhaust fans. The little medical drone had been monitoring her vitals for the past hour, occasionally chirping warnings about her elevated heart rate and declining blood sugar. She'd told it to shut up twice.
 
-Her muscles burned, but the adrenaline of the pharmacy raid was a steady hum in her blood. She reached the blast door of Unit 404, her fingers trembling as she punched in the changing lock code. The door hissed open, and the silence of the room was immediately drowned out by the sound she feared most.
+"Stay close," she murmured, her own voice tight. Her throat was raw from breathing the Silt's toxic air without her filter—she'd ditched it two sectors back when a patrol had gotten too close.
 
-Leo’s breathing.
+She reached for the maintenance ladder of the Hab-Block—a decaying monolith that seemed to weep condensation from every cracked pipe. The structure groaned in the wind, the metal skeleton creaking like the bones of a dying giant. Forty floors. She'd climbed it a thousand times. It never got easier.
+
+The cold iron bit into her palms as she began the climb, the 40th floor feeling a thousand miles away. Her satchel, heavy with stolen pharmaceuticals, bumped against her hip with every rung. Each vial inside represented a small fortune on the black market. Each one represented another day Leo could breathe. She could feel their weight like a promise—or a debt.
+
+Every vertical inch was a battle against the wet weight of the Silt's air and the rhythmic, grinding vibration of the city's foundations. The mega-structure was never quiet. Even at this hour—0300 by her cracked wrist-comp—the city breathed, churned, processed. Somewhere far below, the great recyclers were grinding yesterday's trash into tomorrow's building materials. The River flowed eternal.
+
+Her muscles burned, but the adrenaline of the pharmacy heist was still a steady hum in her blood, keeping the exhaustion at bay. _Just get home. Just get to Leo. Just—_
+
+She reached the blast door of Unit 404, her fingers trembling as she punched in the changing lock code—a new sequence every day, paranoia baked into routine. The door hissed open with a pneumatic sigh, and the relative silence of the room was immediately drowned out by the sound she feared most.
+
+Leo's breathing.
 
 It was a wet, desperate rasp—the sound of gears grinding without oil. Angelica dropped her bag, the vials of medication rattling as she rushed to the mattress in the corner.
 
@@ -34,23 +44,31 @@ She pressed the device to his neck. _Hiss._
 
 Ten minutes.
 
-Leo's breathing hitched. He gasped, arching his back, fighting for air that wouldn't come.
+Leo's breathing hitched. He gasped, a horrible, wet sound that clawed at something primal in Angelica's chest. His small body arched off the mattress, back bowing, hands scrabbling at his throat as if he could physically tear the obstruction away. He was fighting for air that wouldn't come, drowning in his own inflamed tissue.
 
 "No," Angelica whispered. "No, no, no. Work. Damn you, work."
 
-She activated her ocular implant, switching to diagnostic mode. She focused on Leo's chest. The overlay flickered to life, showing a thermal map of his lungs.
+She activated her ocular implant, switching to diagnostic mode with a blink-sequence she'd practiced a thousand times. She focused on Leo's chest. The overlay flickered to life, a heads-up display of his vital signs projecting directly onto her retina. The thermal map of his lungs bloomed into view—a false-color nightmare of reds and angry oranges.
 
-They weren't clearing. The blue zones—oxygen intake—were shrinking. The red zones—inflammation and particulate blockage—were spreading like a wildfire. The Silt wasn't just in his lungs; it was _bonding_ to them. The cheap stuff, even the mid-tier pharmacy stuff, couldn't dissolve it. It was like trying to clean oil with water.
+They weren't clearing. The blue zones—areas of healthy oxygen exchange—were shrinking with each labored breath, retreating like islands in a rising tide. The red zones—inflammation and particulate blockage—were spreading like a wildfire through dry brush, consuming the healthy tissue. The Silt wasn't just coating his lungs; it was _bonding_ to them at a molecular level, the microscopic metal fragments and toxic compounds creating a crystalline matrix that grew with every breath. The cheap pharmaceuticals, even the mid-tier stuff from the Sector 1 pharmacy, couldn't dissolve it. The beta-agonists were trying to force open airways that were being actively sealed shut. It was like trying to bail out a sinking ship with a teaspoon. It was like trying to clean oil with water.
 
-"It's not working," Leo wheezed, clutching her hand. His grip was weak. Terrifyingly weak. "Angie... it's heavy."
+The numbers scrolling across her vision were damning. Oxygen saturation: 82%. Blood pressure: 140/95. Heart rate: 135 and climbing. His body was trying to compensate, pushing harder, burning itself out in a futile attempt to survive.
 
-"Shh," she smoothed his hair back. It was damp with sweat. "I know. It's just... it takes time."
+"It's not working," Leo wheezed, his small hand clutching hers with a grip that was weak—terrifyingly weak compared to even yesterday. "Angie... it's heavy. My chest... it's so heavy."
 
-"It's not working," he repeated, tears leaking from his eyes. "I can feel it. It's like... concrete."
+His voice was barely a whisper, each word costing him precious breath.
 
-Angelica stood up. She walked to the other side of the room, away from him, so he wouldn't see her face. She leaned against the cold metal wall, pressing her forehead against it.
+"Shh," she smoothed his hair back from his forehead. It was damp with sweat, plastered to his skull. His skin was fever-hot beneath her palm, burning with the immune system's futile war against an enemy it couldn't comprehend. "I know, sweetie. I know. It's just... it takes time. The medicine needs time to work."
 
-Panic, cold and sharp, drove a spike into her chest. She had risked everything. She had raided a Guild-protected pharmacy. She had almost been stunned. And for what? For pills that were barely sugar to a disease this aggressive?
+She was lying. She knew she was lying. The implant's readout was clear: no improvement. Decline accelerating.
+
+"It's not working," he repeated, tears leaking from the corners of his eyes, cutting tracks through the grime on his pale cheeks. "I can feel it. Inside. It's like... like concrete. Like someone poured concrete in my chest and it's getting harder."
+
+Angelica stood up abruptly. She walked to the other side of the room, away from him, moving on autopilot. She needed distance. If she stayed there, kneeling beside him, watching him drown, she would break. And if she broke, who would save him?
+
+She leaned against the cold metal wall, pressing her forehead against it, feeling the chill seep into her skull. Her hands were clenched into fists so tight her nails dug into her palms, the pain a small, sharp anchor in a sea of panic.
+
+Panic, cold and sharp as a blade between the ribs, drove itself into her chest. She had risked everything. She had bypassed Guild security protocols designed by minds far sharper than hers. She had raided a protected pharmacy, nearly been caught by automated defenses. She had burned favors and luck and nearly her own life. And for what? For pills that were barely compressed sugar to a disease this aggressive. For medicine that was failing in real-time, powerless against the Silt's slow, patient murder.
 
 "Sparky," she hissed. "Analysis."
 
@@ -60,19 +78,33 @@ The drone floated over, hovering by her shoulder. "Subject: Leo Ward. Condition:
 
 "Medical recommendation: Hospice care. Palliative sedation."
 
-"Don't give me the Zenith handbook answer!" Angelica snapped, keeping her voice low. "Give me a solution."
+"Don't give me the Zenith handbook answer!" Angelica snapped, keeping her voice low so Leo wouldn't hear the desperation bleeding through. "Give me a real solution. Something I can do. Something I can steal, build, or beg for."
 
-The drone whirred, processing. "Theoretical solution: Class A Steroidal Solvents with Nanite Suspension. Only available in Sector 1 Medical Hubs or military stockpiles. Probability of acquisition: 0.04%."
+The drone whirred, its processors cycling through medical databases, cross-referencing symptoms with treatments, probability matrices flickering through its logic cores. "Theoretical solution: Class A Steroidal Solvents with Nanite Suspension. Molecular-grade lung scrubbers. Regenerative tissue scaffolding. Combined treatment regimen shows 73% survival rate in Stage 4 Particulate Fibrosis cases."
 
-Sector 1. The Zenith.
+"Where?" Angelica demanded.
 
-Angelica closed her eyes. It was a suicide mission. The Zenith wasn't just another sector; it was a fortress. It was where the wealthy lived, high above the clouds, breathing scrubbed air and drinking filtered water. The security there wasn't just guards with stun batons; it was AI-driven grids, thermal tracking, and Wardens.
+"Only available in Sector 1 Medical Hubs or military stockpiles. Probability of successful acquisition given current resources and security parameters: 0.04%."
 
-But she looked back at Leo. He had closed his eyes again. His chest hitched with every breath. He was drowning on dry land.
+There it was. The number. The wall.
 
-"0.04%," she murmured. "Better than zero."
+Sector 1. The Zenith. The pinnacle of the city, where the towers pierced the smog layer and touched clean sky.
 
-She turned back to the room. She grabbed her satchel and dumped the useless _Respi-Clear_ on the floor. She began to pack the real gear. Her climbing harness. Her hyper-spanner. Her datapad. And the glove—the Haptic Glove she had spent months building from scrap.
+Angelica closed her eyes, her mind already war-gaming the approach. It was a suicide mission. The Zenith wasn't just another sector—it was a different world. It was where the wealthy lived, kilometers above the Silt, breathing scrubbed air pumped through HEPA filters and drinking water so pure it had been distilled from clouds. The security there wasn't just guards with stun batons and bad attitudes; it was layered defense systems designed by military AI, thermal tracking grids that could spot a rat at two hundred meters, biometric scanners at every junction, and Wardens—the elite enforcers who served the Prelates directly. They were augmented, ruthless, and trained to kill.
+
+Breaking into Sector 1 wasn't a heist. It was a declaration of war against the most powerful people in the city.
+
+She had no plan. No allies. No leverage. Just desperation and a half-broken piece of scavenged tech strapped to her forearm.
+
+But she looked back at Leo. He had closed his eyes again, his small body utterly still except for the hitching rise and fall of his chest. Each breath was a labor, a battle he was slowly losing. He was drowning on dry land, suffocating in millimeters, dying by degrees.
+
+She thought about the numbers Sparky had quoted. Stage 4. Thirty percent lung capacity. Days, maybe a week at most. And then...
+
+No.
+
+"0.04%," she murmured, letting the number settle in her mind. Four chances in ten thousand. Impossible odds. But impossible wasn't zero. Four in ten thousand meant someone, somewhere, had beaten those odds. Someone had threaded that needle. "Better than zero."
+
+She turned back to the room, her movements sharp and decisive now that the decision was made. She grabbed her satchel and upended it violently, dumping the useless _Respi-Clear_ pills onto the floor. They scattered like pale blue confetti, worthless. She began to pack the real gear, the tools of her trade. Her climbing harness—woven from scavenged optical cable. Her hyper-spanner—a sonic multi-tool she'd built from three broken models. Her datapad—cracked screen held together with electrical tape, but the processor was solid. And the glove—the Haptic Glove she had spent months building from scrap, the device that let her speak to machines in their own language.
 
 "Angie?" Leo's voice was barely a whisper. "Where are you going?"
 
@@ -358,21 +390,29 @@ Standing on the catwalk, framed by the stark white light of the corridor beyond,
 
 He was tall, impossibly tall, his silhouette elongated by the flowing, pristine white robes of the High Ministry. The fabric didn't hang; it draped, moving with a fluid grace that suggested it was woven from spider silk and smoke. A high collar framed a face that was severe, gaunt, and terrifyingly serene.
 
-It was a face she knew. Every child in the Undercity knew it. It was the face that looked down from the holo-zincs on the Day of Atonement. The Minister of Charity. The Glutton.
+It was a face she knew. Every child in the Undercity knew it. It was the face that looked down from the massive holo-projections on the Day of Atonement, when the Prelates delivered their annual sermon about duty and sacrifice and the necessity of the gears turning. The Minister of Charity and Distribution. The administrator of the food credits. The man who decided who ate and who starved.
+
+The Glutton.
 
 Prelate Vane.
 
-He wasn't looking at the vent. He was looking _through_ it. He was looking directly at her.
+He wasn't looking at the vent. He was looking _through_ it. Through the darkness, through the smoke, through the metal grating. He was looking directly at her, pinning her in place with a gaze that felt like it could peel back her skull and read the thoughts underneath.
 
-His eyes were not human. Where there should have been white and iris, there was only a solid, glowing blue light. Multi-Spectral Oculars. Top-tier military grade replacement eyes.
+His eyes were not human. Where there should have been sclera and iris and the wet, vulnerable biology of sight, there was only solid glowing blue light—two perfect circles of luminescence set in his gaunt face like gems in a skull. Multi-Spectral Oculars. Military-grade cybernetic replacements that could see in infrared, ultraviolet, and electromagnetic spectrums. Eyes that could watch her heartbeat through her chest wall, count the beads of sweat on her forehead, read the micro-expressions of fear she couldn't completely suppress.
 
-He was alone. No guards. No drones. Just him.
+He tilted his head slightly, studying her the way a collector might study a particularly interesting insect before pinning it to the board.
+
+He was alone. No guards flanking him in formation. No drones circling in protective patterns. No Wardens in tactical gear. Just him, standing on the catwalk in his flowing white robes, utterly unafraid. That confidence was more terrifying than an army. It meant he didn't need backup. It meant he was the weapon.
 
 "You missed a semi-colon on line 400," Vane said.
 
-His voice was like the room—smooth, expensive, and utterly cold.
+His voice was like the room—smooth, expensive, carefully modulated. But there was something underneath the cultured tones, something that suggested a furnace carefully banked. Utterly cold on the surface. Infinitely hot beneath.
 
-"Sloppy syntax for a virtuoso," he continued, stepping closer to the railing.
+"In your bypass script," he clarified, as if they were colleagues discussing a code review over tea. "The Watchdog algorithm. Your spoofing routine was elegant—genuinely impressive for someone with no formal training—but you left a syntax error on line 400. Sloppy."
+
+He smiled. It didn't reach his glowing eyes.
+
+"Sloppy syntax for a virtuoso," he continued, stepping closer to the railing with movements that were too fluid, too precise. Enhanced musculature. Augmented reflexes. He wasn't just watching her through inhuman eyes; he was moving with inhuman grace.
 
 Angelica didn't wait for him to finish.
 

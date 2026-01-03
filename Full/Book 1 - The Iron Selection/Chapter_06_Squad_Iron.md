@@ -98,7 +98,11 @@ Located near the geothermal vents of the station's power core, down near the str
 
 There were no windows. No view of the sky they had fought so hard to reach. Just harsh, flickering strip lighting that buzzed like an angry insect trapped in a jar.
 
-Twelve metal bunk beds were bolted to the floor in two rows. They were stripped bare of comfort—frames of cold steel with mattresses that looked more like yoga mats than bedding.
+Twelve metal bunk beds were bolted to the floor in two rows, facing each other across a narrow aisle that felt more like a kill-zone than a walkway. They were stripped bare of comfort—frames of cold steel with mattresses that looked more like yoga mats than bedding, thin enough that you could feel every weld seam in the frame beneath.
+
+The room was designed for efficiency, not humanity. Every surface was hard angles and exposed metal. The walls were unpainted concrete, pockmarked with impact craters from previous occupants' frustrations. Water stains spread across the ceiling like dark continents on a decaying map, evidence of pipes that leaked somewhere in the infrastructure above. The floor was uneven, sloping slightly toward a drain in the center—a drain that reeked of chemicals and something organic that had died months ago and never quite decomposed.
+
+There was a single window. It wasn't really a window—it was a narrow slit of reinforced poly-glass, eight inches wide and three feet tall, set high on the wall near the ceiling. Through it, you could see a slice of grey sky and the bottom edge of a ventilation tower. No stars. No nebula. Just industrial architecture and smog. It was a window designed to mock them with what they couldn't have.
 
 "Home sweet home," Jax grunted, throwing his kit bag onto a bottom bunk near the heater vent. "I claim this one. Anyone has a problem with that, speak up."
 
@@ -273,9 +277,23 @@ She stood over Ria for a moment. She watched the rise and fall of her chest.
 
 _You wanted rent,_ she thought. _I'm paying in electricity._
 
-She went back to her own bunk. She climbed up and lay down.
+She went back to her own bunk. Her heart was hammering now, the adrenaline finally catching up with her. Her hands were shaking slightly—not from fear, but from the intensity of focus required to work silently in the dark with lives hanging in the balance.
 
-_Sleep,_ she ordered herself. _Recharge. Tomorrow is a combat day._
+She had just weaponized a light fixture. She had turned a piece of safety equipment into a trap designed to electrocute a human being. The realization settled over her like a cold blanket.
+
+_This is who I am now,_ she thought, staring at her hands in the dim red light. _Not the girl who fixed broken drones. Not the girl who built water filters for sick children. I'm the girl who rigs traps._
+
+She waited for guilt to arrive. For regret. For the soft, human emotions that should accompany crossing that line.
+
+They didn't come.
+
+Instead, there was only cold satisfaction. The equation had been balanced. Ria had stolen. Angelica had punished. Justice, delivered through applied physics.
+
+She climbed up to her bunk and lay down, tucking her arms behind her head. She stared at the rust stains on the ceiling, mapping their patterns like constellations. Her mind was clear. Calm. The panic and fear that had gripped her earlier—when she'd watched Ria destroy her boots—had been transformed into something else. Something harder.
+
+_Variable processed: Theft. Response executed: Asymmetric retaliation. Outcome pending._
+
+_Sleep,_ she ordered herself. _Recharge. Tomorrow is a combat day. And every day after that._
 
 ---
 
@@ -351,11 +369,25 @@ She leaned closer, her face inches from Ria's.
 
 "Do not step on me again."
 
-She turned and walked toward the door. The other cadets parted for her like the Red Sea. Jax stepped back, sheathing his knife. The Vampire looked at her with something new in his eyes. Fear? Respect?
+She turned and walked toward the door, leaving Squad Iron staring at her back. But as she reached the threshold, she paused. She turned, just slightly, enough to catch their eyes one more time.
 
-Angelica didn't care. She had her boots. She had her space.
+The room had changed. The hierarchy had inverted in a single electric moment. Jax, the alpha male, was standing against the wall, his knife still half-drawn but forgotten. The Vampire was pressed into the corner, his yellow eyes wide with a new kind of respect. The others—whose names she hadn't bothered to learn yet—were frozen, watching her like she was a bomb that might go off.
 
-She turned and walked toward the door, leaving Squad Iron staring at her back.
+And Ria. Ria was on the floor, still twitching, her massive frame reduced to a convulsing mass of misfiring nerves. The giant had fallen. The predator had become prey.
+
+Angelica didn't smile. Smiling would imply emotion. This wasn't personal. This was mathematics.
+
+_Variable X: Established dominance through asymmetric response._  
+_Variable Y: Demonstrated technical capability._  
+_Variable Z: Redefined threat perception._
+
+_Outcome: Survival probability increased from 12% to... calculating..._
+
+She let her eyes sweep the room one more time, meeting each gaze, logging each micro-expression. Fear. Uncertainty. Calculation. Good. They were learning.
+
+"Training starts in twenty minutes," she said, her voice carrying the weight of someone who had just rewritten the rules. "I suggest you all find boots that fit."
+
+She walked out into the corridor, the door hissing shut behind her with a pneumatic sigh.
 
 ---
 

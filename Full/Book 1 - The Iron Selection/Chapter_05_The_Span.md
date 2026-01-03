@@ -143,15 +143,23 @@ _Survival Probability: 0.00000%_
 
 She looked down.
 
-The clouds were rushing up to meet her. They looked soft, like a bed of grey feathers. But she knew the truth. They were just water vapor. Below them was the city. The spires. The hard, unforgiving concrete of the Silt.
+The clouds were rushing up to meet her. They looked soft, like a bed of grey feathers, like the stuffed pillow she'd once scavenged for Leo when he couldn't sleep through the night coughing. But she knew the truth. They were just water vapor, particles suspended in a lie of safety. Below them was the city. The spires. The hard, unforgiving concrete of the Silt that had birthed her and would now claim her.
 
-_So this is it,_ she thought, a strange, crystalline calm washing over her. The fear was gone, replaced by a cold acceptance. _I calculated the odds. I knew the variables. I accounted for the wind, the ice, the fatigue. I just didn't account for the human element._
+_So this is it,_ she thought, a strange, crystalline calm washing over her like cold water. The fear was gone, consumed by acceptance and a weird sense of mathematical closure. _I calculated the odds. I knew the variables. I accounted for the wind vectors, the coefficient of friction on wet glass, the temperature-induced brittleness of my boot treads. I mapped every physical force. I just didn't account for the human element._
 
-_Variable X: Betrayal._
+_Variable X: Betrayal. Assigned probability at intake: 15%. Actual occurrence: 100%._
 
-She closed her eyes. She imagined leo. She hoped the medicine had worked. She hoped he would be okay.
+_Error margin: Catastrophic._
 
-_I'm sorry, Leo. I did the math wrong._
+She should have known. In the Silt, you learned early: people were the most dangerous variable. Physics was predictable. Gravity didn't lie. But humans? Humans were chaos wrapped in flesh.
+
+The wind screamed past her ears, tearing at her clothes, ripping the breath from her lungs. Her hair whipped across her face. She tasted blood from where she'd bitten her tongue.
+
+She thought about calculations she'd never finish. The improved filter design for Leo's humidifier. The schematic for a more efficient power siphon that could tap into the main grid without triggering the safety breakers. All those half-formed ideas, all that potential energy, about to convert into kinetic impact and heat dissipation across concrete.
+
+She closed her eyes. She imagined Leo. She hoped the medicine had worked. She hoped he would be okay. She hoped Vane would keep his word about the window, about the view of the nebula. Leo had always wanted to see the stars.
+
+_I'm sorry, Leo. I did the math wrong. I optimized for the wrong function. I should have optimized for the human variable._
 
 She waited for the end.
 
