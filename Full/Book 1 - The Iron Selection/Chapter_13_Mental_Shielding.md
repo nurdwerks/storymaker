@@ -573,6 +573,14 @@ She didn't turn on the lights. She stripped off her "neutral attire"—throwing 
 
 She climbed into the top bunk, her muscles protesting every movement.
 
+Before she lay down, she grabbed her datapad from the shelf she'd welded to the wall. She needed to see it. After Kaelen had twisted the memory, after he'd made her watch Leo die in her mind, she needed the reality.
+
+She brought up the morning's feed. Leo, eating a green apple, looking out at the nebula. Alive. Safe. Real.
+
+The image burned away the nightmare Kaelen had tried to plant.
+
+"You can't touch him," she whispered to the memory of the Shadow Prince. "He's out of reach."
+
 _goodnight_angelica,_ Aeon whispered. _i_will_maintain_vigil._
 
 "Thanks, buddy," she murmured. "Wake me if the world ends."

@@ -184,7 +184,7 @@ He pointed to Leo.
 
 He held up a hand, ticking off points on his fingers.
 
-"One: You join the Iron Selection. The 105th Cohort of the Zenith Guard Academy."
+"One: You join the Selection. The 105th Cohort of the Zenith Guard Academy."
 
 "Two: You survive the training. Twelve squads enter. One squad graduates. The mortality rate is eighty-eight percent."
 
@@ -285,7 +285,7 @@ If she ran? If she somehow escaped this room, this moment? She'd be hunted. Mark
 
 Every path that didn't go through Vane's offer led to the same destination: zero.
 
-_Conclusion: The Iron Selection is the only nonzero probability path._
+_Conclusion: The Selection is the only nonzero probability path._
 
 12%.
 
@@ -521,7 +521,7 @@ Corinne smiled. It was a small, perfect smile. A smile that didn't show teeth, b
 
 She set the tea cup down on a floating saucer. She swiped a finger across the air, pulling up a betting manifest.
 
-_Iron Selection: 105th Cohort Odds._
+_The Selection: 105th Cohort Odds._
 _Favorite: House Ardor (3:1)_
 _Underdog: Ward, Angelica (1000:1)_
 
@@ -541,7 +541,7 @@ She tapped her comms-link, opening a channel to the Academy Administration.
 
 "Angelica Ward," Corinne said, watching the girl on the screen stare hatefully at the golden city. "Put her on the primetime roster. Pay her entry fees. And... send a fruit basket to the infirmary for the boy. Let's make sure the narrative has stakes."
 
-"Nomination confirmed," the computer chirped. "Welcome to the Iron Selection, Cadet Ward."
+"Nomination confirmed," the computer chirped. "Welcome to the Selection, Cadet Ward."
 
 Corinne leaned back, her eyes gleaming with the reflected light of the nebula. She gestured, and a silent, chrome-plated servant stepped from the shadows to refill her tea.
 

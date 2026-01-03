@@ -179,7 +179,13 @@ She spoke less. She growled more. Yesterday, Angelica had seen her eating a leat
 
 "She is surviving," Kaelen corrected. He honed his blade with a small whetstone. _Scrape. Scrape._ The sound was rhythmic, hypnotic. "Memory is a caloric luxury. Higher brain functions consume glucose. She is rerouting power to the combat systems."
 
-"I don't want to forget," Angelica said. She pulled a small notebook from her belt. It was dog-eared, stained with grease. It contained her designs. Her schematics for the grav-lift. Her letters to Leo.
+"I don't want to forget," Angelica said. She reached into her belt and pulled out two things. The first was her datapad. The screen was cracked, the battery indicator flashing red—she had to hand-crank the kinetic charger for an hour every night just to keep it alive—but the image was there.
+
+Day 40. Leo. He was reading a book by the window. He looked taller. He didn't look like he was starving.
+
+She stared at it for a long second, fueling herself on his health. If the feed stopped, she stopped. That was the deal. But Vane—or the Algorithm—kept sending them. They knew it was the only fuel she had left.
+
+She put the datapad away and pulled out the second item: a small notebook. It was dog-eared, stained with grease. It contained her designs. Her schematics for the grav-lift. Her unsent letters to Leo.
 
 "Then read," Kaelen said. "Quietly."
 

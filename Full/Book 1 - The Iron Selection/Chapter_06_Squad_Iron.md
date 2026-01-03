@@ -144,9 +144,21 @@ Angelica watched the loop three times. Her chest tightened. The silence of the i
 
 She clicked it off.
 
-She hid the projector under the thin pillow, tucking it deep into the fibers. It was her anchor. The only piece of soft humanity she had left in a world of hard edges.
+She hid the projector under the thin pillow. Then, she pulled out her datapad. It was a brick from the Silt, battered and taped together, but the screen was bright.
 
-_I'm here, Leo,_ she whispered in her mind. _I made it to the sky. I'll get the medicine. I promise._
+_Ping._
+
+A message. Encrypted. Sender: _Zenith_Admin_.
+
+She opened it. A timestamped image. Leo, sleeping in a bed with white sheets. A real window behind him showing the swirling colors of the nebula. He looked small in the massive room, but he was breathing easily. No oxygen mask.
+
+Angelica let out a breath she didn't know she was holding. Vane had kept his word.
+
+"Proof of life," she whispered. "Accepted."
+
+She tucked the datapad under the pillow next to the projector. It was her anchor. The only piece of soft humanity she had left in a world of hard edges.
+
+_I'm here, Leo,_ she whispered in her mind. _I made it to the sky. Stay healthy. I'll do the rest._
 
 "Hey, Runt."
 

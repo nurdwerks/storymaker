@@ -200,7 +200,7 @@ They passed Level 2. The Commercial District.
 
 And finally, they reached a massive, suspended platform jutting out from the side of the structure like a diving board.
 
-_The Iron Academy._
+_The Academy._
 
 It looked like a fortress disguised as a cathedral. White marble walls that gleamed in the sun. Buttresses of transparent aluminum. Banners of red and gold snapping in the high-altitude wind. It was silent. Massive. Imposing.
 
@@ -368,7 +368,7 @@ She looked around at the spires again. The white clean lines. The sterile perfec
 
 She understood now. She understood why Vane had brought them here.
 
-The Iron Selection wasn't a brawl. It wasn't a Gladiatorial pit where the strongest brute won. If they wanted muscle, they had the Wardens. If they wanted killers, they had drones.
+The Selection wasn't a brawl. It wasn't a Gladiatorial pit where the strongest brute won. If they wanted muscle, they had the Wardens. If they wanted killers, they had drones.
 
 This was a filter.
 
@@ -452,7 +452,7 @@ He walked through the crowd. The hologram passed through the bodies of the candi
 
 He paused in the center of the cage, looking down at them like a scientist examining a bacteria culture.
 
-"The Iron Selection is not a school. Do disabuse yourselves of that notion immediately. We are not here to teach you. We are not here to hold your hand. We are here to burn away everything that is not necessary."
+"The Selection is not a school. Do disabuse yourselves of that notion immediately. We are not here to teach you. We are not here to hold your hand. We are here to burn away everything that is not necessary."
 
 He leaned forward, the hologram looming over them.
 

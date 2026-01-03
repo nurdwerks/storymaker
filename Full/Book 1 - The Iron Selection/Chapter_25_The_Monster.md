@@ -456,7 +456,7 @@ Vane smiled.
 
 He walked back to his desk.
 
-"That boy became the first General of the Iron Legion. He saved the Zenith from the insurrection of Cycle 20. He burned down an entire sector to stop a plague. He was a monster, yes. But he was _our_ monster."
+"That boy became the first General of the Legion. He saved the Zenith from the insurrection of Cycle 20. He burned down an entire sector to stop a plague. He was a monster, yes. But he was _our_ monster."
 
 He looked at Kaelen.
 
@@ -688,27 +688,27 @@ The door slid shut behind them.
 
 \*\*\*---
 
-Inside the Medical Wing, behind a wall of one-way glass, Dr. Aris watched the monitor.
+Inside the Medical Wing, behind a wall of one-way glass that was thicker than the hull of a dreadnought, Dr. Aris watched the monitor.
 
-The room was dark, illuminated only by the bioluminescent fluid in the tanks that lined the walls. Inside each tank was a horror—genetic experiments, failed clones, twisted chimeras from previous Selections.
+The room was dark, illuminated only by the pulses of bioluminescent fluid in the preservation tanks that lined the walls like books in a macabre library. Inside each tank suspended in zero-g gel was a horror—genetic experiments, failed clones, twisted chimeras from previous Selections that hadn’t made the cut.
 
-There was a wolf with human hands. A bird with a cybernetic heart beating visibly through its chest. A child floating in suspension, its skin translucent, revealing a nervous system made of copper wire.
+To his left floated "Subject 4-Beta," a wolf spliced with human DNA. It had hands instead of paws, fingers pressed against the glass in an eternal plea, its eyes wide and milky with cataracts that had formed before birth. To his right was a bird—a hawk, perhaps, or something that used to be one—with a cybernetic heart beating visibly through an open cavity in its chest, the mechanics fused so poorly with the biology that the surrounding tissue was permanently necrotic. Further down the row, a child floated in suspension, its skin translucent, revealing a nervous system made of copper wire that sparked intermittently, twitching the small, lifeless limbs.
 
-They were the failures. The ones who didn't survive the procedure. They were preserved here, not out of sentiment, but as data points. Reminders of what didn't work.
+They were the failures. The aberrations. The ones who didn’t survive the procedure or whose minds had snapped under the weight of the enhancements. They were preserved here not out of sentiment, but as data points. Reminders of variables that didn’t balance.
 
-Dr. Aris didn't look at them. He only had eyes for Subject Zero.
+Dr. Aris didn’t look at them. He knew every scar, every mutation, every error in their code. He only had eyes for the success. Subject Zero.
 
-His cybernetic eye whirred, zooming in on Angelica's face as she stood on the deck. He adjusted the magnification, scanning her pupil dilation, her micro-expressions, the subtle twitch of the muscle in her jaw.
+His cybernetic eye whirred, the aperture contracting as he zoomed in on Angelica’s face as she stood on the observation deck. He adjusted the magnification, scanning her pupil dilation, her micro-expressions, the subtle twitch of the masseter muscle in her jaw.
 
-"Subject stabilized," he spoke into his recorder. His voice was devoid of emotion—a dry, rasping whisper that sounded like paper sliding on steel. "Resonance Index: Null. No empathy detected. No fear detected."
+"Subject stabilized," he spoke into his recorder. His voice was devoid of emotion—a dry, rasping whisper that sounded like parchment sliding over steel. "Resonance Index: Null. No empathy detected. No fear detected. Adrenal levels are baseline despite the proximity to high-stress triggers."
 
-He looked at the readout of her brain scan, taken while she was unconscious in the pod.
+He looked at the readout of her brain scan, taken while she was unconscious in the decontamination pod. It was a projection of neural topography, a glowing blue map of her mind.
 
 It was a roadmap of trauma.
 
-The amygdala was enlarged—constant, hyper-vigilance. The pre-frontal cortex showed signs of accelerated development—survival logic overriding emotional response. But there was something else. A dark spot. A void where the trauma centers should cover.
+The amygdala was enlarged—constant, hyper-vigilance, a survival mechanism honed by years in the Silt. The pre-frontal cortex showed signs of accelerated development—survival logic overriding emotional response, a callousness born of necessity. But there was something else. A dark spot. A void in the limbic system where the trauma centers should be lighting up like a Christmas tree.
 
-"Dissociation," Aris noted. "Complete compartmentalization of the psyche. She has buried the girl. Only the survivor remains."
+"Dissociation," Aris noted, his fingers dancing over the holographic interface. "Complete compartmentalization of the psyche. She has buried the girl. Only the survivor remains. It is… cleaner than I anticipated."
 
 He tapped a key. A second monitor flickered to life.
 
@@ -716,40 +716,40 @@ It showed Kaelen Night.
 
 _Subject: Shadow._
 _Status: Compromised._
-_Note: Emotional attachment to Subject Zero detected. Logic centers showing stress fractures._
+_Note: Emotional attachment to Subject Zero detected. Logic centers showing stress fractures. He is prioritizing the unit over the mission._
 
-Aris smiled. It was a small, precise movement of the lips, stretching skin that looked too tight for his skull.
+Aris smiled. It was a small, precise movement of the lips, stretching skin that looked too tight for his skull. It was not a smile of amusement, but of validation.
 
-"The Night Heir is vulnerable," he whispered. "He thinks he is the shepherd. He does not realize he is part of the flock."
+"The Night Heir is vulnerable," he whispered. "He thinks he is the shepherd. He does not realize he is part of the flock. He will bleed for her, and that will be his undoing."
 
 He tapped another key. Ria.
 
 _Subject: Titan._
 _Status: Unstable._
-_Note: Aggression levels critical. Dependency on external validation high._
+_Note: Aggression levels critical. Dependency on external validation high. Volotile._
 
-"The brute is simple," Aris dismissed her. "A tool. Break the handle, and she is useless."
+"The brute is simple," Aris dismissed her with a wave of his hand. "A tool. Break the handle, and she is useless. She needs a commander, or she is nothing but kinetic energy looking for a target."
 
-He turned back to Angelica.
+He turned back to the main screen. To Angelica.
 
 "But you..."
 
-He brought up a new file. It was locked with Level 10 encryption. He bypassed it with a retinal scan.
+He brought up a new file. It was locked with Level 10 encryption, the kind of security reserved for nuclear launch codes. He bypassed it with a retinal scan and a voice-print authorization.
 
 The file was labeled: **PROJECT CHIMERA.**
 
-"You are the interesting one," Aris noted. "You broke the Spire. You interfaced with raw code using a biological nervous system. That should be impossible. Your brain should have melted."
+"You are the interesting one," Aris noted, watching her reflection in the glass of the railing. "You broke the Spire. You interfaced with raw code using a biological nervous system. That should be impossible. Your brain should have melted. The neural feedback alone should have lobotomized you."
 
 He looked at the scan again. At the void.
 
-"Unless the void is not empty," he mused. "Unless something looked back."
+"Unless the void is not empty," he mused, leaning closer to the screen. "Unless it is not an absence of data, but a masking of it. Unless something looked back."
 
-He closed the file.
+He closed the file. The blue light faded from his face, leaving him in the shadows of his monsters.
 
-"Phase One complete. The Assets are secured. The psychological conditioning is active. Proceed to Phase Two: The Stone Season."
+"Phase One complete. The Assets are secured. The psychological conditioning is active. Proceed to Phase Two: The Cipher of Sins."
 
 He turned off the monitor.
 
-The horrors in the tanks continued to float in the silence, waiting for their turn.
+The horrors in the tanks continued to float in the silence, their dead eyes watching the doctor, waiting for their turn to be useful again.
 
 # End of Book 1: The Iron Selection
