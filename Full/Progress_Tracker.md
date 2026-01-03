@@ -2,14 +2,14 @@
 
 ## **Project Overview**
 - **Total Chapters**: 272
-- **Completed Chapters**: 26 (9.6%)
-- **Total Word Count**: 151,485
+- **Completed Chapters**: 27 (9.9%)
+- **Total Word Count**: 156,990
 
 ## **Book Breakdown**
 | Book | Chapters | Completed | Total Words | Progress |
 |---|---|---|---|---|
 | Book 1 - The Iron Selection | 25 | 25 | 141,832 | 100.0% |
-| Book 2 - The Cipher of Sins | 30 | 1 | 9,653 | 3.3% |
+| Book 2 - The Cipher of Sins | 30 | 2 | 15,158 | 6.7% |
 | Book 3 - The Game of Gears | 35 | 0 | 0 | 0.0% |
 | Book 4 - The Stone Season | 40 | 0 | 0 | 0.0% |
 | Book 5 - The Silent Void | 45 | 0 | 0 | 0.0% |
@@ -46,7 +46,7 @@
 | Book 1 - The Iron Selection | Chapter_25_The_Monster | 5757 | Completed |
 | Book 2 - The Cipher of Sins | Chapter 01 - The Golden Cage | 5555 | Completed |
 | Book 2 - The Cipher of Sins | Chapter 02 - The Gilded Leash | 4098 | In Progress |
-| Book 2 - The Cipher of Sins | Chapter 03 - The Silver Scythe | 0 | Pending |
+| Book 2 - The Cipher of Sins | Chapter 03 - The Silver Scythe | 5505 | Completed |
 | Book 2 - The Cipher of Sins | Chapter 04 - The Copper Key | 0 | Pending |
 | Book 2 - The Cipher of Sins | Chapter 05 - The Glass Walls | 0 | Pending |
 | Book 2 - The Cipher of Sins | Chapter 06 - The Iron Mask | 0 | Pending |
